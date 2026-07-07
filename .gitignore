@@ -1,0 +1,3 @@
+# local/generated working data that does not need to be in source
+__pycache__/
+*.pyc

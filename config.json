@@ -1,0 +1,39 @@
+{
+  "feeds": [
+    {
+      "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "short_name": "All-In",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "themes": ["AI", "markets", "politics", "startups", "business", "tech"]
+    },
+    {
+      "name": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "feed_url": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/podcast.rss",
+      "themes": ["cricket", "Australia", "South Africa", "sport", "culture"]
+    },
+    {
+      "name": "The Startup Ideas Podcast",
+      "short_name": "Startup Ideas",
+      "feed_url": "https://rss2.flightcast.com/ordbkg8yojpehffas7vr7qpc.xml",
+      "themes": ["startups", "AI", "content", "business ideas", "SaaS"]
+    },
+    {
+      "name": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "feed_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+      "themes": ["health", "psychology", "business", "relationships", "performance"]
+    }
+  ],
+  "user_interests": [
+    "AI consulting",
+    "finance/accounting/data opportunities",
+    "career transition and entrepreneurship",
+    "health, type 1 diabetes, sleep, fitness and parenting",
+    "content/storytelling/LinkedIn",
+    "community, relationships and personal CRM",
+    "sports, cricket and business of sport"
+  ],
+  "obsidian_vault": "/root/obsidian/David OS",
+  "link_inbox": "/root/obsidian/David OS/08 Podcasts/Podcast Link Inbox.md"
+}
