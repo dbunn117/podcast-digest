@@ -52,6 +52,8 @@ PODCAST_ACCENTS = {
     'All-In': {'accent': '#6d5dfc', 'gradient': ['#1f2937', '#4f46e5'], 'emoji': '♟️'},
     'Grade Cricketer': {'accent': '#16a34a', 'gradient': ['#064e3b', '#22c55e'], 'emoji': '🏏'},
     'Startup Ideas': {'accent': '#f97316', 'gradient': ['#7c2d12', '#fb923c'], 'emoji': '🚀'},
+    'TWIST': {'accent': '#0ea5e9', 'gradient': ['#0c4a6e', '#38bdf8'], 'emoji': '⚡'},
+    'Prof G Markets': {'accent': '#22c55e', 'gradient': ['#052e16', '#16a34a'], 'emoji': '📈'},
     'DOAC': {'accent': '#dc2626', 'gradient': ['#450a0a', '#ef4444'], 'emoji': '🎙️'},
     'Link inbox': {'accent': '#0891b2', 'gradient': ['#164e63', '#06b6d4'], 'emoji': '🔗'},
 }

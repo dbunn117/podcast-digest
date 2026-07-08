@@ -11,6 +11,8 @@ The hosted dashboard is now a static, interactive **David Podcast OS** app. It p
 - All-In
 - The Grade Cricketer
 - The Startup Ideas Podcast
+- This Week in Startups
+- Prof G Markets
 - The Diary Of A CEO
 
 ## Features

@@ -19,6 +19,18 @@
       "themes": ["startups", "AI", "content", "business ideas", "SaaS"]
     },
     {
+      "name": "This Week in Startups",
+      "short_name": "TWIST",
+      "feed_url": "https://anchor.fm/s/7c624c84/podcast/rss",
+      "themes": ["startups", "venture", "AI", "tech", "SaaS", "founders"]
+    },
+    {
+      "name": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "feed_url": "https://feeds.megaphone.fm/profgmarkets",
+      "themes": ["markets", "finance", "business", "investing", "strategy"]
+    },
+    {
       "name": "The Diary Of A CEO with Steven Bartlett",
       "short_name": "DOAC",
       "feed_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
