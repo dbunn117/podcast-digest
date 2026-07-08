@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-07-07
+# Podcast Digest - 2026-07-08
 
-Generated: 2026-07-07 23:22 PDT
+Generated: 2026-07-08 07:22 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -11,6 +11,13 @@ Generated: 2026-07-07 23:22 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Why The World Is Spending More On War
+- Date: 2026-07-08
+- Duration: 2029
+- Tags: AI, Startups, Finance, Content, Markets, Business, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1669759733.mp3
+- Summary from show notes: Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters.
+
 ### Prof G Markets — SpaceX Just Got Fast-Tracked Into Your Portfolio
 - Date: 2026-07-07
 - Duration: 2071
@@ -33,13 +40,6 @@ Generated: 2026-07-07 23:22 PDT
 - Episode: https://podcasters.spotify.com/pod/show/thisweekinstartups/episodes/100T-is-managed-by-human-duct-tape--E2308-e3lnu7n
 - Audio: https://anchor.fm/s/7c624c84/podcast/play/122468023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427464598-44100-2-f957394b89be3.mp3
 - Summary from show notes: Can all of this be replaced with AI? Find out how their startup went from overseeing $1B to $20B in assets in just 15 months. PLUS, we flash back to March 2020, when Jason and Figma co-founder/CEO Dylan Field broke down the design tool’s initial go-to-market strategy, made some WILDLY inaccurate COVID predictions, and considered anxiety about “SaaS burnout” years before the category went full apocalyptic.
-
-### Prof G Markets — OpenAI Wants A Government Bailout
-- Date: 2026-07-06
-- Duration: 3958
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1155965385.mp3
-- Summary from show notes: Scott Galloway and Ed Elson unpack reports that Meta is launching a cloud business and explain why they see it as a bearish signal. They also discuss why they don’t think there’s any justification for a government bailout of OpenAI. Then, they break down why the new Trump accounts are a step in the right direction, but argue that reducing inequality shouldn't depend on the generosity of billionaires.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

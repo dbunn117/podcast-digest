@@ -17,7 +17,7 @@ The hosted dashboard is now a static, interactive **David Podcast OS** app. It p
 
 ## Features
 
-- Modern SaaS-style landing/dashboard layout
+- Modern SaaS-style dark dashboard layout with glass panels, gradient show cards, sticky filters, and responsive grids
 - 2026 YTD episode history
 - Search by title, show notes, podcast, and theme
 - Podcast and theme filters

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T23:22:54.166683-07:00",
+  "generated_at": "2026-07-08T07:22:25.852920-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -129,6 +129,35 @@
     }
   ],
   "episodes": [
+    {
+      "id": "7c28edf182d96626",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e/image/4d8110de9b7c05ad9b4d1ea718cc4935.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Why The World Is Spending More On War",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1669759733.mp3",
+      "guid": "e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e",
+      "published_at": "2026-07-08T08:15:00+00:00",
+      "published_date": "2026-07-08",
+      "published_month": "2026-07",
+      "duration": "2029",
+      "summary": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters.",
+      "show_notes": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters. Steve Feldstein is a senior fellow at the Carnegie Endowment for International Peace. Zed Francis is the CIO & Co-Founder at Convexitas. Ara Kharazian is the Lead Economist at Ramp. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Read the Ramp paper Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Finance",
+        "Content",
+        "Markets",
+        "Business",
+        "Investing"
+      ],
+      "source": "favorite_feed"
+    },
     {
       "id": "793c15379eda28c4",
       "podcast": "Prof G Markets",
@@ -13757,6 +13786,35 @@
   ],
   "recent": [
     {
+      "id": "7c28edf182d96626",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e/image/4d8110de9b7c05ad9b4d1ea718cc4935.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Why The World Is Spending More On War",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1669759733.mp3",
+      "guid": "e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e",
+      "published_at": "2026-07-08T08:15:00+00:00",
+      "published_date": "2026-07-08",
+      "published_month": "2026-07",
+      "duration": "2029",
+      "summary": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters.",
+      "show_notes": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters. Steve Feldstein is a senior fellow at the Carnegie Endowment for International Peace. Zed Francis is the CIO & Co-Founder at Convexitas. Ara Kharazian is the Lead Economist at Ramp. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Read the Ramp paper Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Finance",
+        "Content",
+        "Markets",
+        "Business",
+        "Investing"
+      ],
+      "source": "favorite_feed"
+    },
+    {
       "id": "793c15379eda28c4",
       "podcast": "Prof G Markets",
       "short_name": "Prof G Markets",
@@ -13839,45 +13897,16 @@
         "Venture"
       ],
       "source": "favorite_feed"
-    },
-    {
-      "id": "da0aaca4d0d6365f",
-      "podcast": "Prof G Markets",
-      "short_name": "Prof G Markets",
-      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "image": "https://megaphone.imgix.net/podcasts/9d9ec1b0-c3c8-11f0-a59c-6f9f48320e6d/image/53942b2525d90684c2cfcce738b058bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "accent": "#22c55e",
-      "emoji": "\ud83d\udcc8",
-      "title": "OpenAI Wants A Government Bailout",
-      "url": "",
-      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1155965385.mp3",
-      "guid": "9d9ec1b0-c3c8-11f0-a59c-6f9f48320e6d",
-      "published_at": "2026-07-06T08:15:00+00:00",
-      "published_date": "2026-07-06",
-      "published_month": "2026-07",
-      "duration": "3958",
-      "summary": "Scott Galloway and Ed Elson unpack reports that Meta is launching a cloud business and explain why they see it as a bearish signal. They also discuss why they don\u2019t think there\u2019s any justification for a government bailout of OpenAI. Then, they break down why the new Trump accounts are a step in the right direction, but argue that reducing inequality shouldn't depend on the generosity of billionaires.",
-      "show_notes": "Scott Galloway and Ed Elson unpack reports that Meta is launching a cloud business and explain why they see it as a bearish signal. They also discuss why they don\u2019t think there\u2019s any justification for a government bailout of OpenAI. Then, they break down why the new Trump accounts are a step in the right direction, but argue that reducing inequality shouldn't depend on the generosity of billionaires. Finally, Scott explains the investment thesis behind his bullish call on the Bending Spoons IPO and why he decided to invest in the company. Subscribe to the Prof G Markets Youtube Channel Subscribe to the Prof G Markets newsletter Order \"Notes on Being a Man,\" out now Note: We may earn revenue from some of the links we provide. Follow the podcast across socials @profgmarkets Follow Scott on Instagram Follow Ed on Instagram, X and Substack Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "tags": [
-        "AI",
-        "Business",
-        "Finance",
-        "Content",
-        "Markets",
-        "Investing",
-        "Strategy"
-      ],
-      "source": "favorite_feed"
     }
   ],
   "stats": {
-    "total_available": 4035,
-    "ytd_count": 478,
+    "total_available": 4036,
+    "ytd_count": 479,
     "recent_count": 4,
     "podcast_count": 6,
     "link_inbox_count": 0,
     "by_podcast": {
-      "Prof G Markets": 132,
+      "Prof G Markets": 133,
       "Grade Cricketer": 64,
       "TWIST": 84,
       "DOAC": 80,
@@ -13885,14 +13914,14 @@
       "Startup Ideas": 56
     },
     "by_tag": {
-      "Business": 373,
-      "AI": 320,
-      "Content": 288,
-      "Startups": 249,
+      "Business": 374,
+      "AI": 321,
+      "Content": 289,
+      "Startups": 250,
       "Career": 248,
-      "Finance": 220,
-      "Markets": 194,
-      "Investing": 130,
+      "Finance": 221,
+      "Markets": 195,
+      "Investing": 131,
       "Strategy": 106,
       "Health": 104,
       "Cricket": 81,
@@ -13911,34 +13940,35 @@
       "2026-04": 74,
       "2026-05": 65,
       "2026-06": 79,
-      "2026-07": 14
+      "2026-07": 15
     },
     "latest_by_podcast": {
       "Prof G Markets": {
-        "id": "793c15379eda28c4",
+        "id": "7c28edf182d96626",
         "podcast": "Prof G Markets",
         "short_name": "Prof G Markets",
         "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "image": "https://megaphone.imgix.net/podcasts/9df1eea8-c3c8-11f0-a59c-7ba9b157b8db/image/4d8110de9b7c05ad9b4d1ea718cc4935.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e/image/4d8110de9b7c05ad9b4d1ea718cc4935.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "accent": "#22c55e",
         "emoji": "\ud83d\udcc8",
-        "title": "SpaceX Just Got Fast-Tracked Into Your Portfolio",
+        "title": "Why The World Is Spending More On War",
         "url": "",
-        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2508380229.mp3",
-        "guid": "9df1eea8-c3c8-11f0-a59c-7ba9b157b8db",
-        "published_at": "2026-07-07T08:15:00+00:00",
-        "published_date": "2026-07-07",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1669759733.mp3",
+        "guid": "e543cb6e-c3c8-11f0-b1f3-af6b81dc3b5e",
+        "published_at": "2026-07-08T08:15:00+00:00",
+        "published_date": "2026-07-08",
         "published_month": "2026-07",
-        "duration": "2071",
-        "summary": "Ed Elson is joined by Michael Green to break down the impact of SpaceX\u2019s early entry into the Nasdaq 100 and what it means for the future of passive investing. Then, Kathryn Anne Edwards joins the show to break down the June jobs report and why she thinks wage growth is the most important thing to focus on. Finally, Ed gives his take on the latest evidence of Trump\u2019s kingmaker economy.",
-        "show_notes": "Ed Elson is joined by Michael Green to break down the impact of SpaceX\u2019s early entry into the Nasdaq 100 and what it means for the future of passive investing. Then, Kathryn Anne Edwards joins the show to break down the June jobs report and why she thinks wage growth is the most important thing to focus on. Finally, Ed gives his take on the latest evidence of Trump\u2019s kingmaker economy. Michael Green is the Chief Strategist and Portfolio Manager for Simplify Asset Management. Kathryn Anne Edwards is a PhD economist, economic policy consultant, and columnist for Bloomberg News. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "duration": "2029",
+        "summary": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters.",
+        "show_notes": "Ed Elson is joined by Steve Feldstein to break down why countries are pouring so much money into defense and what that says about the future stability of the world. Then, Zed Francis joins the show to break down why chip stocks are selling off despite strong earnings from Samsung. Finally, Ed is joined by Ara Kharazian to dig into his paper which showed that the biggest AI spenders are actually hiring more than non-adopters. Steve Feldstein is a senior fellow at the Carnegie Endowment for International Peace. Zed Francis is the CIO & Co-Founder at Convexitas. Ara Kharazian is the Lead Economist at Ramp. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Read the Ramp paper Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
         "tags": [
+          "AI",
+          "Startups",
           "Finance",
           "Content",
           "Markets",
           "Business",
-          "Investing",
-          "Strategy"
+          "Investing"
         ],
         "source": "favorite_feed"
       },
