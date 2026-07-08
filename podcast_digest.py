@@ -435,7 +435,20 @@ def main():
         'dashboard': str(DOCS / 'index.html'),
     }
     if args.json:
-        print(json.dumps({'result': result, 'recent': recent[:20], 'stats': stats}, indent=2))
+        compact_recent = [
+            {
+                'podcast': e.get('short_name'),
+                'title': e.get('title'),
+                'published_date': e.get('published_date'),
+                'duration': e.get('duration'),
+                'tags': e.get('tags', []),
+                'url': e.get('url'),
+                'audio_url': e.get('audio_url'),
+                'summary': e.get('summary'),
+            }
+            for e in recent[:20]
+        ]
+        print(json.dumps({'result': result, 'recent': compact_recent, 'stats': stats}, indent=2))
     else:
         print(json.dumps(result, indent=2))
         print('\n' + digest[:7000])
