@@ -13,6 +13,8 @@ The hosted dashboard is now a static, interactive **David Podcast OS** app. It p
 - The Startup Ideas Podcast
 - This Week in Startups
 - Prof G Markets
+- Modern Wisdom
+- The Game with Alex Hormozi
 - The Diary Of A CEO
 
 ## Features

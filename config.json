@@ -31,6 +31,18 @@
       "themes": ["markets", "finance", "business", "investing", "strategy"]
     },
     {
+      "name": "Modern Wisdom",
+      "short_name": "Modern Wisdom",
+      "feed_url": "https://feeds.megaphone.fm/modernwisdom",
+      "themes": ["health", "psychology", "performance", "relationships", "self-improvement", "business"]
+    },
+    {
+      "name": "The Game with Alex Hormozi",
+      "short_name": "The Game",
+      "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "themes": ["business", "entrepreneurship", "sales", "offers", "pricing", "content", "growth"]
+    },
+    {
       "name": "The Diary Of A CEO with Steven Bartlett",
       "short_name": "DOAC",
       "feed_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
