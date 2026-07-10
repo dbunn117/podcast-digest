@@ -1,6 +1,6 @@
 # Podcast Digest - 2026-07-09
 
-Generated: 2026-07-09 15:41 PDT
+Generated: 2026-07-09 20:53 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,14 @@ Generated: 2026-07-09 15:41 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### All-In — Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs
+- Date: 2026-07-09
+- Duration: 01:03:57
+- Tags: AI, Finance, Career, Markets, Politics, Startups, Business
+- Episode: https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300
+- Summary from show notes: Full-screen video ads with a 35-second median watch time. The window is open at https://applovin.com/ALLIN Nasdaq - Industries, capital, and intelligence are converging into a single, interconnected system, and the infrastructure behind it needs to evolve just as quickly. Nasdaq was built for this moment: Powering more than 135 marketplaces and regulators globally and connecting capital to the companies shaping the future.
+
 ### Startup Ideas — We Tested OpenAI's GPT 5.6 for a Month
 - Date: 2026-07-09
 - Duration: 2956
