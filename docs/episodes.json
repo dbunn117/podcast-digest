@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:20:38.271997-07:00",
+  "generated_at": "2026-07-28T23:44:12.257128-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -196,7 +196,18 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:32:22.250045-07:00",
+      "transcript_takeaways": [
+        "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training.",
+        "Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams.",
+        "The most practical use case is rapid internal tool/prototype creation: CRM apps, proposal generators, dashboards, and client-specific deliverables spun up from meeting notes and team discussion. David should test this against his own Alpha Infra workflows before selling it.",
+        "Buzz points toward a consulting offer around agentic team workflows: map a messy process, set up role-specific agents, connect GitHub/deployment/docs, and teach the team how to review outputs safely. Strong buyer pain: proposals, reporting packs, client intake, deal review, and spreadsheet-heavy finance workflows."
+      ],
+      "transcript_summary": "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training. Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams."
     },
     {
       "id": "8867c7c61dd36278",
@@ -225,7 +236,18 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:40:09.495447-07:00",
+      "transcript_takeaways": [
+        "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability.",
+        "The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing.",
+        "Open vs closed AI is now a strategic ecosystem question, not just a technical preference. For client work, David can differentiate by helping finance/accounting teams choose the right architecture: closed models for sensitive reasoning and governance, open models for cheaper internal tooling, fine-tuning, and repeatable automation where risk is lower.",
+        "Distillation/IP issues highlight a real governance gap. Concrete action: build a simple \u201cAI vendor/model risk checklist\u201d for consulting conversations covering data usage, terms of service, model provenance, privacy, auditability, and whether client outputs could legally/safely be used to train or fine-tune systems."
+      ],
+      "transcript_summary": "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability. The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing."
     },
     {
       "id": "0599144c16ab5c94",
@@ -252,7 +274,18 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:42:34.696722-07:00",
+      "transcript_takeaways": [
+        "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes.",
+        "The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity.",
+        "The episode\u2019s discussion of cricket formats and governance highlights how legacy institutions struggle to modernize without alienating core users. Good AI consulting wedge: help traditional firms modernize workflows while preserving trusted rituals, roles, and judgment.",
+        "Concrete action: turn \u201ccheating at first slip\u201d into a short LinkedIn/operator post about control design: if your process depends on one overworked human \u201chearing the edge,\u201d you need better evidence capture, audit trails, and exception review."
+      ],
+      "transcript_summary": "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes. The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity."
     },
     {
       "id": "29e4f51930544763",
@@ -281,7 +314,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c42ef2887c637e47",
@@ -310,7 +344,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b5bb1dcb86b9f58e",
@@ -339,7 +374,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a3e46a50bcd2c157",
@@ -368,7 +404,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6379176b0ef3a341",
@@ -397,7 +434,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "16bbf7ba23385af5",
@@ -426,7 +464,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5d5969ca52a7369a",
@@ -455,7 +494,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "242cee1023a3642d",
@@ -484,7 +524,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3be8fab0b041d5a9",
@@ -513,7 +554,8 @@
         "Cricket",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8e93691c6a857917",
@@ -542,7 +584,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0d4fa5f738407c8b",
@@ -569,7 +612,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9f630905a3582983",
@@ -598,7 +642,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b76e39642812a3d5",
@@ -627,7 +672,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "154bc5f1250afc8a",
@@ -656,7 +702,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d71b4121042d61a3",
@@ -684,7 +731,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4e7956c97294f2f2",
@@ -713,7 +761,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fa184cd768be2da9",
@@ -741,7 +790,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "22dba809b0a05604",
@@ -770,7 +820,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "839555b0e49d57d5",
@@ -799,7 +850,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d7888f3cd2e9d4af",
@@ -827,7 +879,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0bcad9cd6bc6a415",
@@ -856,7 +909,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2add5089af4f17bf",
@@ -885,7 +939,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "64b44d3ba182bb4d",
@@ -914,7 +969,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "39f2ca712d475ecc",
@@ -943,7 +999,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dde2f28149ef14aa",
@@ -972,7 +1029,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9b18bb1fafa83dab",
@@ -1001,7 +1059,8 @@
         "Health",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b9c18a33a745e415",
@@ -1030,7 +1089,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9924b5e6b16833ac",
@@ -1059,7 +1119,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f5d3975709615ee2",
@@ -1088,7 +1149,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "91afaedbe91117c6",
@@ -1115,7 +1177,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "97a29998e0b54c4f",
@@ -1144,7 +1207,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ae338d10d378b751",
@@ -1173,7 +1237,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "063dd9acd7c3cea1",
@@ -1202,7 +1267,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "15fac8d56d9d5f99",
@@ -1231,7 +1297,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1327d0d4716dd6f3",
@@ -1260,7 +1327,8 @@
         "Content",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2dae37ed8fc1ca82",
@@ -1289,7 +1357,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "28f7c505eb957450",
@@ -1318,7 +1387,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dc028b2f9820f229",
@@ -1347,7 +1417,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2db099c349a84f29",
@@ -1375,7 +1446,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8fbf105600329d1d",
@@ -1404,7 +1476,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b4ceb171005733bc",
@@ -1433,7 +1506,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9ff144e7d22b4822",
@@ -1460,7 +1534,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7b869207f15ab5b3",
@@ -1489,7 +1564,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3f6de4a1bdcdbd13",
@@ -1518,7 +1594,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "90416649d40bf763",
@@ -1547,7 +1624,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "61fe1971fde2d870",
@@ -1576,7 +1654,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "18bb534742a7da6f",
@@ -1605,7 +1684,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "284eef8913bdfb86",
@@ -1634,7 +1714,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ad0e20e47344f963",
@@ -1663,7 +1744,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3066f41ea4e18d77",
@@ -1692,7 +1774,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3dc58116c715f861",
@@ -1721,7 +1804,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b072626fbbc1ded2",
@@ -1750,7 +1834,8 @@
         "Content",
         "Cricket"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "227188d085a5c49a",
@@ -1779,7 +1864,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "27365bf3cdfecd00",
@@ -1806,7 +1892,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b5894938ff40676d",
@@ -1835,7 +1922,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "396045690b7ed0ce",
@@ -1863,7 +1951,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e7c2f8a43859fde2",
@@ -1892,7 +1981,8 @@
         "Content",
         "Growth"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ea1a68e16825240f",
@@ -1920,7 +2010,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d33e3bfe29b2085f",
@@ -1949,7 +2040,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "41edabe908d74d48",
@@ -1978,7 +2070,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cd99a948b5d4d23a",
@@ -2007,7 +2100,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7c28edf182d96626",
@@ -2036,7 +2130,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "edeaac74ba15bf45",
@@ -2065,7 +2160,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "793c15379eda28c4",
@@ -2093,7 +2189,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f2a12f1723d31a90",
@@ -2120,7 +2217,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f07020bc2fb3fcc2",
@@ -2149,7 +2247,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "da0aaca4d0d6365f",
@@ -2178,7 +2277,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "af8fbcd19e245e1d",
@@ -2207,7 +2307,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e2b6b8bc292952e4",
@@ -2236,7 +2337,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e061ccb6e3d32a2c",
@@ -2264,7 +2366,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "201b658cc9945085",
@@ -2293,7 +2396,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ed4f70cdd75d669b",
@@ -2322,7 +2426,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b0aa293224728669",
@@ -2351,7 +2456,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "43c257a4a9aeb8dd",
@@ -2378,7 +2484,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b282fe761ca2e4d6",
@@ -2407,7 +2514,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "53254c5f7149f5f2",
@@ -2436,7 +2544,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "24935be1077463eb",
@@ -2463,7 +2572,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3d7e1d436c7fe411",
@@ -2492,7 +2602,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b3b369551cec80cf",
@@ -2521,7 +2632,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7888ed99babdf08a",
@@ -2550,7 +2662,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "928002d8e1f933b7",
@@ -2578,7 +2691,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b4f7a4a5ff911b70",
@@ -2607,7 +2721,8 @@
         "Pricing",
         "Growth"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "38dbcff1513ca734",
@@ -2636,7 +2751,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5515884ba19b2967",
@@ -2663,7 +2779,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "654a88df946abb4d",
@@ -2692,7 +2809,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5701abdf10e13570",
@@ -2721,7 +2839,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f9e9e0c98e4b1e45",
@@ -2749,7 +2868,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "69ec13c158d6f742",
@@ -2778,7 +2898,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5208771ec4262135",
@@ -2807,7 +2928,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e887e76ce4933410",
@@ -2836,7 +2958,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "de5b07cc0bd142f1",
@@ -2865,7 +2988,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5749f97add674537",
@@ -2894,7 +3018,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fbb1fa0b5f48b633",
@@ -2923,7 +3048,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3573507450af4151",
@@ -2950,7 +3076,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0a01c66e278f81db",
@@ -2979,7 +3106,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c4781474e7e8a5c4",
@@ -3008,7 +3136,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "25000b05893d002d",
@@ -3036,7 +3165,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "00aaa29e6a224164",
@@ -3065,7 +3195,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0c10b5afee338eab",
@@ -3094,7 +3225,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5f3834c79fae5684",
@@ -3123,7 +3255,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dede44dddcb1f825",
@@ -3152,7 +3285,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "962445dc3c16b627",
@@ -3181,7 +3315,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7ddaf373d0a515e8",
@@ -3209,7 +3344,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "309a66dae68ccf22",
@@ -3238,7 +3374,8 @@
         "Content",
         "Growth"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f16da7f5ac54d2c1",
@@ -3266,7 +3403,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "474a158abf1d5d7b",
@@ -3293,7 +3431,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "81affa71e873e3f3",
@@ -3322,7 +3461,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d1d67a5ba6069fee",
@@ -3351,7 +3491,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4626a9e4de144e67",
@@ -3380,7 +3521,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3446ef295efd8a43",
@@ -3409,7 +3551,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7eb61b4e71ffb24b",
@@ -3438,7 +3581,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b515ee01373967bd",
@@ -3467,7 +3611,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "db6bda791a075a0a",
@@ -3496,7 +3641,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5d3bd4e7ee4352a3",
@@ -3524,7 +3670,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fbe3589327ff66e3",
@@ -3553,7 +3700,8 @@
         "Content",
         "Growth"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bf3594765863e5e5",
@@ -3582,7 +3730,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "996a21b27b8d1a68",
@@ -3611,7 +3760,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "90152d767f4873c0",
@@ -3640,7 +3790,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f82ecc873c347289",
@@ -3669,7 +3820,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "189afa51cb29f16c",
@@ -3698,7 +3850,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b9abd05f527c1730",
@@ -3727,7 +3880,8 @@
         "Content",
         "Growth"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "22d8ed0397ab9fb9",
@@ -3756,7 +3910,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "16c4cb6de5df8a49",
@@ -3783,7 +3938,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0027cfabfd70dc60",
@@ -3812,7 +3968,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0d4491ec043effe4",
@@ -3841,7 +3998,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0eb2fb775e1b98a4",
@@ -3870,7 +4028,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6299c56c555362ed",
@@ -3899,7 +4058,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "eec8589d1b7eda35",
@@ -3927,7 +4087,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cd3c7874fe76c0cf",
@@ -3955,7 +4116,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f9a4ab18fb0ca04b",
@@ -3984,7 +4146,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d023ddd1be276c6f",
@@ -4013,7 +4176,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e20fd3fe9f6db5b2",
@@ -4042,7 +4206,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "185a4faf8976b786",
@@ -4071,7 +4236,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c4db1113a3082d19",
@@ -4098,7 +4264,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "46cfa4dbfa5095b7",
@@ -4127,7 +4294,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "26d909a0ac8b449b",
@@ -4156,7 +4324,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d840d5de8b40b44b",
@@ -4185,7 +4354,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "56e0b077088cadc8",
@@ -4213,7 +4383,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9278cf8b0e52e92b",
@@ -4242,7 +4413,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ce4f6847785ca46c",
@@ -4271,7 +4443,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1dc4d93ccdf8137e",
@@ -4300,7 +4473,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6ad30f870a6b8bb8",
@@ -4329,7 +4503,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "93225c5bfced4639",
@@ -4357,7 +4532,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8986adbbbc6e2ba1",
@@ -4386,7 +4562,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8db315db754ebd3f",
@@ -4414,7 +4591,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ed7dde779d1521c7",
@@ -4443,7 +4621,8 @@
         "Politics",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3ad4110bc263b2fb",
@@ -4472,7 +4651,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "13fe645c95e3d90e",
@@ -4501,7 +4681,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "be65df2306afea64",
@@ -4528,7 +4709,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b2c15bac4c877edc",
@@ -4557,7 +4739,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9985cd8ed6a367c1",
@@ -4586,7 +4769,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fe5441084f12cb7a",
@@ -4615,7 +4799,8 @@
         "Cricket",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7fddc883a3382ba0",
@@ -4644,7 +4829,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "747c33ac86fecadf",
@@ -4673,7 +4859,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8481c87b82de4237",
@@ -4702,7 +4889,8 @@
         "Parenting",
         "Health"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a3cfe8818cf0d8db",
@@ -4731,7 +4919,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "84b6736273c97def",
@@ -4759,7 +4948,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4faa8d3ab9894219",
@@ -4788,7 +4978,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "98be27a20565d484",
@@ -4817,7 +5008,8 @@
         "Politics",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c099a7f125571a22",
@@ -4846,7 +5038,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9f65e8a3cc7867a1",
@@ -4875,7 +5068,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d6a1aa4c6c9c97e4",
@@ -4904,7 +5098,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "db56c009d3a777c8",
@@ -4933,7 +5128,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bf55b333cd6d41f2",
@@ -4961,7 +5157,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2b5666484d57c3a5",
@@ -4988,7 +5185,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c5b473de6d169c19",
@@ -5015,7 +5213,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "903873361ca82eb3",
@@ -5044,7 +5243,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5b4dbb2006e3b74e",
@@ -5072,7 +5272,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "540a61199ab5efd7",
@@ -5101,7 +5302,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b9c4c83a88700807",
@@ -5130,7 +5332,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "633da0a638aded88",
@@ -5159,7 +5362,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c4b1cdf9b51fac83",
@@ -5188,7 +5392,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "55b55997f917573e",
@@ -5216,7 +5421,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "079aeabe6e0a1fd1",
@@ -5243,7 +5449,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d44f1eda545c0dd2",
@@ -5272,7 +5479,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c1194318b585006e",
@@ -5301,7 +5509,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0228894ee4e5caa9",
@@ -5330,7 +5539,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9fd76563d6466e4b",
@@ -5359,7 +5569,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "33c7869fb7cf6249",
@@ -5386,7 +5597,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4ecae2c80d20a845",
@@ -5415,7 +5627,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "656f1d00cc0a9866",
@@ -5443,7 +5656,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "148271cdfa4bdf28",
@@ -5472,7 +5686,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "733e8f572e820d32",
@@ -5501,7 +5716,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "12a263d2b157b30b",
@@ -5528,7 +5744,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "53306ea3c8909b93",
@@ -5557,7 +5774,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "68dd40bd177c3ba9",
@@ -5586,7 +5804,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3de1e3a6cb97ef72",
@@ -5615,7 +5834,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0ea827d7ca0a8d59",
@@ -5644,7 +5864,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9f173262057af819",
@@ -5672,7 +5893,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "94aaff0ca3a06aa1",
@@ -5701,7 +5923,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7b645d75bd3c2460",
@@ -5730,7 +5953,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ebc6fbe01875e6bd",
@@ -5759,7 +5983,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d77931a6a1ddccea",
@@ -5788,7 +6013,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "74b0010d96e579e9",
@@ -5817,7 +6043,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fe52d7c81ebea049",
@@ -5844,7 +6071,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7b0cb4b3b117ffbb",
@@ -5872,7 +6100,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3c0c7aac325dee4d",
@@ -5901,7 +6130,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2e10558c9168b9ad",
@@ -5930,7 +6160,8 @@
         "Psychology",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5a0460cd54afe056",
@@ -5957,7 +6188,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7cc6f33f5ce5f23f",
@@ -5986,7 +6218,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fdd4c206f8e1a113",
@@ -6015,7 +6248,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dd5a3f5453754bb7",
@@ -6044,7 +6278,8 @@
         "Parenting",
         "Markets"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "da4612bc9d3b314d",
@@ -6073,7 +6308,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a89fe3614a3ec6ad",
@@ -6101,7 +6337,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8d528f52a7d8408f",
@@ -6130,7 +6367,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "46a7a8932671bd37",
@@ -6159,7 +6397,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2c44c91771958e7e",
@@ -6188,7 +6427,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9d2b03b308d3ab0f",
@@ -6217,7 +6457,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "22369d326f62e83d",
@@ -6245,7 +6486,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a7d605bce63bcc15",
@@ -6274,7 +6516,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e1d80556b4b7fc63",
@@ -6303,7 +6546,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d36dc9154f2a191a",
@@ -6332,7 +6576,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "db7befb37a0fe4a1",
@@ -6361,7 +6606,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "efa5d7fad85e77a3",
@@ -6388,7 +6634,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e38cec6d9935c6b1",
@@ -6417,7 +6664,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a26260df820a6d25",
@@ -6446,7 +6694,8 @@
         "Cricket",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a1eeed0f8a3f73fa",
@@ -6475,7 +6724,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "946e6a00ac52f1c8",
@@ -6504,7 +6754,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2d5d122ca440c576",
@@ -6533,7 +6784,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e3c253c07ba0a062",
@@ -6562,7 +6814,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6692e8010cf52211",
@@ -6591,7 +6844,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "aebe9822a4cd043a",
@@ -6620,7 +6874,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d611520ef41c9a9b",
@@ -6649,7 +6904,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8c1b630ec5781873",
@@ -6676,7 +6932,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bf975523ec2d3f71",
@@ -6705,7 +6962,8 @@
         "Health",
         "Parenting"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7347b77fecdae7f7",
@@ -6734,7 +6992,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3215966052c5ea85",
@@ -6763,7 +7022,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3e67fe027b97f572",
@@ -6792,7 +7052,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7abac40d6561ac03",
@@ -6820,7 +7081,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "677a0d135a5a70e0",
@@ -6849,7 +7111,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3701eace5a2d5ed0",
@@ -6878,7 +7141,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d6d545a15e8d948e",
@@ -6907,7 +7171,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ca1c264c61ff0e64",
@@ -6936,7 +7201,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fb04733ccb9762b2",
@@ -6965,7 +7231,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5daf3412586bc535",
@@ -6994,7 +7261,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bf417062e0bbfcbb",
@@ -7023,7 +7291,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cbc4039ce0e187ff",
@@ -7050,7 +7319,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dfdaf349c76f807d",
@@ -7079,7 +7349,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7d2f3175695384da",
@@ -7107,7 +7378,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "44f91fd1ff5849e4",
@@ -7136,7 +7408,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8030df8abeb9bbb6",
@@ -7165,7 +7438,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "db101a90be80e6ff",
@@ -7194,7 +7468,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "874f8c496ac247cd",
@@ -7222,7 +7497,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "629a5d64d23fb71a",
@@ -7251,7 +7527,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d149f1d5f125b08e",
@@ -7280,7 +7557,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c927cc1931b031a6",
@@ -7309,7 +7587,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c181d57d21bc0bcf",
@@ -7338,7 +7617,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e69c3a41b3048e85",
@@ -7366,7 +7646,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "68323942163eb487",
@@ -7394,7 +7675,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5dad00c8e1fd9da5",
@@ -7421,7 +7703,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "85a42084739839e0",
@@ -7450,7 +7733,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9f74d2ee8758c9f0",
@@ -7479,7 +7763,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "033a4b4ceb514409",
@@ -7506,7 +7791,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "08470994e984519e",
@@ -7535,7 +7821,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f4202729110abc41",
@@ -7564,7 +7851,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c2e3991a6532dc98",
@@ -7592,7 +7880,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "39d28e5a279745de",
@@ -7621,7 +7910,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "59ef47906ce3cfec",
@@ -7650,7 +7940,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "42f1ccb7eb155391",
@@ -7677,7 +7968,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6961877eeb22861f",
@@ -7706,7 +7998,8 @@
         "Content",
         "Cricket"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7d97cc728e0adcfd",
@@ -7735,7 +8028,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3f738107ff324494",
@@ -7764,7 +8058,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e9d72c950beee04d",
@@ -7793,7 +8088,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "80aeeaec8e9682cd",
@@ -7822,7 +8118,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ed3650d6b99f1295",
@@ -7851,7 +8148,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d4a3515796d557d9",
@@ -7880,7 +8178,8 @@
         "Content",
         "Sport"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ca3d456509e8a550",
@@ -7909,7 +8208,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3b3ebbde4b10edb3",
@@ -7938,7 +8238,8 @@
         "Markets",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9c9e4a204044eb45",
@@ -7967,7 +8268,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "79ae9df3df9012a6",
@@ -7996,7 +8298,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8ec98866348ed1d8",
@@ -8025,7 +8328,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "20db6e8792457655",
@@ -8054,7 +8358,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6cdec863d668812b",
@@ -8083,7 +8388,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "50f75b0ead6dea49",
@@ -8112,7 +8418,8 @@
         "Psychology",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a30f2ff2e6e8532a",
@@ -8141,7 +8448,8 @@
         "Content",
         "Cricket"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1b9a7607ad8decc6",
@@ -8170,7 +8478,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e706dc9f5901315f",
@@ -8199,7 +8508,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "69cc44368a7c085b",
@@ -8228,7 +8538,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d139623ade496d85",
@@ -8257,7 +8568,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "be8faa3812df09e4",
@@ -8286,7 +8598,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6d703eaa02c0ec2c",
@@ -8313,7 +8626,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d1741344918cef8c",
@@ -8342,7 +8656,8 @@
         "Content",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1b65a8910362b872",
@@ -8370,7 +8685,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "be882187dda3bb6a",
@@ -8398,7 +8714,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f15fdfcd353f29a8",
@@ -8427,7 +8744,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1d48cea440e10d67",
@@ -8456,7 +8774,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "59680dd1d13889dd",
@@ -8485,7 +8804,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e6f8d4eff57f6dc1",
@@ -8514,7 +8834,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9b4f9f32f6aca47a",
@@ -8543,7 +8864,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5a3eb704fc9e7872",
@@ -8572,7 +8894,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "33a45713a5e13478",
@@ -8601,7 +8924,8 @@
         "Markets",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9960fe4d4a4ffce0",
@@ -8629,7 +8953,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e17534d88e77d709",
@@ -8658,7 +8983,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "aeb77cacb4ae2c69",
@@ -8687,7 +9013,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f2d60b14f12729ce",
@@ -8716,7 +9043,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d27d768cbb7dd325",
@@ -8745,7 +9073,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f20ce462cf8cb34d",
@@ -8774,7 +9103,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7eb515a37f150030",
@@ -8803,7 +9133,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fbdd94dde1a3f289",
@@ -8832,7 +9163,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d24ceb7a8752f091",
@@ -8861,7 +9193,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e8892a65c046d031",
@@ -8890,7 +9223,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7bf3bc16fb788320",
@@ -8917,7 +9251,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6c56aa91a411348d",
@@ -8946,7 +9281,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4a25dc1405cdd3b2",
@@ -8975,7 +9311,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "10952617e1f07104",
@@ -9004,7 +9341,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d94cf4723e7ee104",
@@ -9033,7 +9371,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "44369b5054b3c337",
@@ -9062,7 +9401,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5223ec6aa17b5d84",
@@ -9090,7 +9430,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "312972ff3e46b5ad",
@@ -9119,7 +9460,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c714117b9867d4fb",
@@ -9148,7 +9490,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "40d4475b256f6db2",
@@ -9177,7 +9520,8 @@
         "Content",
         "Markets"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5e589f3d2e08f35a",
@@ -9205,7 +9549,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "60dcbabc888da62d",
@@ -9234,7 +9579,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5c361935a5390cab",
@@ -9262,7 +9608,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a2c632cc427760f3",
@@ -9291,7 +9638,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b72b4c11b5e48946",
@@ -9320,7 +9668,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fbb5f3e105e9ed00",
@@ -9349,7 +9698,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bd6dc298280d175f",
@@ -9378,7 +9728,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6df51fdde21f047f",
@@ -9407,7 +9758,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cae10b25997dd2c0",
@@ -9436,7 +9788,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2bedf1f639eb2889",
@@ -9465,7 +9818,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "eea393b01ad533f3",
@@ -9494,7 +9848,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1ae01476a9972310",
@@ -9521,7 +9876,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2a227105ab7bc735",
@@ -9550,7 +9906,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0ca1724e571826dc",
@@ -9579,7 +9936,8 @@
         "Cricket",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ebc47415ec6ca472",
@@ -9608,7 +9966,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec694ceefc031b87",
@@ -9637,7 +9996,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2a1b2dcb9a10f09b",
@@ -9665,7 +10025,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "56964b375b7ffb7b",
@@ -9693,7 +10054,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fb6e4bd465f6ec4a",
@@ -9722,7 +10084,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b2cc8806063560e4",
@@ -9751,7 +10114,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "51f7ba8b63be9dea",
@@ -9779,7 +10143,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "181621c429b3976d",
@@ -9808,7 +10173,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1d9fbd1f6c898ec0",
@@ -9837,7 +10203,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1569c9e052dd45d9",
@@ -9865,7 +10232,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a42a8474ca4b3bae",
@@ -9893,7 +10261,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ae29d7bf39429fb0",
@@ -9922,7 +10291,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "53e2a807ba253475",
@@ -9951,7 +10321,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1891e08d650d861a",
@@ -9979,7 +10350,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d8db5f3cf90cc497",
@@ -10008,7 +10380,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2d340c1d049b2317",
@@ -10037,7 +10410,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3d14c346905ab5d2",
@@ -10066,7 +10440,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec590cc6c0675e7e",
@@ -10095,7 +10470,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3088c5e993c32907",
@@ -10123,7 +10499,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f8c03b15d6a28999",
@@ -10152,7 +10529,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6ee94f3d453b4c70",
@@ -10181,7 +10559,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ad2634dfc70e50c2",
@@ -10210,7 +10589,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b89555a88443a625",
@@ -10239,7 +10619,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d8faef0a87c5c387",
@@ -10268,7 +10649,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cc296542f16cac6a",
@@ -10297,7 +10679,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1b8d04d14c5cadd5",
@@ -10325,7 +10708,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a2d5d39190674367",
@@ -10354,7 +10738,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "82f84180c78f3032",
@@ -10383,7 +10768,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "035a9e1900fdb2b3",
@@ -10412,7 +10798,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d51bd4955ee14bf1",
@@ -10441,7 +10828,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3c30e548c9e3b0fd",
@@ -10469,7 +10857,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7cfa02dd75e441d5",
@@ -10498,7 +10887,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "720d0bea1f1b5dec",
@@ -10527,7 +10917,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7a3b9d63646c7885",
@@ -10556,7 +10947,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1a5faea620815c5c",
@@ -10585,7 +10977,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "20d2d3b881df46bc",
@@ -10614,7 +11007,8 @@
         "Psychology",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4bc1883cbdc3769e",
@@ -10643,7 +11037,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "84075ca796fa4914",
@@ -10672,7 +11067,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8e54f97d3b8d75d5",
@@ -10700,7 +11096,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2b0af13948d43fc6",
@@ -10729,7 +11126,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3aba957a895c9ebc",
@@ -10758,7 +11156,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8c42c0a5c7196553",
@@ -10785,7 +11184,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "59fc478007144331",
@@ -10814,7 +11214,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c8f57beec8e66db9",
@@ -10843,7 +11244,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "05756bb16c870715",
@@ -10871,7 +11273,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e480c3b7b9a55963",
@@ -10900,7 +11303,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fec293927af09b09",
@@ -10929,7 +11333,8 @@
         "Content",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9d6fcc4705f354fe",
@@ -10957,7 +11362,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "91bc998fba8f7363",
@@ -10986,7 +11392,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a1b2e888f72d61bd",
@@ -11015,7 +11422,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1eaefedb40459a8e",
@@ -11044,7 +11452,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5e4c39358d7a7df1",
@@ -11071,7 +11480,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "284854045930b502",
@@ -11099,7 +11509,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8e01dce0dd1f6172",
@@ -11128,7 +11539,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0e0f7d5b35a50d52",
@@ -11157,7 +11569,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "22e7aed32ea3a339",
@@ -11186,7 +11599,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d76d326338cb1d94",
@@ -11215,7 +11629,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8332ff1e7ab45579",
@@ -11244,7 +11659,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "395058340571b7bc",
@@ -11273,7 +11689,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1a5f22eb80fae5f5",
@@ -11302,7 +11719,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "598a42542c50e6ee",
@@ -11331,7 +11749,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "17f18fbcc588c05e",
@@ -11360,7 +11779,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cb22c57a021141e2",
@@ -11388,7 +11808,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a65f065f858e629e",
@@ -11417,7 +11838,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6fa1d3a742af553a",
@@ -11446,7 +11868,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dc29fcb5d8034c93",
@@ -11475,7 +11898,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a19073a846ce3e59",
@@ -11504,7 +11928,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "463336b93e84277e",
@@ -11533,7 +11958,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a8f3edf2e439c719",
@@ -11562,7 +11988,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f220e7b510b1ce15",
@@ -11591,7 +12018,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "02aef7816e3b0151",
@@ -11620,7 +12048,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5a87338476b32911",
@@ -11649,7 +12078,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fe932bf4d533c8a3",
@@ -11678,7 +12108,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6582b4bb261f33d9",
@@ -11707,7 +12138,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a11b4db2c3a4a1ab",
@@ -11735,7 +12167,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "012fddca29c2b46a",
@@ -11763,7 +12196,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bd7b48f365b9dfd3",
@@ -11792,7 +12226,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7a99e9e1156d5666",
@@ -11821,7 +12256,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4e7cd03b402f1289",
@@ -11850,7 +12286,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "840a00176aa0a0e7",
@@ -11878,7 +12315,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e5d90e59fad3eb4e",
@@ -11905,7 +12343,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f0438d81dafc9769",
@@ -11934,7 +12373,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "973d87a079350f4d",
@@ -11962,7 +12402,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e2d1a179a1470b4b",
@@ -11991,7 +12432,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "789cf53aab6f6199",
@@ -12020,7 +12462,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "46c1ca60505dd2c9",
@@ -12049,7 +12492,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "67bcf1aa49b951ac",
@@ -12078,7 +12522,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f7cb7aa9c664a60c",
@@ -12107,7 +12552,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c56dccc0907feae2",
@@ -12136,7 +12582,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "91c63e336adb1437",
@@ -12164,7 +12611,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "abcb5fece7a461b2",
@@ -12191,7 +12639,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "58ee5bf1fecd1fa7",
@@ -12220,7 +12669,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d3291a009da5cb89",
@@ -12249,7 +12699,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "59bf9d54e35639ff",
@@ -12277,7 +12728,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3e110c9776714fa1",
@@ -12306,7 +12758,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "102bb81174e8bb87",
@@ -12335,7 +12788,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "89a07fea927c22cb",
@@ -12364,7 +12818,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5b61051a0cbc1693",
@@ -12393,7 +12848,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ca3a6f464b342856",
@@ -12422,7 +12878,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "305a6860555ad23f",
@@ -12451,7 +12908,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7053742c20650cac",
@@ -12480,7 +12938,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "79690bc53fa2cea0",
@@ -12509,7 +12968,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a5caa6ea98390265",
@@ -12538,7 +12998,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4669a8a4148d7b3d",
@@ -12565,7 +13026,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3fc394b19b2cb102",
@@ -12594,7 +13056,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c00666aac9c21bf1",
@@ -12623,7 +13086,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a84058bcc63fd70d",
@@ -12652,7 +13116,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "754e351be3adc296",
@@ -12680,7 +13145,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6733604ce198b246",
@@ -12709,7 +13175,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "53b1b58295e77e11",
@@ -12738,7 +13205,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7361e5c0a2a15323",
@@ -12767,7 +13235,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a69cd848652b52b3",
@@ -12795,7 +13264,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c7f84e2b986a79c0",
@@ -12822,7 +13292,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ed59ae3ac4651c99",
@@ -12851,7 +13322,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "91aa36bca66e7fe9",
@@ -12879,7 +13351,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4607b322b2f42e10",
@@ -12906,7 +13379,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8b1fda784c1eae5e",
@@ -12935,7 +13409,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "094492e843009441",
@@ -12964,7 +13439,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0119706e25c4e1ec",
@@ -12993,7 +13469,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7980cd10f7ce2a57",
@@ -13022,7 +13499,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "11e61fe03fe7f4e1",
@@ -13051,7 +13529,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "55db37f6bef0b3d6",
@@ -13079,7 +13558,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b451e5ff1917d5d0",
@@ -13106,7 +13586,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b1d160ab6c65594f",
@@ -13135,7 +13616,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "72bfa7dc98bc2e0f",
@@ -13163,7 +13645,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c5b0ade3ae99b4f7",
@@ -13192,7 +13675,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ba630d9d5494e077",
@@ -13221,7 +13705,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b8047f1c087963ce",
@@ -13249,7 +13734,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d002876d9d19b810",
@@ -13277,7 +13763,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5f9d5f10d7c17acf",
@@ -13304,7 +13791,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ddb7f2c2eb8e9d04",
@@ -13333,7 +13821,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "51273155ee919280",
@@ -13362,7 +13851,8 @@
         "Pricing",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "98898744bea17750",
@@ -13391,7 +13881,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d28d41c9e9d3e6ed",
@@ -13418,7 +13909,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8c10b74c1c473fb3",
@@ -13447,7 +13939,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7b979993589190b0",
@@ -13476,7 +13969,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d5d7c811b020590d",
@@ -13503,7 +13997,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "844ba351a6f76685",
@@ -13531,7 +14026,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "af77ac501a02b07c",
@@ -13560,7 +14056,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "09b0dee2fb7be463",
@@ -13589,7 +14086,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec949f06111127bc",
@@ -13618,7 +14116,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "21fd31a2ab81ddc3",
@@ -13647,7 +14146,8 @@
         "Offers",
         "Pricing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9a7634365327bf00",
@@ -13674,7 +14174,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3588b040ff1a3086",
@@ -13703,7 +14204,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b80c27ad595f1271",
@@ -13732,7 +14234,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d711eb8587d68963",
@@ -13761,7 +14264,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "51493776ebfe667b",
@@ -13790,7 +14294,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9902137603bab84a",
@@ -13817,7 +14322,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "27f4afb390ada9e4",
@@ -13846,7 +14352,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "48d6ceff3f7d37be",
@@ -13873,7 +14380,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "251096b631a83213",
@@ -13901,7 +14409,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a08eca0f822bc23a",
@@ -13930,7 +14439,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1666fa03290b9ba0",
@@ -13959,7 +14469,8 @@
         "Politics",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b87f890b5a3a285a",
@@ -13986,7 +14497,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "02f7d2a531590561",
@@ -14015,7 +14527,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b813f4a9844dcaa4",
@@ -14042,7 +14555,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "50afb6298467d68e",
@@ -14070,7 +14584,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d60a05fe478b8dca",
@@ -14097,7 +14612,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6e5b760525ddb3f2",
@@ -14126,7 +14642,8 @@
         "Content",
         "Cricket"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1f3eef155b003bfe",
@@ -14155,7 +14672,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d60472a0515032b6",
@@ -14184,7 +14702,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b903be2998528ae9",
@@ -14213,7 +14732,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3d65cd235067a77c",
@@ -14242,7 +14762,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d2c2ac5406a93db3",
@@ -14269,7 +14790,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7322372e34e7de41",
@@ -14298,7 +14820,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "24aa2251f1e31a05",
@@ -14325,7 +14848,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "75d3a40e7cd358dd",
@@ -14352,7 +14876,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "06942bbf72bf1791",
@@ -14380,7 +14905,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2b51ffb121e68021",
@@ -14407,7 +14933,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7832f5e8ad8b4365",
@@ -14436,7 +14963,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d5446891b45243b3",
@@ -14464,7 +14992,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "55d9f0bd613929b6",
@@ -14492,7 +15021,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "378b74ebf96f4b78",
@@ -14521,7 +15051,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "696d7052dc554476",
@@ -14550,7 +15081,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8d57204dffdfeb89",
@@ -14578,7 +15110,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "220dd11e72ca3de1",
@@ -14605,7 +15138,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "13c6698c649ac1bd",
@@ -14632,7 +15166,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "01e3c793e0ae316c",
@@ -14659,7 +15194,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d767ab4c9d047952",
@@ -14687,7 +15223,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ea6ef791323cb235",
@@ -14716,7 +15253,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bcd212eb4145d0f9",
@@ -14743,7 +15281,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3639166d7d25dfa8",
@@ -14772,7 +15311,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6be91af752515a4f",
@@ -14800,7 +15340,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4ff6360de1ddb08a",
@@ -14829,7 +15370,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "50af7bcfd9a2701a",
@@ -14856,7 +15398,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5f55047227aca728",
@@ -14885,7 +15428,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3e90ed8b07dffdf0",
@@ -14914,7 +15458,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d563dd0d62e5862d",
@@ -14943,7 +15488,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "845545a78e00ccb9",
@@ -14972,7 +15518,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a5a942c390c404a0",
@@ -14999,7 +15546,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a6a081c13b8b50b3",
@@ -15028,7 +15576,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bb44d4a43f80ebe0",
@@ -15057,7 +15606,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3f873a266572fbb8",
@@ -15086,7 +15636,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "96b31d90d866dfe4",
@@ -15115,7 +15666,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ee776ad336030d3e",
@@ -15144,7 +15696,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "de008f97b76b6968",
@@ -15171,7 +15724,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8a845a06ab4d05f5",
@@ -15200,7 +15754,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ef8261fb98c2e4fa",
@@ -15227,7 +15782,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0516e4a20583a4f2",
@@ -15256,7 +15812,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8a135d0f072e8446",
@@ -15284,7 +15841,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "57d750335ae1afb1",
@@ -15313,7 +15871,8 @@
         "Psychology",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8b2ccdd0ff0b9978",
@@ -15340,7 +15899,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f6cde5d55dd5b65d",
@@ -15369,7 +15929,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3f4c4f3b7a5e31c4",
@@ -15398,7 +15959,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "02834b60d70536e4",
@@ -15427,7 +15989,8 @@
         "Politics",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec97f778429c982f",
@@ -15454,7 +16017,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c70f365c7e271d80",
@@ -15482,7 +16046,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3e397484bf764e20",
@@ -15509,7 +16074,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d4f86352582c1b65",
@@ -15536,7 +16102,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "269bafa0f3c00463",
@@ -15565,7 +16132,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "948c70b6332610ac",
@@ -15594,7 +16162,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d845a7a20fe1e991",
@@ -15623,7 +16192,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "44c98df704538760",
@@ -15652,7 +16222,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "49d228df3708a150",
@@ -15681,7 +16252,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3ab5edd1efc0ab3a",
@@ -15710,7 +16282,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "40dda27790452f78",
@@ -15738,7 +16311,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "03c4059c2fecd73f",
@@ -15767,7 +16341,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1b15d3eaee65dc21",
@@ -15796,7 +16371,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d3adbb6c74d89f02",
@@ -15825,7 +16401,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1e282a99b8fb3a55",
@@ -15854,7 +16431,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e002f3df31cb2e24",
@@ -15883,7 +16461,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a16316ba1ef00a45",
@@ -15910,7 +16489,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "90a3c141184b5c70",
@@ -15939,7 +16519,8 @@
         "Politics",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5499ea2507fa6fd4",
@@ -15968,7 +16549,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d10134cada6f5a19",
@@ -15997,7 +16579,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "681be1c3c9095a40",
@@ -16026,7 +16609,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b40dbe1581c0483d",
@@ -16055,7 +16639,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "61f1b59d37a011cb",
@@ -16084,7 +16669,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4ab193e280cf9776",
@@ -16111,7 +16697,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "918f869f44cc64da",
@@ -16139,7 +16726,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bbbf374fc2559c39",
@@ -16168,7 +16756,8 @@
         "Markets",
         "Politics"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "674476402b484fc8",
@@ -16197,7 +16786,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a914d932d2e5c759",
@@ -16226,7 +16816,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "dbde0aee92bd097a",
@@ -16254,7 +16845,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4eeefce63361e106",
@@ -16281,7 +16873,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0358ae8595709d88",
@@ -16310,7 +16903,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d585833a434d338a",
@@ -16339,7 +16933,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c6441e3689814654",
@@ -16368,7 +16963,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1ec39908a7eb427f",
@@ -16397,7 +16993,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e144bde718722cc8",
@@ -16424,7 +17021,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f48a0b5c7f4727c0",
@@ -16453,7 +17051,8 @@
         "AI",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a2862113f6fd5cf7",
@@ -16481,7 +17080,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5f4ae287a6e7c496",
@@ -16510,7 +17110,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9f5afb9bfe80651a",
@@ -16539,7 +17140,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bade521157e40062",
@@ -16568,7 +17170,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e7a7a55f3dcc3123",
@@ -16595,7 +17198,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5015b462886c6d4e",
@@ -16623,7 +17227,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "80b23835b29042b3",
@@ -16652,7 +17257,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "57dc64ba0222338a",
@@ -16679,7 +17285,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "79af2c8667474a75",
@@ -16708,7 +17315,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4d1d0bea26f3ea7c",
@@ -16736,7 +17344,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f1d60142053982d3",
@@ -16765,7 +17374,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "04188e3b07e2c60b",
@@ -16794,7 +17404,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e6b6100759244fca",
@@ -16823,7 +17434,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "679a99e4f95d1069",
@@ -16852,7 +17464,8 @@
         "Health",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4b85aa2c86a41ae7",
@@ -16881,7 +17494,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "68476f3d1f94c844",
@@ -16910,7 +17524,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7f9308b68ef6ae50",
@@ -16939,7 +17554,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c59fc927ee80710b",
@@ -16967,7 +17583,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cade12f0655bdd6c",
@@ -16996,7 +17613,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "322fcb7bd3dc5bb7",
@@ -17024,7 +17642,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ddd0be820b7f9e91",
@@ -17053,7 +17672,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "fa6a417d9ee85732",
@@ -17081,7 +17701,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "29b95f72f296b1a9",
@@ -17110,7 +17731,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8efa750170635bbc",
@@ -17139,7 +17761,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "695fbc7d871f2cc2",
@@ -17168,7 +17791,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b4b62adee40784b0",
@@ -17197,7 +17821,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b22cded08328bc69",
@@ -17226,7 +17851,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ce3d518eeda5fac3",
@@ -17254,7 +17880,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "027040b3b90c9785",
@@ -17283,7 +17910,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "bf8c16b954f9a7c1",
@@ -17312,7 +17940,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a4b332b17d5d64e3",
@@ -17341,7 +17970,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0415d2e10913f7ec",
@@ -17369,7 +17999,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "76b2a708aad7b51e",
@@ -17398,7 +18029,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "14f2cdbb0ce5e7c5",
@@ -17427,7 +18059,8 @@
         "Content",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "512d0a5f6919c8d9",
@@ -17456,7 +18089,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3cbe93225b5599d5",
@@ -17485,7 +18119,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5c4e55a1738833a2",
@@ -17513,7 +18148,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "057430a997831bfd",
@@ -17542,7 +18178,8 @@
         "Health",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8120bef62dbac0ec",
@@ -17571,7 +18208,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ecbd37091da0a8c0",
@@ -17599,7 +18237,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "733ba899f87d2165",
@@ -17628,7 +18267,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c80f3a0073506abc",
@@ -17656,7 +18296,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d38cf0fe6393f28d",
@@ -17685,7 +18326,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "20488936a41e7994",
@@ -17714,7 +18356,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4575a11e226423a9",
@@ -17742,7 +18385,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f50b4cffd1997867",
@@ -17771,7 +18415,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "80c82c2a43b04263",
@@ -17800,7 +18445,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3f538baad6fe37d1",
@@ -17829,7 +18475,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4cafcc8fe4c7ac7b",
@@ -17858,7 +18505,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "68ad5aafc1466b2f",
@@ -17887,7 +18535,8 @@
         "Politics",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d8881f1b2551901f",
@@ -17915,7 +18564,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "28b09b8ee0daa735",
@@ -17944,7 +18594,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec7d8394313c496e",
@@ -17971,7 +18622,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6e6f2b3b75fede18",
@@ -18000,7 +18652,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "81de8af51e17f050",
@@ -18029,7 +18682,8 @@
         "Business",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c0c63fc34cef8174",
@@ -18058,7 +18712,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "817ebdfbd70ef577",
@@ -18086,7 +18741,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "751f761e834cdfc3",
@@ -18115,7 +18771,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f0d33a43e1cbd39f",
@@ -18144,7 +18801,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ef84efdb7bef0149",
@@ -18171,7 +18829,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ddde2d0874dce587",
@@ -18198,7 +18857,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "608e742d2ae3692a",
@@ -18227,7 +18887,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ba6fb78bf1e9e75e",
@@ -18256,7 +18917,8 @@
         "Startups",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7c0e4f7c0b9c217c",
@@ -18285,7 +18947,8 @@
         "Tech",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ec11555d3b2e9705",
@@ -18314,7 +18977,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8604932bb830c727",
@@ -18342,7 +19006,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "12bba0192014da1f",
@@ -18370,7 +19035,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "34d8871e5bc2e0d4",
@@ -18399,7 +19065,8 @@
         "Business",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4d00e8b66b207261",
@@ -18427,7 +19094,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c2424cc9c1571761",
@@ -18456,7 +19124,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5544cb3b63e6313f",
@@ -18484,7 +19153,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "0dcf0756852aae1b",
@@ -18513,7 +19183,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f5a8e806f3c27c5f",
@@ -18541,7 +19212,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f8ce49357e73f38c",
@@ -18570,7 +19242,8 @@
         "Parenting",
         "Content"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "81abbb09ab083ce5",
@@ -18598,7 +19271,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3a3b14c975d61566",
@@ -18627,7 +19301,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2f5b46835e96c791",
@@ -18656,7 +19331,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "12bc4eaeab91e0d8",
@@ -18684,7 +19360,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cfdde503e7b98e13",
@@ -18713,7 +19390,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f229567ed1c01b60",
@@ -18740,7 +19418,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "3d72e47dde39ce2c",
@@ -18769,7 +19448,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a8ccdae2021c4a84",
@@ -18798,7 +19478,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "4d6c5b24fbc451e5",
@@ -18827,7 +19508,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "baeef122924b6d35",
@@ -18855,7 +19537,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7a4abebb332ce9c7",
@@ -18884,7 +19567,8 @@
         "Psychology",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8cb78b7d85274fbf",
@@ -18913,7 +19597,8 @@
         "Health",
         "Psychology"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f37a4062cb14c007",
@@ -18942,7 +19627,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ab57bc3c6b00fa1a",
@@ -18971,7 +19657,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "79d1d9679a80bd34",
@@ -19000,7 +19687,8 @@
         "Content",
         "Startups"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9fa3d14be3969381",
@@ -19029,7 +19717,8 @@
         "Markets",
         "Investing"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cc6459d635cc1339",
@@ -19056,7 +19745,8 @@
         "South Africa",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cf2af7ba7551ca6f",
@@ -19084,7 +19774,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a472f4171d954ab2",
@@ -19113,7 +19804,8 @@
         "Startups",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "da85d91da6f59480",
@@ -19142,7 +19834,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "98d2b76e6c440bdd",
@@ -19171,7 +19864,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "5948e3df062d5f99",
@@ -19200,7 +19894,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "438480d786797bd7",
@@ -19229,7 +19924,8 @@
         "Relationships",
         "Self-Improvement"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "67988fdf767f4623",
@@ -19258,7 +19954,8 @@
         "Psychology",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7cad3fc5bbba8782",
@@ -19285,7 +19982,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ab4a9f27b1fe919e",
@@ -19314,7 +20012,8 @@
         "Politics",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cab9de3e05fbf67b",
@@ -19343,7 +20042,8 @@
         "Content",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "291f837d09eda0eb",
@@ -19372,7 +20072,8 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "345ee6904ec0a978",
@@ -19400,7 +20101,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9176b5795b477be1",
@@ -19429,7 +20131,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "378b4146ab2d035d",
@@ -19456,7 +20159,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b44597071d1d45e5",
@@ -19485,7 +20189,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8311c5e2fd25ecbb",
@@ -19514,7 +20219,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "f28a301c26354377",
@@ -19541,7 +20247,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "1e67f6f9fc44a257",
@@ -19570,7 +20277,8 @@
         "Venture",
         "Tech"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "6b318617af4a3c9a",
@@ -19599,7 +20307,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "07ab05e32a3b1790",
@@ -19628,7 +20337,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "9e06469783ba48f0",
@@ -19655,7 +20365,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "a46dc26016a2682b",
@@ -19683,7 +20394,8 @@
         "Self-Improvement",
         "Business"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "2271c3c96e54cab6",
@@ -19712,7 +20424,8 @@
         "Business",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "ebfe02a968871c18",
@@ -19739,7 +20452,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "cec785d4eb34915b",
@@ -19768,7 +20482,8 @@
         "Performance",
         "Relationships"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "8e7624c0beb28ce0",
@@ -19795,7 +20510,8 @@
         "Relationships",
         "Performance"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "d7f9995158a70674",
@@ -19822,7 +20538,8 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "7138dfffe4960781",
@@ -19851,7 +20568,8 @@
         "Sales",
         "Offers"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     }
   ],
   "recent": [
@@ -19881,7 +20599,18 @@
         "Business Ideas",
         "Saas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:32:22.250045-07:00",
+      "transcript_takeaways": [
+        "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training.",
+        "Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams.",
+        "The most practical use case is rapid internal tool/prototype creation: CRM apps, proposal generators, dashboards, and client-specific deliverables spun up from meeting notes and team discussion. David should test this against his own Alpha Infra workflows before selling it.",
+        "Buzz points toward a consulting offer around agentic team workflows: map a messy process, set up role-specific agents, connect GitHub/deployment/docs, and teach the team how to review outputs safely. Strong buyer pain: proposals, reporting packs, client intake, deal review, and spreadsheet-heavy finance workflows."
+      ],
+      "transcript_summary": "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training. Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams."
     },
     {
       "id": "8867c7c61dd36278",
@@ -19910,7 +20639,18 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:40:09.495447-07:00",
+      "transcript_takeaways": [
+        "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability.",
+        "The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing.",
+        "Open vs closed AI is now a strategic ecosystem question, not just a technical preference. For client work, David can differentiate by helping finance/accounting teams choose the right architecture: closed models for sensitive reasoning and governance, open models for cheaper internal tooling, fine-tuning, and repeatable automation where risk is lower.",
+        "Distillation/IP issues highlight a real governance gap. Concrete action: build a simple \u201cAI vendor/model risk checklist\u201d for consulting conversations covering data usage, terms of service, model provenance, privacy, auditability, and whether client outputs could legally/safely be used to train or fine-tune systems."
+      ],
+      "transcript_summary": "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability. The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing."
     },
     {
       "id": "0599144c16ab5c94",
@@ -19937,7 +20677,18 @@
         "Sport",
         "Culture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-28T23:42:34.696722-07:00",
+      "transcript_takeaways": [
+        "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes.",
+        "The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity.",
+        "The episode\u2019s discussion of cricket formats and governance highlights how legacy institutions struggle to modernize without alienating core users. Good AI consulting wedge: help traditional firms modernize workflows while preserving trusted rituals, roles, and judgment.",
+        "Concrete action: turn \u201ccheating at first slip\u201d into a short LinkedIn/operator post about control design: if your process depends on one overworked human \u201chearing the edge,\u201d you need better evidence capture, audit trails, and exception review."
+      ],
+      "transcript_summary": "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes. The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity."
     },
     {
       "id": "29e4f51930544763",
@@ -19966,7 +20717,8 @@
         "Startups",
         "Venture"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "c42ef2887c637e47",
@@ -19995,7 +20747,8 @@
         "Content",
         "Business Ideas"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     },
     {
       "id": "b5bb1dcb86b9f58e",
@@ -20024,7 +20777,8 @@
         "Investing",
         "Strategy"
       ],
-      "source": "favorite_feed"
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
     }
   ],
   "stats": {
@@ -20099,7 +20853,18 @@
           "Business Ideas",
           "Saas"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-28T23:32:22.250045-07:00",
+        "transcript_takeaways": [
+          "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training.",
+          "Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams.",
+          "The most practical use case is rapid internal tool/prototype creation: CRM apps, proposal generators, dashboards, and client-specific deliverables spun up from meeting notes and team discussion. David should test this against his own Alpha Infra workflows before selling it.",
+          "Buzz points toward a consulting offer around agentic team workflows: map a messy process, set up role-specific agents, connect GitHub/deployment/docs, and teach the team how to review outputs safely. Strong buyer pain: proposals, reporting packs, client intake, deal review, and spreadsheet-heavy finance workflows."
+        ],
+        "transcript_summary": "Buzz\u2019s real signal is not \u201cSlack killer\u201d; it\u2019s a shared workspace where agents are treated as team members with persistent context. For David, this reinforces the consulting angle of \u201cAI operating systems for finance/ops teams,\u201d not just one-off ChatGPT training. Swappable agent harnesses matter commercially: clients will face model/tool churn, so the valuable layer is reusable workflow context, prompts, skills, files, and governance that survive model changes. David can package this as \u201cfuture-proofing AI workflows\u201d for finance teams."
       },
       "Prof G Markets": {
         "id": "8867c7c61dd36278",
@@ -20128,7 +20893,18 @@
           "Investing",
           "Strategy"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-28T23:40:09.495447-07:00",
+        "transcript_takeaways": [
+          "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability.",
+          "The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing.",
+          "Open vs closed AI is now a strategic ecosystem question, not just a technical preference. For client work, David can differentiate by helping finance/accounting teams choose the right architecture: closed models for sensitive reasoning and governance, open models for cheaper internal tooling, fine-tuning, and repeatable automation where risk is lower.",
+          "Distillation/IP issues highlight a real governance gap. Concrete action: build a simple \u201cAI vendor/model risk checklist\u201d for consulting conversations covering data usage, terms of service, model provenance, privacy, auditability, and whether client outputs could legally/safely be used to train or fine-tune systems."
+        ],
+        "transcript_summary": "Chinese open-weight models are becoming credible \u201cgood enough\u201d alternatives, especially for startups and workflow tools that value lower cost and flexibility over absolute frontier performance. For David\u2019s consulting wedge, don\u2019t lock clients into one premium model by default; evaluate model mix by use case, cost, data sensitivity, and required reliability. The commercial pressure is margin compression: if Chinese/open models stay only 3\u20139 months behind frontier labs, expensive closed-model vendors may lose pricing power. In finance/ops AI pilots, position ROI around workflow savings and control quality, not \u201cwe use the best model,\u201d because model costs and capabilities will keep changing."
       },
       "Grade Cricketer": {
         "id": "0599144c16ab5c94",
@@ -20155,7 +20931,18 @@
           "Sport",
           "Culture"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-28T23:42:34.696722-07:00",
+        "transcript_takeaways": [
+          "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes.",
+          "The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity.",
+          "The episode\u2019s discussion of cricket formats and governance highlights how legacy institutions struggle to modernize without alienating core users. Good AI consulting wedge: help traditional firms modernize workflows while preserving trusted rituals, roles, and judgment.",
+          "Concrete action: turn \u201ccheating at first slip\u201d into a short LinkedIn/operator post about control design: if your process depends on one overworked human \u201chearing the edge,\u201d you need better evidence capture, audit trails, and exception review."
+        ],
+        "transcript_summary": "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes. The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity."
       },
       "TWIST": {
         "id": "29e4f51930544763",
@@ -20184,7 +20971,8 @@
           "Startups",
           "Venture"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
       },
       "Modern Wisdom": {
         "id": "a3e46a50bcd2c157",
@@ -20213,7 +21001,8 @@
           "Relationships",
           "Self-Improvement"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
       },
       "DOAC": {
         "id": "6379176b0ef3a341",
@@ -20242,7 +21031,8 @@
           "Relationships",
           "Performance"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
       },
       "All-In": {
         "id": "5d5969ca52a7369a",
@@ -20271,7 +21061,8 @@
           "Startups",
           "Business"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
       },
       "The Game": {
         "id": "9f630905a3582983",
@@ -20300,7 +21091,8 @@
           "Pricing",
           "Content"
         ],
-        "source": "favorite_feed"
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
       }
     }
   }

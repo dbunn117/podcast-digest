@@ -16,6 +16,9 @@ from __future__ import annotations
 
 import argparse
 import email.utils
+import shutil
+import subprocess
+import tempfile
 import hashlib
 import html
 import json
@@ -33,6 +36,7 @@ ROOT = Path('/root/podcast-digest')
 CONFIG = ROOT / 'config.json'
 DATA = ROOT / 'data'
 DOCS = ROOT / 'docs'
+TRANSCRIPTS = DATA / 'transcripts'
 PACIFIC = ZoneInfo('America/Los_Angeles')
 
 KEYWORDS = {
@@ -244,6 +248,228 @@ def read_link_inbox(path: Path) -> list[dict]:
     return out
 
 
+
+
+def split_sentences(text: str) -> list[str]:
+    text = re.sub(r'\s+', ' ', strip_html(text)).strip()
+    if not text:
+        return []
+    return [s.strip() for s in re.split(r'(?<=[.!?])\s+', text) if s.strip()]
+
+
+def score_sentence(sentence: str, tags=None) -> int:
+    tags = set(tags or [])
+    s = sentence.lower()
+    score = 0
+    for word in ['because', 'why', 'how', 'means', 'strategy', 'risk', 'opportunity', 'workflow', 'system', 'operator', 'business', 'customer', 'revenue', 'margin', 'cost', 'market', 'agent', 'automation', 'model', 'data']:
+        if word in s:
+            score += 2
+    if tags & {'AI', 'Startups'} and re.search(r'\b(ai|agent|model|automation|workflow|software|startup|product)\b', s):
+        score += 4
+    if tags & {'Finance', 'Markets'} and re.search(r'\b(market|capital|rate|debt|margin|cash|valuation|investor|risk)\b', s):
+        score += 4
+    if tags & {'Business', 'Entrepreneurship'} and re.search(r'\b(customer|revenue|pricing|sales|distribution|offer|growth|profit)\b', s):
+        score += 4
+    if 90 <= len(sentence) <= 240:
+        score += 2
+    if re.search(r'(?i)subscribe|sponsor|promo code|advertis|follow us|check out', sentence):
+        score -= 8
+    return score
+
+
+def extract_takeaways_from_text(text: str, tags=None, limit=4) -> list[str]:
+    sentences = [s for s in split_sentences(text) if 55 <= len(s) <= 280]
+    ranked = sorted(sentences, key=lambda x: score_sentence(x, tags), reverse=True)
+    picked: list[str] = []
+    seen = set()
+    for sentence in ranked:
+        key = re.sub(r'[^a-z0-9 ]', '', sentence.lower())[:80]
+        if key in seen:
+            continue
+        if any(sentence[:45] in existing or existing[:45] in sentence for existing in picked):
+            continue
+        picked.append(sentence)
+        seen.add(key)
+        if len(picked) >= limit:
+            break
+    return picked
+
+
+def transcript_paths(episode: dict) -> tuple[Path, Path]:
+    safe = re.sub(r'[^a-zA-Z0-9_.-]+', '-', f"{episode.get('published_date') or 'undated'}-{episode.get('short_name','podcast')}-{episode.get('id')}")[:160]
+    return TRANSCRIPTS / f'{safe}.json', TRANSCRIPTS / f'{safe}.txt'
+
+
+def load_cached_transcript(episode: dict) -> dict | None:
+    json_path, _ = transcript_paths(episode)
+    if not json_path.exists():
+        return None
+    try:
+        data = json.loads(json_path.read_text(encoding='utf-8'))
+    except Exception:
+        return None
+    if data.get('audio_url') and episode.get('audio_url') and data.get('audio_url') != episode.get('audio_url'):
+        return None
+    return data
+
+
+def attach_transcript(episode: dict, transcript_data: dict | None):
+    if not transcript_data:
+        episode['transcript_status'] = episode.get('transcript_status') or 'not_ingested'
+        return
+    text = transcript_data.get('transcript', '').strip()
+    if not text:
+        episode['transcript_status'] = transcript_data.get('status') or 'empty'
+        return
+    takeaways = transcript_data.get('llm_takeaways') or transcript_data.get('takeaways') or extract_takeaways_from_text(text, episode.get('tags'), limit=4)
+    episode['transcript_status'] = 'available'
+    episode['transcript_source'] = transcript_data.get('source', 'faster_whisper')
+    episode['transcript_model'] = transcript_data.get('model', '')
+    episode['transcript_generated_at'] = transcript_data.get('generated_at', '')
+    episode['transcript_takeaways'] = takeaways[:4]
+    if transcript_data.get('llm_summary'):
+        episode['transcript_summary'] = transcript_data['llm_summary'][:900]
+    elif transcript_data.get('llm_takeaways'):
+        episode['transcript_summary'] = ' '.join(transcript_data['llm_takeaways'][:2])[:900]
+    else:
+        summary_bits = extract_takeaways_from_text(text, episode.get('tags'), limit=3)
+        episode['transcript_summary'] = ' '.join(summary_bits)[:900]
+
+
+
+
+def parse_bullets(text: str) -> list[str]:
+    bullets = []
+    for line in text.splitlines():
+        line = line.strip()
+        line = re.sub(r'^[-*•]\s+', '', line)
+        line = re.sub(r'^\d+[.)]\s+', '', line)
+        if 30 <= len(line) <= 500:
+            bullets.append(line)
+    return bullets[:5]
+
+
+def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -> list[str]:
+    excerpt = transcript[:14000]
+    prompt = (
+        "From this podcast transcript excerpt, write 4 concise, specific key takeaways for David Bunn. "
+        "Focus on practical AI consulting/business implications, finance/operator lessons, health/family relevance only if clearly present, and concrete actions. "
+        "Do not quote filler or generic episode marketing copy. Return bullet list only.\n\n"
+        f"Podcast: {episode.get('short_name')}\nTitle: {episode.get('title')}\nTags: {', '.join(episode.get('tags') or [])}\n\nTranscript:\n{excerpt}"
+    )
+    try:
+        cp = subprocess.run(
+            ['hermes', '--ignore-rules', '-z', prompt],
+            text=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            timeout=timeout,
+        )
+    except Exception:
+        return []
+    if cp.returncode != 0:
+        return []
+    return parse_bullets(cp.stdout)
+
+
+def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: bool = False) -> dict:
+    TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
+    json_path, txt_path = transcript_paths(episode)
+    if not force:
+        cached = load_cached_transcript(episode)
+        if cached:
+            return cached
+    audio_url = episode.get('audio_url')
+    if not audio_url:
+        data = {'status': 'no_audio_url', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
+        json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        return data
+    if shutil.which('ffmpeg') is None:
+        data = {'status': 'missing_ffmpeg', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
+        json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        return data
+    try:
+        from faster_whisper import WhisperModel
+    except Exception as exc:
+        data = {'status': f'missing_faster_whisper: {exc}', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
+        json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        return data
+    with tempfile.TemporaryDirectory(prefix='podcast-transcript-') as td:
+        wav = Path(td) / 'audio.wav'
+        cmd = [
+            'ffmpeg', '-nostdin', '-hide_banner', '-loglevel', 'error', '-y',
+            '-i', audio_url,
+            '-t', str(max_minutes * 60),
+            '-vn', '-ac', '1', '-ar', '16000', str(wav),
+        ]
+        subprocess.run(cmd, check=True, timeout=max(180, max_minutes * 90))
+        model = WhisperModel(model_size, device='cpu', compute_type='int8')
+        segments, info = model.transcribe(str(wav), beam_size=1, vad_filter=True)
+        segs = []
+        parts = []
+        for seg in segments:
+            text = seg.text.strip()
+            if not text:
+                continue
+            segs.append({'start': round(seg.start, 2), 'end': round(seg.end, 2), 'text': text})
+            parts.append(text)
+    transcript = re.sub(r'\s+', ' ', ' '.join(parts)).strip()
+    data = {
+        'status': 'available' if transcript else 'empty',
+        'source': 'faster_whisper',
+        'model': model_size,
+        'max_minutes': max_minutes,
+        'language': getattr(info, 'language', None),
+        'duration': getattr(info, 'duration', None),
+        'generated_at': datetime.now(PACIFIC).isoformat(),
+        'episode_id': episode.get('id'),
+        'podcast': episode.get('short_name'),
+        'title': episode.get('title'),
+        'published_date': episode.get('published_date'),
+        'audio_url': audio_url,
+        'transcript': transcript,
+        'takeaways': extract_takeaways_from_text(transcript, episode.get('tags'), limit=4),
+        'segments': segs,
+    }
+    json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+    txt_path.write_text(transcript + '\n', encoding='utf-8')
+    return data
+
+
+def attach_cached_transcripts(episodes: list[dict]):
+    for episode in episodes:
+        attach_transcript(episode, load_cached_transcript(episode))
+
+
+def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str, max_minutes: int, force: bool = False, llm_takeaways: bool = False) -> list[dict]:
+    if limit <= 0:
+        attach_cached_transcripts(episodes)
+        return []
+    candidates = [e for e in sorted(episodes, key=episode_sort_key, reverse=True) if e.get('audio_url') and e.get('source') == 'favorite_feed']
+    completed = []
+    for episode in candidates[:limit]:
+        try:
+            data = transcribe_episode(episode, model_size=model_size, max_minutes=max_minutes, force=force)
+        except Exception as exc:
+            data = {'status': f'error: {type(exc).__name__}: {exc}', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
+            json_path, _ = transcript_paths(episode)
+            TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
+            json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        if llm_takeaways and data.get('transcript') and (force or not data.get('llm_takeaways')):
+            bullets = generate_llm_takeaways(data['transcript'], episode)
+            if bullets:
+                data['llm_takeaways'] = bullets
+                data['takeaways'] = bullets
+                json_path, _ = transcript_paths(episode)
+                json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        elif data.get('llm_takeaways'):
+            data['takeaways'] = data['llm_takeaways']
+        attach_transcript(episode, data)
+        completed.append({'podcast': episode.get('short_name'), 'title': episode.get('title'), 'status': data.get('status'), 'chars': len(data.get('transcript', '')), 'llm_takeaways': bool(data.get('llm_takeaways'))})
+    attach_cached_transcripts(episodes)
+    return completed
+
+
 def episode_sort_key(e):
     return e.get('published_at') or ''
 
@@ -358,6 +584,11 @@ def main():
     ap.add_argument('--since', default='2026-01-01', help='Dashboard history start date, YYYY-MM-DD')
     ap.add_argument('--write', action='store_true', help='Write Obsidian daily digest')
     ap.add_argument('--json', action='store_true')
+    ap.add_argument('--transcribe-recent', type=int, default=0, help='Transcribe N newest audio episodes before writing dashboard')
+    ap.add_argument('--transcript-model', default='tiny.en', help='faster-whisper model size for transcript ingestion')
+    ap.add_argument('--transcript-max-minutes', type=int, default=45, help='Max minutes to transcribe per episode')
+    ap.add_argument('--force-transcripts', action='store_true', help='Regenerate cached transcripts for selected recent episodes')
+    ap.add_argument('--llm-transcript-takeaways', action='store_true', help='Use Hermes oneshot to turn transcripts into David-specific takeaways')
     args = ap.parse_args()
 
     DATA.mkdir(parents=True, exist_ok=True)
@@ -385,9 +616,19 @@ def main():
             continue
         seen.add(key); dedup.append(e)
 
+    transcript_runs = transcribe_recent_episodes(
+        dedup,
+        limit=args.transcribe_recent,
+        model_size=args.transcript_model,
+        max_minutes=args.transcript_max_minutes,
+        force=args.force_transcripts,
+        llm_takeaways=args.llm_transcript_takeaways,
+    )
     ytd = filter_since(dedup, since)
     digest, recent = build_digest(dedup, args.days, config)
     stats = build_stats(dedup, ytd, recent, podcasts)
+    if transcript_runs:
+        stats['transcript_runs'] = transcript_runs
 
     (DATA / 'episodes.json').write_text(json.dumps({'episodes': dedup, 'ytd': ytd, 'podcasts': podcasts, 'stats': stats, 'errors': errors}, indent=2), encoding='utf-8')
     (DATA / 'latest_digest.md').write_text(digest, encoding='utf-8')
@@ -407,6 +648,7 @@ def main():
         'recent_count': len(recent),
         'podcast_count': len(podcasts),
         'errors': errors,
+        'transcript_runs': transcript_runs,
         'digest_path': str(DATA / 'latest_digest.md'),
         'dashboard': str(DOCS / 'index.html'),
     }

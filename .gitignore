@@ -1,3 +1,5 @@
 # local/generated working data that does not need to be in source
 __pycache__/
 *.pyc
+# full local transcript cache; dashboard publishes derived summaries/takeaways only
+data/transcripts/
