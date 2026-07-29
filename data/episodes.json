@@ -28,7 +28,17 @@
         "Investing"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-29T14:32:46.864868-07:00",
+      "transcript_takeaways": [
+        "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines.",
+        "The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy.",
+        "Hyperscaler earnings and credit spreads may matter more than Fed commentary right now because AI capex is becoming the market\u2019s core risk. Practical action: track Google/Amazon/Microsoft/Oracle commentary on capex, free cash flow, and AI monetization as signals for consulting demand and buyer sentiment.",
+        "There\u2019s a useful sales lesson: technologists are saying \u201cwe need more compute,\u201d while Wall Street is asking \u201cwhat revenue does that compute generate?\u201d David should bring that operator discipline into AI consulting conversations: every automation idea needs an owner, cost, payoff timeline, and control/risk case."
+      ],
+      "transcript_summary": "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines. The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy."
     },
     {
       "id": "8f6787696a3dec0b",
@@ -97,7 +107,17 @@
         "Tech"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-29T14:35:17.719526-07:00",
+      "transcript_takeaways": [
+        "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d",
+        "The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives.",
+        "High-value use cases justify expensive tech when the business cost is obvious. Target workflows where delays or errors cost real money: reporting bottlenecks, deal review delays, compliance gaps, month-end close issues, client intake, or asset/operator monitoring.",
+        "China/hardware competition reinforces a services lesson: compete on domain workflow, trust, data security, and implementation depth. David\u2019s wedge should be finance/operator-specific systems that clients trust with sensitive data, not commodity AI tooling."
+      ],
+      "transcript_summary": "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives."
     },
     {
       "id": "8867c7c61dd36278",
@@ -2445,9 +2465,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KWGKWEFH9HN2N2T5TXV4NKGX/dr._martin_plcard.ep_cover_.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Anti-Aging Expert: This Reverses Gray Hair & Boosts Your Energy!",
+      "title": "Why You\u2019re Tired: How Stress Drains Your Cells - Dr. Martin Picard",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=mlxyarlx12omk7tsqga9msuf",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=z6doyt0nphbncvp6enlqd9co",
       "guid": "flightcast:01KWGKVP7CK70B0V0TBA66NDAA",
       "published_at": "2026-07-02T05:22:37+00:00",
       "published_date": "2026-07-01",
@@ -153680,7 +153700,17 @@
         "Investing"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-29T14:32:46.864868-07:00",
+      "transcript_takeaways": [
+        "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines.",
+        "The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy.",
+        "Hyperscaler earnings and credit spreads may matter more than Fed commentary right now because AI capex is becoming the market\u2019s core risk. Practical action: track Google/Amazon/Microsoft/Oracle commentary on capex, free cash flow, and AI monetization as signals for consulting demand and buyer sentiment.",
+        "There\u2019s a useful sales lesson: technologists are saying \u201cwe need more compute,\u201d while Wall Street is asking \u201cwhat revenue does that compute generate?\u201d David should bring that operator discipline into AI consulting conversations: every automation idea needs an owner, cost, payoff timeline, and control/risk case."
+      ],
+      "transcript_summary": "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines. The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy."
     },
     {
       "id": "8f6787696a3dec0b",
@@ -153749,7 +153779,17 @@
         "Tech"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-29T14:35:17.719526-07:00",
+      "transcript_takeaways": [
+        "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d",
+        "The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives.",
+        "High-value use cases justify expensive tech when the business cost is obvious. Target workflows where delays or errors cost real money: reporting bottlenecks, deal review delays, compliance gaps, month-end close issues, client intake, or asset/operator monitoring.",
+        "China/hardware competition reinforces a services lesson: compete on domain workflow, trust, data security, and implementation depth. David\u2019s wedge should be finance/operator-specific systems that clients trust with sensitive data, not commodity AI tooling."
+      ],
+      "transcript_summary": "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives."
     },
     {
       "id": "8867c7c61dd36278",
@@ -156097,9 +156137,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KWGKWEFH9HN2N2T5TXV4NKGX/dr._martin_plcard.ep_cover_.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Anti-Aging Expert: This Reverses Gray Hair & Boosts Your Energy!",
+      "title": "Why You\u2019re Tired: How Stress Drains Your Cells - Dr. Martin Picard",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=mlxyarlx12omk7tsqga9msuf",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=z6doyt0nphbncvp6enlqd9co",
       "guid": "flightcast:01KWGKVP7CK70B0V0TBA66NDAA",
       "published_at": "2026-07-02T05:22:37+00:00",
       "published_date": "2026-07-01",
@@ -174276,7 +174316,7 @@
   "stats": {
     "total_available": 5200,
     "ytd_count": 690,
-    "recent_count": 7,
+    "recent_count": 20,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
@@ -174347,7 +174387,17 @@
           "Investing"
         ],
         "source": "favorite_feed",
-        "transcript_status": "not_ingested"
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-29T14:32:46.864868-07:00",
+        "transcript_takeaways": [
+          "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines.",
+          "The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy.",
+          "Hyperscaler earnings and credit spreads may matter more than Fed commentary right now because AI capex is becoming the market\u2019s core risk. Practical action: track Google/Amazon/Microsoft/Oracle commentary on capex, free cash flow, and AI monetization as signals for consulting demand and buyer sentiment.",
+          "There\u2019s a useful sales lesson: technologists are saying \u201cwe need more compute,\u201d while Wall Street is asking \u201cwhat revenue does that compute generate?\u201d David should bring that operator discipline into AI consulting conversations: every automation idea needs an owner, cost, payoff timeline, and control/risk case."
+        ],
+        "transcript_summary": "AI infrastructure is shifting from equity-funded growth to debt-funded buildout; for David\u2019s consulting lens, watch client/vendor balance sheets and financing assumptions, not just product demos or \u201cAI adoption\u201d headlines. The market is starting to demand proof of AI ROI: higher margins, earnings growth, productivity gains, or measurable cost savings. David\u2019s own offers should lead with measured workflow outcomes \u2014 hours saved, reporting cycles shortened, error risk reduced \u2014 not generic AI strategy."
       },
       "Startup Ideas": {
         "id": "8f6787696a3dec0b",
@@ -174416,7 +174466,17 @@
           "Tech"
         ],
         "source": "favorite_feed",
-        "transcript_status": "not_ingested"
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-29T14:35:17.719526-07:00",
+        "transcript_takeaways": [
+          "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d",
+          "The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives.",
+          "High-value use cases justify expensive tech when the business cost is obvious. Target workflows where delays or errors cost real money: reporting bottlenecks, deal review delays, compliance gaps, month-end close issues, client intake, or asset/operator monitoring.",
+          "China/hardware competition reinforces a services lesson: compete on domain workflow, trust, data security, and implementation depth. David\u2019s wedge should be finance/operator-specific systems that clients trust with sensitive data, not commodity AI tooling."
+        ],
+        "transcript_summary": "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives."
       },
       "Grade Cricketer": {
         "id": "0599144c16ab5c94",
@@ -174576,7 +174636,36 @@
         "source": "favorite_feed",
         "transcript_status": "not_ingested"
       }
-    }
+    },
+    "transcript_runs": [
+      {
+        "podcast": "Prof G Markets",
+        "title": "Why The Nasdaq Just Hit Correction Territory",
+        "status": "available",
+        "chars": 25242,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "Startup Ideas",
+        "title": "Jack Dorsey's Buzz: The New Hermes Agent?",
+        "status": "available",
+        "chars": 13487,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "All-In",
+        "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+        "status": "available",
+        "chars": 26354,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      }
+    ]
   },
   "errors": []
 }
