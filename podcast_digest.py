@@ -326,6 +326,9 @@ def attach_transcript(episode: dict, transcript_data: dict | None):
     episode['transcript_source'] = transcript_data.get('source', 'faster_whisper')
     episode['transcript_model'] = transcript_data.get('model', '')
     episode['transcript_generated_at'] = transcript_data.get('generated_at', '')
+    if transcript_data.get('youtube_url'):
+        episode['transcript_youtube_url'] = transcript_data.get('youtube_url')
+        episode['transcript_youtube_match'] = transcript_data.get('youtube_match')
     episode['transcript_takeaways'] = takeaways[:4]
     if transcript_data.get('llm_summary'):
         episode['transcript_summary'] = transcript_data['llm_summary'][:900]
@@ -337,6 +340,171 @@ def attach_transcript(episode: dict, transcript_data: dict | None):
 
 
 
+
+
+YOUTUBE_URL_RE = re.compile(r'https?://(?:www\.)?(?:youtube\.com/watch\?[^\s)\]<>"\']+|youtu\.be/[^\s)\]<>"\']+|youtube\.com/shorts/[^\s)\]<>"\']+)')
+
+
+def parse_duration_seconds(duration: str | None) -> int | None:
+    if not duration:
+        return None
+    duration = str(duration).strip()
+    if duration.isdigit():
+        return int(duration)
+    parts = duration.split(':')
+    try:
+        nums = [int(x) for x in parts]
+    except Exception:
+        return None
+    if len(nums) == 3:
+        return nums[0] * 3600 + nums[1] * 60 + nums[2]
+    if len(nums) == 2:
+        return nums[0] * 60 + nums[1]
+    return None
+
+
+def youtube_video_id(url: str) -> str | None:
+    try:
+        parsed = urllib.parse.urlparse(url)
+        host = parsed.netloc.lower().replace('www.', '')
+        if host == 'youtu.be':
+            vid = parsed.path.strip('/').split('/')[0]
+            return vid or None
+        if host.endswith('youtube.com'):
+            if parsed.path == '/watch':
+                return urllib.parse.parse_qs(parsed.query).get('v', [None])[0]
+            if parsed.path.startswith('/shorts/'):
+                return parsed.path.split('/')[2] or None
+    except Exception:
+        return None
+    return None
+
+
+def direct_youtube_ids(episode: dict) -> list[tuple[str, str]]:
+    text = ' '.join(str(episode.get(k, '') or '') for k in ['url', 'show_notes', 'summary'])
+    out = []
+    seen = set()
+    for raw in YOUTUBE_URL_RE.findall(text):
+        url = raw.rstrip('.,);]\u2060')
+        vid = youtube_video_id(url)
+        if vid and vid not in seen:
+            out.append((vid, f'https://www.youtube.com/watch?v={vid}'))
+            seen.add(vid)
+    return out
+
+
+def title_tokens(value: str) -> set[str]:
+    stop = {'the','a','an','and','or','of','to','in','with','for','on','is','are','this','that','podcast','episode','ep'}
+    return {w for w in re.findall(r'[a-z0-9]+', (value or '').lower()) if len(w) > 2 and w not in stop}
+
+
+def search_youtube_episode(episode: dict) -> dict | None:
+    try:
+        import yt_dlp
+    except Exception:
+        return None
+    title = episode.get('title') or ''
+    show = episode.get('short_name') or episode.get('podcast') or ''
+    query = f'ytsearch3:{title} {show} podcast'
+    opts = {'quiet': True, 'extract_flat': True, 'skip_download': True, 'noplaylist': True}
+    try:
+        info = yt_dlp.YoutubeDL(opts).extract_info(query, download=False)
+    except Exception:
+        return None
+    entries = info.get('entries') or []
+    wanted = title_tokens(title)
+    target_dur = parse_duration_seconds(episode.get('duration'))
+    best = None
+    for entry in entries:
+        if not entry:
+            continue
+        etitle = entry.get('title') or ''
+        tokens = title_tokens(etitle)
+        overlap = len(wanted & tokens) / max(len(wanted), 1)
+        duration = entry.get('duration')
+        duration_score = 0
+        if target_dur and duration:
+            diff = abs(int(duration) - int(target_dur))
+            if diff <= 180:
+                duration_score = .25
+            elif diff <= 600:
+                duration_score = .10
+        channel = (entry.get('channel') or entry.get('uploader') or '').lower()
+        channel_score = .10 if any(x in channel for x in [show.lower(), 'greg isenberg', 'this week in startups', 'modern wisdom', 'diary of a ceo', 'all-in']) else 0
+        score = overlap + duration_score + channel_score
+        if not best or score > best['score']:
+            vid = entry.get('id')
+            best = {'score': score, 'id': vid, 'url': entry.get('url') or (f'https://www.youtube.com/watch?v={vid}' if vid else ''), 'title': etitle, 'channel': entry.get('channel') or entry.get('uploader'), 'duration': duration}
+    if best and best.get('id') and best['score'] >= 0.45:
+        if not str(best['url']).startswith('http'):
+            best['url'] = f"https://www.youtube.com/watch?v={best['id']}"
+        return best
+    return None
+
+
+def fetch_youtube_transcript(video_id: str) -> tuple[str, list[dict], str]:
+    from youtube_transcript_api import YouTubeTranscriptApi
+    transcript = YouTubeTranscriptApi().fetch(video_id, languages=['en'])
+    segments = []
+    parts = []
+    for item in transcript:
+        if isinstance(item, dict):
+            text = item.get('text', '').strip()
+            start = item.get('start')
+            duration = item.get('duration')
+        else:
+            text = getattr(item, 'text', '').strip()
+            start = getattr(item, 'start', None)
+            duration = getattr(item, 'duration', None)
+        if not text:
+            continue
+        clean = re.sub(r'\s+', ' ', text).strip()
+        parts.append(clean)
+        seg = {'text': clean}
+        if start is not None:
+            seg['start'] = round(float(start), 2)
+        if duration is not None and start is not None:
+            seg['end'] = round(float(start) + float(duration), 2)
+        segments.append(seg)
+    return re.sub(r'\s+', ' ', ' '.join(parts)).strip(), segments, 'youtube_transcript_api'
+
+
+def try_youtube_transcript(episode: dict) -> dict | None:
+    attempts = []
+    for vid, url in direct_youtube_ids(episode):
+        attempts.append({'id': vid, 'url': url, 'match': 'direct'})
+    if not attempts:
+        found = search_youtube_episode(episode)
+        if found:
+            attempts.append({'id': found['id'], 'url': found['url'], 'match': 'search', 'search_result': found})
+    errors = []
+    for attempt in attempts[:2]:
+        try:
+            transcript, segments, source = fetch_youtube_transcript(attempt['id'])
+            if transcript:
+                return {
+                    'status': 'available',
+                    'source': source,
+                    'model': 'youtube-captions',
+                    'generated_at': datetime.now(PACIFIC).isoformat(),
+                    'episode_id': episode.get('id'),
+                    'podcast': episode.get('short_name'),
+                    'title': episode.get('title'),
+                    'published_date': episode.get('published_date'),
+                    'audio_url': episode.get('audio_url'),
+                    'youtube_video_id': attempt['id'],
+                    'youtube_url': attempt['url'],
+                    'youtube_match': attempt.get('match'),
+                    'youtube_search_result': attempt.get('search_result'),
+                    'transcript': transcript,
+                    'takeaways': extract_takeaways_from_text(transcript, episode.get('tags'), limit=4),
+                    'segments': segments,
+                }
+        except Exception as exc:
+            errors.append({'video_id': attempt['id'], 'url': attempt.get('url'), 'error': f'{type(exc).__name__}: {exc}'[:600]})
+    if attempts or errors:
+        return {'status': 'youtube_unavailable', 'source': 'youtube_transcript_api', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title'), 'youtube_attempts': attempts, 'youtube_errors': errors}
+    return None
 
 def parse_bullets(text: str) -> list[str]:
     bullets = []
@@ -372,16 +540,21 @@ def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -
     return parse_bullets(cp.stdout)
 
 
-def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: bool = False) -> dict:
+def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: bool = False, prefer_youtube: bool = True) -> dict:
     TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
     json_path, txt_path = transcript_paths(episode)
     if not force:
         cached = load_cached_transcript(episode)
         if cached:
             return cached
+    youtube_data = try_youtube_transcript(episode) if prefer_youtube else None
+    if youtube_data and youtube_data.get('transcript'):
+        json_path.write_text(json.dumps(youtube_data, indent=2), encoding='utf-8')
+        txt_path.write_text(youtube_data['transcript'] + '\n', encoding='utf-8')
+        return youtube_data
     audio_url = episode.get('audio_url')
     if not audio_url:
-        data = {'status': 'no_audio_url', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
+        data = youtube_data or {'status': 'no_audio_url', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
         json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
         return data
     if shutil.which('ffmpeg') is None:
@@ -430,6 +603,7 @@ def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: 
         'transcript': transcript,
         'takeaways': extract_takeaways_from_text(transcript, episode.get('tags'), limit=4),
         'segments': segs,
+        'youtube_fallback': youtube_data,
     }
     json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
     txt_path.write_text(transcript + '\n', encoding='utf-8')
@@ -441,15 +615,15 @@ def attach_cached_transcripts(episodes: list[dict]):
         attach_transcript(episode, load_cached_transcript(episode))
 
 
-def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str, max_minutes: int, force: bool = False, llm_takeaways: bool = False) -> list[dict]:
+def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str, max_minutes: int, force: bool = False, llm_takeaways: bool = False, prefer_youtube: bool = True) -> list[dict]:
     if limit <= 0:
         attach_cached_transcripts(episodes)
         return []
-    candidates = [e for e in sorted(episodes, key=episode_sort_key, reverse=True) if e.get('audio_url') and e.get('source') == 'favorite_feed']
+    candidates = [e for e in sorted(episodes, key=episode_sort_key, reverse=True) if e.get('source') == 'favorite_feed' and (e.get('audio_url') or e.get('title'))]
     completed = []
     for episode in candidates[:limit]:
         try:
-            data = transcribe_episode(episode, model_size=model_size, max_minutes=max_minutes, force=force)
+            data = transcribe_episode(episode, model_size=model_size, max_minutes=max_minutes, force=force, prefer_youtube=prefer_youtube)
         except Exception as exc:
             data = {'status': f'error: {type(exc).__name__}: {exc}', 'transcript': '', 'episode_id': episode.get('id'), 'title': episode.get('title')}
             json_path, _ = transcript_paths(episode)
@@ -465,7 +639,7 @@ def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str
         elif data.get('llm_takeaways'):
             data['takeaways'] = data['llm_takeaways']
         attach_transcript(episode, data)
-        completed.append({'podcast': episode.get('short_name'), 'title': episode.get('title'), 'status': data.get('status'), 'chars': len(data.get('transcript', '')), 'llm_takeaways': bool(data.get('llm_takeaways'))})
+        completed.append({'podcast': episode.get('short_name'), 'title': episode.get('title'), 'status': data.get('status'), 'chars': len(data.get('transcript', '')), 'llm_takeaways': bool(data.get('llm_takeaways')), 'source': data.get('source'), 'youtube_url': data.get('youtube_url')})
     attach_cached_transcripts(episodes)
     return completed
 
@@ -589,6 +763,7 @@ def main():
     ap.add_argument('--transcript-max-minutes', type=int, default=45, help='Max minutes to transcribe per episode')
     ap.add_argument('--force-transcripts', action='store_true', help='Regenerate cached transcripts for selected recent episodes')
     ap.add_argument('--llm-transcript-takeaways', action='store_true', help='Use Hermes oneshot to turn transcripts into David-specific takeaways')
+    ap.add_argument('--skip-youtube-transcripts', action='store_true', help='Skip YouTube caption lookup/search and use audio transcription fallback')
     args = ap.parse_args()
 
     DATA.mkdir(parents=True, exist_ok=True)
@@ -623,6 +798,7 @@ def main():
         max_minutes=args.transcript_max_minutes,
         force=args.force_transcripts,
         llm_takeaways=args.llm_transcript_takeaways,
+        prefer_youtube=not args.skip_youtube_transcripts,
     )
     ytd = filter_since(dedup, since)
     digest, recent = build_digest(dedup, args.days, config)

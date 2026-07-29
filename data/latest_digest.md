@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-07-28
+# Podcast Digest - 2026-07-29
 
-Generated: 2026-07-28 23:44 PDT
+Generated: 2026-07-29 08:47 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,12 +13,27 @@ Generated: 2026-07-28 23:44 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Why The Nasdaq Just Hit Correction Territory
+- Date: 2026-07-29
+- Duration: 2104
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7216569218.mp3
+- Summary from show notes: Ed Elson is joined by Torsten Sløk to break down what's driving the recent tech sell-off, where he thinks markets are headed from here, and which asset classes investors should consider if they're looking to diversify beyond AI. Then, Justin Wolfers returns to discuss President Trump's latest tariff strategy, how it could affect inflation, and what it means for the broader economy. Torsten Sløk is the Chief Economist at Apollo Global Management.
+
 ### Startup Ideas — Jack Dorsey's Buzz: The New Hermes Agent?
 - Date: 2026-07-28
 - Duration: 2324
 - Tags: AI, Startups, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01KYNAEAFTM53RVGFH2PJ12GQJ.mp3
 - Summary from show notes: I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API.
+
+### All-In — The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs
+- Date: 2026-07-28
+- Duration: 01:08:35
+- Tags: AI, Career, Markets, Politics, Startups, Business, Tech
+- Episode: https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged Robot Dogs, Not Humanoids (13:18) Dr. Thanks to our partners for making this possible!
 
 ### Prof G Markets — China Is Undercutting America’s AI Giants
 - Date: 2026-07-28
@@ -49,13 +64,6 @@ Generated: 2026-07-28 23:44 PDT
 - Tags: AI, Startups, Business, Career, Cricket, Content, Business Ideas
 - Audio: https://episode.flightcast.com/01KY8K6N0ZK2WRGJQYKCQ8WK47.mp3
 - Summary from show notes: Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox — an AI-first product built on top of WordPress — and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners.
-
-### Prof G Markets — How Big Tech Offloaded The Risk Of AI
-- Date: 2026-07-27
-- Duration: 4599
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8000199857.mp3
-- Summary from show notes: Scott Galloway and Ed Elson unpack why they think investors should be paying closer attention to the off-balance-sheet obligations behind Big Tech's AI buildout. Then, they examine how rising oil prices and a new wave of tariffs could keep inflation elevated and why they believe China has emerged as one of the biggest beneficiaries of the conflict with Iran. Finally, they break down the surge in new business applications and explain what they think is behind the apparent small-business boom.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
