@@ -1,6 +1,34 @@
 {
   "episodes": [
     {
+      "id": "8f6787696a3dec0b",
+      "podcast": "The Startup Ideas Podcast",
+      "short_name": "Startup Ideas",
+      "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "accent": "#f97316",
+      "emoji": "\ud83d\ude80",
+      "title": "Jack Dorsey's Buzz: The New Hermes Agent?",
+      "url": "",
+      "audio_url": "https://episode.flightcast.com/01KYNAEAFTM53RVGFH2PJ12GQJ.mp3",
+      "guid": "flightcast:01KYNAEAFTENN2T68JS9ZDGEJ7",
+      "published_at": "2026-07-28T22:10:00+00:00",
+      "published_date": "2026-07-28",
+      "published_month": "2026-07",
+      "duration": "2324",
+      "summary": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API.",
+      "show_notes": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API. I press him for the honest state of the software and for the setup advice he actually uses day to day. By the end I share where I land on Buzz versus Slack, and why I think anyone building right now gains from putting their hands on tools like this. Timestamps 00:00 \u2013 Intro 02:57 \u2013 Agents as First-Class Team Members 03:49 \u2013 Swappable Harnesses Under Any Agent 06:55 \u2013 Audio Huddles With Agents 08:34 \u2013 Git, Feature Branches, and Parallel Worktrees 11:20 \u2013 Building a CRM App with Buzz and Agents 13:43 \u2013 Why This Matters 18:13 \u2013 Best way to engage with your Agents 23:53 \u2013 Shared Compute and Local Models 25:42 \u2013 Model Choice, Data Ownership, and Lock-In 27:36 \u2013 Context as the Foundation 29:39 \u2013 Setting Up Agents 31:21 \u2013 Skills and Speed 33:03 \u2013 Who Should Try Buzz Today 34:36 \u2013 My Take: Live in the Future 38:10\u2013 Closing Thoughts Key Points Buzz treats agents as members of your team, so one shared chat becomes the context layer for humans and agents together. The harness under any agent swaps freely, and every chat, project, and decision comes along for the ride. Globally installed agent skills stay available inside Buzz, so an existing Claude Code setup carries straight over. Agents branch, work in parallel worktrees, push to Git hosting on your own relay, and ship live apps end to end. Shared compute lets a small team run one local model on one machine and use it from many computers. Buzz sits in early preview today, which makes it a strong fit for solopreneurs and small teams iterating fast. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND VINNY ON SOCIAL: X/Twitter: https://x.com/hot_town Youtube: https://www.youtube.com/channel/UCHP5Hdx0X-sM0uv2bl_OOqg",
+      "tags": [
+        "AI",
+        "Startups",
+        "Career",
+        "Content",
+        "Business Ideas",
+        "Saas"
+      ],
+      "source": "favorite_feed"
+    },
+    {
       "id": "8867c7c61dd36278",
       "podcast": "Prof G Markets",
       "short_name": "Prof G Markets",
@@ -148337,6 +148365,34 @@
   ],
   "ytd": [
     {
+      "id": "8f6787696a3dec0b",
+      "podcast": "The Startup Ideas Podcast",
+      "short_name": "Startup Ideas",
+      "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "accent": "#f97316",
+      "emoji": "\ud83d\ude80",
+      "title": "Jack Dorsey's Buzz: The New Hermes Agent?",
+      "url": "",
+      "audio_url": "https://episode.flightcast.com/01KYNAEAFTM53RVGFH2PJ12GQJ.mp3",
+      "guid": "flightcast:01KYNAEAFTENN2T68JS9ZDGEJ7",
+      "published_at": "2026-07-28T22:10:00+00:00",
+      "published_date": "2026-07-28",
+      "published_month": "2026-07",
+      "duration": "2324",
+      "summary": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API.",
+      "show_notes": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API. I press him for the honest state of the software and for the setup advice he actually uses day to day. By the end I share where I land on Buzz versus Slack, and why I think anyone building right now gains from putting their hands on tools like this. Timestamps 00:00 \u2013 Intro 02:57 \u2013 Agents as First-Class Team Members 03:49 \u2013 Swappable Harnesses Under Any Agent 06:55 \u2013 Audio Huddles With Agents 08:34 \u2013 Git, Feature Branches, and Parallel Worktrees 11:20 \u2013 Building a CRM App with Buzz and Agents 13:43 \u2013 Why This Matters 18:13 \u2013 Best way to engage with your Agents 23:53 \u2013 Shared Compute and Local Models 25:42 \u2013 Model Choice, Data Ownership, and Lock-In 27:36 \u2013 Context as the Foundation 29:39 \u2013 Setting Up Agents 31:21 \u2013 Skills and Speed 33:03 \u2013 Who Should Try Buzz Today 34:36 \u2013 My Take: Live in the Future 38:10\u2013 Closing Thoughts Key Points Buzz treats agents as members of your team, so one shared chat becomes the context layer for humans and agents together. The harness under any agent swaps freely, and every chat, project, and decision comes along for the ride. Globally installed agent skills stay available inside Buzz, so an existing Claude Code setup carries straight over. Agents branch, work in parallel worktrees, push to Git hosting on your own relay, and ship live apps end to end. Shared compute lets a small team run one local model on one machine and use it from many computers. Buzz sits in early preview today, which makes it a strong fit for solopreneurs and small teams iterating fast. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND VINNY ON SOCIAL: X/Twitter: https://x.com/hot_town Youtube: https://www.youtube.com/channel/UCHP5Hdx0X-sM0uv2bl_OOqg",
+      "tags": [
+        "AI",
+        "Startups",
+        "Career",
+        "Content",
+        "Business Ideas",
+        "Saas"
+      ],
+      "source": "favorite_feed"
+    },
+    {
       "id": "8867c7c61dd36278",
       "podcast": "Prof G Markets",
       "short_name": "Prof G Markets",
@@ -168152,16 +168208,16 @@
     }
   ],
   "stats": {
-    "total_available": 5197,
-    "ytd_count": 687,
-    "recent_count": 19,
+    "total_available": 5198,
+    "ytd_count": 688,
+    "recent_count": 6,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "Startup Ideas": 64,
       "Prof G Markets": 147,
       "Grade Cricketer": 67,
       "TWIST": 93,
-      "Startup Ideas": 63,
       "Modern Wisdom": 89,
       "DOAC": 89,
       "All-In": 69,
@@ -168169,10 +168225,10 @@
     },
     "by_tag": {
       "Business": 543,
-      "AI": 415,
-      "Content": 398,
-      "Career": 368,
-      "Startups": 316,
+      "AI": 416,
+      "Content": 399,
+      "Career": 369,
+      "Startups": 317,
       "Finance": 262,
       "Markets": 216,
       "Health": 205,
@@ -168194,9 +168250,37 @@
       "2026-04": 96,
       "2026-05": 87,
       "2026-06": 100,
-      "2026-07": 83
+      "2026-07": 84
     },
     "latest_by_podcast": {
+      "Startup Ideas": {
+        "id": "8f6787696a3dec0b",
+        "podcast": "The Startup Ideas Podcast",
+        "short_name": "Startup Ideas",
+        "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+        "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+        "accent": "#f97316",
+        "emoji": "\ud83d\ude80",
+        "title": "Jack Dorsey's Buzz: The New Hermes Agent?",
+        "url": "",
+        "audio_url": "https://episode.flightcast.com/01KYNAEAFTM53RVGFH2PJ12GQJ.mp3",
+        "guid": "flightcast:01KYNAEAFTENN2T68JS9ZDGEJ7",
+        "published_at": "2026-07-28T22:10:00+00:00",
+        "published_date": "2026-07-28",
+        "published_month": "2026-07",
+        "duration": "2324",
+        "summary": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API.",
+        "show_notes": "I sit down with Vinny for a live tour of Buzz, an open source, agent-native chat app from Block built on an open protocol. Vinny makes the case that openness is the real story here: agents arrive as first-class teammates, the harness underneath each agent swaps freely between Claude Code, Codex, Goose, and open code, and your entire chat context travels with you through every swap. He demos real output, including a CRM app built with the Wasp full stack framework and deployed to Railway, plus a tweet leaderboard that pipes daily stats back into a channel through a public API. I press him for the honest state of the software and for the setup advice he actually uses day to day. By the end I share where I land on Buzz versus Slack, and why I think anyone building right now gains from putting their hands on tools like this. Timestamps 00:00 \u2013 Intro 02:57 \u2013 Agents as First-Class Team Members 03:49 \u2013 Swappable Harnesses Under Any Agent 06:55 \u2013 Audio Huddles With Agents 08:34 \u2013 Git, Feature Branches, and Parallel Worktrees 11:20 \u2013 Building a CRM App with Buzz and Agents 13:43 \u2013 Why This Matters 18:13 \u2013 Best way to engage with your Agents 23:53 \u2013 Shared Compute and Local Models 25:42 \u2013 Model Choice, Data Ownership, and Lock-In 27:36 \u2013 Context as the Foundation 29:39 \u2013 Setting Up Agents 31:21 \u2013 Skills and Speed 33:03 \u2013 Who Should Try Buzz Today 34:36 \u2013 My Take: Live in the Future 38:10\u2013 Closing Thoughts Key Points Buzz treats agents as members of your team, so one shared chat becomes the context layer for humans and agents together. The harness under any agent swaps freely, and every chat, project, and decision comes along for the ride. Globally installed agent skills stay available inside Buzz, so an existing Claude Code setup carries straight over. Agents branch, work in parallel worktrees, push to Git hosting on your own relay, and ship live apps end to end. Shared compute lets a small team run one local model on one machine and use it from many computers. Buzz sits in early preview today, which makes it a strong fit for solopreneurs and small teams iterating fast. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND VINNY ON SOCIAL: X/Twitter: https://x.com/hot_town Youtube: https://www.youtube.com/channel/UCHP5Hdx0X-sM0uv2bl_OOqg",
+        "tags": [
+          "AI",
+          "Startups",
+          "Career",
+          "Content",
+          "Business Ideas",
+          "Saas"
+        ],
+        "source": "favorite_feed"
+      },
       "Prof G Markets": {
         "id": "8867c7c61dd36278",
         "podcast": "Prof G Markets",
@@ -168279,35 +168363,6 @@
           "Content",
           "Startups",
           "Venture"
-        ],
-        "source": "favorite_feed"
-      },
-      "Startup Ideas": {
-        "id": "c42ef2887c637e47",
-        "podcast": "The Startup Ideas Podcast",
-        "short_name": "Startup Ideas",
-        "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-        "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-        "accent": "#f97316",
-        "emoji": "\ud83d\ude80",
-        "title": "How I use Claude Code + MCPs to run my marketing",
-        "url": "",
-        "audio_url": "https://episode.flightcast.com/01KY8K6N0ZK2WRGJQYKCQ8WK47.mp3",
-        "guid": "flightcast:01KY8K6N0ZE0MBD7S220TV7NXQ",
-        "published_at": "2026-07-27T18:20:00+00:00",
-        "published_date": "2026-07-27",
-        "published_month": "2026-07",
-        "duration": "2267",
-        "summary": "Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox \u2014 an AI-first product built on top of WordPress \u2014 and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners.",
-        "show_notes": "Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox \u2014 an AI-first product built on top of WordPress \u2014 and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners. You leave with a business idea, the exact infrastructure list, and the tools we use to run it today. Timestamps: 00:00 \u2013 Intro 01:54 \u2013 Defining a Marketing Agent 04:00 \u2013 Startup Idea: AI for WordPress 07:27 \u2013 AI-First Plugin Ideas: Yoast, WPForms, WooCommerce, Akismet 09:55 \u2013 The current state of Meta Ads 12:48 \u2013 Bundling the Stack and Choosing Channels 15:23 \u2013 Two creative pipelines: static and video 17:25 \u2013 The Data pipeline and warehouse 24:11 \u2013 Ad strategy 25:51 \u2013 Solving for Entropy 28:01 \u2013 Let the market pick the winner 34:26 \u2013 Closing Thoughts Key Points WordPress powers 43% of all indexed websites, which leaves a wide open lane for AI-first products built on that stack. A marketing agent earns the name when it owns live data, runs on a cadence, and learns from its own results. The infrastructure comes down to three pieces: a pipeline (Airbyte), a warehouse (ClickHouse), and cloud hosting (Heroku, Railway, or similar). Facebook's Andromeda algorithm reads your creative and your landing page, so the ad copy now carries the targeting. Fresh inputs \u2014 competitor ad libraries, YouTube transcripts, podcast transcripts \u2014 keep agent creative varied over time. Paid ads let you test a thousand angles and read the market's verdict inside 48 hours. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND CODY ON SOCIAL: Cody\u2019s startup: https://www.graphed.com/ X/Twitter: https://x.com/codyschneiderxx Youtube: https://www.youtube.com/@codyschneiderx",
-        "tags": [
-          "AI",
-          "Startups",
-          "Business",
-          "Career",
-          "Cricket",
-          "Content",
-          "Business Ideas"
         ],
         "source": "favorite_feed"
       },
