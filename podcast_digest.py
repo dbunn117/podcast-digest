@@ -7,7 +7,7 @@ and writes:
 - /root/podcast-digest/data/latest_digest.md
 - /root/podcast-digest/docs/index.html
 - /root/podcast-digest/docs/episodes.json
-- Obsidian daily digest note under 08 Podcasts/Daily Digests/
+- Obsidian daily digest note under 01 Personal/Media/Podcasts/Daily Digests/
 
 The dashboard is a static modern SaaS-style app: all interactivity is client-side
 from docs/episodes.json so it works on GitHub Pages without a backend.
@@ -812,7 +812,7 @@ def main():
 
     if args.write:
         vault = Path(config['obsidian_vault'])
-        outdir = vault / '08 Podcasts' / 'Daily Digests'
+        outdir = vault / '01 Personal' / 'Media' / 'Podcasts' / 'Daily Digests'
         outdir.mkdir(parents=True, exist_ok=True)
         out = outdir / (datetime.now(PACIFIC).date().isoformat() + ' Podcast Digest.md')
         out.write_text(digest, encoding='utf-8')
