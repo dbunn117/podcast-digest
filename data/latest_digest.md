@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-07-29
+# Podcast Digest - 2026-07-30
 
-Generated: 2026-07-29 14:35 PDT
+Generated: 2026-07-30 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,42 @@ Generated: 2026-07-29 14:35 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — Economies of Scale, Vertical Integration, and the Brand I Love Most | Ep 989
+- Date: 2026-07-30
+- Duration: 477
+- Tags: Startups, Business, Entrepreneurship, Sales, Offers, Pricing, Content
+- Audio: https://episode.flightcast.com/01KYQYJFYY843C66A4SKFJDNHY.mp3
+- Summary from show notes: Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.
+
+### Prof G Markets — Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?
+- Date: 2026-07-30
+- Duration: 2018
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3158844476.mp3
+- Summary from show notes: Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what’s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve’s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA’s decision to sell its profits.
+
+### Modern Wisdom — Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130
+- Date: 2026-07-29
+- Duration: 7147
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3
+- Summary from show notes: Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.
+
+### DOAC — Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next
+- Date: 2026-07-29
+- Duration: 5417
+- Tags: AI, Startups, Business, Finance, Career, Parenting, Health
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPGERGFRM4QSQ38CEA48EH.mp3
+- Summary from show notes: The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next. Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management.
+
+### TWIST — Banning Chinese robots isn't regulatory capture | E2318
+- Date: 2026-07-29
+- Duration: 01:25:49
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/banning-chinese-robots-isnt-regulatory-capture-e2318
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2318_.mp4?dest-id=5500155
+- Summary from show notes: This Week In Startups is made possible by: Northwest Registered Agent- NorthwestRegisteredAgent.com/twist Odoo - Odoo.com/twist MongoDB - MongoDB.com/ai Today's show: The FCC's decision to ban Chinese humanoid robots over security concerns is a boon to American startups, which now face a narrower competitive market. But where should we draw the line on security over competition? Menlo Ventures' Deedy Das, Weisburd Pierce's David Weisburd, Plexo Capital's Lo Toney, and LAUNCH's Jason Calcanis broke down how they differentiate between legitimate security concerns and purported regulatory capture.
+
 ### Prof G Markets — Why The Nasdaq Just Hit Correction Territory
 - Date: 2026-07-29
 - Duration: 2104
@@ -129,34 +165,6 @@ Generated: 2026-07-29 14:35 PDT
 - Tags: Health, Psychology, Business, Relationships, Performance
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8E2SXET5ZF41S8MT010ZHN.mp3
 - Summary from show notes: Why comfort might be costing you more than you think. Matthew McConaughey is an Academy Award-winning actor, bestselling author, and a famously thoughtful voice on purpose, resilience and living with intention. In this Moment, Matthew McConaughey shares why growth requires resistance, what our obsession with comfort is doing to us, and the mindset shift that changed the way he approaches life's biggest challenges.
-
-### The Game — Why Winners Say No | Ep 988
-- Date: 2026-07-23
-- Duration: 500
-- Tags: Business, Career, Entrepreneurship, Sales, Offers, Pricing, Content
-- Audio: https://episode.flightcast.com/01KY5M2Q2225YPFVER0GAWZ26B.mp3
-- Summary from show notes: Book Your Spot at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas The early stages of business growth require exploration. However, progressive scaling requires isolation, focus, and ruthless prioritization. In today’s episode, Alex explains why the best opportunities come after doing the work, why winners separate themselves by saying no, and how speed in decision-making creates an unfair advantage.
-
-### Prof G Markets — AI Has A Hidden Debt Problem
-- Date: 2026-07-23
-- Duration: 2538
-- Tags: AI, Startups, Finance, Content, Markets, Business, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7356991440.mp3
-- Summary from show notes: Ed Elson is joined by Ed Zitron to explore why AI companies have racked up so much debt and how they are able to keep it off their balance sheets. Then, Karim Bousta joins to give his takeaways from Tesla’s earnings and explain why the company is still struggling with its profits. Finally, Scott Devitt returns to break down Google’s earnings and whether or not he’s concerned about the company’s negative free cash flow.
-
-### Modern Wisdom — Something Scary Is Happening In Biolabs - Annie Jacobsen - #1127
-- Date: 2026-07-22
-- Duration: 5823
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9880024335.mp3
-- Summary from show notes: Annie Jacobsen is a journalist, investigative reporter and an author. For decades, nuclear war has been humanity’s greatest existential fear. But the next global catastrophe may not arrive with a mushroom cloud—it could begin inside a laboratory.
-
-### DOAC — URGENT UPDATE - Iran War Expert: 70% Chance US Sends Troops To Iran THIS WEEK! | Robert Pape
-- Date: 2026-07-22
-- Duration: 6059
-- Tags: Business, Career, Health, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY5REWH1S1DCZDF7H3S0PEBR.mp3
-- Summary from show notes: The War everyone assumed was over may be about to become something far worse than we could have expected. Professor Robert Pape explains exactly why the deadliest phase of this war is still ahead, and how this could trigger a wave of terror across the world. Robert Pape is a Professor of Political Science at the University of Chicago and director of the Chicago Project on Security and Threats.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
