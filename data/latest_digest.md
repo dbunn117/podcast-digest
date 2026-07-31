@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-07-30
+# Podcast Digest - 2026-07-31
 
-Generated: 2026-07-30 23:00 PDT
+Generated: 2026-07-31 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,20 @@ Generated: 2026-07-30 23:00 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Jim Chanos: We’re In The Golden Age Of Fraud
+- Date: 2026-07-31
+- Duration: 4119
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6343962110.mp3
+- Summary from show notes: Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world’s oldest exclusive short selling investment firm.
+
+### DOAC — Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature
+- Date: 2026-07-30
+- Duration: 1966
+- Tags: Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3
+- Summary from show notes: What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you.
+
 ### Grade Cricketer — The dark arts of club cricket | Raw & Order
 - Date: 2026-07-30
 - Duration: 795
@@ -159,13 +173,6 @@ Generated: 2026-07-30 23:00 PDT
 - Tags: AI, Startups, Business, Career, Parenting, Cricket, Content
 - Audio: https://episode.flightcast.com/01KY8K7NGPEK2DSADXPRFJM9VK.mp3
 - Summary from show notes: I welcome Ryan Carson back to the show to turn anyone into a world-class agent operator. Ryan spent 25 years founding companies, scaled Treehouse to around 110 employees and a million learners, and now runs Untangle, an AI divorce agent for family law firms, as a team of one while his revenue tracks toward 4x this month. He walks me through his full stack: running cloud agents in parallel, building automations that watch production and improve themselves, and shipping 22 to 40 PRs a day, often from his phone.
-
-### Prof G Markets — America’s Economy Is Entering a New Era — ft. Noah Smith
-- Date: 2026-07-24
-- Duration: 3688
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8445976479.mp3
-- Summary from show notes: Ed Elson and Scott Galloway are joined by Noah Smith for a livestream to discuss what AI issues he thinks deserve more attention and whether or not he is concerned about AI dumping. They also explore why he believes a sovereign wealth fund could help address wealth inequality and what America's fertility decline could mean for the economy in the decades ahead. For access to future livestreams, you can  com Learn more about your ad choices.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

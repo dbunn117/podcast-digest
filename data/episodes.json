@@ -1,6 +1,84 @@
 {
   "episodes": [
     {
+      "id": "b12facda48148d85",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/e6535eca-c3c8-11f0-b1f3-e37977794923/image/89bf7447486b89813be1657f5eb603b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Jim Chanos: We\u2019re In The Golden Age Of Fraud",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6343962110.mp3",
+      "guid": "e6535eca-c3c8-11f0-b1f3-e37977794923",
+      "published_at": "2026-07-31T08:15:00+00:00",
+      "published_date": "2026-07-31",
+      "published_month": "2026-07",
+      "duration": "4119",
+      "summary": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm.",
+      "show_notes": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Finance",
+        "Content",
+        "Markets",
+        "Investing"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:33:26.173406-07:00",
+      "transcript_takeaways": [
+        "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation.",
+        "Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets.",
+        "The dot-com lesson is not \u201cthe technology was fake\u201d; it\u2019s that useful infrastructure can still burn investors and operators when demand is over-forecast. In consulting, help clients right-size AI spend: start with narrow use cases, utilization tracking, and cancellation points before committing to big platforms.",
+        "Concrete action: build a simple AI project ROI template for Alpha Infra discovery calls: upfront cost, recurring cost, workflow hours saved, quality/risk improvement, utilization assumptions, payback period, and \u201cwhat would make us stop?\u201d criteria."
+      ],
+      "transcript_summary": "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation. Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets."
+    },
+    {
+      "id": "15993ee6b212ab8b",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KY8F1BT2SQ0YPYP54CZ0EW3S/square_cover_image.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3",
+      "guid": "flightcast:01KY8EX4JD9B45H9EB9MR6QGQ9",
+      "published_at": "2026-07-31T05:00:00+00:00",
+      "published_date": "2026-07-30",
+      "published_month": "2026-07",
+      "duration": "1966",
+      "summary": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you.",
+      "show_notes": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you. Listen to the full episode here! Spotify: https://g2ul0.app.link/9k4pMiF564b Apple: https://g2ul0.app.link/eAG8tCJ564b Watch the Episodes On YouTube: \u2060\u2060https://www.youtube.com/c/%20TheDiaryOfACEO/videos",
+      "tags": [
+        "Health",
+        "Psychology",
+        "Business",
+        "Relationships",
+        "Performance"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:35:44.108169-07:00",
+      "transcript_takeaways": [
+        "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions.",
+        "The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior.",
+        "Motivation is context-specific: \u201cmoney\u201d may dominate in high-risk betrayal scenarios, but startup/business recruiting also depends on identity, excitement, family security, ideology, and status. In discovery calls, David should ask what outcome the buyer personally needs, not assume ROI alone closes the deal.",
+        "The CIA \u201cvulnerability/hook\u201d framing translates carefully into ethical sales: identify the real business pain \u2014 manual reporting, tax/admin pressure, data chaos, client bottlenecks \u2014 then offer a concrete path to relief. Avoid manipulative spycraft; use the insight to improve diagnosis and fit."
+      ],
+      "transcript_summary": "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions. The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior."
+    },
+    {
       "id": "7892b4e063b375ba",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -26,7 +104,17 @@
         "Culture"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:37:06.509197-07:00",
+      "transcript_takeaways": [
+        "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in.",
+        "**Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem.",
+        "**Business implication:** there\u2019s consulting value in helping firms distinguish serious risk from noisy outrage. A practical AI audit could include \u201csignal vs noise\u201d triage for customer complaints, compliance flags, reputation events, or internal incidents.",
+        "**Concrete action for David:** package a simple \u201cincident-response knowledge base + triage bot\u201d offer for SMBs/CPA/real-estate operators: collect facts, classify severity, draft internal comms, preserve evidence, and recommend escalation paths \u2014 without pretending every issue is a five-alarm crisis."
+      ],
+      "transcript_summary": "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in. **Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem."
     },
     {
       "id": "c4aafccd1696948a",
@@ -153851,6 +153939,84 @@
   ],
   "ytd": [
     {
+      "id": "b12facda48148d85",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/e6535eca-c3c8-11f0-b1f3-e37977794923/image/89bf7447486b89813be1657f5eb603b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Jim Chanos: We\u2019re In The Golden Age Of Fraud",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6343962110.mp3",
+      "guid": "e6535eca-c3c8-11f0-b1f3-e37977794923",
+      "published_at": "2026-07-31T08:15:00+00:00",
+      "published_date": "2026-07-31",
+      "published_month": "2026-07",
+      "duration": "4119",
+      "summary": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm.",
+      "show_notes": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Finance",
+        "Content",
+        "Markets",
+        "Investing"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:33:26.173406-07:00",
+      "transcript_takeaways": [
+        "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation.",
+        "Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets.",
+        "The dot-com lesson is not \u201cthe technology was fake\u201d; it\u2019s that useful infrastructure can still burn investors and operators when demand is over-forecast. In consulting, help clients right-size AI spend: start with narrow use cases, utilization tracking, and cancellation points before committing to big platforms.",
+        "Concrete action: build a simple AI project ROI template for Alpha Infra discovery calls: upfront cost, recurring cost, workflow hours saved, quality/risk improvement, utilization assumptions, payback period, and \u201cwhat would make us stop?\u201d criteria."
+      ],
+      "transcript_summary": "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation. Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets."
+    },
+    {
+      "id": "15993ee6b212ab8b",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KY8F1BT2SQ0YPYP54CZ0EW3S/square_cover_image.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3",
+      "guid": "flightcast:01KY8EX4JD9B45H9EB9MR6QGQ9",
+      "published_at": "2026-07-31T05:00:00+00:00",
+      "published_date": "2026-07-30",
+      "published_month": "2026-07",
+      "duration": "1966",
+      "summary": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you.",
+      "show_notes": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you. Listen to the full episode here! Spotify: https://g2ul0.app.link/9k4pMiF564b Apple: https://g2ul0.app.link/eAG8tCJ564b Watch the Episodes On YouTube: \u2060\u2060https://www.youtube.com/c/%20TheDiaryOfACEO/videos",
+      "tags": [
+        "Health",
+        "Psychology",
+        "Business",
+        "Relationships",
+        "Performance"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:35:44.108169-07:00",
+      "transcript_takeaways": [
+        "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions.",
+        "The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior.",
+        "Motivation is context-specific: \u201cmoney\u201d may dominate in high-risk betrayal scenarios, but startup/business recruiting also depends on identity, excitement, family security, ideology, and status. In discovery calls, David should ask what outcome the buyer personally needs, not assume ROI alone closes the deal.",
+        "The CIA \u201cvulnerability/hook\u201d framing translates carefully into ethical sales: identify the real business pain \u2014 manual reporting, tax/admin pressure, data chaos, client bottlenecks \u2014 then offer a concrete path to relief. Avoid manipulative spycraft; use the insight to improve diagnosis and fit."
+      ],
+      "transcript_summary": "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions. The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior."
+    },
+    {
       "id": "7892b4e063b375ba",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -153876,7 +154042,17 @@
         "Culture"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-07-31T07:37:06.509197-07:00",
+      "transcript_takeaways": [
+        "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in.",
+        "**Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem.",
+        "**Business implication:** there\u2019s consulting value in helping firms distinguish serious risk from noisy outrage. A practical AI audit could include \u201csignal vs noise\u201d triage for customer complaints, compliance flags, reputation events, or internal incidents.",
+        "**Concrete action for David:** package a simple \u201cincident-response knowledge base + triage bot\u201d offer for SMBs/CPA/real-estate operators: collect facts, classify severity, draft internal comms, preserve evidence, and recommend escalation paths \u2014 without pretending every issue is a five-alarm crisis."
+      ],
+      "transcript_summary": "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in. **Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem."
     },
     {
       "id": "c4aafccd1696948a",
@@ -174700,34 +174876,34 @@
     }
   ],
   "stats": {
-    "total_available": 5205,
-    "ytd_count": 696,
-    "recent_count": 21,
+    "total_available": 5207,
+    "ytd_count": 698,
+    "recent_count": 22,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "Prof G Markets": 150,
+      "DOAC": 91,
       "Grade Cricketer": 68,
       "The Game": 71,
-      "Prof G Markets": 149,
       "Modern Wisdom": 90,
-      "DOAC": 90,
       "TWIST": 94,
       "Startup Ideas": 64,
       "All-In": 70
     },
     "by_tag": {
-      "Business": 549,
-      "AI": 422,
-      "Content": 403,
+      "Business": 551,
+      "AI": 423,
+      "Content": 404,
       "Career": 373,
-      "Startups": 322,
-      "Finance": 266,
-      "Markets": 219,
-      "Health": 207,
-      "Psychology": 178,
-      "Relationships": 159,
-      "Investing": 147,
-      "Performance": 147,
+      "Startups": 323,
+      "Finance": 267,
+      "Markets": 220,
+      "Health": 208,
+      "Psychology": 179,
+      "Relationships": 160,
+      "Investing": 148,
+      "Performance": 148,
       "Strategy": 117,
       "Cricket": 89,
       "Sport": 78,
@@ -174742,9 +174918,87 @@
       "2026-04": 96,
       "2026-05": 87,
       "2026-06": 100,
-      "2026-07": 92
+      "2026-07": 94
     },
     "latest_by_podcast": {
+      "Prof G Markets": {
+        "id": "b12facda48148d85",
+        "podcast": "Prof G Markets",
+        "short_name": "Prof G Markets",
+        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/e6535eca-c3c8-11f0-b1f3-e37977794923/image/89bf7447486b89813be1657f5eb603b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "accent": "#22c55e",
+        "emoji": "\ud83d\udcc8",
+        "title": "Jim Chanos: We\u2019re In The Golden Age Of Fraud",
+        "url": "",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6343962110.mp3",
+        "guid": "e6535eca-c3c8-11f0-b1f3-e37977794923",
+        "published_at": "2026-07-31T08:15:00+00:00",
+        "published_date": "2026-07-31",
+        "published_month": "2026-07",
+        "duration": "4119",
+        "summary": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm.",
+        "show_notes": "Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world\u2019s oldest exclusive short selling investment firm. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "tags": [
+          "AI",
+          "Startups",
+          "Business",
+          "Finance",
+          "Content",
+          "Markets",
+          "Investing"
+        ],
+        "source": "favorite_feed",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-31T07:33:26.173406-07:00",
+        "transcript_takeaways": [
+          "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation.",
+          "Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets.",
+          "The dot-com lesson is not \u201cthe technology was fake\u201d; it\u2019s that useful infrastructure can still burn investors and operators when demand is over-forecast. In consulting, help clients right-size AI spend: start with narrow use cases, utilization tracking, and cancellation points before committing to big platforms.",
+          "Concrete action: build a simple AI project ROI template for Alpha Infra discovery calls: upfront cost, recurring cost, workflow hours saved, quality/risk improvement, utilization assumptions, payback period, and \u201cwhat would make us stop?\u201d criteria."
+        ],
+        "transcript_summary": "AI consulting buyers need ROI proof, not \u201cAI is inevitable\u201d decks: Chanos\u2019 key question is whether AI capex converts into real productivity for ordinary enterprises like banks, manufacturers, and operators. Position pilots around measurable workflow savings, not abstract transformation. Watch for accounting/CapEx distortion in AI vendor claims: infrastructure sellers book revenue now while buyers capitalize spend over years. For David, this is a useful diligence lens when evaluating AI startups, tools, or client \u201cAI strategy\u201d budgets."
+      },
+      "DOAC": {
+        "id": "15993ee6b212ab8b",
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "short_name": "DOAC",
+        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KY8F1BT2SQ0YPYP54CZ0EW3S/square_cover_image.jpg",
+        "accent": "#dc2626",
+        "emoji": "\ud83c\udf99\ufe0f",
+        "title": "Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature",
+        "url": "",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3",
+        "guid": "flightcast:01KY8EX4JD9B45H9EB9MR6QGQ9",
+        "published_at": "2026-07-31T05:00:00+00:00",
+        "published_date": "2026-07-30",
+        "published_month": "2026-07",
+        "duration": "1966",
+        "summary": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you.",
+        "show_notes": "What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you. Listen to the full episode here! Spotify: https://g2ul0.app.link/9k4pMiF564b Apple: https://g2ul0.app.link/eAG8tCJ564b Watch the Episodes On YouTube: \u2060\u2060https://www.youtube.com/c/%20TheDiaryOfACEO/videos",
+        "tags": [
+          "Health",
+          "Psychology",
+          "Business",
+          "Relationships",
+          "Performance"
+        ],
+        "source": "favorite_feed",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-31T07:35:44.108169-07:00",
+        "transcript_takeaways": [
+          "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions.",
+          "The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior.",
+          "Motivation is context-specific: \u201cmoney\u201d may dominate in high-risk betrayal scenarios, but startup/business recruiting also depends on identity, excitement, family security, ideology, and status. In discovery calls, David should ask what outcome the buyer personally needs, not assume ROI alone closes the deal.",
+          "The CIA \u201cvulnerability/hook\u201d framing translates carefully into ethical sales: identify the real business pain \u2014 manual reporting, tax/admin pressure, data chaos, client bottlenecks \u2014 then offer a concrete path to relief. Avoid manipulative spycraft; use the insight to improve diagnosis and fit."
+        ],
+        "transcript_summary": "CIA-style briefings are a useful model for AI consulting deliverables: give clients what they need to know, ranked by urgency, not a long analysis dump. David could structure AI audit outputs as \u201croutine / priority / immediate / critical\u201d actions. The strongest operator lesson is direct source verification: instead of debating whether Iraq would invade Kuwait, the analyst called someone who could physically check. For AI/data consulting, build workflows that reduce speculation by pulling from source systems, documents, logs, and actual user behavior."
+      },
       "Grade Cricketer": {
         "id": "7892b4e063b375ba",
         "podcast": "The Grade Cricketer",
@@ -174771,7 +175025,17 @@
           "Culture"
         ],
         "source": "favorite_feed",
-        "transcript_status": "not_ingested"
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-07-31T07:37:06.509197-07:00",
+        "transcript_takeaways": [
+          "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in.",
+          "**Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem.",
+          "**Business implication:** there\u2019s consulting value in helping firms distinguish serious risk from noisy outrage. A practical AI audit could include \u201csignal vs noise\u201d triage for customer complaints, compliance flags, reputation events, or internal incidents.",
+          "**Concrete action for David:** package a simple \u201cincident-response knowledge base + triage bot\u201d offer for SMBs/CPA/real-estate operators: collect facts, classify severity, draft internal comms, preserve evidence, and recommend escalation paths \u2014 without pretending every issue is a five-alarm crisis."
+        ],
+        "transcript_summary": "**Reputation lesson:** small \u201clocal\u201d incidents can become global pile-ons once social media and media incentives take over. For AI/automation clients, crisis workflows should include fast fact-gathering, clear ownership, and answering reasonable questions early before the story fills itself in. **Operator lesson:** every system has informal rules and local justice mechanisms. Before \u201cfixing\u201d a workflow with AI, understand the real culture, incentives, edge cases, and unwritten practices \u2014 otherwise you risk over-engineering against the wrong problem."
       },
       "The Game": {
         "id": "c4aafccd1696948a",
@@ -174813,46 +175077,6 @@
         ],
         "transcript_summary": "Economies of scale only matter if they create a real cost or data advantage; for AI consulting, avoid competing as a \u201ccheap automation person\u201d unless David can build repeatable assets, templates, datasets, or workflows that improve margins over time. \u201cSecond cheapest\u201d is a trap: price small AI pilots around specific business outcomes like faster reporting, document triage, or deal review, not hourly undercutting. If low-cost is not the moat, lead with trust, domain expertise, and proof."
       },
-      "Prof G Markets": {
-        "id": "9f760031f87067fc",
-        "podcast": "Prof G Markets",
-        "short_name": "Prof G Markets",
-        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "image": "https://megaphone.imgix.net/podcasts/e5e825b0-c3c8-11f0-b1f3-bfc7438d1149/image/4d8110de9b7c05ad9b4d1ea718cc4935.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "accent": "#22c55e",
-        "emoji": "\ud83d\udcc8",
-        "title": "Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?",
-        "url": "",
-        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3158844476.mp3",
-        "guid": "e5e825b0-c3c8-11f0-b1f3-bfc7438d1149",
-        "published_at": "2026-07-30T08:15:00+00:00",
-        "published_date": "2026-07-30",
-        "published_month": "2026-07",
-        "duration": "2018",
-        "summary": "Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what\u2019s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve\u2019s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA\u2019s decision to sell its profits.",
-        "show_notes": "Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what\u2019s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve\u2019s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA\u2019s decision to sell its profits. Gil Luria is the Head of Technology Research at D.A. Davidson. Mike Gapen is the managing director and Chief U.S. Economist at Morgan Stanley. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-        "tags": [
-          "AI",
-          "Finance",
-          "Content",
-          "Markets",
-          "Business",
-          "Investing",
-          "Strategy"
-        ],
-        "source": "favorite_feed",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-07-30T07:34:36.592769-07:00",
-        "transcript_takeaways": [
-          "Microsoft\u2019s AI story is working because Azure growth and software margins are funding the buildout; for AI consulting, anchor offers in measurable operating ROI, not \u201cAI transformation\u201d narrative.",
-          "Meta\u2019s problem is not AI spend itself, but unclear monetization priorities; every pilot David sells should have a named business model, timeline, and success metric before tooling starts.",
-          "\u201cAdult in the room\u201d matters: Microsoft is being rewarded for disciplined capital allocation and positive free cash flow. David\u2019s finance/operator edge is valuable \u2014 position AI work as controlled investment, not experimental tech spend.",
-          "Avoid circular AI hype and leverage-style thinking: build small, cash-flow-relevant systems for clients \u2014 reporting automation, document triage, deal review, client intake \u2014 then use proof before expanding."
-        ],
-        "transcript_summary": "Microsoft\u2019s AI story is working because Azure growth and software margins are funding the buildout; for AI consulting, anchor offers in measurable operating ROI, not \u201cAI transformation\u201d narrative. Meta\u2019s problem is not AI spend itself, but unclear monetization priorities; every pilot David sells should have a named business model, timeline, and success metric before tooling starts."
-      },
       "Modern Wisdom": {
         "id": "b56219109ddbc23b",
         "podcast": "Modern Wisdom",
@@ -174892,36 +175116,6 @@
           "Watch for sophisticated avoidance disguised as productivity: if building dashboards, content, or systems becomes a way to avoid sales conversations, use a weekly review to ask, \u201cWhat concrete business action am I avoiding?\u201d"
         ],
         "transcript_summary": "Build consulting confidence through proof, not positioning: start with small AI audits/pilots, stack evidence from real client outcomes, then let case studies carry the credibility. Don\u2019t \u201cspeedrun\u201d the business opportunity before the delivery muscle is ready; repeated reps in discovery calls, workflow mapping, demos, and messy client implementation are the latent leverage."
-      },
-      "DOAC": {
-        "id": "28af0f4198dbc14a",
-        "podcast": "The Diary Of A CEO with Steven Bartlett",
-        "short_name": "DOAC",
-        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
-        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KYMPKNWF72W5R5B9DSHXDDPA/ray_dalio.ep_cover.jpg",
-        "accent": "#dc2626",
-        "emoji": "\ud83c\udf99\ufe0f",
-        "title": "Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next",
-        "url": "",
-        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPGERGFRM4QSQ38CEA48EH.mp3",
-        "guid": "flightcast:01KYMPGERGG1X4WK6BC5ZR26HG",
-        "published_at": "2026-07-30T05:00:00+00:00",
-        "published_date": "2026-07-29",
-        "published_month": "2026-07",
-        "duration": "5417",
-        "summary": "The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next. Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management.",
-        "show_notes": "The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next. Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management. He is the author of \u2018Principles,\u2019 \u2018Principles for Dealing with the Changing World Order,\u2019 and \u2018How Countries Go Broke'. He explains: \u25fc Why he agrees we are in an AI bubble, and what actually makes bubbles burst \u25fc Why he believes cash is the worst place to store your money over time \u25fc The five forces behind his \"big cycle\u201d, and where he thinks we are now \u25fc Why he says the US and UK are already in the decline, and what comes next \u25fc What AI will do to jobs, and who ends up on each side of the wealth gap The views expressed are those of the guest, and this conversation is intended for general informational purposes only. It should not be taken as financial or investment advice. Chapters 00:00:00 Intro 00:02:35 The AI Bubble: Are We Heading Toward an Economic Collapse? 00:12:17 Why Economic Bubbles Burst\u2014and How to Prepare Before They Do 00:16:45 How to Diversify Your Income Before the Next Downturn 00:23:14 How to Secure Your Financial Future With Little or No Savings 00:27:52 Bitcoin vs. Gold: Which Asset Better Protects Your Wealth? 00:30:06 Who Will Be the Biggest Winners of the AI Revolution? 00:34:48 Will AI Replace Human Workers Faster Than We Expect? 00:43:18 Will AI Create Enough New Jobs to Offset Job Losses? 00:48:15 What Would You Tell Your Kids to Do Right Now? 00:58:44 Can Higher Taxes on the Wealthy Really Reduce Inequality? 01:03:47 Is the UK in Decline\u2014and What Would Turn It Around? 01:08:41 Where Should Young Entrepreneurs Build Their Business Today? 01:11:06 Does a 2% Wealth Tax Actually Work? 01:13:11 The 80-Year Cycle: Are We Entering the Collapse Phase? 01:14:52 Can the Next World Order Have More Than One Superpower? 01:20:08 What the Iran Conflict Could Mean for the New World Order? Follow Ray: \u25fc YouTube - https://link.thediaryofaceo.com/2DcHBpW \u25fc Instagram - https://link.thediaryofaceo.com/9F19ATa \u25fc Website - https://link.thediaryofaceo.com/KIidwS \u25fc LinkedIn - https://link.thediaryofaceo.com/2kZZnHp \u25fc Substack - https://link.thediaryofaceo.com/A3pSLe3 The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Buy The Diary Of A CEO book here - https://smarturl.it/DOACbook \u25fc The 1% Diary is back - limited time only: https://bit.ly/3YFbJb \u25fc The Diary Of A CEO Conversation Cards: https://linkly.link/2hm7r \u25fc Get email updates - https://bit.ly/diary-of-a-ceo-yt \u25fc Follow Steven - https://g2ul0.app.link/gnGqL4IsKKb Sponsors: Wispr - Get 14 days of Wispr Flow for free at https://wisprflow.ai/steven Ketone - https://ketone.com/STEVEN for 30% off your subscription order",
-        "tags": [
-          "AI",
-          "Startups",
-          "Business",
-          "Finance",
-          "Career",
-          "Parenting",
-          "Health"
-        ],
-        "source": "favorite_feed",
-        "transcript_status": "not_ingested"
       },
       "TWIST": {
         "id": "219430a7cd761406",
@@ -175032,7 +175226,36 @@
         ],
         "transcript_summary": "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives."
       }
-    }
+    },
+    "transcript_runs": [
+      {
+        "podcast": "Prof G Markets",
+        "title": "Jim Chanos: We\u2019re In The Golden Age Of Fraud",
+        "status": "available",
+        "chars": 20616,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "DOAC",
+        "title": "Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature",
+        "status": "available",
+        "chars": 21875,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "Grade Cricketer",
+        "title": "The dark arts of club cricket | Raw & Order",
+        "status": "available",
+        "chars": 11731,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      }
+    ]
   },
   "errors": []
 }
