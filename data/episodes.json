@@ -1,6 +1,34 @@
 {
   "episodes": [
     {
+      "id": "7892b4e063b375ba",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/image.jpg?t=1785465094&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "The dark arts of club cricket | Raw & Order",
+      "url": "https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "32a90b1b-4fae-4b62-9272-b498001bc0f6",
+      "published_at": "2026-07-31T02:30:53+00:00",
+      "published_date": "2026-07-30",
+      "published_month": "2026-07",
+      "duration": "795",
+      "summary": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "show_notes": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
+    },
+    {
       "id": "c4aafccd1696948a",
       "podcast": "The Game with Alex Hormozi",
       "short_name": "The Game",
@@ -17,7 +45,7 @@
       "published_month": "2026-07",
       "duration": "477",
       "summary": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.",
-      "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration basics 04:04 Practical example of supply chain control 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
+      "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration: some practical examples 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
       "tags": [
         "Startups",
         "Business",
@@ -88,7 +116,7 @@
       "image": "https://megaphone.imgix.net/podcasts/ad4dbed8-2c71-11f1-adf7-770d01d55107/image/d36c803adb3232761ea2fc0d444b1bdc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130",
+      "title": "Why Almost Nobody Gets The Life They Want - Jett Franzen - #1130",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3",
       "guid": "ad4dbed8-2c71-11f1-adf7-770d01d55107",
@@ -97,15 +125,15 @@
       "published_month": "2026-07",
       "duration": "7147",
       "summary": "Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.",
-      "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Why You Need to Confront Your Shadows (10:09) Make It Until You Believe It (22:19) Why Success Demands Real Work (34:36) Can Anyone Go From Nothing to Something? (39:19) Don\u2019t Let Empathy Hold You Back (52:39) Are We Addicted to the Next Win? (56:31) Progress vs Position: What Matters More? (01:08:59) Why Happiness Comes From Acceptance (01:14:05) Escaping the Victim Mindset (01:19:54) Protect What Makes You Unique (01:29:40) How to Use Ego as a Strength (01:36:57) Don\u2019t Let the Fear of Having Self-Belief Hold You Back (01:51:31) Does True Authenticity Really Exist? (01:58:00) Where to Find Jett Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "tags": [
         "AI",
+        "Career",
         "Health",
         "Psychology",
         "Performance",
         "Relationships",
-        "Self-Improvement",
-        "Business"
+        "Self-Improvement"
       ],
       "source": "favorite_feed",
       "transcript_status": "available",
@@ -475,7 +503,7 @@
       "image": "https://megaphone.imgix.net/podcasts/8b8d1d52-2c71-11f1-a853-f77d00233561/image/bbf209e63e3f46e59e90cdae98565b9f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Why New Dads Are Suffering In Silence - Darby Saxbe - #1129",
+      "title": "The Painful Psychological Cost Of Becoming A Dad - Darby Saxbe - #1129",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4418432400.mp3",
       "guid": "8b8d1d52-2c71-11f1-a853-f77d00233561",
@@ -2645,9 +2673,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KWGKWEFH9HN2N2T5TXV4NKGX/dr._martin_plcard.ep_cover_.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Anti-Aging Expert: This Reverses Gray Hair & Boosts Your Energy!",
+      "title": "Dr. Martin Picard: How Stress Physically Drains Your Cells, Why You\u2019re Tired & How to Reverse It",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=mlxyarlx12omk7tsqga9msuf",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=wk2nwlsq4lgk2wy3i3q7nxfa",
       "guid": "flightcast:01KWGKVP7CK70B0V0TBA66NDAA",
       "published_at": "2026-07-02T05:22:37+00:00",
       "published_date": "2026-07-01",
@@ -153823,6 +153851,34 @@
   ],
   "ytd": [
     {
+      "id": "7892b4e063b375ba",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/image.jpg?t=1785465094&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "The dark arts of club cricket | Raw & Order",
+      "url": "https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "32a90b1b-4fae-4b62-9272-b498001bc0f6",
+      "published_at": "2026-07-31T02:30:53+00:00",
+      "published_date": "2026-07-30",
+      "published_month": "2026-07",
+      "duration": "795",
+      "summary": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "show_notes": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_status": "not_ingested"
+    },
+    {
       "id": "c4aafccd1696948a",
       "podcast": "The Game with Alex Hormozi",
       "short_name": "The Game",
@@ -153839,7 +153895,7 @@
       "published_month": "2026-07",
       "duration": "477",
       "summary": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.",
-      "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration basics 04:04 Practical example of supply chain control 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
+      "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration: some practical examples 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
       "tags": [
         "Startups",
         "Business",
@@ -153910,7 +153966,7 @@
       "image": "https://megaphone.imgix.net/podcasts/ad4dbed8-2c71-11f1-adf7-770d01d55107/image/d36c803adb3232761ea2fc0d444b1bdc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130",
+      "title": "Why Almost Nobody Gets The Life They Want - Jett Franzen - #1130",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3",
       "guid": "ad4dbed8-2c71-11f1-adf7-770d01d55107",
@@ -153919,15 +153975,15 @@
       "published_month": "2026-07",
       "duration": "7147",
       "summary": "Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.",
-      "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Why You Need to Confront Your Shadows (10:09) Make It Until You Believe It (22:19) Why Success Demands Real Work (34:36) Can Anyone Go From Nothing to Something? (39:19) Don\u2019t Let Empathy Hold You Back (52:39) Are We Addicted to the Next Win? (56:31) Progress vs Position: What Matters More? (01:08:59) Why Happiness Comes From Acceptance (01:14:05) Escaping the Victim Mindset (01:19:54) Protect What Makes You Unique (01:29:40) How to Use Ego as a Strength (01:36:57) Don\u2019t Let the Fear of Having Self-Belief Hold You Back (01:51:31) Does True Authenticity Really Exist? (01:58:00) Where to Find Jett Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "tags": [
         "AI",
+        "Career",
         "Health",
         "Psychology",
         "Performance",
         "Relationships",
-        "Self-Improvement",
-        "Business"
+        "Self-Improvement"
       ],
       "source": "favorite_feed",
       "transcript_status": "available",
@@ -154297,7 +154353,7 @@
       "image": "https://megaphone.imgix.net/podcasts/8b8d1d52-2c71-11f1-a853-f77d00233561/image/bbf209e63e3f46e59e90cdae98565b9f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Why New Dads Are Suffering In Silence - Darby Saxbe - #1129",
+      "title": "The Painful Psychological Cost Of Becoming A Dad - Darby Saxbe - #1129",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4418432400.mp3",
       "guid": "8b8d1d52-2c71-11f1-a853-f77d00233561",
@@ -156467,9 +156523,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01KWGKWEFH9HN2N2T5TXV4NKGX/dr._martin_plcard.ep_cover_.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Anti-Aging Expert: This Reverses Gray Hair & Boosts Your Energy!",
+      "title": "Dr. Martin Picard: How Stress Physically Drains Your Cells, Why You\u2019re Tired & How to Reverse It",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=mlxyarlx12omk7tsqga9msuf",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KWGKVP7CVWP8XJKK31184WCA.mp3?fcv=wk2nwlsq4lgk2wy3i3q7nxfa",
       "guid": "flightcast:01KWGKVP7CK70B0V0TBA66NDAA",
       "published_at": "2026-07-02T05:22:37+00:00",
       "published_date": "2026-07-01",
@@ -174644,26 +174700,26 @@
     }
   ],
   "stats": {
-    "total_available": 5204,
-    "ytd_count": 695,
+    "total_available": 5205,
+    "ytd_count": 696,
     "recent_count": 21,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "Grade Cricketer": 68,
       "The Game": 71,
       "Prof G Markets": 149,
       "Modern Wisdom": 90,
       "DOAC": 90,
       "TWIST": 94,
       "Startup Ideas": 64,
-      "All-In": 70,
-      "Grade Cricketer": 67
+      "All-In": 70
     },
     "by_tag": {
-      "Business": 550,
+      "Business": 549,
       "AI": 422,
       "Content": 403,
-      "Career": 372,
+      "Career": 373,
       "Startups": 322,
       "Finance": 266,
       "Markets": 219,
@@ -174673,8 +174729,8 @@
       "Investing": 147,
       "Performance": 147,
       "Strategy": 117,
-      "Cricket": 88,
-      "Sport": 77,
+      "Cricket": 89,
+      "Sport": 78,
       "Venture": 76,
       "Parenting": 72,
       "Entrepreneurship": 71
@@ -174686,9 +174742,37 @@
       "2026-04": 96,
       "2026-05": 87,
       "2026-06": 100,
-      "2026-07": 91
+      "2026-07": 92
     },
     "latest_by_podcast": {
+      "Grade Cricketer": {
+        "id": "7892b4e063b375ba",
+        "podcast": "The Grade Cricketer",
+        "short_name": "Grade Cricketer",
+        "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+        "image": "https://www.omnycontent.com/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/image.jpg?t=1785465094&size=Large",
+        "accent": "#16a34a",
+        "emoji": "\ud83c\udfcf",
+        "title": "The dark arts of club cricket | Raw & Order",
+        "url": "https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order",
+        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+        "guid": "32a90b1b-4fae-4b62-9272-b498001bc0f6",
+        "published_at": "2026-07-31T02:30:53+00:00",
+        "published_date": "2026-07-30",
+        "published_month": "2026-07",
+        "duration": "795",
+        "summary": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+        "show_notes": "Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: \"Can an entire episode be in the HoF?\" - Velvet Hands Massage Parlour \"In a way, I\u2019m sad this is behind a paywall\" - Mark War on Drugs \"Magnum. Opus.\" - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+        "tags": [
+          "Cricket",
+          "Australia",
+          "South Africa",
+          "Sport",
+          "Culture"
+        ],
+        "source": "favorite_feed",
+        "transcript_status": "not_ingested"
+      },
       "The Game": {
         "id": "c4aafccd1696948a",
         "podcast": "The Game with Alex Hormozi",
@@ -174706,7 +174790,7 @@
         "published_month": "2026-07",
         "duration": "477",
         "summary": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.",
-        "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration basics 04:04 Practical example of supply chain control 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
+        "show_notes": "Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one. In this episode 00:00 Cost advantages and economies of scale 02:27 Vertical integration: some practical examples 05:49 Building a strong brand and customer loyalty More Value: Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
         "tags": [
           "Startups",
           "Business",
@@ -174777,7 +174861,7 @@
         "image": "https://megaphone.imgix.net/podcasts/ad4dbed8-2c71-11f1-adf7-770d01d55107/image/d36c803adb3232761ea2fc0d444b1bdc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "accent": "#a855f7",
         "emoji": "\ud83e\udde0",
-        "title": "Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130",
+        "title": "Why Almost Nobody Gets The Life They Want - Jett Franzen - #1130",
         "url": "",
         "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3",
         "guid": "ad4dbed8-2c71-11f1-adf7-770d01d55107",
@@ -174786,15 +174870,15 @@
         "published_month": "2026-07",
         "duration": "7147",
         "summary": "Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.",
-        "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "show_notes": "Jett Franzen is a writer and YouTuber. What holds people back? Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone. Solitude can build clarity and resilience, but too much can be destructive. So when is being alone a superpower, and when does it become dangerous? Expect to learn the pitfalls of taking too much medication, why being lonely and/or isolated for a period of time is a superpower, why the most dangerous are ambitious but lazy people, the mentality that is keeping people stuck in a terrible mindset, how to escape the hedonic treadmill, why the incel community came after Jett and much more\u2026 Sponsors: Modern Wisdom Merch available this Friday: https://mwmerch.com See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Why You Need to Confront Your Shadows (10:09) Make It Until You Believe It (22:19) Why Success Demands Real Work (34:36) Can Anyone Go From Nothing to Something? (39:19) Don\u2019t Let Empathy Hold You Back (52:39) Are We Addicted to the Next Win? (56:31) Progress vs Position: What Matters More? (01:08:59) Why Happiness Comes From Acceptance (01:14:05) Escaping the Victim Mindset (01:19:54) Protect What Makes You Unique (01:29:40) How to Use Ego as a Strength (01:36:57) Don\u2019t Let the Fear of Having Self-Belief Hold You Back (01:51:31) Does True Authenticity Really Exist? (01:58:00) Where to Find Jett Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
         "tags": [
           "AI",
+          "Career",
           "Health",
           "Psychology",
           "Performance",
           "Relationships",
-          "Self-Improvement",
-          "Business"
+          "Self-Improvement"
         ],
         "source": "favorite_feed",
         "transcript_status": "available",
@@ -174947,75 +175031,8 @@
           "China/hardware competition reinforces a services lesson: compete on domain workflow, trust, data security, and implementation depth. David\u2019s wedge should be finance/operator-specific systems that clients trust with sensitive data, not commodity AI tooling."
         ],
         "transcript_summary": "Industrial AI wins when it solves an expensive operational problem, not when the hardware is impressive. For David\u2019s consulting, lead with \u201cavoid downtime / reduce manual risk / improve inspection-quality data,\u201d not \u201cAI agents\u201d or \u201cautomation.\u201d The real product is trusted insight, not the robot. Any AI workflow offer should package data capture, workflow integration, controls, reporting, and decision support \u2014 the \u201cwrapper\u201d around the tool is where consulting value lives."
-      },
-      "Grade Cricketer": {
-        "id": "0599144c16ab5c94",
-        "podcast": "The Grade Cricketer",
-        "short_name": "Grade Cricketer",
-        "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-        "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-        "accent": "#16a34a",
-        "emoji": "\ud83c\udfcf",
-        "title": "Clicking at first slip, with Tom Holland",
-        "url": "https://omny.fm/shows/the-grade-cricketer/clicking-at-first-slip-with-tom-holland",
-        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/7153804f-af84-4090-ba4e-b495006044c8/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
-        "guid": "7153804f-af84-4090-ba4e-b495006044c8",
-        "published_at": "2026-07-28T06:47:33+00:00",
-        "published_date": "2026-07-27",
-        "published_month": "2026-07",
-        "duration": "6800",
-        "summary": "Controversies abound at first slip as an entire country of grade cricketers ask \"why didn't I think of that?\" Meanwhile, England still have no idea who's going to lead their test team on the field or off the field as the north of England is SNUBBED from next year's Ashes schedule. And we chat to esteemed historian Tom Holland from The Rest Is History to find out which wars offered the best batting decks and what Jesus would have thought about Bairstow's stumping. com/gradecricketer See omnystudio.com/listener for privacy information.",
-        "show_notes": "Controversies abound at first slip as an entire country of grade cricketers ask \"why didn't I think of that?\" Meanwhile, England still have no idea who's going to lead their test team on the field or off the field as the north of England is SNUBBED from next year's Ashes schedule. And we chat to esteemed historian Tom Holland from The Rest Is History to find out which wars offered the best batting decks and what Jesus would have thought about Bairstow's stumping. SUBSCRIBE TO TGC CLIPS Sing up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
-        "tags": [
-          "Cricket",
-          "Australia",
-          "South Africa",
-          "Sport",
-          "Culture"
-        ],
-        "source": "favorite_feed",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-07-28T23:42:34.696722-07:00",
-        "transcript_takeaways": [
-          "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes.",
-          "The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity.",
-          "The episode\u2019s discussion of cricket formats and governance highlights how legacy institutions struggle to modernize without alienating core users. Good AI consulting wedge: help traditional firms modernize workflows while preserving trusted rituals, roles, and judgment.",
-          "Concrete action: turn \u201ccheating at first slip\u201d into a short LinkedIn/operator post about control design: if your process depends on one overworked human \u201chearing the edge,\u201d you need better evidence capture, audit trails, and exception review."
-        ],
-        "transcript_summary": "Club cricket \u201cfinger-clicking\u201d scandal is a useful operator lesson: tiny process gaps can create outsized trust failures. In consulting, look for weak controls in manual workflows where one person can quietly distort outcomes. The Hundred\u2019s reported attendance drop despite heavy promotion is a reminder that incentives and hype do not equal market validation. For AI offers, measure real usage and willingness to pay, not vanity interest or free-trial activity."
       }
-    },
-    "transcript_runs": [
-      {
-        "podcast": "The Game",
-        "title": "Economies of Scale, Vertical Integration, and the Brand I Love Most | Ep 989",
-        "status": "available",
-        "chars": 8831,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "Prof G Markets",
-        "title": "Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?",
-        "status": "available",
-        "chars": 22312,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "Modern Wisdom",
-        "title": "Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130",
-        "status": "available",
-        "chars": 26381,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      }
-    ]
+    }
   },
   "errors": []
 }

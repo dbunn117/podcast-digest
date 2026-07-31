@@ -1,6 +1,6 @@
 # Podcast Digest - 2026-07-30
 
-Generated: 2026-07-30 07:37 PDT
+Generated: 2026-07-30 23:00 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,14 @@ Generated: 2026-07-30 07:37 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — The dark arts of club cricket | Raw & Order
+- Date: 2026-07-30
+- Duration: 795
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: "Can an entire episode be in the HoF?" - Velvet Hands Massage Parlour "In a way, I’m sad this is behind a paywall" - Mark War on Drugs "Magnum. Opus." - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.
+
 ### The Game — Economies of Scale, Vertical Integration, and the Brand I Love Most | Ep 989
 - Date: 2026-07-30
 - Duration: 477
@@ -27,10 +35,10 @@ Generated: 2026-07-30 07:37 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3158844476.mp3
 - Summary from show notes: Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what’s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve’s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA’s decision to sell its profits.
 
-### Modern Wisdom — Why Almost Nobody Gets the Life They Want - Jett Franzen - #1130
+### Modern Wisdom — Why Almost Nobody Gets The Life They Want - Jett Franzen - #1130
 - Date: 2026-07-29
 - Duration: 7147
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3
 - Summary from show notes: Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.
 
@@ -108,7 +116,7 @@ Generated: 2026-07-30 07:37 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8000199857.mp3
 - Summary from show notes: Scott Galloway and Ed Elson unpack why they think investors should be paying closer attention to the off-balance-sheet obligations behind Big Tech's AI buildout. Then, they examine how rising oil prices and a new wave of tariffs could keep inflation elevated and why they believe China has emerged as one of the biggest beneficiaries of the conflict with Iran. Finally, they break down the surge in new business applications and explain what they think is behind the apparent small-business boom.
 
-### Modern Wisdom — Why New Dads Are Suffering In Silence - Darby Saxbe - #1129
+### Modern Wisdom — The Painful Psychological Cost Of Becoming A Dad - Darby Saxbe - #1129
 - Date: 2026-07-26
 - Duration: 5661
 - Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
@@ -158,13 +166,6 @@ Generated: 2026-07-30 07:37 PDT
 - Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8445976479.mp3
 - Summary from show notes: Ed Elson and Scott Galloway are joined by Noah Smith for a livestream to discuss what AI issues he thinks deserve more attention and whether or not he is concerned about AI dumping. They also explore why he believes a sovereign wealth fund could help address wealth inequality and what America's fertility decline could mean for the economy in the decades ahead. For access to future livestreams, you can  com Learn more about your ad choices.
-
-### DOAC — Most Replayed Moment: Matthew McConaughey - The Comfort Crisis Is Destroying Your Potential!
-- Date: 2026-07-23
-- Duration: 1517
-- Tags: Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8E2SXET5ZF41S8MT010ZHN.mp3
-- Summary from show notes: Why comfort might be costing you more than you think. Matthew McConaughey is an Academy Award-winning actor, bestselling author, and a famously thoughtful voice on purpose, resilience and living with intention. In this Moment, Matthew McConaughey shares why growth requires resistance, what our obsession with comfort is doing to us, and the mindset shift that changed the way he approaches life's biggest challenges.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

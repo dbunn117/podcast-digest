@@ -19,7 +19,7 @@ The hosted dashboard is now a static, interactive **David Podcast OS** app. It p
 
 ## Features
 
-- Modern SaaS-style dark dashboard layout with glass panels, gradient show cards, sticky filters, and responsive grids
+- Health OS-inspired light dashboard layout with a fixed command-center sidebar, warm cards, gradient show tiles, filters, and responsive grids
 - 2026 YTD episode history
 - Search by title, show notes, podcast, and theme
 - Podcast and theme filters
@@ -43,7 +43,7 @@ python3 /root/podcast-digest/podcast_digest.py --days 7 --since 2026-01-01 --wri
 - Hosted dashboard data: `/root/podcast-digest/docs/episodes.json`
 - Raw episode data: `/root/podcast-digest/data/episodes.json`
 - Latest digest markdown: `/root/podcast-digest/data/latest_digest.md`
-- Obsidian daily digests: `/root/obsidian/David OS/08 Podcasts/Daily Digests/`
+- Obsidian daily digests: `/root/obsidian/David OS/01 Personal/Media/Podcasts/Daily Digests/`
 
 ## Next improvements
 
