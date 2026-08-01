@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-07-31
+# Podcast Digest - 2026-08-01
 
-Generated: 2026-07-31 07:37 PDT
+Generated: 2026-08-01 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,29 @@ Generated: 2026-07-31 07:37 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Ex-Military Hacker: The Secret World Of Government Surveillance - Bill Thompson - #1131
+- Date: 2026-07-31
+- Duration: 4522
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6959137395.mp3
+- Summary from show notes: Army Chief Warrant Officer and a former military intelligence specialist. Is your private life actually private? As AI rapidly outpaces our privacy protections, everything from your personal data to your deepest vulnerabilities is becoming easier to exploit.
+
+### TWIST — Why AI has no taste and how to fix it (w/ Thais Castello Branco) | E2319
+- Date: 2026-07-31
+- Duration: 01:15:09
+- Tags: AI, Startups, Business, Finance, Career, Content, Sport
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/why-ai-has-no-taste-and-how-to-fix-it-w-thais-castello-branco-e2319
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/MAIN_1.mp3?dest-id=5500155
+- Summary from show notes: This Week In Startups is made possible by: YSecurity https://YSecurity.io/TWIST MongoDB https://MongoDB.com/ai Odoo https://Odoo.com/twist Today's show: AI models can solve PhD-level math equations and code an app in minutes… So why does everything they design look like identical slop? Thais Castello Branco, founder of Taste Labs, raised $18.5M in seed funding to teach frontier models about aesthetics and outputting quality content. Google Earth adds AI generation and turns into a misinformation factory.
+
+### All-In — Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores
+- Date: 2026-07-31
+- Duration: 01:36:34
+- Tags: AI, Business, Finance, Career, Markets, Politics, Startups
+- Episode: https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say "SLOW DOWN AI" (1:01:15) Why are frontier labs "burning books"?
+
 ### Prof G Markets — Jim Chanos: We’re In The Golden Age Of Fraud
 - Date: 2026-07-31
 - Duration: 4119
@@ -143,36 +166,6 @@ Generated: 2026-07-31 07:37 PDT
 - Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXY3ASSVQ5F7X3DG78RSWFN9.mp3
 - Summary from show notes: Nearly 1 in 3 American adults now take vitamin D, but Dr. Stasha Gominak says many of them are taking it wrong, and that done carelessly, supplementing can leave you worse off than before. Stasha Gominak practiced neurology for over 20 years.
-
-### Modern Wisdom — Polyvagal Theory: Why You Feel So Anxious All The Time - Dr Stephen Porges - #1128
-- Date: 2026-07-24
-- Duration: 6793
-- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4348231565.mp3
-- Summary from show notes: Dr Stephen Porges is a neuroscientist & psychologist. Why does your nervous system always feel on edge? When everything feels like a threat, your body may be stuck in survival mode.
-
-### All-In — The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
-- Date: 2026-07-24
-- Duration: 01:33:44
-- Tags: AI, Finance, Career, Markets, Politics, Startups, Business
-- Episode: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Bestie intros! (0:18) The fight to save open source AI: Kimi K3 panic, Anthropic/OpenAI regulatory capture (27:38) Anthropic/OpenAI historic growth rates, China's long game (48:29) Anthropic's $1.5B piracy settlement and the great IP theft hypocrisy (1:07:12) Google and Tesla stocks tank on surging AI capex (1:17:19) Socialism Corner: "Evictions = Violence" and the threat to private property rights Apply for All-In Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow
-
-### TWIST — Why quantum has been "10 years away" for 30 years | E2316
-- Date: 2026-07-24
-- Duration: 45:02
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/why-quantum-has-been-10-years-away-for-30-years-e2316
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Ep_2316_Pods.mp4?dest-id=5500155
-- Summary from show notes: This Week In Startups is made possible by: PayPal Open https://paypalopen.com DigitalOcean https://do.co/twist Rippling https://Rippling.ai/twist Today's show: *For three decades now, we've been told that breakthroughs in quantum computing are right around the corner. So why hasn't anything materialized? On TWiST in Tokyo, Jason sits down with Yaqumo CEO Kazuhiro Nakashoji and discusses what needed to change (like better algorithms and hardware), and why we may finally be nearing quantum's big moment.
-
-### Startup Ideas — Most Valuable Skill of 2026: Managing AI Agents
-- Date: 2026-07-24
-- Duration: 2686
-- Tags: AI, Startups, Business, Career, Parenting, Cricket, Content
-- Audio: https://episode.flightcast.com/01KY8K7NGPEK2DSADXPRFJM9VK.mp3
-- Summary from show notes: I welcome Ryan Carson back to the show to turn anyone into a world-class agent operator. Ryan spent 25 years founding companies, scaled Treehouse to around 110 employees and a million learners, and now runs Untangle, an AI divorce agent for family law firms, as a team of one while his revenue tracks toward 4x this month. He walks me through his full stack: running cloud agents in parallel, building automations that watch production and improve themselves, and shipping 22 to 40 PRs a day, often from his phone.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
