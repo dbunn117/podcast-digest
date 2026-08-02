@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-01
+# Podcast Digest - 2026-08-02
 
-Generated: 2026-08-01 07:38 PDT
+Generated: 2026-08-02 07:33 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,13 @@ Generated: 2026-08-01 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — The Next Era of Warfare is Here
+- Date: 2026-08-02
+- Duration: 3927
+- Tags: AI, Startups, Markets, Finance, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6518763001.mp3
+- Summary from show notes: Ed Elson sits down with Brian Schimpf, co-founder and CEO of Anduril, to discuss how AI is transforming the defense industry and where it should, and shouldn't, be deployed. They also explore the growing threat posed by China, why we’re in such an unstable time right now, and what people get wrong about the defense industry.
+
 ### Modern Wisdom — Ex-Military Hacker: The Secret World Of Government Surveillance - Bill Thompson - #1131
 - Date: 2026-07-31
 - Duration: 4522
