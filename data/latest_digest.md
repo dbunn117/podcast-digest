@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-02
+# Podcast Digest - 2026-08-03
 
-Generated: 2026-08-02 07:33 PDT
+Generated: 2026-08-03 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,35 @@ Generated: 2026-08-02 07:33 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — How Leverage Turned An AI Boom Into A Crash
+- Date: 2026-08-03
+- Duration: 4809
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3636888255.mp3
+- Summary from show notes: Scott Galloway and Ed Elson break down how single-stock leveraged ETFs caused volatility in the South Korean stock market and discuss how leverage can be damaging for investors. Then, they unpack earnings from Microsoft, Meta, Apple, and Amazon, explaining why investors rewarded Microsoft and Amazon while punishing Meta and Apple. They discuss how the AI boom is making it increasingly difficult to value Big Tech.
+
+### Grade Cricketer — Moises Henriques on cricket anxiety, privatisation and the best player he’s ever seen
+- Date: 2026-08-02
+- Duration: 4032
+- Tags: Career, Parenting, Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/moises-henriques-on-cricket-anxiety-privatisation-and-the-best-player-he-s-ever-seen
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e118b9ca-d007-45d1-b321-b49b0055d6f5/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: The boys sit down with Moises Henriques for a special one hour chat in Sydney. Fresh from concluding a 22 year career with Cricket NSW and the Sydney Sixers, Moises opens up his relationship to cricket, the future of the game, and the best he's seen live. com/gradecricketer See omnystudio.com/listener for privacy information.
+
+### Modern Wisdom — Skid Row To Appalachia: The Forgotten People Of Rural America - Peter Santenello - #1132
+- Date: 2026-08-02
+- Duration: 7113
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5905582225.mp3
+- Summary from show notes: Peter Santenello is an independent journalist, YouTuber, & author. Who are the forgotten people of rural America? The country’s political and moral divisions may stem not only from disagreement, but from distance, countless communities and subcultures living entirely separate lives, with little understanding of one another.
+
+### DOAC — Secretary Pete Buttigieg: The American Dream Is DEAD. We're Running Out Of Time To Fix It!
+- Date: 2026-08-02
+- Duration: 6880
+- Tags: AI, Career, Health, Parenting, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPYHGYNJKKR9DNDTHTH7TD.mp3
+- Summary from show notes: Former US Secretary of Transportation Pete Buttigieg says the American experiment is on the brink. He argues that the country is at risk of losing its democracy, the problems Americans feel every day are not accidents, and that fixing it will mean doing the hard things almost no one wants to do. Pete Buttigieg is the former United States Secretary of Transportation, the former mayor of South Bend, Indiana, a Rhodes Scholar, and a Navy veteran who served in Afghanistan.
+
 ### Prof G Markets — The Next Era of Warfare is Here
 - Date: 2026-08-02
 - Duration: 3927
@@ -22,7 +51,7 @@ Generated: 2026-08-02 07:33 PDT
 
 ### Modern Wisdom — Ex-Military Hacker: The Secret World Of Government Surveillance - Bill Thompson - #1131
 - Date: 2026-07-31
-- Duration: 4522
+- Duration: 4537
 - Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6959137395.mp3
 - Summary from show notes: Army Chief Warrant Officer and a former military intelligence specialist. Is your private life actually private? As AI rapidly outpaces our privacy protections, everything from your personal data to your deepest vulnerabilities is becoming easier to exploit.
@@ -69,7 +98,7 @@ Generated: 2026-08-02 07:33 PDT
 - Date: 2026-07-30
 - Duration: 477
 - Tags: Startups, Business, Entrepreneurship, Sales, Offers, Pricing, Content
-- Audio: https://episode.flightcast.com/01KYQYJFYY843C66A4SKFJDNHY.mp3
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KYQYJFYY843C66A4SKFJDNHY.mp3
 - Summary from show notes: Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.
 
 ### Prof G Markets — Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?
@@ -79,7 +108,7 @@ Generated: 2026-08-02 07:33 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3158844476.mp3
 - Summary from show notes: Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what’s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve’s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA’s decision to sell its profits.
 
-### Modern Wisdom — Why Almost Nobody Gets The Life They Want - Jett Franzen - #1130
+### Modern Wisdom — Proof That The Lonely Chapter Works - Jett Franzen - #1130
 - Date: 2026-07-29
 - Duration: 7147
 - Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
@@ -152,27 +181,6 @@ Generated: 2026-08-02 07:33 PDT
 - Tags: AI, Startups, Business, Career, Cricket, Content, Business Ideas
 - Audio: https://episode.flightcast.com/01KY8K6N0ZK2WRGJQYKCQ8WK47.mp3
 - Summary from show notes: Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox — an AI-first product built on top of WordPress — and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners.
-
-### Prof G Markets — How Big Tech Offloaded The Risk Of AI
-- Date: 2026-07-27
-- Duration: 4599
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8000199857.mp3
-- Summary from show notes: Scott Galloway and Ed Elson unpack why they think investors should be paying closer attention to the off-balance-sheet obligations behind Big Tech's AI buildout. Then, they examine how rising oil prices and a new wave of tariffs could keep inflation elevated and why they believe China has emerged as one of the biggest beneficiaries of the conflict with Iran. Finally, they break down the surge in new business applications and explain what they think is behind the apparent small-business boom.
-
-### Modern Wisdom — The Painful Psychological Cost Of Becoming A Dad - Darby Saxbe - #1129
-- Date: 2026-07-26
-- Duration: 5661
-- Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB4418432400.mp3
-- Summary from show notes: Dr Darby Saxbe is a clinical psychologist, professor at USC, and author. Mothers face enormous physical and emotional changes after childbirth, but fathers can struggle too, often in silence. So what happens to men when they become dads, why does it affect some so deeply, and how can they adapt to a new life that nature has thrust upon them?
-
-### DOAC — Vitamin D Expert: The Supplement World Is Giving The WRONG Advice!
-- Date: 2026-07-26
-- Duration: 7219
-- Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KXY3ASSVQ5F7X3DG78RSWFN9.mp3
-- Summary from show notes: Nearly 1 in 3 American adults now take vitamin D, but Dr. Stasha Gominak says many of them are taking it wrong, and that done carelessly, supplementing can leave you worse off than before. Stasha Gominak practiced neurology for over 20 years.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
