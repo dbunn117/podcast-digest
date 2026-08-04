@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-03
+# Podcast Digest - 2026-08-04
 
-Generated: 2026-08-03 07:37 PDT
+Generated: 2026-08-04 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,43 @@ Generated: 2026-08-03 07:37 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — The Offer So Good People Feel Stupid Saying No | Ep 990
+- Date: 2026-08-04
+- Duration: 476
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3
+- Summary from show notes: Join Alex at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas A perfectly crafted offer will still lose to a page full of testimonials. In this episode, Alex explains why starting for free is the fastest path to scale a new business. He also shares the four elements of compelling proof that beat promise every time.
+
+### Prof G Markets — Aschenbrenner’s AI Fund Collapse Is Just The Beginning
+- Date: 2026-08-04
+- Duration: 2113
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2414923281.mp3
+- Summary from show notes: Ed Elson is joined by Michael Green to discuss the role that leverage played in the turmoil with Leopold Aschenbrenner’s fund, Situational Awareness, and how leveraged-ETFs are impacting the semiconductor industry. Then, Katie Martin returns to break down why the U.S. intervened to help Japan with the yen and whether the U.S.
+
+### Grade Cricketer — Disappointing and sensible, with Matt Roller
+- Date: 2026-08-03
+- Duration: 6634
+- Tags: Health, Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/disappointing-and-sensible-with-matt-roller
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/2c4ce449-7415-4df3-a8ee-b49c00410930/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Missionary works, especially for England. Their new appointments of Stephen Fleming and Joe Root are sensible but boring. Is Root just a placeholder until Harry Brooks' diet evolves past eating crayons.
+
+### TWIST — How Bespoke faked AI until it actually worked (w/ Akemi Tsunagawa) | E2320
+- Date: 2026-08-03
+- Duration: 01:02:16
+- Tags: AI, Startups, Business, Career, Content, Venture, Tech
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/how-bespoke-faked-ai-until-it-actually-worked-w-akemi-tsunagawa-e2320
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2320_Audio.mp3?dest-id=5500155
+- Summary from show notes: That "fake it till you make it" strategy paid off. Bespoke landed Narita Airport as a customer based on the strength of their "chatbot" answers, and now the team runs three companies, and is expanding into shipyard robots. 1:06 Introducing Akemi Tsunagawa, founder of Bespoke 3:08 Why investors passed in 2015 4:49 Selling Narita Airport on Bebot 6:29 The roots of Japan's tourism explosion 9:27 Odoo - The all-in-one business platform.
+
+### Startup Ideas — Graph Engineering Clearly Explained
+- Date: 2026-08-03
+- Duration: 1588
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01KZ49YPG8H70NMAFDDCMTTXB4.mp3
+- Summary from show notes: I go solo on this one to break down graph engineering, the term I keep seeing go viral on X. I define it in plain English: prompt engineering is how you ask AI a better question, context engineering is how you give AI better information, and graph engineering is how you design the work around the AI so it lives as a managed workflow instead of one giant chat. I walk through the vocabulary (jobs, arrows, state), separate knowledge graphs from agent graphs, and run a full worked example on whether to launch an AI bookkeeping product for Shopify merchants.
+
 ### Prof G Markets — How Leverage Turned An AI Boom Into A Crash
 - Date: 2026-08-03
 - Duration: 4809
@@ -28,7 +65,7 @@ Generated: 2026-08-03 07:37 PDT
 - Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e118b9ca-d007-45d1-b321-b49b0055d6f5/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
 - Summary from show notes: The boys sit down with Moises Henriques for a special one hour chat in Sydney. Fresh from concluding a 22 year career with Cricket NSW and the Sydney Sixers, Moises opens up his relationship to cricket, the future of the game, and the best he's seen live. com/gradecricketer See omnystudio.com/listener for privacy information.
 
-### Modern Wisdom — Skid Row To Appalachia: The Forgotten People Of Rural America - Peter Santenello - #1132
+### Modern Wisdom — Who You Meet Down America’s Forgotten Backroads - Peter Santenello - #1132
 - Date: 2026-08-02
 - Duration: 7113
 - Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
@@ -118,7 +155,7 @@ Generated: 2026-08-03 07:37 PDT
 ### DOAC — Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next
 - Date: 2026-07-29
 - Duration: 5417
-- Tags: AI, Startups, Business, Finance, Career, Parenting, Health
+- Tags: AI, Startups, Business, Finance, Career, Parenting, Cricket
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPGERGFRM4QSQ38CEA48EH.mp3
 - Summary from show notes: The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next. Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management.
 
@@ -151,36 +188,6 @@ Generated: 2026-08-03 07:37 PDT
 - Episode: https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged Robot Dogs, Not Humanoids (13:18) Dr. Thanks to our partners for making this possible!
-
-### Prof G Markets — China Is Undercutting America’s AI Giants
-- Date: 2026-07-28
-- Duration: 2039
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9394453771.mp3
-- Summary from show notes: Ed Elson is joined by Scott Singer to discuss why Chinese open models have been gaining momentum and whether or not the U.S. risks losing its lead in the AI race. Then, Vishy Tirupattur joins to unpack the debt behind the AI buildout and explain why investors should be paying attention to the off-balance sheet debt from the hyperscalers.
-
-### Grade Cricketer — Clicking at first slip, with Tom Holland
-- Date: 2026-07-27
-- Duration: 6800
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/clicking-at-first-slip-with-tom-holland
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/7153804f-af84-4090-ba4e-b495006044c8/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Controversies abound at first slip as an entire country of grade cricketers ask "why didn't I think of that?" Meanwhile, England still have no idea who's going to lead their test team on the field or off the field as the north of England is SNUBBED from next year's Ashes schedule. And we chat to esteemed historian Tom Holland from The Rest Is History to find out which wars offered the best batting decks and what Jesus would have thought about Bairstow's stumping. com/gradecricketer See omnystudio.com/listener for privacy information.
-
-### TWIST — While other cultivated meat companies are collapsing, this one turned a profit | E2317
-- Date: 2026-07-27
-- Duration: 43:52
-- Tags: AI, Business, Finance, Career, Content, Startups, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/with-other-cultivated-meat-companies-are-collapsing-this-one-turned-a-profit-e2317
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2317_V2.mp4?dest-id=5500155
-- Summary from show notes: This Week In Startups is made possible by: Every.io https://every.io MongoDB https://MongoDB.com/ai Agree https://agree.com Today's show: *Most lab-grown meat companies have already gone under. It's expensive to produce, and there's little demand from real-world consumers. But Tokyo's IntegriCulture is still standing after selling their proprietary serum to cosmetics companies.
-
-### Startup Ideas — How I use Claude Code + MCPs to run my marketing
-- Date: 2026-07-27
-- Duration: 2267
-- Tags: AI, Startups, Business, Career, Cricket, Content, Business Ideas
-- Audio: https://episode.flightcast.com/01KY8K6N0ZK2WRGJQYKCQ8WK47.mp3
-- Summary from show notes: Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox — an AI-first product built on top of WordPress — and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
