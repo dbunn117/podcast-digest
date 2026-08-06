@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-05
+# Podcast Digest - 2026-08-06
 
-Generated: 2026-08-05 07:33 PDT
+Generated: 2026-08-06 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,19 +13,63 @@ Generated: 2026-08-05 07:33 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Michael Burry Says This Is The Top — Is It?
+- Date: 2026-08-06
+- Duration: 2115
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4931807708.mp3
+- Summary from show notes: Ed Elson is joined by Steve Eisman to unpack why stocks are at record highs and what it would take for him to call a market top. Then, Ryan Petersen returns to explain how the war with Iran and escalating tariffs are reshaping global supply chains. Finally, Ed breaks down the growing evidence that the AI boom has become increasingly dependent on OpenAI.
+
+### Modern Wisdom — The Biggest Myths About Dating (debunked) - Psychology Roundtable - #1133
+- Date: 2026-08-05
+- Duration: 7610
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
+- Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
+
+### DOAC — Michael Saylor: He Asked AI To Build Something That Never Existed. Here’s What Happened! | Michael Saylor
+- Date: 2026-08-05
+- Duration: 5994
+- Tags: AI, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=jiulxdyqzicm822yuurry8n2
+- Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
+
+### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
+- Date: 2026-08-05
+- Duration: 01:12:33
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/airtables-80-off-value-crash-vcs-explain-why-its-still-a-win-e2321
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2321_Audio.mp3?dest-id=5500155
+- Summary from show notes: This Week In Startups is made possible by: Vanta https://www.vanta.com/twist Agree https://agree.com Odoo https://Odoo.com/twist Today's show: *Airtable just sold for $2.25 billion, an 81% drop from its peak of $11.7 billion. On this week's TWiST VC Roundtable, Aditya Agarwal (South Park Commons), Niko Bonatsos (Verdict Capital), and Rick Heitzmann (FirstMark Capital) break down why the venture world sees this as a good outcome, not a financial disaster. By declining the deal, would Airtable's team have just been delaying the inevitable?
+
+### Startup Ideas — These AI Marketing Agents Get You Customers
+- Date: 2026-08-05
+- Duration: 2639
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01KZ9Q7Q16ZYV8HWW3W4CHY1ZN.mp3
+- Summary from show notes: I bring Cody Schneider back on the show to build two marketing agents end to end, live. The first one monitors LinkedIn posts from creators in your category, scrapes everyone who engages, waterfalls those profiles into emails and phone numbers, and then runs cold email and LinkedIn DMs with an agent managing the replies. The second one turns internal conversations, sales calls, and podcast transcripts into a daily organic LinkedIn content engine across an entire team.
+
+### All-In — Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
+- Date: 2026-08-05
+- Duration: 48:19
+- Tags: AI, Business, Career, Markets, Politics, Startups, Tech
+- Episode: https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing cost-plus, the new primes, and why only 1% of the budget goes to autonomy (25:55) Could 10,000 Corsairs actually lock down a 20-mile strait?
+
+### The Game — The Offer So Good People Feel Stupid Saying No | Ep 990
+- Date: 2026-08-05
+- Duration: 476
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3
+- Summary from show notes: Join Alex at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas A perfectly crafted offer will still lose to a page full of testimonials. In this episode, Alex explains why starting for free is the fastest path to scale a new business. He also shares the four elements of compelling proof that beat promise every time.
+
 ### Prof G Markets — Apple’s War On OpenAI Just Got Personal
 - Date: 2026-08-05
 - Duration: 1673
 - Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5020991406.mp3
 - Summary from show notes: Ed Elson is joined by Alex Heath to unpack the latest drama in the legal battle between Apple and OpenAI, what Apple's request for a preliminary injunction could mean, and how serious the case could become for OpenAI. Then, Nicolas Owens returns to break down SpaceX's latest earnings, assess the company's capital expenditures, and give his take on its current valuation. Finally, Ed gives his take on reports that Blackstone is in talks to loan money to Anthropic.
-
-### The Game — The Offer So Good People Feel Stupid Saying No | Ep 990
-- Date: 2026-08-04
-- Duration: 476
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3
-- Summary from show notes: Join Alex at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas A perfectly crafted offer will still lose to a page full of testimonials. In this episode, Alex explains why starting for free is the fastest path to scale a new business. He also shares the four elements of compelling proof that beat promise every time.
 
 ### Prof G Markets — Aschenbrenner’s AI Fund Collapse Is Just The Beginning
 - Date: 2026-08-04
@@ -137,42 +181,6 @@ Generated: 2026-08-05 07:33 PDT
 - Episode: https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order
 - Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
 - Summary from show notes: Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: "Can an entire episode be in the HoF?" - Velvet Hands Massage Parlour "In a way, I’m sad this is behind a paywall" - Mark War on Drugs "Magnum. Opus." - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.
-
-### The Game — Economies of Scale, Vertical Integration, and the Brand I Love Most | Ep 989
-- Date: 2026-07-30
-- Duration: 477
-- Tags: Startups, Business, Entrepreneurship, Sales, Offers, Pricing, Content
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KYQYJFYY843C66A4SKFJDNHY.mp3
-- Summary from show notes: Join Alex and His Team at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Dominating a market once is hard. Staying unbeatable is an intentional structural decision. In this episode, Alex walks through three strategic advantages that make the biggest businesses in the world nearly impossible to compete with, and how any founder can start building them from day one.
-
-### Prof G Markets — Microsoft Soars, Meta Sinks: Has The AI Narrative Flipped?
-- Date: 2026-07-30
-- Duration: 2018
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3158844476.mp3
-- Summary from show notes: Ed Elson is joined by Gil Luria to break down earnings from Microsoft and Meta, and what the disparate results reveal about what’s next for the AI trade. Then, Mike Gapen returns to discuss the Federal Reserve’s interest rate decision and why he thinks rates might stay stagnant for the rest of the year. Finally, Ed gives his take on FIFA’s decision to sell its profits.
-
-### Modern Wisdom — Proof That The Lonely Chapter Works - Jett Franzen - #1130
-- Date: 2026-07-29
-- Duration: 7147
-- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3784389896.mp3
-- Summary from show notes: Jett Franzen is a writer and YouTuber. Is it their mindset, environment, or circumstances? One overlooked factor is the ability to be alone.
-
-### DOAC — Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next
-- Date: 2026-07-29
-- Duration: 5417
-- Tags: AI, Startups, Business, Finance, Career, Parenting, Cricket
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPGERGFRM4QSQ38CEA48EH.mp3
-- Summary from show notes: The man who predicted the 2008 crash says the warning signs are flashing again! Ray Dalio, founder of the world's largest hedge fund, reveals why we are in an AI bubble, why the US has already entered its decline, and what he thinks is coming next. Ray Dalio is the founder of Bridgewater Associates, which he grew from his two-bedroom apartment to roughly 150 billion dollars under management.
-
-### TWIST — Banning Chinese robots isn't regulatory capture | E2318
-- Date: 2026-07-29
-- Duration: 01:25:49
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/banning-chinese-robots-isnt-regulatory-capture-e2318
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2318_.mp4?dest-id=5500155
-- Summary from show notes: This Week In Startups is made possible by: Northwest Registered Agent- NorthwestRegisteredAgent.com/twist Odoo - Odoo.com/twist MongoDB - MongoDB.com/ai Today's show: The FCC's decision to ban Chinese humanoid robots over security concerns is a boon to American startups, which now face a narrower competitive market. But where should we draw the line on security over competition? Menlo Ventures' Deedy Das, Weisburd Pierce's David Weisburd, Plexo Capital's Lo Toney, and LAUNCH's Jason Calcanis broke down how they differentiate between legitimate security concerns and purported regulatory capture.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
