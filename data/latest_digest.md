@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-06
+# Podcast Digest - 2026-08-07
 
-Generated: 2026-08-06 07:38 PDT
+Generated: 2026-08-07 07:35 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,20 @@ Generated: 2026-08-06 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Aswath Damodaran: Big Tech Has No Idea How AI Pays Off
+- Date: 2026-08-07
+- Duration: 3993
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4802711725.mp3
+- Summary from show notes: Ed Elson and Scott Galloway are joined by Aswath Damodaran to break down the biggest takeaways from Big Tech earnings. He explains what the latest results reveal about the AI race, why he's becoming increasingly concerned about the Magnificent Seven's AI spending, and how he values the hyperscalers. They also discuss how much AI risk is already priced into the market and whether SpaceX's current valuation is justified.
+
+### DOAC — Most Replayed Moment: Alzheimer's Starts 20 Years Before Symptoms! How To Protect Your Brain Now
+- Date: 2026-08-06
+- Duration: 1832
+- Tags: Startups, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZB7YVD59TCDB7A3V1ZND76F.mp3
+- Summary from show notes: How do I best protect my brain from cognitive decline? Louisa Nicola is a neurophysiologist and the founder of Neuro Athletics, specialising in brain health, human performance, and longevity. In this Moment, Louisa Nicola reveals how the right kind of exercise can help protect the ageing brain, why one often-overlooked measure of physical strength may be a powerful marker of cognitive health, and the training approach linked to remarkable changes in the middle-aged heart.
+
 ### Prof G Markets — Michael Burry Says This Is The Top — Is It?
 - Date: 2026-08-06
 - Duration: 2115
@@ -27,11 +41,11 @@ Generated: 2026-08-06 07:38 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
 - Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
 
-### DOAC — Michael Saylor: He Asked AI To Build Something That Never Existed. Here’s What Happened! | Michael Saylor
+### DOAC — Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor
 - Date: 2026-08-05
 - Duration: 5994
-- Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=jiulxdyqzicm822yuurry8n2
+- Tags: AI, Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=ws4e0gbgj0kfew78cl1wdnx5
 - Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
 
 ### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
@@ -159,28 +173,6 @@ Generated: 2026-08-06 07:38 PDT
 - Episode: https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say "SLOW DOWN AI" (1:01:15) Why are frontier labs "burning books"?
-
-### Prof G Markets — Jim Chanos: We’re In The Golden Age Of Fraud
-- Date: 2026-07-31
-- Duration: 4119
-- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6343962110.mp3
-- Summary from show notes: Ed Elson and Scott Galloway are joined by Jim Chanos to discuss the biggest risks he sees in today's AI-driven market and the warning signs that remind him of the late stages of the dot-com bubble. He also breaks down the companies he's long and short on, explains why he's increasingly concerned about fraud in the market, and shares the advice he'd give to young investors navigating today's environment. Jim Chanos is the Founder and Managing Partner of Chanos & Company, formally known as Kynikos Associates, the world’s oldest exclusive short selling investment firm.
-
-### DOAC — Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature
-- Date: 2026-07-30
-- Duration: 1966
-- Tags: Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KY8EX4JD3ASYFKPWTHQ2NCVR.mp3
-- Summary from show notes: What do spies understand about people that most of us miss? John Kiriakou is a former CIA officer, whistleblower, and intelligence expert who spent years working inside the world of espionage and national security. In this Moment, John Kiriakou reveals the lessons the intelligence world teaches about human behaviour, how people can be read through subtle signals, and what years of studying others taught him about trust, deception, and understanding those around you.
-
-### Grade Cricketer — The dark arts of club cricket | Raw & Order
-- Date: 2026-07-30
-- Duration: 795
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/the-dark-arts-of-club-cricket-raw-order
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/32a90b1b-4fae-4b62-9272-b498001bc0f6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Watch the full episode on Patreon now. https://www.patreon.com/gradecricketer Reviews from the Pig Pen: "Can an entire episode be in the HoF?" - Velvet Hands Massage Parlour "In a way, I’m sad this is behind a paywall" - Mark War on Drugs "Magnum. Opus." - Former UN General Secretary Ban Ki-moon EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
