@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-07
+# Podcast Digest - 2026-08-08
 
-Generated: 2026-08-07 07:35 PDT
+Generated: 2026-08-08 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,36 @@ Generated: 2026-08-07 07:35 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134
+- Date: 2026-08-07
+- Duration: 6407
+- Tags: AI, Health, Parenting, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3
+- Summary from show notes: I hit 4.3 million YouTube  youtube.com/modernwisdompodcast⁠ Email: ⁠https://chriswillx.com/contact⁠ - Learn more about your ad choices.
+
+### All-In — Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
+- Date: 2026-08-07
+- Duration: 01:15:18
+- Tags: AI, Business, Career, Markets, Politics, Startups, Tech
+- Episode: https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300
+- Summary from show notes: Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (45:44) All-In Summit Speaker Announcements!
+
+### TWIST — How AI splits startups into winners and losers | E2322
+- Date: 2026-08-07
+- Duration: 01:18:16
+- Tags: AI, Startups, Business, Career, Content, Sport, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/how-ai-splits-startups-into-winners-and-losers-e2322
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_ONLY.mp3?dest-id=5500155
+- Summary from show notes: This Week In Startups is made possible by: DigitalOcean https://do.co/twist Sentry https://sentry.io/twist Lightfield https://lightfield.app Today's show: A hedge fund just blew up shorting SaaS stocks. In turns out, the software companies that went all in on AI are bouncing back. Figma's CEO — still riding high on strong revenue — forfeited roughly $46 million in stock awards to ease investor nerves.
+
+### The Game — The One Question to Ask About Any Relationship | Ep 991
+- Date: 2026-08-07
+- Duration: 438
+- Tags: Business, Parenting, Cricket, Entrepreneurship, Sales, Offers, Pricing
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ9E2KPBF2DTNKFWW43J0VDR.mp3
+- Summary from show notes: Join Alex at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Many people settle for someone who just showed up—they call it a relationship, and then wonder why they’re struggling. In this episode, Alex and Leila break down the only question that matters when choosing a partner. From the traits that rub off over time to why needing a partner is the fastest way to picking the wrong one, this is the conversation most couples never have.
+
 ### Prof G Markets — Aswath Damodaran: Big Tech Has No Idea How AI Pays Off
 - Date: 2026-08-07
 - Duration: 3993
@@ -41,11 +71,11 @@ Generated: 2026-08-07 07:35 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
 - Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
 
-### DOAC — Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor
+### DOAC — Man Who Owns 4% Of All Bitcoin: Sell Your Kidney But Keep The Bitcoin, UNLESS… | Michael Saylor
 - Date: 2026-08-05
 - Duration: 5994
-- Tags: AI, Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=ws4e0gbgj0kfew78cl1wdnx5
+- Tags: Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=uot5tid6279ggeh4kire0u52
 - Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
 
 ### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
@@ -150,29 +180,6 @@ Generated: 2026-08-07 07:35 PDT
 - Tags: AI, Startups, Markets, Finance, Business, Investing, Strategy
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6518763001.mp3
 - Summary from show notes: Ed Elson sits down with Brian Schimpf, co-founder and CEO of Anduril, to discuss how AI is transforming the defense industry and where it should, and shouldn't, be deployed. They also explore the growing threat posed by China, why we’re in such an unstable time right now, and what people get wrong about the defense industry.
-
-### Modern Wisdom — Ex-Military Hacker: The Secret World Of Government Surveillance - Bill Thompson - #1131
-- Date: 2026-07-31
-- Duration: 4537
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6959137395.mp3
-- Summary from show notes: Army Chief Warrant Officer and a former military intelligence specialist. Is your private life actually private? As AI rapidly outpaces our privacy protections, everything from your personal data to your deepest vulnerabilities is becoming easier to exploit.
-
-### TWIST — Why AI has no taste and how to fix it (w/ Thais Castello Branco) | E2319
-- Date: 2026-07-31
-- Duration: 01:15:09
-- Tags: AI, Startups, Business, Finance, Career, Content, Sport
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/why-ai-has-no-taste-and-how-to-fix-it-w-thais-castello-branco-e2319
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/MAIN_1.mp3?dest-id=5500155
-- Summary from show notes: This Week In Startups is made possible by: YSecurity https://YSecurity.io/TWIST MongoDB https://MongoDB.com/ai Odoo https://Odoo.com/twist Today's show: AI models can solve PhD-level math equations and code an app in minutes… So why does everything they design look like identical slop? Thais Castello Branco, founder of Taste Labs, raised $18.5M in seed funding to teach frontier models about aesthetics and outputting quality content. Google Earth adds AI generation and turns into a misinformation factory.
-
-### All-In — Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores
-- Date: 2026-07-31
-- Duration: 01:36:34
-- Tags: AI, Business, Finance, Career, Markets, Politics, Startups
-- Episode: https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say "SLOW DOWN AI" (1:01:15) Why are frontier labs "burning books"?
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
