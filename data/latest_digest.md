@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-08
+# Podcast Digest - 2026-08-09
 
-Generated: 2026-08-08 07:37 PDT
+Generated: 2026-08-09 07:31 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -64,18 +64,18 @@ Generated: 2026-08-08 07:37 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4931807708.mp3
 - Summary from show notes: Ed Elson is joined by Steve Eisman to unpack why stocks are at record highs and what it would take for him to call a market top. Then, Ryan Petersen returns to explain how the war with Iran and escalating tariffs are reshaping global supply chains. Finally, Ed breaks down the growing evidence that the AI boom has become increasingly dependent on OpenAI.
 
-### Modern Wisdom — The Biggest Myths About Dating (debunked) - Psychology Roundtable - #1133
+### Modern Wisdom — The New Science Of Female Attraction - Psychology Roundtable - #1133
 - Date: 2026-08-05
 - Duration: 7610
 - Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
 - Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
 
-### DOAC — Man Who Owns 4% Of All Bitcoin: Sell Your Kidney But Keep The Bitcoin, UNLESS… | Michael Saylor
+### DOAC — World’s Biggest Bitcoin Holder: I Made $15 BILLION With ChatGPT | Michael Saylor
 - Date: 2026-08-05
 - Duration: 5994
-- Tags: Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=uot5tid6279ggeh4kire0u52
+- Tags: AI, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=ozjlgnamqdqieyha436pdusz
 - Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
 
 ### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
@@ -173,13 +173,6 @@ Generated: 2026-08-08 07:37 PDT
 - Tags: AI, Career, Health, Parenting, Psychology, Business, Relationships
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPYHGYNJKKR9DNDTHTH7TD.mp3
 - Summary from show notes: Former US Secretary of Transportation Pete Buttigieg says the American experiment is on the brink. He argues that the country is at risk of losing its democracy, the problems Americans feel every day are not accidents, and that fixing it will mean doing the hard things almost no one wants to do. Pete Buttigieg is the former United States Secretary of Transportation, the former mayor of South Bend, Indiana, a Rhodes Scholar, and a Navy veteran who served in Afghanistan.
-
-### Prof G Markets — The Next Era of Warfare is Here
-- Date: 2026-08-02
-- Duration: 3927
-- Tags: AI, Startups, Markets, Finance, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6518763001.mp3
-- Summary from show notes: Ed Elson sits down with Brian Schimpf, co-founder and CEO of Anduril, to discuss how AI is transforming the defense industry and where it should, and shouldn't, be deployed. They also explore the growing threat posed by China, why we’re in such an unstable time right now, and what people get wrong about the defense industry.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
