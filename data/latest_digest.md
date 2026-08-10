@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-09
+# Podcast Digest - 2026-08-10
 
-Generated: 2026-08-09 07:31 PDT
+Generated: 2026-08-10 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,27 @@ Generated: 2026-08-09 07:31 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Bulls vs. Bears: Who’s Right About This Market?
+- Date: 2026-08-10
+- Duration: 4122
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2841502810.mp3
+- Summary from show notes: Scott Galloway and Ed Elson break down the bull and bear cases for the market at new record highs. They unpack how dependent the market has become on cash-burning companies like OpenAI and Anthropic, and therefore how fragile the AI trade is. Then they turn to SpaceX and check in on the stock following the company’s first earnings report and share lockup expiration date.
+
+### Modern Wisdom — You’re Not Depressed, You’re Living The Wrong Life - Jimmy Carr - #1135
+- Date: 2026-08-09
+- Duration: 7119
+- Tags: Career, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6496130076.mp3
+- Summary from show notes: Jimmy Carr is a comedian, television host and an author. From razor-sharp jokes to hard-earned life wisdom, Jimmy Carr can do it all. Whether he’s explaining how he’d fix Britain or revealing the secrets it takes to become a better comedian, Jimmy is back with brilliant insights, unforgettable one-liners, and a few laughs along the way.
+
+### DOAC — The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin
+- Date: 2026-08-09
+- Duration: 6786
+- Tags: AI, Business, Career, Health, Psychology, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=hpfdvy6yaplgvfrvhc81z7to
+- Summary from show notes: Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis.
+
 ### Modern Wisdom — Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134
 - Date: 2026-08-07
 - Duration: 6407
@@ -71,11 +92,11 @@ Generated: 2026-08-09 07:31 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
 - Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
 
-### DOAC — World’s Biggest Bitcoin Holder: I Made $15 BILLION With ChatGPT | Michael Saylor
+### DOAC — Michael Saylor: He Asked AI To Build Something That Never Existed. Here’s What Happened! | Michael Saylor
 - Date: 2026-08-05
 - Duration: 5994
 - Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=ozjlgnamqdqieyha436pdusz
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=jiulxdyqzicm822yuurry8n2
 - Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
 
 ### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
@@ -144,35 +165,6 @@ Generated: 2026-08-09 07:31 PDT
 - Tags: AI, Startups, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01KZ49YPG8H70NMAFDDCMTTXB4.mp3
 - Summary from show notes: I go solo on this one to break down graph engineering, the term I keep seeing go viral on X. I define it in plain English: prompt engineering is how you ask AI a better question, context engineering is how you give AI better information, and graph engineering is how you design the work around the AI so it lives as a managed workflow instead of one giant chat. I walk through the vocabulary (jobs, arrows, state), separate knowledge graphs from agent graphs, and run a full worked example on whether to launch an AI bookkeeping product for Shopify merchants.
-
-### Prof G Markets — How Leverage Turned An AI Boom Into A Crash
-- Date: 2026-08-03
-- Duration: 4809
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3636888255.mp3
-- Summary from show notes: Scott Galloway and Ed Elson break down how single-stock leveraged ETFs caused volatility in the South Korean stock market and discuss how leverage can be damaging for investors. Then, they unpack earnings from Microsoft, Meta, Apple, and Amazon, explaining why investors rewarded Microsoft and Amazon while punishing Meta and Apple. They discuss how the AI boom is making it increasingly difficult to value Big Tech.
-
-### Grade Cricketer — Moises Henriques on cricket anxiety, privatisation and the best player he’s ever seen
-- Date: 2026-08-02
-- Duration: 4032
-- Tags: Career, Parenting, Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/moises-henriques-on-cricket-anxiety-privatisation-and-the-best-player-he-s-ever-seen
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e118b9ca-d007-45d1-b321-b49b0055d6f5/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: The boys sit down with Moises Henriques for a special one hour chat in Sydney. Fresh from concluding a 22 year career with Cricket NSW and the Sydney Sixers, Moises opens up his relationship to cricket, the future of the game, and the best he's seen live. com/gradecricketer See omnystudio.com/listener for privacy information.
-
-### Modern Wisdom — Who You Meet Down America’s Forgotten Backroads - Peter Santenello - #1132
-- Date: 2026-08-02
-- Duration: 7113
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5905582225.mp3
-- Summary from show notes: Peter Santenello is an independent journalist, YouTuber, & author. Who are the forgotten people of rural America? The country’s political and moral divisions may stem not only from disagreement, but from distance, countless communities and subcultures living entirely separate lives, with little understanding of one another.
-
-### DOAC — Secretary Pete Buttigieg: The American Dream Is DEAD. We're Running Out Of Time To Fix It!
-- Date: 2026-08-02
-- Duration: 6880
-- Tags: AI, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMPYHGYNJKKR9DNDTHTH7TD.mp3
-- Summary from show notes: Former US Secretary of Transportation Pete Buttigieg says the American experiment is on the brink. He argues that the country is at risk of losing its democracy, the problems Americans feel every day are not accidents, and that fixing it will mean doing the hard things almost no one wants to do. Pete Buttigieg is the former United States Secretary of Transportation, the former mayor of South Bend, Indiana, a Rhodes Scholar, and a Navy veteran who served in Afghanistan.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
