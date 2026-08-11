@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-10
+# Podcast Digest - 2026-08-11
 
-Generated: 2026-08-10 07:38 PDT
+Generated: 2026-08-11 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,36 @@ Generated: 2026-08-10 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Here's What The Jobs Report Isn’t Telling You
+- Date: 2026-08-11
+- Duration: 1986
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1848701155.mp3
+- Summary from show notes: Ed Elson is joined by Kathryn Anne Edwards to break down the real story behind the July jobs report. She also shares her thoughts on how AI is impacting the labor market, and the solution we need for those who lose their jobs due to the technology. Then, Bradley Tusk returns to the show to discuss Mark Zuckerberg’s AI manifesto and the $1 billion “Future Is For Everyone” fund.
+
+### Grade Cricketer — Darwin Test, England squad, Stokes interview
+- Date: 2026-08-10
+- Duration: 5677
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/darwin-test-england-squad-stokes-interview
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/cfe866ae-6d57-41ab-842f-b4a30048f891/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Test cricket is back in Australia and most of the country have no idea it's happening. Doesn't matter because The Cartel™ is back together for a couple of one-day tests. Will Father Time remain undefeated?
+
+### TWIST — Zuck's AI manifesto is a data center PR masterclass | E2323
+- Date: 2026-08-10
+- Duration: 01:20:18
+- Tags: AI, Business, Finance, Career, Content, Cricket, Startups
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/zucks-ai-manifesto-is-a-data-center-pr-masterclass-e2323
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2323_Audio.mp3?dest-id=5500155
+- Summary from show notes: This Week In Startups is made possible by: Every.io https://every.io NetSuite https://NetSuite.ai/TWIST YSecurity https://YSecurity.io/TWIST Today's show: *Meta chief Mark Zuckerberg published a 6,500 word essay about the future of AI, and Jason thinks it's his smartest PR move in years. The thinkpiece, "The Future is for Everyone: The Path to a Positive AI Future," arrives alongside a new open-weight Meta model — Muse Glimmer — and the promise of an open-weight version of Muse Spark 1.2 to come. Zuckerberg's clearly pitching an "abundance" narrative, promising the American public untold benefits from AI technolo
+
+### Startup Ideas — Making $$$ selling to AI Agents
+- Date: 2026-08-10
+- Duration: 2050
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01KZP88D049J9T86X0C50HJWPY.mp3
+- Summary from show notes: In this solo episode I break down Cloudflare's AI agent announcement in plain English and explain why I see it as the new business model for the internet. I walk through AI crawl control, pay per crawl, the monetization gateway, and the x402 payment rail, and I show how a single request turns into a transaction. From there I give three startup ideas built directly on top of this shift: a niche data refinery, agent readiness for businesses, and expert archives turned into agent tools.
+
 ### Prof G Markets — Bulls vs. Bears: Who’s Right About This Market?
 - Date: 2026-08-10
 - Duration: 4122
@@ -92,11 +122,11 @@ Generated: 2026-08-10 07:38 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
 - Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. - The biggest red and green flags to look out for in the dating pool. - Why women's sexual desire fades faster than men's.
 
-### DOAC — Michael Saylor: He Asked AI To Build Something That Never Existed. Here’s What Happened! | Michael Saylor
+### DOAC — Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor
 - Date: 2026-08-05
 - Duration: 5994
-- Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=jiulxdyqzicm822yuurry8n2
+- Tags: AI, Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=ws4e0gbgj0kfew78cl1wdnx5
 - Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - https://doaccircle.com/ ◼Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK ◼The 1% Diary is back - limited time only: https://thediary.com/products/one-percent-diary ◼The Diary Of A CEO Conversation Cards (Second Edition): https://thediary.com/products/the-conversation-cards-2nd-edition ◼Get email updates - https://link.thediaryofaceo.com/5IB1H6E ◼Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Cometeer - https://cometeer.com/DOAC use code DOAC for $20 off Pipedrive - https://pipedrive.com/CEO
 
 ### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
@@ -135,36 +165,6 @@ Generated: 2026-08-10 07:38 PDT
 - Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5020991406.mp3
 - Summary from show notes: Ed Elson is joined by Alex Heath to unpack the latest drama in the legal battle between Apple and OpenAI, what Apple's request for a preliminary injunction could mean, and how serious the case could become for OpenAI. Then, Nicolas Owens returns to break down SpaceX's latest earnings, assess the company's capital expenditures, and give his take on its current valuation. Finally, Ed gives his take on reports that Blackstone is in talks to loan money to Anthropic.
-
-### Prof G Markets — Aschenbrenner’s AI Fund Collapse Is Just The Beginning
-- Date: 2026-08-04
-- Duration: 2113
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2414923281.mp3
-- Summary from show notes: Ed Elson is joined by Michael Green to discuss the role that leverage played in the turmoil with Leopold Aschenbrenner’s fund, Situational Awareness, and how leveraged-ETFs are impacting the semiconductor industry. Then, Katie Martin returns to break down why the U.S. intervened to help Japan with the yen and whether the U.S.
-
-### Grade Cricketer — Disappointing and sensible, with Matt Roller
-- Date: 2026-08-03
-- Duration: 6634
-- Tags: Health, Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/disappointing-and-sensible-with-matt-roller
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/2c4ce449-7415-4df3-a8ee-b49c00410930/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Missionary works, especially for England. Their new appointments of Stephen Fleming and Joe Root are sensible but boring. Is Root just a placeholder until Harry Brooks' diet evolves past eating crayons.
-
-### TWIST — How Bespoke faked AI until it actually worked (w/ Akemi Tsunagawa) | E2320
-- Date: 2026-08-03
-- Duration: 01:02:16
-- Tags: AI, Startups, Business, Career, Content, Venture, Tech
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/how-bespoke-faked-ai-until-it-actually-worked-w-akemi-tsunagawa-e2320
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2320_Audio.mp3?dest-id=5500155
-- Summary from show notes: That "fake it till you make it" strategy paid off. Bespoke landed Narita Airport as a customer based on the strength of their "chatbot" answers, and now the team runs three companies, and is expanding into shipyard robots. 1:06 Introducing Akemi Tsunagawa, founder of Bespoke 3:08 Why investors passed in 2015 4:49 Selling Narita Airport on Bebot 6:29 The roots of Japan's tourism explosion 9:27 Odoo - The all-in-one business platform.
-
-### Startup Ideas — Graph Engineering Clearly Explained
-- Date: 2026-08-03
-- Duration: 1588
-- Tags: AI, Startups, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01KZ49YPG8H70NMAFDDCMTTXB4.mp3
-- Summary from show notes: I go solo on this one to break down graph engineering, the term I keep seeing go viral on X. I define it in plain English: prompt engineering is how you ask AI a better question, context engineering is how you give AI better information, and graph engineering is how you design the work around the AI so it lives as a managed workflow instead of one giant chat. I walk through the vocabulary (jobs, arrows, state), separate knowledge graphs from agent graphs, and run a full worked example on whether to launch an AI bookkeeping product for Shopify merchants.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
