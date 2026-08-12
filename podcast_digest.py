@@ -121,27 +121,68 @@ def tag_text(title: str, notes: str, feed_themes=None) -> list[str]:
     return tags[:8]
 
 
-def short_summary(text: str, max_chars=620) -> str:
+def clean_content_text(text: str) -> str:
+    """Remove sponsor/CTA boilerplate so summaries lead with actual episode content."""
     text = strip_html(text)
     if not text:
         return ''
-    # Drop common subscription boilerplate.
-    text = re.sub(r'(?i)subscribe.*?(apple podcasts|spotify|youtube).*?\.', ' ', text)
-    text = re.sub(r'(?i)follow (us|the show).*?\.', ' ', text)
+    # Prefer the portion after common show-note separators.
+    for marker in ["Today's show:", "Today’s show:", 'In this episode,', 'On this episode,']:
+        if marker.lower() in text.lower():
+            idx = text.lower().find(marker.lower())
+            text = text[idx + len(marker):]
+            break
+    # Remove URLs and common ad/readout clauses that otherwise dominate summaries.
+    text = re.sub(r'https?://\S+', ' ', text)
+    text = re.sub(r'(?i)\b(this week in startups|twist|all-in|the show) is made possible by:?.{0,260}?(today[’\']?s show:|in this episode:)', r'\1', text)
+    text = re.sub(r'(?i)\b(made possible by|sponsored by|presented by|partners?:|use code|promo code|netSuite|every\.io|ysecurity|shopify|notion|oracle|masterclass|linkedin jobs)\b[^.!?]{0,220}[.!?]', ' ', text)
+    text = re.sub(r'(?i)\b(subscribe|follow|rate and review|leave a review|check out|learn more|sign up|visit)\b[^.!?]{0,220}[.!?]', ' ', text)
+    text = re.sub(r'(?i)\b(timestamps?|chapters?)\b\s*[:\-].*', ' ', text)
+    return re.sub(r'\s+', ' ', text).strip(' -*—–:')
+
+
+def short_summary(text: str, max_chars=620) -> str:
+    text = clean_content_text(text)
+    if not text:
+        return ''
     sentences = re.split(r'(?<=[.!?])\s+', text)
     picked = []
     for s in sentences:
-        s = s.strip()
+        s = s.strip(' -*—–')
         if not s:
             continue
         if len(' '.join(picked)) > max_chars:
             break
-        if 35 <= len(s) <= 320 and not re.search(r'(?i)promo code|sponsor|advertis', s):
+        if 35 <= len(s) <= 340 and not re.search(r'(?i)promo code|sponsor|advertis|made possible|subscribe|follow us', s):
             picked.append(s)
         if len(picked) >= 3:
             break
     out = ' '.join(picked) or text[:max_chars]
     return out[:max_chars].rstrip()
+
+
+def content_takeaways_from_text(text: str, tags=None, limit=4) -> list[str]:
+    text = clean_content_text(text)
+    sentences = [s.strip(' -*—–') for s in re.split(r'(?<=[.!?])\s+', text) if 45 <= len(s.strip()) <= 280]
+    bad = re.compile(r'(?i)promo code|sponsor|advertis|made possible|subscribe|follow us|privacy policy|terms|newsletter')
+    candidates = [s for s in sentences if not bad.search(s)]
+    if not candidates:
+        return []
+    def score(s: str) -> int:
+        x = s.lower(); score = 0
+        for w in ['explains','breaks down','discusses','argues','shows','reveals','why','how','because','impact','risk','tradeoff','strategy','market','jobs','growth','ai','data','team','performance','health','cricket']:
+            if w in x: score += 2
+        if 90 <= len(s) <= 220: score += 2
+        return score
+    ranked = sorted(candidates, key=score, reverse=True)
+    picked=[]
+    for s in ranked:
+        if any(s[:55] in p or p[:55] in s for p in picked):
+            continue
+        picked.append(s)
+        if len(picked) >= limit:
+            break
+    return picked
 
 
 def find_child_text(node, names: list[str]) -> str:
@@ -209,6 +250,8 @@ def parse_feed(feed: dict) -> tuple[list[dict], dict]:
             'published_month': pub.astimezone(PACIFIC).strftime('%Y-%m') if pub else None,
             'duration': duration,
             'summary': short_summary(clean),
+            'content_summary': short_summary(clean),
+            'content_takeaways': content_takeaways_from_text(clean, feed.get('themes'), limit=4),
             'show_notes': clean[:5000],
             'tags': tag_text(title, clean, feed.get('themes')),
             'source': 'favorite_feed',
@@ -241,6 +284,8 @@ def read_link_inbox(path: Path) -> list[dict]:
             'published_month': None,
             'duration': '',
             'summary': 'Podcast/audio link sent by David. Needs source-specific transcript or show-note extraction.',
+            'content_summary': 'Podcast/audio link sent by David. Needs source-specific transcript or show-note extraction.',
+            'content_takeaways': [],
             'show_notes': '',
             'tags': tag_text(url, ''),
             'source': 'link_inbox',
@@ -321,6 +366,10 @@ def attach_transcript(episode: dict, transcript_data: dict | None):
     if not text:
         episode['transcript_status'] = transcript_data.get('status') or 'empty'
         return
+    content_takeaways = content_takeaways_from_text(text, episode.get('tags'), limit=4)
+    if content_takeaways:
+        episode['transcript_content_takeaways'] = content_takeaways[:4]
+        episode['transcript_content_summary'] = ' '.join(content_takeaways[:2])[:900]
     takeaways = transcript_data.get('llm_takeaways') or transcript_data.get('takeaways') or extract_takeaways_from_text(text, episode.get('tags'), limit=4)
     episode['transcript_status'] = 'available'
     episode['transcript_source'] = transcript_data.get('source', 'faster_whisper')
