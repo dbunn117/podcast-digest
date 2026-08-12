@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-11
+# Podcast Digest - 2026-08-12
 
-Generated: 2026-08-11 22:14 PDT
+Generated: 2026-08-12 07:34 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,13 @@ Generated: 2026-08-11 22:14 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Inside Nvidia’s $500B AI Financing Loop
+- Date: 2026-08-12
+- Duration: 1900
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5024681499.mp3
+- Summary from show notes: Ed Elson is joined by Jay Goldberg to break down why Nvidia is partnering with Wall Street on a $500 billion AI financing package. Then, Tim Farrar returns to the show to unpack earnings from AST SpaceMobile and Rocket Lab, and how SpaceX’s IPO impacted the space industry. Finally, Ed shares his thoughts on the fraud allegations against Phoebe Gates.
+
 ### Prof G Markets — Here's What The Jobs Report Isn’t Telling You
 - Date: 2026-08-11
 - Duration: 1986
@@ -57,11 +64,11 @@ Generated: 2026-08-11 22:14 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6496130076.mp3
 - Summary from show notes: Jimmy Carr is a comedian, television host and an author. From razor-sharp jokes to hard-earned life wisdom, Jimmy Carr can do it all. Whether he’s explaining how he’d fix Britain or revealing the secrets it takes to become a better comedian, Jimmy is back with brilliant insights, unforgettable one-liners, and a few laughs along the way.
 
-### DOAC — The Quitting Expert: Sunk Costs Are Keeping You TRAPPED, Quit Before AI Comes! | Seth Godin
+### DOAC — The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin
 - Date: 2026-08-09
 - Duration: 6786
 - Tags: AI, Business, Career, Health, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=xs4idca2e94t0ldpcape15e6
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=hpfdvy6yaplgvfrvhc81z7to
 - Summary from show notes: Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis.
 
 ### Modern Wisdom — Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134
@@ -158,13 +165,6 @@ Generated: 2026-08-11 22:14 PDT
 - Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
 - Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3
 - Summary from show notes: Alex explains why starting for free is the fastest path to scale a new business. He also shares the four elements of compelling proof that beat promise every time. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
-
-### Prof G Markets — Apple’s War On OpenAI Just Got Personal
-- Date: 2026-08-05
-- Duration: 1673
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5020991406.mp3
-- Summary from show notes: Ed Elson is joined by Alex Heath to unpack the latest drama in the legal battle between Apple and OpenAI, what Apple's request for a preliminary injunction could mean, and how serious the case could become for OpenAI. Then, Nicolas Owens returns to break down SpaceX's latest earnings, assess the company's capital expenditures, and give his take on its current valuation. Finally, Ed gives his take on reports that Blackstone is in talks to loan money to Anthropic.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
