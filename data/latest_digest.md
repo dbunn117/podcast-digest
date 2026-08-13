@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-12
+# Podcast Digest - 2026-08-13
 
-Generated: 2026-08-12 07:34 PDT
+Generated: 2026-08-13 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,58 @@ Generated: 2026-08-12 07:34 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — We Know Their Names | Day 1 | AUS v BAN | Darwin Test
+- Date: 2026-08-13
+- Duration: 1387
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/we-know-their-names-day-1-aus-v-ban-darwin-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/511ac9c2-4823-43b4-87df-b4a5009acfe2/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: One of the greatest days in Bangladesh Cricket history means Australia may never win again. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee! com/listener for privacy information.
+
+### Prof G Markets — “AI Compute Futures” — Has Wall Street Gone Too Far?
+- Date: 2026-08-13
+- Duration: 1891
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4679491733.mp3
+- Summary from show notes: Ed Elson is joined by Rohan Goswami to break down the CME’s move to offer AI compute futures such that computing power can be traded like a commodity. Then, Mark Zandi returns to unpack the latest inflation data from the consumer price index. Finally, Ed shares his thoughts on what the recent high profile departures from OpenAI mean for the markets.
+
+### Modern Wisdom — Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2 - #1136
+- Date: 2026-08-12
+- Duration: 11171
+- Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8068505146.mp3
+- Summary from show notes: I spent a really long time putting this together, I really hope you enjoy it! In this second episode of Mostly Wise, we explore: Hunter's true version of the laptop story The best conspiracy theories that are (maybe) real. If it was Hunter's bag of cocaine that was found in the White House.
+
+### DOAC — Sleep Apnea Expert: 1 Billion People Have This And Most Go UNDIAGNOSED! | Dr Andy Galpin
+- Date: 2026-08-12
+- Duration: 7909
+- Tags: AI, Career, Health, Content, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=m54qckzxb3t7nyyjn5u05ojh
+- Summary from show notes: Performance Scientist Dr Andy Galpin reveals the BIGGEST sleep mistakes ruining your health, how to build better energy every day, why your sleep tracker could be making things worse, and whether health optimisation can actually backfire! Andy Galpin is a Professor of Kinesiology and Executive Director of the Human Performance Center at Parker University. He has spent over 2 decades working with Olympic gold medallists, world champions, professional athletes, military special forces, and also hosts the Perform with Dr Andy Galpin podcast.
+
+### All-In — Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats
+- Date: 2026-08-12
+- Duration: 01:11:36
+- Tags: Finance, Career, AI, Markets, Politics, Startups, Business
+- Episode: https://allinchamathjason.libsyn.com/rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reasons for the decay of the West (38:37) Immigration: US solutions, who to emulate, subsidizing college for Americans (46:55) National debt, government interference in markets, fixing education (1:09:24) DSA vs Democrats Follow Rahm: Follow the besties: Follow on X: Follow on Instagram: Follow on TikTok: Follow on LinkedIn: Intro Music Credit: Intro Video Credit
+
+### TWIST — These robots could cut delivery costs by 80% | Next Unicorns
+- Date: 2026-08-12
+- Duration: 01:03:44
+- Tags: AI, Startups, Business, Career, Health, Content, Cricket
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/these-robots-could-cut-delivery-costs-by-80-next-unicorns
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2324_AUDIO.mp3?dest-id=5500155
+- Summary from show notes: Cytronic built a robotics-first fulfillment network, packing and shipping orders for cents instead of dollars, from small, city-adjacent micro-warehouses. Alex chats with CEO and co-founder Kevin Gibbon about how he can build a fulfillment warehouse for $1.2 million, and why it costs Amazon 50M-100M. PLUS Eyebot delivers low-cost doctor-reviewed eyeglass prescriptions following 90-second vision tests, conducted in everyday kiosks.
+
+### Startup Ideas — How to Build an AI-Native Company in 2026
+- Date: 2026-08-12
+- Duration: 2908
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3
+- Summary from show notes: Miller to talk about the shift from managing AI agents to enabling them. Allie runs a workforce of 34 AI agents led by an AI chief of staff named Simon, plus six directors named after Friends characters. She shares her three-word prompt, her daily AI diary, her AI watchdogs, and her rule to build the factory before the product.
+
 ### Prof G Markets — Inside Nvidia’s $500B AI Financing Loop
 - Date: 2026-08-12
 - Duration: 1900
@@ -57,9 +109,9 @@ Generated: 2026-08-12 07:34 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2841502810.mp3
 - Summary from show notes: Scott Galloway and Ed Elson break down the bull and bear cases for the market at new record highs. They unpack how dependent the market has become on cash-burning companies like OpenAI and Anthropic, and therefore how fragile the AI trade is. Then they turn to SpaceX and check in on the stock following the company’s first earnings report and share lockup expiration date.
 
-### Modern Wisdom — You’re Not Depressed, You’re Living The Wrong Life - Jimmy Carr - #1135
+### Modern Wisdom — “We’re At The Beginning Of A Revolution” - Jimmy Carr - #1135
 - Date: 2026-08-09
-- Duration: 7119
+- Duration: 7134
 - Tags: Career, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6496130076.mp3
 - Summary from show notes: Jimmy Carr is a comedian, television host and an author. From razor-sharp jokes to hard-earned life wisdom, Jimmy Carr can do it all. Whether he’s explaining how he’d fix Britain or revealing the secrets it takes to become a better comedian, Jimmy is back with brilliant insights, unforgettable one-liners, and a few laughs along the way.
@@ -71,7 +123,7 @@ Generated: 2026-08-12 07:34 PDT
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=hpfdvy6yaplgvfrvhc81z7to
 - Summary from show notes: Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis.
 
-### Modern Wisdom — Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134
+### Modern Wisdom — Q&A: Becoming A Dad, Favourite Peptides & Red Rising - #1134
 - Date: 2026-08-07
 - Duration: 6407
 - Tags: AI, Health, Parenting, Psychology, Performance, Relationships, Self-Improvement
@@ -114,57 +166,6 @@ Generated: 2026-08-12 07:34 PDT
 - Tags: Startups, Health, Psychology, Business, Relationships, Performance
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZB7YVD59TCDB7A3V1ZND76F.mp3
 - Summary from show notes: How do I best protect my brain from cognitive decline? Louisa Nicola is a neurophysiologist and the founder of Neuro Athletics, specialising in brain health, human performance, and longevity. In this Moment, Louisa Nicola reveals how the right kind of exercise can help protect the ageing brain, why one often-overlooked measure of physical strength may be a powerful marker of cognitive health, and the training approach linked to remarkable changes in the middle-aged heart.
-
-### Prof G Markets — Michael Burry Says This Is The Top — Is It?
-- Date: 2026-08-06
-- Duration: 2115
-- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4931807708.mp3
-- Summary from show notes: Ed Elson is joined by Steve Eisman to unpack why stocks are at record highs and what it would take for him to call a market top. Then, Ryan Petersen returns to explain how the war with Iran and escalating tariffs are reshaping global supply chains. Finally, Ed breaks down the growing evidence that the AI boom has become increasingly dependent on OpenAI.
-
-### Modern Wisdom — The New Science Of Female Attraction - Psychology Roundtable - #1133
-- Date: 2026-08-05
-- Duration: 7610
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6141599115.mp3
-- Summary from show notes: In this evolutionary psychology roundtable, we explore: - If 20% of the men actually get 80% of the attention. The biggest red and green flags to look out for in the dating pool. Why women's sexual desire fades faster than men's.
-
-### DOAC — Man Who Owns 4% Of All Bitcoin: Sell Your Kidney But Keep The Bitcoin, UNLESS… | Michael Saylor
-- Date: 2026-08-05
-- Duration: 5994
-- Tags: Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KYMQ6P4DN77N54H367JRPMH3.mp3?fcv=uot5tid6279ggeh4kire0u52
-- Summary from show notes: The Diary Of A CEO: ◼Join DOAC circle here - ◼Buy The Diary Of A CEO book here - ◼The 1% Diary is back - limited time only: ◼The Diary Of A CEO Conversation Cards (Second Edition): ◼Get email updates - ◼Follow Steven - Sponsors: Cometeer - use code DOAC for $20 off Pipedrive
-
-### TWIST — Airtable's 80% off value crash: VCs explain why it's still a win | E2321
-- Date: 2026-08-05
-- Duration: 01:12:33
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/airtables-80-off-value-crash-vcs-explain-why-its-still-a-win-e2321
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2321_Audio.mp3?dest-id=5500155
-- Summary from show notes: Airtable just sold for $2.25 billion, an 81% drop from its peak of $11.7 billion. On this week's TWiST VC Roundtable, Aditya Agarwal (South Park Commons), Niko Bonatsos (Verdict Capital), and Rick Heitzmann (FirstMark Capital) break down why the venture world sees this as a good outcome, not a financial disaster. By declining the deal, would Airtable's team have just been delaying the inevitable?
-
-### Startup Ideas — These AI Marketing Agents Get You Customers
-- Date: 2026-08-05
-- Duration: 2639
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01KZ9Q7Q16ZYV8HWW3W4CHY1ZN.mp3
-- Summary from show notes: I bring Cody Schneider back on the show to build two marketing agents end to end, live. The first one monitors LinkedIn posts from creators in your category, scrapes everyone who engages, waterfalls those profiles into emails and phone numbers, and then runs cold email and LinkedIn DMs with an agent managing the replies. The second one turns internal conversations, sales calls, and podcast transcripts into a daily organic LinkedIn content engine across an entire team.
-
-### All-In — Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
-- Date: 2026-08-05
-- Duration: 48:19
-- Tags: AI, Business, Career, Markets, Politics, Startups, Tech
-- Episode: https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing cost-plus, the new primes, and why only 1% of the budget goes to autonomy (25:55) Could 10,000 Corsairs actually lock down a 20-mile strait?
-
-### The Game — The Offer So Good People Feel Stupid Saying No | Ep 990
-- Date: 2026-08-05
-- Duration: 476
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ53VKWA18Q9Y2654MYNA9R3.mp3
-- Summary from show notes: Alex explains why starting for free is the fastest path to scale a new business. He also shares the four elements of compelling proof that beat promise every time. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
