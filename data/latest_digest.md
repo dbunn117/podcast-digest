@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-13
+# Podcast Digest - 2026-08-14
 
-Generated: 2026-08-13 07:38 PDT
+Generated: 2026-08-14 07:36 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,7 +13,36 @@ Generated: 2026-08-13 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
-### Grade Cricketer — We Know Their Names | Day 1 | AUS v BAN | Darwin Test
+### The Game — One High-Stakes Decision Changes Everything | Ep 992
+- Date: 2026-08-14
+- Duration: 682
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZZW6RQVPQ78QWAT52FFE0QN.mp3
+- Summary from show notes: Book Your Spot at the Live Scaling Workshop in Las Vegas: Most sales objections aren’t objections. They’re excuses for giving power away. Today, Alex breaks down the psychology behind high-stakes decisions and shows how the same frameworks that make people more powerful in their lives can teach them how to sell better.
+
+### Grade Cricketer — Tanzid and Bangladesh put Australia to the sword | Day 2 | AUS v BAN | Darwin Test
+- Date: 2026-08-14
+- Duration: 1334
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/tanzid-and-bangladesh-put-australia-to-the-sword-day-2-aus-v-ban-darwin-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e497dea4-bc3f-4dc0-9a19-b4a600939829/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Bangladesh put Australia to the sword. Tanzid Hasan's first Test century leads to a second day of domination over Australia in the Darwin Test. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
+
+### Prof G Markets — The Architect Of The Billionaire Tax Makes His Case — ft. Gabriel Zucman
+- Date: 2026-08-14
+- Duration: 4343
+- Tags: Finance, Career, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8965442153.mp3
+- Summary from show notes: Ed Elson is joined by Gabriel Zucman to break down Prop 40, the billionaire tax proposal in California. They discuss why Gabriel thinks it’s the most effective way to tax the ultrawealthy in the state, unpack the various criticisms of the tax, and consider what its influence could be on the rest of the country. Gabriel Zucman is a Professor of economics at the Paris School of Economics, Summer Research Professor at the University of California, Berkeley, and founding Director of the International Tax Observatory.
+
+### DOAC — Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World's Greatest Climber
+- Date: 2026-08-13
+- Duration: 1556
+- Tags: Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZX9EY9AKSB1F728SSAR3SCP.mp3
+- Summary from show notes: What if fear isn’t something you need to overcome? Alex Honnold is the legendary professional rock climber behind Free Solo, best known for becoming the first person to free solo Yosemite’s 3,000-foot El Capitan without ropes or safety equipment. In this moment, Alex explains why he still feels fear, and how decades of repeatedly confronting it have changed the way he responds to it.
+
+### Grade Cricketer — Now We Know Their Names | Day 1 | AUS v BAN | Darwin Test
 - Date: 2026-08-13
 - Duration: 1387
 - Tags: Cricket, Australia, South Africa, Sport, Culture
@@ -152,20 +181,6 @@ Generated: 2026-08-13 07:38 PDT
 - Tags: Business, Parenting, Cricket, Entrepreneurship, Sales, Offers, Pricing
 - Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ9E2KPBF2DTNKFWW43J0VDR.mp3
 - Summary from show notes: Alex and Leila break down the only question that matters when choosing a partner. From the traits that rub off over time to why needing a partner is the fastest way to picking the wrong one, this is the conversation most couples never have. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
-
-### Prof G Markets — Aswath Damodaran: Big Tech Has No Idea How AI Pays Off
-- Date: 2026-08-07
-- Duration: 3993
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4802711725.mp3
-- Summary from show notes: Ed Elson and Scott Galloway are joined by Aswath Damodaran to break down the biggest takeaways from Big Tech earnings. He explains what the latest results reveal about the AI race, why he's becoming increasingly concerned about the Magnificent Seven's AI spending, and how he values the hyperscalers. They also discuss how much AI risk is already priced into the market and whether SpaceX's current valuation is justified.
-
-### DOAC — Most Replayed Moment: Alzheimer's Starts 20 Years Before Symptoms! How To Protect Your Brain Now
-- Date: 2026-08-06
-- Duration: 1832
-- Tags: Startups, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZB7YVD59TCDB7A3V1ZND76F.mp3
-- Summary from show notes: How do I best protect my brain from cognitive decline? Louisa Nicola is a neurophysiologist and the founder of Neuro Athletics, specialising in brain health, human performance, and longevity. In this Moment, Louisa Nicola reveals how the right kind of exercise can help protect the ageing brain, why one often-overlooked measure of physical strength may be a powerful marker of cognitive health, and the training approach linked to remarkable changes in the middle-aged heart.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
