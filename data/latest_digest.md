@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-14
+# Podcast Digest - 2026-08-15
 
-Generated: 2026-08-14 07:36 PDT
+Generated: 2026-08-15 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,37 @@ Generated: 2026-08-14 07:36 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — Bangladesh on the brink of history | Day 3 | AUS v BAN | Darwin Test
+- Date: 2026-08-15
+- Duration: 1921
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/bangladesh-on-the-brink-of-history-day-2-aus-v-ban-darwin-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/f765c056-63e5-43ae-8c1a-b4a7009a35d3/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Bangladesh close in on a historic test match win on Australian soil, while the Aussies seem to do everything in their power to ensure their own annihilation. Is this a sign of the next 20 (read:19) tests for the Aussies? 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
+
+### Modern Wisdom — Harvard Professor: “I Tried Every Diet. This Is By Far The Worst.” - Daniel Lieberman - #1137
+- Date: 2026-08-14
+- Duration: 7696
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9539051723.mp3
+- Summary from show notes: Daniel Lieberman is a Harvard professor of human evolutionary biology, paleoanthropologist, and author. What is the best diet for peak human health? From vegan and carnivore to Mediterranean and raw food, how do you know which approach is right for you?
+
+### TWIST — What we'll learn from Anthropic's $2-$3T IPO | E2325
+- Date: 2026-08-14
+- Duration: 01:20:16
+- Tags: AI, Startups, Business, Career, Health, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/what-well-learn-from-anthropics-2-3t-ipo-e2325
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2325_AUDIO.mp3?dest-id=5500155
+- Summary from show notes: Anthropic is likely headed for the largest IPO in history. A reported 2-3 trillion October debut would blow past SpaceX's recent record. numbers matter less than what they'll reveal about the entire AI economy.
+
+### All-In — Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback
+- Date: 2026-08-14
+- Duration: 01:39:30
+- Tags: AI, Startups, Business, Finance, Career, Content, Markets
+- Episode: https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300
+- Summary from show notes: (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements!
+
 ### The Game — One High-Stakes Decision Changes Everything | Ep 992
 - Date: 2026-08-14
 - Duration: 682
@@ -145,42 +176,12 @@ Generated: 2026-08-14 07:36 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6496130076.mp3
 - Summary from show notes: Jimmy Carr is a comedian, television host and an author. From razor-sharp jokes to hard-earned life wisdom, Jimmy Carr can do it all. Whether he’s explaining how he’d fix Britain or revealing the secrets it takes to become a better comedian, Jimmy is back with brilliant insights, unforgettable one-liners, and a few laughs along the way.
 
-### DOAC — The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin
+### DOAC — The Quitting Expert: Michael Jordan Is WRONG About Quitting, Do This Before AI Comes! | Seth Godin
 - Date: 2026-08-09
 - Duration: 6786
 - Tags: AI, Business, Career, Health, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=hpfdvy6yaplgvfrvhc81z7to
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=whden32ehldvro7zay4wpz92
 - Summary from show notes: Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis.
-
-### Modern Wisdom — Q&A: Becoming A Dad, Favourite Peptides & Red Rising - #1134
-- Date: 2026-08-07
-- Duration: 6407
-- Tags: AI, Health, Parenting, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3
-- Summary from show notes: As usual, I celebrated by collecting questions from across social media and answering them directly. Expect to learn my thoughts on having kids in the near future, what my time with the Night Wolf Hawk was like, a quick health update, why I keep changing my hairstyle, reflections from a one-week silent meditation retreat, and much more...
-
-### All-In — Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
-- Date: 2026-08-07
-- Duration: 01:15:18
-- Tags: AI, Business, Career, Markets, Politics, Startups, Tech
-- Episode: https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300
-- Summary from show notes: Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (45:44) All-In Summit Speaker Announcements!
-
-### TWIST — How AI splits startups into winners and losers | E2322
-- Date: 2026-08-07
-- Duration: 01:18:16
-- Tags: AI, Startups, Business, Career, Content, Sport, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/how-ai-splits-startups-into-winners-and-losers-e2322
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_ONLY.mp3?dest-id=5500155
-- Summary from show notes: A hedge fund just blew up shorting SaaS stocks. In turns out, the software companies that went all in on AI are bouncing back. Figma's CEO — still riding high on strong revenue — forfeited roughly $46 million in stock awards to ease investor nerves.
-
-### The Game — The One Question to Ask About Any Relationship | Ep 991
-- Date: 2026-08-07
-- Duration: 438
-- Tags: Business, Parenting, Cricket, Entrepreneurship, Sales, Offers, Pricing
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZ9E2KPBF2DTNKFWW43J0VDR.mp3
-- Summary from show notes: Alex and Leila break down the only question that matters when choosing a partner. From the traits that rub off over time to why needing a partner is the fastest way to picking the wrong one, this is the conversation most couples never have. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
