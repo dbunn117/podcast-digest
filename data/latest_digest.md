@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-15
+# Podcast Digest - 2026-08-16
 
-Generated: 2026-08-15 07:38 PDT
+Generated: 2026-08-16 07:33 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,14 @@ Generated: 2026-08-15 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — One of the greatest wins in Test cricket history | Day 4 | AUS v BAN | Darwin Test
+- Date: 2026-08-15
+- Duration: 1845
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/one-of-the-greatest-wins-in-test-cricket-history-day-4-aus-v-ban-darwin-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/6ebc97f5-5e9e-49b5-bd17-b4a800672f33/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
+
 ### Grade Cricketer — Bangladesh on the brink of history | Day 3 | AUS v BAN | Darwin Test
 - Date: 2026-08-15
 - Duration: 1921
