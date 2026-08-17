@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-16
+# Podcast Digest - 2026-08-17
 
-Generated: 2026-08-16 07:33 PDT
+Generated: 2026-08-17 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,27 @@ Generated: 2026-08-16 07:33 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Prof G Markets Is Taking A Break — You Should Too
+- Date: 2026-08-17
+- Duration: 255
+- Tags: Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1631081062.mp3
+- Summary from show notes: Ed Elson and Scott Galloway are officially out on summer vacation. We’ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too.
+
+### Modern Wisdom — AI DEBATE: What Will the World Actually Look Like in 2040? - #1138
+- Date: 2026-08-16
+- Duration: 9759
+- Tags: AI, Business, Career, Health, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5112667394.mp3
+- Summary from show notes: In this AI debate, we explore: Whether humans will exist in 2040. What will happen once we reach AGI. Whether AI gets smart enough to act malevolently or benevolently towards humans.
+
+### DOAC — Top Scientist REVEALS: AI Could Be The Next Einstein, Robots Will Deserve Rights! | Prof Brian Greene
+- Date: 2026-08-16
+- Duration: 7904
+- Tags: AI, Startups, Career, Health, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=xtbinq7tf07an9rrt0dlkypb
+- Summary from show notes: Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe! Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe
+
 ### Grade Cricketer — One of the greatest wins in Test cricket history | Day 4 | AUS v BAN | Darwin Test
 - Date: 2026-08-15
 - Duration: 1845
@@ -169,27 +190,6 @@ Generated: 2026-08-16 07:33 PDT
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01KZP88D049J9T86X0C50HJWPY.mp3
 - Summary from show notes: In this solo episode I break down Cloudflare's AI agent announcement in plain English and explain why I see it as the new business model for the internet. I walk through AI crawl control, pay per crawl, the monetization gateway, and the x402 payment rail, and I show how a single request turns into a transaction. From there I give three startup ideas built directly on top of this shift: a niche data refinery, agent readiness for businesses, and expert archives turned into agent tools.
-
-### Prof G Markets — Bulls vs. Bears: Who’s Right About This Market?
-- Date: 2026-08-10
-- Duration: 4122
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2841502810.mp3
-- Summary from show notes: Scott Galloway and Ed Elson break down the bull and bear cases for the market at new record highs. They unpack how dependent the market has become on cash-burning companies like OpenAI and Anthropic, and therefore how fragile the AI trade is. Then they turn to SpaceX and check in on the stock following the company’s first earnings report and share lockup expiration date.
-
-### Modern Wisdom — “We’re At The Beginning Of A Revolution” - Jimmy Carr - #1135
-- Date: 2026-08-09
-- Duration: 7134
-- Tags: Career, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB6496130076.mp3
-- Summary from show notes: Jimmy Carr is a comedian, television host and an author. From razor-sharp jokes to hard-earned life wisdom, Jimmy Carr can do it all. Whether he’s explaining how he’d fix Britain or revealing the secrets it takes to become a better comedian, Jimmy is back with brilliant insights, unforgettable one-liners, and a few laughs along the way.
-
-### DOAC — The Quitting Expert: Michael Jordan Is WRONG About Quitting, Do This Before AI Comes! | Seth Godin
-- Date: 2026-08-09
-- Duration: 6786
-- Tags: AI, Business, Career, Health, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZEMW7JETYCD3GX1WXDACSYJ.mp3?fcv=whden32ehldvro7zay4wpz92
-- Summary from show notes: Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to quit, when to keep going, and why AI will reward the most HUMAN people! Seth Godin is one of the world’s most influential business thinkers and the author of more than 20 bestselling books. He is host of the podcast Akimbo, author of a daily blog read by 1 million people, and coordinator of The Carbon Almanac project, a tool that helps people understand the climate crisis.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
