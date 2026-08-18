@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-17
+# Podcast Digest - 2026-08-18
 
-Generated: 2026-08-17 07:37 PDT
+Generated: 2026-08-18 07:36 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,44 @@ Generated: 2026-08-17 07:37 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — The Case Against AI | Ep 993
+- Date: 2026-08-18
+- Duration: 562
+- Tags: AI, Business, Career, Entrepreneurship, Sales, Offers, Pricing
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M093XD5B7J1WFXDG9BMQ1XRE.mp3
+- Summary from show notes: Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
+
+### Grade Cricketer — Beheadings, Tiki Torches, Guillotines, with Alex Malcolm
+- Date: 2026-08-17
+- Duration: 7211
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/beheadings-tiki-torches-guillotines-with-alex-malcolm
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/3a93ea19-b8e8-4783-b08b-b4aa005cfaab/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Never underestimate how test cricket can make you feel. Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next. Order your El Arquero Tequila gift box for Dad this Father’s Day and use the code TGC15 to receive 15% off your entire order.
+
+### All-In — Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety
+- Date: 2026-08-17
+- Duration: 55:58
+- Tags: AI, Business, Finance, Career, Markets, Politics, Startups
+- Episode: https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300
+- Summary from show notes: (0:00) The most controversial company in privacy right now, Flock CEO joins the show! Full-screen video ads with a 35-second median watch time. sales tax, VAT, and GST, used by 3,000+ businesses globally.
+
+### TWIST — Bittensor creator Const on Affine, dTAO, "mining reasoning," and more | E2326
+- Date: 2026-08-17
+- Duration: 01:24:54
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/bittensor-creator-const-on-affine-dtao-mining-reasoning-and-more-e2326
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2326_POD.mp3?dest-id=5500155
+- Summary from show notes: We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage. Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka "Const") to the show. He gives us a quick tour of the project's first principles, before diving into how subnets incentivize miners to contribute, how dTAO turned the creation of subnets into its own competition, how Const says he employs "the internal machinery of capitalism" to rank subnects, and his latest projec
+
+### Startup Ideas — How to use Claude Code better than 99% of People
+- Date: 2026-08-17
+- Duration: 2890
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3
+- Summary from show notes: Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step.
+
 ### Prof G Markets — Prof G Markets Is Taking A Break — You Should Too
 - Date: 2026-08-17
 - Duration: 255
@@ -160,36 +198,6 @@ Generated: 2026-08-17 07:37 PDT
 - Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5024681499.mp3
 - Summary from show notes: Ed Elson is joined by Jay Goldberg to break down why Nvidia is partnering with Wall Street on a $500 billion AI financing package. Then, Tim Farrar returns to the show to unpack earnings from AST SpaceMobile and Rocket Lab, and how SpaceX’s IPO impacted the space industry. Finally, Ed shares his thoughts on the fraud allegations against Phoebe Gates.
-
-### Prof G Markets — Here's What The Jobs Report Isn’t Telling You
-- Date: 2026-08-11
-- Duration: 1986
-- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1848701155.mp3
-- Summary from show notes: Ed Elson is joined by Kathryn Anne Edwards to break down the real story behind the July jobs report. She also shares her thoughts on how AI is impacting the labor market, and the solution we need for those who lose their jobs due to the technology. Then, Bradley Tusk returns to the show to discuss Mark Zuckerberg’s AI manifesto and the $1 billion “Future Is For Everyone” fund.
-
-### Grade Cricketer — Darwin Test, England squad, Stokes interview
-- Date: 2026-08-10
-- Duration: 5677
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/darwin-test-england-squad-stokes-interview
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/cfe866ae-6d57-41ab-842f-b4a30048f891/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Test cricket is back in Australia and most of the country have no idea it's happening. Doesn't matter because The Cartel™ is back together for a couple of one-day tests. Will Father Time remain undefeated?
-
-### TWIST — Zuck's AI manifesto is a data center PR masterclass | E2323
-- Date: 2026-08-10
-- Duration: 01:20:18
-- Tags: AI, Business, Finance, Career, Content, Cricket, Startups
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/zucks-ai-manifesto-is-a-data-center-pr-masterclass-e2323
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2323_Audio.mp3?dest-id=5500155
-- Summary from show notes: Meta chief Mark Zuckerberg published a 6,500 word essay about the future of AI, and Jason thinks it's his smartest PR move in years. The thinkpiece, "The Future is for Everyone: The Path to a Positive AI Future," arrives alongside a new open-weight Meta model — Muse Glimmer — and the promise of an open-weight version of Muse Spark 1.2 to come. Zuckerberg's clearly pitching an "abundance" narrative, promising the American public untold benefits from AI technology — everything from a PhD-level tutor for every student to scientific breakthroughs, personal assistants, and beyond — all for the low low cost of not bann
-
-### Startup Ideas — Making $$$ selling to AI Agents
-- Date: 2026-08-10
-- Duration: 2050
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01KZP88D049J9T86X0C50HJWPY.mp3
-- Summary from show notes: In this solo episode I break down Cloudflare's AI agent announcement in plain English and explain why I see it as the new business model for the internet. I walk through AI crawl control, pay per crawl, the monetization gateway, and the x402 payment rail, and I show how a single request turns into a transaction. From there I give three startup ideas built directly on top of this shift: a niche data refinery, agent readiness for businesses, and expert archives turned into agent tools.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
