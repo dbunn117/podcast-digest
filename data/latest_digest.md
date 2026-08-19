@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-18
+# Podcast Digest - 2026-08-19
 
-Generated: 2026-08-18 07:36 PDT
+Generated: 2026-08-19 07:32 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -58,7 +58,7 @@ Generated: 2026-08-18 07:36 PDT
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1631081062.mp3
 - Summary from show notes: Ed Elson and Scott Galloway are officially out on summer vacation. We’ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too.
 
-### Modern Wisdom — AI DEBATE: What Will the World Actually Look Like in 2040? - #1138
+### Modern Wisdom — AI DEBATE: “Most People Have No Idea What’s Coming” - #1138
 - Date: 2026-08-16
 - Duration: 9759
 - Tags: AI, Business, Career, Health, Psychology, Performance, Relationships
@@ -191,13 +191,6 @@ Generated: 2026-08-18 07:36 PDT
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3
 - Summary from show notes: Miller to talk about the shift from managing AI agents to enabling them. Allie runs a workforce of 34 AI agents led by an AI chief of staff named Simon, plus six directors named after Friends characters. She shares her three-word prompt, her daily AI diary, her AI watchdogs, and her rule to build the factory before the product.
-
-### Prof G Markets — Inside Nvidia’s $500B AI Financing Loop
-- Date: 2026-08-12
-- Duration: 1900
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5024681499.mp3
-- Summary from show notes: Ed Elson is joined by Jay Goldberg to break down why Nvidia is partnering with Wall Street on a $500 billion AI financing package. Then, Tim Farrar returns to the show to unpack earnings from AST SpaceMobile and Rocket Lab, and how SpaceX’s IPO impacted the space industry. Finally, Ed shares his thoughts on the fraud allegations against Phoebe Gates.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
