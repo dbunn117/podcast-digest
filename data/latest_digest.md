@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-19
+# Podcast Digest - 2026-08-20
 
-Generated: 2026-08-19 07:32 PDT
+Generated: 2026-08-20 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,9 +13,38 @@ Generated: 2026-08-19 07:32 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3 - #1139
+- Date: 2026-08-19
+- Duration: 9207
+- Tags: AI, Career, Health, Sport, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2074376644.mp3
+- Summary from show notes: In the third episode of Mostly Wise, we explore: If Matt and Jeff could survive Navy SEAL selection, training and hazing. Whether the Navy actually has trained animals like killer assassin kamikaze dolphins. How the guys deal with their own versions of sobriety.
+
+### DOAC — Konstantin Kisin’s WARNING: Our Leaders Have Lost Control, We’re Headed For Conflict And Violence!
+- Date: 2026-08-19
+- Duration: 5626
+- Tags: AI, Career, Content, Health, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011YXPMDDJ8TWA1RB7X36R7.mp3?fcv=zlfnewojsgzws5ss9uvqsdni
+- Summary from show notes: Is the West collapsing, or is the planet? Political commentator Konstantin Kisin and rebel economist Steve Keen go head-to-head on the biggest questions facing the West: immigration, the debt crisis, climate change, Trump, China and the future of AI. Konstantin Kisin is a satirist, social commentator and author, best known as the co-host of the Triggernometry podcast and the author of ‘An Immigrant’s Love Letter to the West’.
+
+### TWIST — Neurosymbolic AI outperforms chatbots and product search | E2327
+- Date: 2026-08-19
+- Duration: 54:19
+- Tags: AI, Startups, Career, Content, Venture, Tech, Saas
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/neurosymbolic-ai-outperforms-chatbots-and-product-search-e2327
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2327_AUDIO.mp3?dest-id=5500155
+- Summary from show notes: Frontier AI models can ace PhD-level exams, but it's still bad at tracking down the product you want in the style that suits you. Onton's Zach Hudson tell us that the problem is that models are a black box. A neurosymbolic model, Ontology 1, that learns about your taste and preferred aesthetic over time, then produces product searches tailored specifically to you, rather than just using keywords and relevant tags.
+
+### Startup Ideas — You need to be skillsmaxxing (10x your Claude/Codex)
+- Date: 2026-08-19
+- Duration: 1947
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M0DR8D67MGV0MW7RZMNNM818.mp3
+- Summary from show notes: Get Your Complete Financial OS at I talk with Remy, known online as AI with Remy, about agent skills and how to share them across a whole team. Remy explains that a skill is an SOP for AI: a markdown file that teaches Claude your exact way to do a task. He keeps his team skills in one GitHub repository, and he installs that repository as a plugin in Claude Code and Codex.
+
 ### The Game — The Case Against AI | Ep 993
 - Date: 2026-08-18
-- Duration: 562
+- Duration: 573
 - Tags: AI, Business, Career, Entrepreneurship, Sales, Offers, Pricing
 - Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M093XD5B7J1WFXDG9BMQ1XRE.mp3
 - Summary from show notes: Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
@@ -67,7 +96,7 @@ Generated: 2026-08-19 07:32 PDT
 
 ### DOAC — Top Scientist REVEALS: AI Could Be The Next Einstein, Robots Will Deserve Rights! | Prof Brian Greene
 - Date: 2026-08-16
-- Duration: 7904
+- Duration: 7873
 - Tags: AI, Startups, Career, Health, Psychology, Business, Relationships
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=xtbinq7tf07an9rrt0dlkypb
 - Summary from show notes: Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe! Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe
@@ -113,7 +142,7 @@ Generated: 2026-08-19 07:32 PDT
 
 ### The Game — One High-Stakes Decision Changes Everything | Ep 992
 - Date: 2026-08-14
-- Duration: 682
+- Duration: 696
 - Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
 - Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZZW6RQVPQ78QWAT52FFE0QN.mp3
 - Summary from show notes: Book Your Spot at the Live Scaling Workshop in Las Vegas: Most sales objections aren’t objections. They’re excuses for giving power away. Today, Alex breaks down the psychology behind high-stakes decisions and shows how the same frameworks that make people more powerful in their lives can teach them how to sell better.
@@ -139,58 +168,6 @@ Generated: 2026-08-19 07:32 PDT
 - Tags: Health, Psychology, Business, Relationships, Performance
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZX9EY9AKSB1F728SSAR3SCP.mp3
 - Summary from show notes: What if fear isn’t something you need to overcome? Alex Honnold is the legendary professional rock climber behind Free Solo, best known for becoming the first person to free solo Yosemite’s 3,000-foot El Capitan without ropes or safety equipment. In this moment, Alex explains why he still feels fear, and how decades of repeatedly confronting it have changed the way he responds to it.
-
-### Grade Cricketer — Now We Know Their Names | Day 1 | AUS v BAN | Darwin Test
-- Date: 2026-08-13
-- Duration: 1387
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/we-know-their-names-day-1-aus-v-ban-darwin-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/511ac9c2-4823-43b4-87df-b4a5009acfe2/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: One of the greatest days in Bangladesh Cricket history means Australia may never win again. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee! com/listener for privacy information.
-
-### Prof G Markets — “AI Compute Futures” — Has Wall Street Gone Too Far?
-- Date: 2026-08-13
-- Duration: 1891
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4679491733.mp3
-- Summary from show notes: Ed Elson is joined by Rohan Goswami to break down the CME’s move to offer AI compute futures such that computing power can be traded like a commodity. Then, Mark Zandi returns to unpack the latest inflation data from the consumer price index. Finally, Ed shares his thoughts on what the recent high profile departures from OpenAI mean for the markets.
-
-### Modern Wisdom — Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2 - #1136
-- Date: 2026-08-12
-- Duration: 11171
-- Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8068505146.mp3
-- Summary from show notes: I spent a really long time putting this together, I really hope you enjoy it! In this second episode of Mostly Wise, we explore: Hunter's true version of the laptop story The best conspiracy theories that are (maybe) real. If it was Hunter's bag of cocaine that was found in the White House.
-
-### DOAC — Sleep Apnea Expert: 1 Billion People Have This And Most Go UNDIAGNOSED! | Dr Andy Galpin
-- Date: 2026-08-12
-- Duration: 7909
-- Tags: AI, Career, Health, Content, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZERQ8T6SQ7V8928XZ3VC6MR.mp3?fcv=m54qckzxb3t7nyyjn5u05ojh
-- Summary from show notes: Performance Scientist Dr Andy Galpin reveals the BIGGEST sleep mistakes ruining your health, how to build better energy every day, why your sleep tracker could be making things worse, and whether health optimisation can actually backfire! Andy Galpin is a Professor of Kinesiology and Executive Director of the Human Performance Center at Parker University. He has spent over 2 decades working with Olympic gold medallists, world champions, professional athletes, military special forces, and also hosts the Perform with Dr Andy Galpin podcast.
-
-### All-In — Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats
-- Date: 2026-08-12
-- Duration: 01:11:36
-- Tags: Finance, Career, AI, Markets, Politics, Startups, Business
-- Episode: https://allinchamathjason.libsyn.com/rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reasons for the decay of the West (38:37) Immigration: US solutions, who to emulate, subsidizing college for Americans (46:55) National debt, government interference in markets, fixing education (1:09:24) DSA vs Democrats Follow Rahm: Follow the besties: Follow on X: Follow on Instagram: Follow on TikTok: Follow on LinkedIn: Intro Music Credit: Intro Video Credit
-
-### TWIST — These robots could cut delivery costs by 80% | Next Unicorns
-- Date: 2026-08-12
-- Duration: 01:03:44
-- Tags: AI, Startups, Business, Career, Health, Content, Cricket
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/these-robots-could-cut-delivery-costs-by-80-next-unicorns
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2324_AUDIO.mp3?dest-id=5500155
-- Summary from show notes: Cytronic built a robotics-first fulfillment network, packing and shipping orders for cents instead of dollars, from small, city-adjacent micro-warehouses. Alex chats with CEO and co-founder Kevin Gibbon about how he can build a fulfillment warehouse for $1.2 million, and why it costs Amazon 50M-100M. PLUS Eyebot delivers low-cost doctor-reviewed eyeglass prescriptions following 90-second vision tests, conducted in everyday kiosks.
-
-### Startup Ideas — How to Build an AI-Native Company in 2026
-- Date: 2026-08-12
-- Duration: 2908
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01KZVQSXWRWPAD2EK2Y8V5G8D5.mp3
-- Summary from show notes: Miller to talk about the shift from managing AI agents to enabling them. Allie runs a workforce of 34 AI agents led by an AI chief of staff named Simon, plus six directors named after Friends characters. She shares her three-word prompt, her daily AI diary, her AI watchdogs, and her rule to build the factory before the product.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
