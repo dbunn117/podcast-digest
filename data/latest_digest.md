@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-20
+# Podcast Digest - 2026-08-21
 
-Generated: 2026-08-20 07:39 PDT
+Generated: 2026-08-21 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,29 @@ Generated: 2026-08-20 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### All-In — Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up
+- Date: 2026-08-21
+- Duration: 01:30:53
+- Tags: AI, Career, Markets, Politics, Startups, Business, Tech
+- Episode: https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300
+- Summary from show notes: (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the "DMV for AI" (30:12) Is an open source ban coming?
+
+### DOAC — Most Replayed Moment: Better Sleep Doesn't Always Mean Longer Sleep! Fix These Habits Today
+- Date: 2026-08-20
+- Duration: 1849
+- Tags: Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M08555EDSKHDEQT3G2VBRJBX.mp3
+- Summary from show notes: What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits? Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform. Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential.
+
+### TWIST — Taste is the new programming language (w/ Astrocade CEO Amir Sadeghian) | AI Basics
+- Date: 2026-08-20
+- Duration: 21:05
+- Tags: AI, Startups, Career, Content, Venture, Tech, Saas
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/taste-is-the-new-programming-language-w-astrocade-ceo-amir-sadeghian-ai-basics
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Astrocade.mp4?dest-id=5500155
+- Summary from show notes: Making a video game once required a studio, an engine, and a team of five or more people working for six months. But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed. Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own.
+
 ### Modern Wisdom — Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3 - #1139
 - Date: 2026-08-19
 - Duration: 9207
@@ -139,35 +162,6 @@ Generated: 2026-08-20 07:39 PDT
 - Episode: https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300
 - Summary from show notes: (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements!
-
-### The Game — One High-Stakes Decision Changes Everything | Ep 992
-- Date: 2026-08-14
-- Duration: 696
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01KZZW6RQVPQ78QWAT52FFE0QN.mp3
-- Summary from show notes: Book Your Spot at the Live Scaling Workshop in Las Vegas: Most sales objections aren’t objections. They’re excuses for giving power away. Today, Alex breaks down the psychology behind high-stakes decisions and shows how the same frameworks that make people more powerful in their lives can teach them how to sell better.
-
-### Grade Cricketer — Tanzid and Bangladesh put Australia to the sword | Day 2 | AUS v BAN | Darwin Test
-- Date: 2026-08-14
-- Duration: 1334
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/tanzid-and-bangladesh-put-australia-to-the-sword-day-2-aus-v-ban-darwin-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e497dea4-bc3f-4dc0-9a19-b4a600939829/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Bangladesh put Australia to the sword. Tanzid Hasan's first Test century leads to a second day of domination over Australia in the Darwin Test. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
-
-### Prof G Markets — The Architect Of The Billionaire Tax Makes His Case — ft. Gabriel Zucman
-- Date: 2026-08-14
-- Duration: 4343
-- Tags: Finance, Career, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8965442153.mp3
-- Summary from show notes: Ed Elson is joined by Gabriel Zucman to break down Prop 40, the billionaire tax proposal in California. They discuss why Gabriel thinks it’s the most effective way to tax the ultrawealthy in the state, unpack the various criticisms of the tax, and consider what its influence could be on the rest of the country. Gabriel Zucman is a Professor of economics at the Paris School of Economics, Summer Research Professor at the University of California, Berkeley, and founding Director of the International Tax Observatory.
-
-### DOAC — Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World's Greatest Climber
-- Date: 2026-08-13
-- Duration: 1556
-- Tags: Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01KZX9EY9AKSB1F728SSAR3SCP.mp3
-- Summary from show notes: What if fear isn’t something you need to overcome? Alex Honnold is the legendary professional rock climber behind Free Solo, best known for becoming the first person to free solo Yosemite’s 3,000-foot El Capitan without ropes or safety equipment. In this moment, Alex explains why he still feels fear, and how decades of repeatedly confronting it have changed the way he responds to it.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
