@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-21
+# Podcast Digest - 2026-08-22
 
-Generated: 2026-08-21 07:38 PDT
+Generated: 2026-08-22 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,36 @@ Generated: 2026-08-21 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — Embarrassing Australia take massive first innings lead | Day 1 | AUS v BAN | Mackay Test
+- Date: 2026-08-22
+- Duration: 1953
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/embarrassing-australia-take-massive-1st-innings-lead-day-1-aus-v-ban-mackay-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/57c2aea4-60b7-4151-9f9a-b4ae00908284/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. 🌎 Get our Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
+
+### Modern Wisdom — Ex-Gang Member: What Makes A Violent Man Change? - Johnny Chang - #1140
+- Date: 2026-08-21
+- Duration: 7205
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8576589876.mp3
+- Summary from show notes: Johnny Chang is a former gang member and inmate turned Christian pastor, speaker, and podcaster. What happens when a boy enters prison at 12 and doesn’t emerge until 25? Raised amid violence and gangs, he eventually found God.
+
+### TWIST — Open source is going to win it all: Harvey proves it | E2328
+- Date: 2026-08-21
+- Duration: 01:09:14
+- Tags: AI, Startups, Career, Content, Sport, Venture, Tech
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/open-source-is-going-to-win-it-all-harvey-proves-it-e2328
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_EP_2328.mp3?dest-id=5500155
+- Summary from show notes: Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it). This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base. Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs.
+
+### Startup Ideas — Grok Bot: make a 1 person company with agents
+- Date: 2026-08-21
+- Duration: 2661
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3
+- Summary from show notes: I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.
+
 ### All-In — Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up
 - Date: 2026-08-21
 - Duration: 01:30:53
@@ -117,11 +147,11 @@ Generated: 2026-08-21 07:38 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5112667394.mp3
 - Summary from show notes: In this AI debate, we explore: Whether humans will exist in 2040. What will happen once we reach AGI. Whether AI gets smart enough to act malevolently or benevolently towards humans.
 
-### DOAC — Top Scientist REVEALS: AI Could Be The Next Einstein, Robots Will Deserve Rights! | Prof Brian Greene
+### DOAC — Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene
 - Date: 2026-08-16
 - Duration: 7873
 - Tags: AI, Startups, Career, Health, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3?fcv=xtbinq7tf07an9rrt0dlkypb
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3
 - Summary from show notes: Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe! Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe
 
 ### Grade Cricketer — One of the greatest wins in Test cricket history | Day 4 | AUS v BAN | Darwin Test
@@ -131,37 +161,6 @@ Generated: 2026-08-21 07:38 PDT
 - Episode: https://omny.fm/shows/the-grade-cricketer/one-of-the-greatest-wins-in-test-cricket-history-day-4-aus-v-ban-darwin-test
 - Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/6ebc97f5-5e9e-49b5-bd17-b4a800672f33/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
 - Summary from show notes: Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
-
-### Grade Cricketer — Bangladesh on the brink of history | Day 3 | AUS v BAN | Darwin Test
-- Date: 2026-08-15
-- Duration: 1921
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/bangladesh-on-the-brink-of-history-day-2-aus-v-ban-darwin-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/f765c056-63e5-43ae-8c1a-b4a7009a35d3/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Bangladesh close in on a historic test match win on Australian soil, while the Aussies seem to do everything in their power to ensure their own annihilation. Is this a sign of the next 20 (read:19) tests for the Aussies? 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
-
-### Modern Wisdom — Harvard Professor: “I Tried Every Diet. This Is By Far The Worst.” - Daniel Lieberman - #1137
-- Date: 2026-08-14
-- Duration: 7696
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9539051723.mp3
-- Summary from show notes: Daniel Lieberman is a Harvard professor of human evolutionary biology, paleoanthropologist, and author. What is the best diet for peak human health? From vegan and carnivore to Mediterranean and raw food, how do you know which approach is right for you?
-
-### TWIST — What we'll learn from Anthropic's $2-$3T IPO | E2325
-- Date: 2026-08-14
-- Duration: 01:20:16
-- Tags: AI, Startups, Business, Career, Health, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/what-well-learn-from-anthropics-2-3t-ipo-e2325
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2325_AUDIO.mp3?dest-id=5500155
-- Summary from show notes: Anthropic is likely headed for the largest IPO in history. A reported 2-3 trillion October debut would blow past SpaceX's recent record. numbers matter less than what they'll reveal about the entire AI economy.
-
-### All-In — Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback
-- Date: 2026-08-14
-- Duration: 01:39:30
-- Tags: AI, Startups, Business, Finance, Career, Content, Markets
-- Episode: https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300
-- Summary from show notes: (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements!
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
