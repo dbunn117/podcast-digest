@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-22
+# Podcast Digest - 2026-08-23
 
-Generated: 2026-08-22 07:39 PDT
+Generated: 2026-08-23 07:33 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,14 @@ Generated: 2026-08-22 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
+- Date: 2026-08-23
+- Duration: 2255
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?
+
 ### Grade Cricketer — Embarrassing Australia take massive first innings lead | Day 1 | AUS v BAN | Mackay Test
 - Date: 2026-08-22
 - Duration: 1953
@@ -153,14 +161,6 @@ Generated: 2026-08-22 07:39 PDT
 - Tags: AI, Startups, Career, Health, Psychology, Business, Relationships
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3
 - Summary from show notes: Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe! Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe
-
-### Grade Cricketer — One of the greatest wins in Test cricket history | Day 4 | AUS v BAN | Darwin Test
-- Date: 2026-08-15
-- Duration: 1845
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/one-of-the-greatest-wins-in-test-cricket-history-day-4-aus-v-ban-darwin-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/6ebc97f5-5e9e-49b5-bd17-b4a800672f33/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. 🌎 Get Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

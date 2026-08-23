@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:39:26.212283-07:00",
+  "generated_at": "2026-08-23T07:33:31.555351-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -170,6 +170,56 @@
     }
   ],
   "episodes": [
+    {
+      "id": "70fafc54413026f0",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
+      "url": "https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "08596b07-fc9c-4ce3-ad63-b4af0088b1c6",
+      "published_at": "2026-08-23T08:23:27+00:00",
+      "published_date": "2026-08-23",
+      "published_month": "2026-08",
+      "duration": "2255",
+      "summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+      "content_summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+      "content_takeaways": [
+        "\ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
+        "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl.",
+        "Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+        "A big day for Slug and not for particularly good reasons."
+      ],
+      "show_notes": "Australia lost to this team. Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on? \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question.",
+        "Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
+        "That may well be because Tom Morris is at the cricket providing 40 updates during the coverage.",
+        "But from their perspective, they're rolling through teams because of their undeniable brilliance and not because they're getting enormous assistance from these decks that they're clearly choosing to play on."
+      ],
+      "transcript_content_summary": "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question. Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-23T07:33:10.100968-07:00",
+      "transcript_takeaways": [
+        "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work.",
+        "**The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives rewrite the scoreboard."
+      ],
+      "transcript_summary": "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work. **The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives"
+    },
     {
       "id": "0b2df9dff328c290",
       "podcast": "The Grade Cricketer",
@@ -28691,6 +28741,56 @@
   ],
   "recent": [
     {
+      "id": "70fafc54413026f0",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
+      "url": "https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "08596b07-fc9c-4ce3-ad63-b4af0088b1c6",
+      "published_at": "2026-08-23T08:23:27+00:00",
+      "published_date": "2026-08-23",
+      "published_month": "2026-08",
+      "duration": "2255",
+      "summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+      "content_summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+      "content_takeaways": [
+        "\ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
+        "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl.",
+        "Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+        "A big day for Slug and not for particularly good reasons."
+      ],
+      "show_notes": "Australia lost to this team. Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on? \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question.",
+        "Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
+        "That may well be because Tom Morris is at the cricket providing 40 updates during the coverage.",
+        "But from their perspective, they're rolling through teams because of their undeniable brilliance and not because they're getting enormous assistance from these decks that they're clearly choosing to play on."
+      ],
+      "transcript_content_summary": "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question. Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-23T07:33:10.100968-07:00",
+      "transcript_takeaways": [
+        "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work.",
+        "**The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives rewrite the scoreboard."
+      ],
+      "transcript_summary": "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work. **The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives"
+    },
+    {
       "id": "0b2df9dff328c290",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -29606,67 +29706,16 @@
       ],
       "source": "favorite_feed",
       "transcript_status": "not_ingested"
-    },
-    {
-      "id": "aae8f8f78d58cd83",
-      "podcast": "The Grade Cricketer",
-      "short_name": "Grade Cricketer",
-      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-      "image": "https://www.omnycontent.com/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/6ebc97f5-5e9e-49b5-bd17-b4a800672f33/image.jpg?t=1786861236&size=Large",
-      "accent": "#16a34a",
-      "emoji": "\ud83c\udfcf",
-      "title": "One of the greatest wins in Test cricket history | Day 4 | AUS v BAN | Darwin Test",
-      "url": "https://omny.fm/shows/the-grade-cricketer/one-of-the-greatest-wins-in-test-cricket-history-day-4-aus-v-ban-darwin-test",
-      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/6ebc97f5-5e9e-49b5-bd17-b4a800672f33/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
-      "guid": "6ebc97f5-5e9e-49b5-bd17-b4a800672f33",
-      "published_at": "2026-08-16T06:20:51+00:00",
-      "published_date": "2026-08-15",
-      "published_month": "2026-08",
-      "duration": "1845",
-      "summary": "Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. \ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-      "content_summary": "Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. \ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-      "content_takeaways": [
-        "\ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-        "Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game.",
-        "Donald Robert Argus, please stand by your phone."
-      ],
-      "show_notes": "Gather your guillotines and tiki torches, it's time to march as Bangladesh pull off what could be the biggest upset in the history of the game. Donald Robert Argus, please stand by your phone. \ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
-      "tags": [
-        "Cricket",
-        "Australia",
-        "South Africa",
-        "Sport",
-        "Culture"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "But it's always this unfair thing where when the giant killers do this thing, there is about two minutes of reflection about how well they played.",
-        "And so, you know, it's very tempting to reflect on how fucking atrocious that performance was as a fan of that nation, generally speaking.",
-        "I apologize if he might get screaming or showers being taken as well, because everyone's just washing off the filth that we've just been watching.",
-        "Like, I think as fair to say that Australia has been the most successful test nation over the history of cricket."
-      ],
-      "transcript_content_summary": "But it's always this unfair thing where when the giant killers do this thing, there is about two minutes of reflection about how well they played. And so, you know, it's very tempting to reflect on how fucking atrocious that performance was as a fan of that nation, generally speaking.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-16T07:33:37.892289-07:00",
-      "transcript_takeaways": [
-        "**Complacency is a bigger threat than external competition.** Australia were \"ill-prepared\" and \"complacent,\" assuming a win was inevitable against a lower-ranked side. **For David:** Don't assume your expertise domain (AI in finance/CPA) is secure \u2014 new entrants executing well every day will eat your lunch. Never take a client meeting or pilot for granted.",
-        "**\"Winning every session\" beats hoping for a single breakthrough.** Bangladesh out-executed Australia across all four days \u2014 no lucky moments, just consistent skill application. **For David:** Design consulting engagements so every discovery call, every deliverable, and every follow-up is a \"won session.\" One big pitch or one flashy demo isn't enough; sustained execution builds reputation.",
-        "**When performance is genuinely poor, the \"nature of the loss demands change\" \u2014 not excuses.** The hosts argue \"the end justified the means\" while Australia was winning, but once losses hit, carrying underperformers or calling it a blip is just more complacency. **For David:** If a project stalls, a pilot underdelivers, or your own output slips, don't rationalise it \u2014 make a concrete change (swap your toolchain, restructure the engagement, fire a low-value client).",
-        "**\"Two-test guarantees\" work only while the team wins \u2014 they become anchors when it doesn't.** Australia's tradition of backing struggling players worked so long as the rest of the team carried them, but it delayed reckoning and amplified the loss. **For David:** In business, keep a honest ledger on who/what is actually producing. Don't let historical reputation (yours or a tool's) delay the decision to try something different \u2014 especially when the signal is clear."
-      ],
-      "transcript_summary": "**Complacency is a bigger threat than external competition.** Australia were \"ill-prepared\" and \"complacent,\" assuming a win was inevitable against a lower-ranked side. **For David:** Don't assume your expertise domain (AI in finance/CPA) is secure \u2014 new entrants executing well every day will eat your lunch. Never take a client meeting or pilot for granted. **\"Winning every session\" beats hoping for a single breakthrough.** Bangladesh out-executed Australia across all four days \u2014 no lucky moments, just consistent skill application. **For David:** Design consulting engagements so every discovery call, every deliverable, and every follow-up is a \"won session.\" One big pitch or one flashy demo isn't enough; sustained execution builds reputation."
     }
   ],
   "stats": {
-    "total_available": 5265,
-    "ytd_count": 767,
+    "total_available": 5266,
+    "ytd_count": 768,
     "recent_count": 20,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
-      "Grade Cricketer": 77,
+      "Grade Cricketer": 78,
       "Modern Wisdom": 100,
       "TWIST": 105,
       "Startup Ideas": 71,
@@ -29689,11 +29738,11 @@
       "Performance": 163,
       "Investing": 160,
       "Strategy": 127,
-      "Cricket": 102,
-      "Sport": 91,
+      "Cricket": 103,
+      "Sport": 92,
       "Venture": 84,
-      "Parenting": 78,
-      "Australia": 77
+      "Australia": 78,
+      "South Africa": 78
     },
     "by_month": {
       "2026-01": 106,
@@ -29703,32 +29752,34 @@
       "2026-05": 87,
       "2026-06": 100,
       "2026-07": 97,
-      "2026-08": 66
+      "2026-08": 67
     },
     "latest_by_podcast": {
       "Grade Cricketer": {
-        "id": "0b2df9dff328c290",
+        "id": "70fafc54413026f0",
         "podcast": "The Grade Cricketer",
         "short_name": "Grade Cricketer",
         "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
         "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
         "accent": "#16a34a",
         "emoji": "\ud83c\udfcf",
-        "title": "Embarrassing Australia take massive first innings lead | Day 1 | AUS v BAN | Mackay Test",
-        "url": "https://omny.fm/shows/the-grade-cricketer/embarrassing-australia-take-massive-1st-innings-lead-day-1-aus-v-ban-mackay-test",
-        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/57c2aea4-60b7-4151-9f9a-b4ae00908284/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
-        "guid": "57c2aea4-60b7-4151-9f9a-b4ae00908284",
-        "published_at": "2026-08-22T08:48:03+00:00",
-        "published_date": "2026-08-22",
+        "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
+        "url": "https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test",
+        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+        "guid": "08596b07-fc9c-4ce3-ad63-b4af0088b1c6",
+        "published_at": "2026-08-23T08:23:27+00:00",
+        "published_date": "2026-08-23",
         "published_month": "2026-08",
-        "duration": "1953",
-        "summary": "Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-        "content_summary": "Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
+        "duration": "2255",
+        "summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+        "content_summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
         "content_takeaways": [
           "\ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-          "Australia are a disgrace, they won't bat again."
+          "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl.",
+          "Bowling averages in Australia are low and so are the batting averages, so what's going on?",
+          "A big day for Slug and not for particularly good reasons."
         ],
-        "show_notes": "Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+        "show_notes": "Australia lost to this team. Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on? \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
         "tags": [
           "Cricket",
           "Australia",
@@ -29738,20 +29789,21 @@
         ],
         "source": "favorite_feed",
         "transcript_content_takeaways": [
-          "But call me Wayne Rooney training with the Everton first team for the first time as a teenager because these are crap.",
-          "This, this game has played out so far in exactly the way that this team has been telling us how they want to play their cricket.",
-          "Now we get upset because we were raised on good cricket.",
-          "Now every success in Australian sides failure to match that is why we're always unsatisfied."
+          "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question.",
+          "Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
+          "That may well be because Tom Morris is at the cricket providing 40 updates during the coverage.",
+          "But from their perspective, they're rolling through teams because of their undeniable brilliance and not because they're getting enormous assistance from these decks that they're clearly choosing to play on."
         ],
-        "transcript_content_summary": "But call me Wayne Rooney training with the Everton first team for the first time as a teenager because these are crap. This, this game has played out so far in exactly the way that this team has been telling us how they want to play their cricket.",
+        "transcript_content_summary": "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question. Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
         "transcript_status": "available",
         "transcript_source": "faster_whisper",
         "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-22T07:33:29.766391-07:00",
+        "transcript_generated_at": "2026-08-23T07:33:10.100968-07:00",
         "transcript_takeaways": [
-          "**\"Get Enough, Do It Quickly\" as a Delivery Philosophy** \u2014 Australia's batting strategy of scoring *sufficient* runs fast rather than chasing big totals maps directly to consulting delivery. Don't over-engineer perfect solutions. Ship functional, fast, iterative outputs that win the engagement. Clients pay for outcomes, not aesthetics. Practical action: time-box every deliverable to 70% confidence / 30% polish, and only refine what the client actually pushes back on."
+          "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work.",
+          "**The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives rewrite the scoreboard."
         ],
-        "transcript_summary": "**\"Get Enough, Do It Quickly\" as a Delivery Philosophy** \u2014 Australia's batting strategy of scoring *sufficient* runs fast rather than chasing big totals maps directly to consulting delivery. Don't over-engineer perfect solutions. Ship functional, fast, iterative outputs that win the engagement. Clients pay for outcomes, not aesthetics. Practical action: time-box every deliverable to 70% confidence / 30% polish, and only refine what the client actually pushes back on."
+        "transcript_summary": "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work. **The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives"
       },
       "Modern Wisdom": {
         "id": "c7aaacedcf6f3e7b",
@@ -30110,6 +30162,15 @@
     "transcript_runs": [
       {
         "podcast": "Grade Cricketer",
+        "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
+        "status": "available",
+        "chars": 25429,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "Grade Cricketer",
         "title": "Embarrassing Australia take massive first innings lead | Day 1 | AUS v BAN | Mackay Test",
         "status": "available",
         "chars": 25059,
@@ -30123,15 +30184,6 @@
         "status": "available",
         "chars": 26698,
         "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "TWIST",
-        "title": "Open source is going to win it all: Harvey proves it | E2328",
-        "status": "available",
-        "chars": 26135,
-        "llm_takeaways": false,
         "source": "faster_whisper",
         "youtube_url": null
       }
