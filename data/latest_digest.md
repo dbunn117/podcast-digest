@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-23
+# Podcast Digest - 2026-08-24
 
-Generated: 2026-08-23 07:33 PDT
+Generated: 2026-08-24 07:36 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,20 @@ Generated: 2026-08-23 07:33 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — “Age Reversal Is Coming.” Inside The First Human Trials - Dr David Sinclair - #1141
+- Date: 2026-08-23
+- Duration: 7548
+- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
+- Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
+
+### DOAC — The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!
+- Date: 2026-08-23
+- Duration: 5307
+- Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam
+- Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
+
 ### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
 - Date: 2026-08-23
 - Duration: 2255
@@ -140,27 +154,6 @@ Generated: 2026-08-23 07:33 PDT
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3
 - Summary from show notes: Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step.
-
-### Prof G Markets — Prof G Markets Is Taking A Break — You Should Too
-- Date: 2026-08-17
-- Duration: 255
-- Tags: Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1631081062.mp3
-- Summary from show notes: Ed Elson and Scott Galloway are officially out on summer vacation. We’ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too.
-
-### Modern Wisdom — AI DEBATE: “Most People Have No Idea What’s Coming” - #1138
-- Date: 2026-08-16
-- Duration: 9759
-- Tags: AI, Business, Career, Health, Psychology, Performance, Relationships
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5112667394.mp3
-- Summary from show notes: In this AI debate, we explore: Whether humans will exist in 2040. What will happen once we reach AGI. Whether AI gets smart enough to act malevolently or benevolently towards humans.
-
-### DOAC — Top Scientist REVEALS: We Invented Heaven, God Is A Human Invention! | Prof Brian Greene
-- Date: 2026-08-16
-- Duration: 7873
-- Tags: AI, Startups, Career, Health, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011QCMPBSF2QR5A3W08K1JF.mp3
-- Summary from show notes: Professor Brian Greene reveals the biggest questions science still can’t answer, whether we’re living in a simulation, why AI may deserve human rights, and what happens at the end of the universe! Professor Brian Greene is a theoretical physicist, mathematician, and Professor of Physics and Mathematics at Columbia University, where he also directs the Center for Theoretical Physics. He is a leading researcher in string theory, the co-founder of the World Science Festival, and the bestselling author of several books, including ‘Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
