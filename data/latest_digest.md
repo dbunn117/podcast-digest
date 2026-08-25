@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-24
+# Podcast Digest - 2026-08-25
 
-Generated: 2026-08-24 07:36 PDT
+Generated: 2026-08-25 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,30 @@ Generated: 2026-08-24 07:36 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Grade Cricketer — Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell
+- Date: 2026-08-24
+- Duration: 7088
+- Tags: Parenting, Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/batting-issues-carse-handcuffs-jaiswal-headbutt-with-greg-chappell
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/146ae7c6-50ad-4888-9ca9-b4b10044949e/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.
+
+### TWIST — China wants you to cheer for the robots taking your job | E2329
+- Date: 2026-08-24
+- Duration: 01:20:22
+- Tags: AI, Startups, Business, Career, Content, Sport, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155
+- Summary from show notes: A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.
+
+### All-In — Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China
+- Date: 2026-08-24
+- Duration: 55:59
+- Tags: Career, AI, Markets, Politics, Startups, Business, Tech
+- Episode: https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the "climate emergency" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?
+
 ### Modern Wisdom — “Age Reversal Is Coming.” Inside The First Human Trials - Dr David Sinclair - #1141
 - Date: 2026-08-23
 - Duration: 7548
@@ -20,11 +44,11 @@ Generated: 2026-08-24 07:36 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
 - Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
 
-### DOAC — The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!
+### DOAC — The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!
 - Date: 2026-08-23
 - Duration: 5307
 - Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj
 - Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
 
 ### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
@@ -116,44 +140,6 @@ Generated: 2026-08-24 07:36 PDT
 - Tags: AI, Startups, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M0DR8D67MGV0MW7RZMNNM818.mp3
 - Summary from show notes: Get Your Complete Financial OS at I talk with Remy, known online as AI with Remy, about agent skills and how to share them across a whole team. Remy explains that a skill is an SOP for AI: a markdown file that teaches Claude your exact way to do a task. He keeps his team skills in one GitHub repository, and he installs that repository as a plugin in Claude Code and Codex.
-
-### The Game — The Case Against AI | Ep 993
-- Date: 2026-08-18
-- Duration: 573
-- Tags: AI, Business, Career, Entrepreneurship, Sales, Offers, Pricing
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M093XD5B7J1WFXDG9BMQ1XRE.mp3
-- Summary from show notes: Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. Individuals and business owners should evaluate their own business strategies and identify any potential risks.
-
-### Grade Cricketer — Beheadings, Tiki Torches, Guillotines, with Alex Malcolm
-- Date: 2026-08-17
-- Duration: 7211
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/beheadings-tiki-torches-guillotines-with-alex-malcolm
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/3a93ea19-b8e8-4783-b08b-b4aa005cfaab/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Never underestimate how test cricket can make you feel. Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next. Order your El Arquero Tequila gift box for Dad this Father’s Day and use the code TGC15 to receive 15% off your entire order.
-
-### All-In — Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety
-- Date: 2026-08-17
-- Duration: 55:58
-- Tags: AI, Business, Finance, Career, Markets, Politics, Startups
-- Episode: https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300
-- Summary from show notes: (0:00) The most controversial company in privacy right now, Flock CEO joins the show! Full-screen video ads with a 35-second median watch time. sales tax, VAT, and GST, used by 3,000+ businesses globally.
-
-### TWIST — Bittensor creator Const on Affine, dTAO, "mining reasoning," and more | E2326
-- Date: 2026-08-17
-- Duration: 01:24:54
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/bittensor-creator-const-on-affine-dtao-mining-reasoning-and-more-e2326
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2326_POD.mp3?dest-id=5500155
-- Summary from show notes: We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage. Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka "Const") to the show. He gives us a quick tour of the project's first principles, before diving into how subnets incentivize miners to contribute, how dTAO turned the creation of subnets into its own competition, how Const says he employs "the internal machinery of capitalism" to rank subnects, and his latest projec
-
-### Startup Ideas — How to use Claude Code better than 99% of People
-- Date: 2026-08-17
-- Duration: 2890
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3
-- Summary from show notes: Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

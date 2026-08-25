@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:36:21.318577-07:00",
+  "generated_at": "2026-08-25T07:40:28.084908-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -171,6 +171,161 @@
   ],
   "episodes": [
     {
+      "id": "0438c176e39cd8d6",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell",
+      "url": "https://omny.fm/shows/the-grade-cricketer/batting-issues-carse-handcuffs-jaiswal-headbutt-with-greg-chappell",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/146ae7c6-50ad-4888-9ca9-b4b10044949e/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "146ae7c6-50ad-4888-9ca9-b4b10044949e",
+      "published_at": "2026-08-25T04:33:01+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "7088",
+      "summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+      "content_summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+      "content_takeaways": [
+        "Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+        "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country?",
+        "Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard?",
+        "Read Greg Chappell's Cricinfo piece on the issues modern batters face here: The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people."
+      ],
+      "show_notes": "Is it the decks? Is it TikTok? Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow. Read Greg Chappell's Cricinfo piece on the issues modern batters face here: https://www.cricinfo.com/story/australia-have-batting-problems-and-they-are-linked-to-their-calendar-1551300 The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people. You can support the foundation here: https://thechappellfoundation.com/donate SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Parenting",
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well.",
+        "But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+        "So at the judiciary, the Indian captain, Verinda Bumbler, also had a case to answer for dissent because this decision is eventually overturned.",
+        "What I do understand is that if you are proffering an explanation of why runs are down over a, you know, a five year period supported by copious data, you can only provide one reason."
+      ],
+      "transcript_content_summary": "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well. But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:33:59.976104-07:00",
+      "transcript_takeaways": [
+        "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring.",
+        "**Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix.",
+        "**Reputation shields create governance blind spots** \u2014 Over 60s player got a 1-match ban for serious misconduct because of \"exemplary record over 50 years.\" In any client org, check for senior people or long-tenured vendors whose \"exemplary record\" excuses recurring issues. Map that into risk assessment when doing audits or compliance reviews.",
+        "**Single-cause explanations are preferred, but the expensive answer is almost always multi-factor** \u2014 The episode mocks how you're \"not allowed to explain it systemically\" or use multiple factors. Clients want one reason, one fix, one price. Your consulting value is refusing that framing: do the work to untangle 3-5 interacting causes, show them the cost of the simple story, and charge for the real one."
+      ],
+      "transcript_summary": "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring. **Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix."
+    },
+    {
+      "id": "bb2b5b1db9243e7f",
+      "podcast": "This Week in Startups",
+      "short_name": "TWIST",
+      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "image": "https://static.libsyn.com/p/assets/5/4/8/9/5489286e3005c78316c3140a3186d450/01b15116-47b2-4290-98c2-d3f00c068d3f.png",
+      "accent": "#0ea5e9",
+      "emoji": "\u26a1",
+      "title": "China wants you to cheer for the robots taking your job | E2329",
+      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155",
+      "guid": "1ebb02fa-70dd-40f8-97d9-aa5966cfd640",
+      "published_at": "2026-08-25T02:12:00+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "01:20:22",
+      "summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+      "content_summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+      "content_takeaways": [
+        "While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+        "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered.",
+        "Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth.",
+        "Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036."
+      ],
+      "show_notes": "This Week In Startups is made possible by: Odoo https://Odoo.com/twist Quo https://quo.com/TWiST Conservation Fund https://conservationfund.org how old a movie has to be for me to be able to show a part of it on youtube Generally 10 seconds or less of a film clip can fall under fair use for commentary or criticism \u2014 which is how most podcasts and talk shows use clips without issue. But there's no hard legal rule based on age. What actually matters more than age is fair use, which considers: \u2022 Purpose \u2014 commentary, criticism, education = stronger fair use case \u2022 Amount used \u2014 shorter = safer; a 5-10 second clip for reaction/discussion is generally fine \u2022 Effect on market \u2014 your clip shouldn't replace the original In practice for YouTube specifically: \u2022 Most major studios have Content ID systems that will flag clips regardless of movie age \u2014 even 100-year-old films if the rights holder has registered them \u2022 Public domain is the real safe zone \u2014 films from 1927 or earlier are generally in the public domain in the US. Some films from the 1928-1963 range are also public domain if copyright wasn't renewed \u2022 Disney, Warner Bros., Universal etc. actively enforce even very old films For a show like TWiST showing a short reaction clip \u2014 5-10 seconds with clear commentary context is the industry standard and rarely gets actioned. But age alone won't protect you. Today's show: *A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment. Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036. PLUS on an all-news TWiST, hot takes on the potential $13B Hugging Face sale (to a mystery buyer), why founders should always \"buy the threat,\" analyzing Sam Altman's \"I'm listening and I hear you\" face, and are kill drones already in operation around the world? We're digging in to how close the real world is to mirroring the \"Terminator\" films. Relevant Links CBS coverage of World Humanoid Robot Games: https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/ Bloomberg coverage of World Humanoid Robot Games: https://www.youtube.com/watch?v=0lsrUAdcPPE X-Humanoid: https://www.x-humanoid.com/ Tesla Optimus on X: https://x.com/Tesla_Optimus Trailer for Spielberg's \"A.I. Artificial Intelligence\": https://www.youtube.com/watch?v=_19pRsZRiz4 Bloomberg: Hugging Face exploring sale: https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says Fortune: Stripe acquires OpenRouter: https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/ InfoWorld: OpenAI acqui-hires OPenClaw founder: https://www.infoworld.com/article/4132731/openai-hires-openclaw-founder-as-ai-agent-race-intensifies-2.html David Senra podcast w/ Sam Altman: https://www.davidsenra.com/episode/sam-altman Harvey Tenet Research Preview: https://www.harvey.ai/blog/post-training-update-harvey-tenet David Sacks comments on Harvey's Tenet (from X): https://x.com/DavidSacks/status/2090790063047168473 CNBC: Iran linked to UK cyberattack: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html NYT: A drone killed 3 Ukrainians: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html Forbes: Eric Schmidt secretly testing AI drones: https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/ Restream: https://restream.io/ Kimbal Musk's Nova Sky Stories: https://novaskystories.com/ IKEA: Plug-in Solar Panels: https://www.ikea.com/be/en/energy-services/plug-in-solar/ Deadline: \"Mandalorian and Grogu\" box office: https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/ THR: Dave Filoni leading Lucasfilm: https://www.hollywoodreporter.com/movies/movie-news/star-wars-mandalorian-grogu-box-office-franchise-low-1236604973/ Star Wars: Starfighter first look: https://www.starwars.com/news/star-wars-starfighter-ryan-gosling Star Wars Theory: \"Vader\" fan series: https://www.youtube.com/watch?v=Ey68aMOV9gc Timestamps: 0:00 Jason got a fresh Optimus demo 1:35 Robots are breaking human sports records 3:39 America's messaging problem vs. China's elite PR machine 11:07 Odoo - The all-in-one business platform. Your first app is free! Get started today at https://Odoo.com/twist 12:08 Jason got a fresh Optimus demo 19:21 Quo (formerly OpenPhone) - Quo gives you a clean, modern way to handle every customer call, text, and thread all in one place. Try it free and get 20% off your first 6",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Content",
+        "Sport",
+        "Venture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you.",
+        "That would be a good reason to show them like sparking up or catching fire when they failed.",
+        "And I will say, I do feel like there's an inherent limit to how interesting robot sports can be because the robots don't have to work at it.",
+        "And somehow, even with all these time savers, you're still moving data around by yourself at 10 p.m."
+      ],
+      "transcript_content_summary": "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you. That would be a good reason to show them like sparking up or catching fire when they failed.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:36:55.663191-07:00",
+      "transcript_takeaways": [
+        "**4 Key Takeaways for David Bunn**"
+      ],
+      "transcript_summary": "**4 Key Takeaways for David Bunn**"
+    },
+    {
+      "id": "68a59cd1802024c9",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "short_name": "All-In",
+      "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
+      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+      "accent": "#6d5dfc",
+      "emoji": "\u265f\ufe0f",
+      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+      "url": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+      "guid": "64b534f7-b272-4bb8-9238-96055f4fa858",
+      "published_at": "2026-08-24T23:19:00+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "55:59",
+      "summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+      "content_summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+      "content_takeaways": [
+        "The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?"
+      ],
+      "show_notes": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated? (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots on the moon in '28 (34:04) The great race with China: $33B to $670B, and 7 out of 10 STEM PhDs aren't American (44:09) Fauci did more damage to science than anyone in modern history, and NIH's median researcher is 71 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "tags": [
+        "Career",
+        "AI",
+        "Markets",
+        "Politics",
+        "Startups",
+        "Business",
+        "Tech"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure.",
+        "Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+        "So then there's arguably a question like is it worth the economic cost, particularly because it mostly impacts the poorer communities than the wealthy communities can afford alternatives but poorer communities that lose access to certain sources of energy.",
+        "And typically that's low risk because if something is likely to happen, the review board would say, okay great we're giving that grant because we feel confident that money is well spent."
+      ],
+      "transcript_content_summary": "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure. Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:39:41.878527-07:00",
+      "transcript_takeaways": [
+        "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it.",
+        "**Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI.",
+        "**Extreme-scenario models can drive policy for years \u2014 then get pulled.** The RCP 8.5 climate scenario (the most extreme warming projection) was just removed by its own authors as unsupportable, but it already shaped a decade of funding, regulation, and media coverage. Finance/ops takeaway: audit your own models and clients' forecasts for tail-risk assumptions that drive decisions but aren't grounded. Stress testing is useful; living in the worst case isn't.",
+        "**Unilateral action on global problems rarely moves the needle.** The China vs. US carbon framing: the US going backward economically doesn't fix a problem China dominates (~50% of global output). Operator lesson \u2014 for David's consulting: don't sell expensive solutions that don't solve the actual problem scale. Technology breakthroughs (fusion, solar, battery) beat regulation every time. Frame your AI pitches as leverage multipliers, not compliance costs."
+      ],
+      "transcript_summary": "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it. **Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI."
+    },
+    {
       "id": "03f25bc4b2ab4883",
       "podcast": "Modern Wisdom",
       "short_name": "Modern Wisdom",
@@ -230,9 +385,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+      "title": "The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -257,22 +412,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-      ],
-      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-      "transcript_takeaways": [
-        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-      ],
-      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
+      "transcript_status": "not_ingested"
     },
     {
       "id": "70fafc54413026f0",
@@ -11325,7 +11465,7 @@
       "image": "https://megaphone.imgix.net/podcasts/67d11e0e-2afa-11f1-8f71-571a3d077b9e/image/3245d51b20853d0ec0c372a04b27b392.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Mostly Wise: Matt McCusker, Andrew Huberman & Tom Segura - #1102",
+      "title": "Matt McCusker, Andrew Huberman & Tom Segura - Mostly Wise #1 - #1102",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB3166618565.mp3",
       "guid": "67d11e0e-2afa-11f1-8f71-571a3d077b9e",
@@ -28845,6 +28985,161 @@
   ],
   "recent": [
     {
+      "id": "0438c176e39cd8d6",
+      "podcast": "The Grade Cricketer",
+      "short_name": "Grade Cricketer",
+      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+      "accent": "#16a34a",
+      "emoji": "\ud83c\udfcf",
+      "title": "Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell",
+      "url": "https://omny.fm/shows/the-grade-cricketer/batting-issues-carse-handcuffs-jaiswal-headbutt-with-greg-chappell",
+      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/146ae7c6-50ad-4888-9ca9-b4b10044949e/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+      "guid": "146ae7c6-50ad-4888-9ca9-b4b10044949e",
+      "published_at": "2026-08-25T04:33:01+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "7088",
+      "summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+      "content_summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+      "content_takeaways": [
+        "Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+        "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country?",
+        "Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard?",
+        "Read Greg Chappell's Cricinfo piece on the issues modern batters face here: The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people."
+      ],
+      "show_notes": "Is it the decks? Is it TikTok? Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow. Read Greg Chappell's Cricinfo piece on the issues modern batters face here: https://www.cricinfo.com/story/australia-have-batting-problems-and-they-are-linked-to-their-calendar-1551300 The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people. You can support the foundation here: https://thechappellfoundation.com/donate SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+      "tags": [
+        "Parenting",
+        "Cricket",
+        "Australia",
+        "South Africa",
+        "Sport",
+        "Culture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well.",
+        "But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+        "So at the judiciary, the Indian captain, Verinda Bumbler, also had a case to answer for dissent because this decision is eventually overturned.",
+        "What I do understand is that if you are proffering an explanation of why runs are down over a, you know, a five year period supported by copious data, you can only provide one reason."
+      ],
+      "transcript_content_summary": "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well. But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:33:59.976104-07:00",
+      "transcript_takeaways": [
+        "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring.",
+        "**Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix.",
+        "**Reputation shields create governance blind spots** \u2014 Over 60s player got a 1-match ban for serious misconduct because of \"exemplary record over 50 years.\" In any client org, check for senior people or long-tenured vendors whose \"exemplary record\" excuses recurring issues. Map that into risk assessment when doing audits or compliance reviews.",
+        "**Single-cause explanations are preferred, but the expensive answer is almost always multi-factor** \u2014 The episode mocks how you're \"not allowed to explain it systemically\" or use multiple factors. Clients want one reason, one fix, one price. Your consulting value is refusing that framing: do the work to untangle 3-5 interacting causes, show them the cost of the simple story, and charge for the real one."
+      ],
+      "transcript_summary": "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring. **Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix."
+    },
+    {
+      "id": "bb2b5b1db9243e7f",
+      "podcast": "This Week in Startups",
+      "short_name": "TWIST",
+      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "image": "https://static.libsyn.com/p/assets/5/4/8/9/5489286e3005c78316c3140a3186d450/01b15116-47b2-4290-98c2-d3f00c068d3f.png",
+      "accent": "#0ea5e9",
+      "emoji": "\u26a1",
+      "title": "China wants you to cheer for the robots taking your job | E2329",
+      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155",
+      "guid": "1ebb02fa-70dd-40f8-97d9-aa5966cfd640",
+      "published_at": "2026-08-25T02:12:00+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "01:20:22",
+      "summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+      "content_summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+      "content_takeaways": [
+        "While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+        "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered.",
+        "Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth.",
+        "Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036."
+      ],
+      "show_notes": "This Week In Startups is made possible by: Odoo https://Odoo.com/twist Quo https://quo.com/TWiST Conservation Fund https://conservationfund.org how old a movie has to be for me to be able to show a part of it on youtube Generally 10 seconds or less of a film clip can fall under fair use for commentary or criticism \u2014 which is how most podcasts and talk shows use clips without issue. But there's no hard legal rule based on age. What actually matters more than age is fair use, which considers: \u2022 Purpose \u2014 commentary, criticism, education = stronger fair use case \u2022 Amount used \u2014 shorter = safer; a 5-10 second clip for reaction/discussion is generally fine \u2022 Effect on market \u2014 your clip shouldn't replace the original In practice for YouTube specifically: \u2022 Most major studios have Content ID systems that will flag clips regardless of movie age \u2014 even 100-year-old films if the rights holder has registered them \u2022 Public domain is the real safe zone \u2014 films from 1927 or earlier are generally in the public domain in the US. Some films from the 1928-1963 range are also public domain if copyright wasn't renewed \u2022 Disney, Warner Bros., Universal etc. actively enforce even very old films For a show like TWiST showing a short reaction clip \u2014 5-10 seconds with clear commentary context is the industry standard and rarely gets actioned. But age alone won't protect you. Today's show: *A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment. Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036. PLUS on an all-news TWiST, hot takes on the potential $13B Hugging Face sale (to a mystery buyer), why founders should always \"buy the threat,\" analyzing Sam Altman's \"I'm listening and I hear you\" face, and are kill drones already in operation around the world? We're digging in to how close the real world is to mirroring the \"Terminator\" films. Relevant Links CBS coverage of World Humanoid Robot Games: https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/ Bloomberg coverage of World Humanoid Robot Games: https://www.youtube.com/watch?v=0lsrUAdcPPE X-Humanoid: https://www.x-humanoid.com/ Tesla Optimus on X: https://x.com/Tesla_Optimus Trailer for Spielberg's \"A.I. Artificial Intelligence\": https://www.youtube.com/watch?v=_19pRsZRiz4 Bloomberg: Hugging Face exploring sale: https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says Fortune: Stripe acquires OpenRouter: https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/ InfoWorld: OpenAI acqui-hires OPenClaw founder: https://www.infoworld.com/article/4132731/openai-hires-openclaw-founder-as-ai-agent-race-intensifies-2.html David Senra podcast w/ Sam Altman: https://www.davidsenra.com/episode/sam-altman Harvey Tenet Research Preview: https://www.harvey.ai/blog/post-training-update-harvey-tenet David Sacks comments on Harvey's Tenet (from X): https://x.com/DavidSacks/status/2090790063047168473 CNBC: Iran linked to UK cyberattack: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html NYT: A drone killed 3 Ukrainians: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html Forbes: Eric Schmidt secretly testing AI drones: https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/ Restream: https://restream.io/ Kimbal Musk's Nova Sky Stories: https://novaskystories.com/ IKEA: Plug-in Solar Panels: https://www.ikea.com/be/en/energy-services/plug-in-solar/ Deadline: \"Mandalorian and Grogu\" box office: https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/ THR: Dave Filoni leading Lucasfilm: https://www.hollywoodreporter.com/movies/movie-news/star-wars-mandalorian-grogu-box-office-franchise-low-1236604973/ Star Wars: Starfighter first look: https://www.starwars.com/news/star-wars-starfighter-ryan-gosling Star Wars Theory: \"Vader\" fan series: https://www.youtube.com/watch?v=Ey68aMOV9gc Timestamps: 0:00 Jason got a fresh Optimus demo 1:35 Robots are breaking human sports records 3:39 America's messaging problem vs. China's elite PR machine 11:07 Odoo - The all-in-one business platform. Your first app is free! Get started today at https://Odoo.com/twist 12:08 Jason got a fresh Optimus demo 19:21 Quo (formerly OpenPhone) - Quo gives you a clean, modern way to handle every customer call, text, and thread all in one place. Try it free and get 20% off your first 6",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Content",
+        "Sport",
+        "Venture"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you.",
+        "That would be a good reason to show them like sparking up or catching fire when they failed.",
+        "And I will say, I do feel like there's an inherent limit to how interesting robot sports can be because the robots don't have to work at it.",
+        "And somehow, even with all these time savers, you're still moving data around by yourself at 10 p.m."
+      ],
+      "transcript_content_summary": "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you. That would be a good reason to show them like sparking up or catching fire when they failed.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:36:55.663191-07:00",
+      "transcript_takeaways": [
+        "**4 Key Takeaways for David Bunn**"
+      ],
+      "transcript_summary": "**4 Key Takeaways for David Bunn**"
+    },
+    {
+      "id": "68a59cd1802024c9",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "short_name": "All-In",
+      "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
+      "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+      "accent": "#6d5dfc",
+      "emoji": "\u265f\ufe0f",
+      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+      "url": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+      "guid": "64b534f7-b272-4bb8-9238-96055f4fa858",
+      "published_at": "2026-08-24T23:19:00+00:00",
+      "published_date": "2026-08-24",
+      "published_month": "2026-08",
+      "duration": "55:59",
+      "summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+      "content_summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+      "content_takeaways": [
+        "The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?"
+      ],
+      "show_notes": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated? (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots on the moon in '28 (34:04) The great race with China: $33B to $670B, and 7 out of 10 STEM PhDs aren't American (44:09) Fauci did more damage to science than anyone in modern history, and NIH's median researcher is 71 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "tags": [
+        "Career",
+        "AI",
+        "Markets",
+        "Politics",
+        "Startups",
+        "Business",
+        "Tech"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure.",
+        "Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+        "So then there's arguably a question like is it worth the economic cost, particularly because it mostly impacts the poorer communities than the wealthy communities can afford alternatives but poorer communities that lose access to certain sources of energy.",
+        "And typically that's low risk because if something is likely to happen, the review board would say, okay great we're giving that grant because we feel confident that money is well spent."
+      ],
+      "transcript_content_summary": "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure. Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-25T07:39:41.878527-07:00",
+      "transcript_takeaways": [
+        "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it.",
+        "**Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI.",
+        "**Extreme-scenario models can drive policy for years \u2014 then get pulled.** The RCP 8.5 climate scenario (the most extreme warming projection) was just removed by its own authors as unsupportable, but it already shaped a decade of funding, regulation, and media coverage. Finance/ops takeaway: audit your own models and clients' forecasts for tail-risk assumptions that drive decisions but aren't grounded. Stress testing is useful; living in the worst case isn't.",
+        "**Unilateral action on global problems rarely moves the needle.** The China vs. US carbon framing: the US going backward economically doesn't fix a problem China dominates (~50% of global output). Operator lesson \u2014 for David's consulting: don't sell expensive solutions that don't solve the actual problem scale. Technology breakthroughs (fusion, solar, battery) beat regulation every time. Frame your AI pitches as leverage multipliers, not compliance costs."
+      ],
+      "transcript_summary": "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it. **Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI."
+    },
+    {
       "id": "03f25bc4b2ab4883",
       "podcast": "Modern Wisdom",
       "short_name": "Modern Wisdom",
@@ -28904,9 +29199,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+      "title": "The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -28931,22 +29226,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-      ],
-      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-      "transcript_takeaways": [
-        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-      ],
-      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
+      "transcript_status": "not_ingested"
     },
     {
       "id": "70fafc54413026f0",
@@ -29537,276 +29817,43 @@
       ],
       "source": "favorite_feed",
       "transcript_status": "not_ingested"
-    },
-    {
-      "id": "29c29fe15555eb0a",
-      "podcast": "The Game with Alex Hormozi",
-      "short_name": "The Game",
-      "podcast_image": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
-      "image": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
-      "accent": "#f59e0b",
-      "emoji": "\ud83d\udcb0",
-      "title": "The Case Against AI | Ep 993",
-      "url": "",
-      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M093XD5B7J1WFXDG9BMQ1XRE.mp3",
-      "guid": "flightcast:01M093XD5BVB7XKVNW4XVS4AJ6",
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "published_date": "2026-08-18",
-      "published_month": "2026-08",
-      "duration": "573",
-      "summary": "Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. Individuals and business owners should evaluate their own business strategies and identify any potential risks.",
-      "content_summary": "Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. Individuals and business owners should evaluate their own business strategies and identify any potential risks.",
-      "content_takeaways": [
-        "Alex makes the case that the businesses winning right now aren't winning because of AI.",
-        "The highest leverage available to business owners still costs nothing and requires no software.",
-        "Individuals and business owners should evaluate their own business strategies and identify any potential risks.",
-        "The information shared here is not a guarantee of success."
-      ],
-      "show_notes": "Download your free personalized $100M scaling roadmap in under 30 seconds: https://www.acquisition.com/roadmap?el=yt-alex-486r&htrafficsource=youtube AI hasn't canceled every other form of leverage. It just gave entrepreneurs a faster way to work, even on the wrong things. In this episode, Alex makes the case that the businesses winning right now aren't winning because of AI. The highest leverage available to business owners still costs nothing and requires no software. In this episode 00:00 Why leveraging AI in business isn\u2019t paying off 05:37 Good decision-making gives higher leverage 08:07 Identify your true constraint to scale More Value: Book Your Spot at the Live Scaling Workshop in Las Vegas: https://www.acquisition.com/o-vegas Get the $100M Book Bundle: https://shop.acquisition.com/pages/100m-book-bundle Watch My Latest Episodes on YouTube: https://www.youtube.com/@AlexHormozi/featured Learn How to Scale Your Business to Millions in Revenue: https://www.acquisition.com/ Discover The Easiest Business I Can Help You Start (Free Trial): https://www.skool.com/hormozi Additional Free Books and Video Courses: https://www.acquisition.com/training DISCLOSURE: Information shared here is for educational purposes only. Individuals and business owners should evaluate their own business strategies and identify any potential risks. The information shared here is not a guarantee of success. Your results may vary. Copyright \u00a9 2026.",
-      "tags": [
-        "AI",
-        "Business",
-        "Career",
-        "Entrepreneurship",
-        "Sales",
-        "Offers",
-        "Pricing"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "In this video, I'm going to make a case against AI and more specifically why more people are not making money despite using AI a lot and token maxing and by-coding and making all these optional best stuff.",
-        "And so the big misconception I think around AI is that AI somehow cancelled every other form of leverage.",
-        "I'm saying of course, we're, you know, I'm a super AI advocate because you have to do that.",
-        "And they're because their capacity to work has increased using AI, they are now doing things they otherwise would not have done."
-      ],
-      "transcript_content_summary": "In this video, I'm going to make a case against AI and more specifically why more people are not making money despite using AI a lot and token maxing and by-coding and making all these optional best stuff. And so the big misconception I think around AI is that AI somehow cancelled every other form of leverage.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-18T07:31:36.129060-07:00",
-      "transcript_takeaways": [
-        "**AI is not the only leverage, and it's rarely the binding constraint.** Capital, media reach, team structure, and delivery model (1:1 \u2192 1:many) all create far more leverage than AI for most businesses. The speaker's wealthiest peers admitted they barely use AI personally. The real unlock is identifying the business's actual constraint, not automating everything in sight.",
-        "**Automating low-priority work is worse than doing nothing.** Because AI increases capacity, many owners fill that new capacity with tasks that were *already* lower priority. The result: faster output of irrelevant stuff. The highest-leverage move is deciding what *not* to do \u2014 that frees more team resources than any automation tool.",
-        "**The fundamental business levers haven't changed.** Generate more demand, convert a higher percentage, deliver higher quality. AI can help at the edges, but a bad offer + AI is still a bad offer. The speaker compares current AI to cheap virtual assistants: helpful, but not a structural advantage.",
-        "**Action: audit your own AI use against a single question \u2014 \"Has implementing AI made me more money?\"** If the answer is no, you're applying it to the wrong bottleneck. For David's consulting: this is a powerful framing. Don't sell \"AI transformation\" \u2014 sell *constraint diagnosis* first, then AI as one tool in the fix. The biggest value you can deliver a client is a sharper decision about what to focus on, not a faster way to build the wrong thing."
-      ],
-      "transcript_summary": "**AI is not the only leverage, and it's rarely the binding constraint.** Capital, media reach, team structure, and delivery model (1:1 \u2192 1:many) all create far more leverage than AI for most businesses. The speaker's wealthiest peers admitted they barely use AI personally. The real unlock is identifying the business's actual constraint, not automating everything in sight. **Automating low-priority work is worse than doing nothing.** Because AI increases capacity, many owners fill that new capacity with tasks that were *already* lower priority. The result: faster output of irrelevant stuff. The highest-leverage move is deciding what *not* to do \u2014 that frees more team resources than any automation tool."
-    },
-    {
-      "id": "6182a7de549a8e6e",
-      "podcast": "The Grade Cricketer",
-      "short_name": "Grade Cricketer",
-      "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-      "image": "https://www.omnycontent.com/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/3a93ea19-b8e8-4783-b08b-b4aa005cfaab/image.jpg?t=1787105441&size=Large",
-      "accent": "#16a34a",
-      "emoji": "\ud83c\udfcf",
-      "title": "Beheadings, Tiki Torches, Guillotines, with Alex Malcolm",
-      "url": "https://omny.fm/shows/the-grade-cricketer/beheadings-tiki-torches-guillotines-with-alex-malcolm",
-      "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/3a93ea19-b8e8-4783-b08b-b4aa005cfaab/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
-      "guid": "3a93ea19-b8e8-4783-b08b-b4aa005cfaab",
-      "published_at": "2026-08-18T06:04:50+00:00",
-      "published_date": "2026-08-17",
-      "published_month": "2026-08",
-      "duration": "7211",
-      "summary": "Never underestimate how test cricket can make you feel. Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next. Order your El Arquero Tequila gift box for Dad this Father\u2019s Day and use the code TGC15 to receive 15% off your entire order.",
-      "content_summary": "Never underestimate how test cricket can make you feel. Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next. Order your El Arquero Tequila gift box for Dad this Father\u2019s Day and use the code TGC15 to receive 15% off your entire order.",
-      "content_takeaways": [
-        "Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next.",
-        "Never underestimate how test cricket can make you feel.",
-        "Order now at elarquero.com 18+ DRINK RESPONSIBLY \ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-        "Order your El Arquero Tequila gift box for Dad this Father\u2019s Day and use the code TGC15 to receive 15% off your entire order."
-      ],
-      "show_notes": "Never underestimate how test cricket can make you feel. Alex Malcolm from Cricket Information.com joins the show to deconstruct everything that happened in Darwin and what happens next. Order your El Arquero Tequila gift box for Dad this Father\u2019s Day and use the code TGC15 to receive 15% off your entire order. Get your order in by Tuesday 1 September to ensure delivery by Father\u2019s Day. Order now at elarquero.com 18+ DRINK RESPONSIBLY \ud83c\udf0e Get Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
-      "tags": [
-        "Cricket",
-        "Australia",
-        "South Africa",
-        "Sport",
-        "Culture"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "If you get hurt me like this, then I'm gonna forget about all the unrivaled success and achievements or how you're literally the number one ranked test team in the world.",
-        "Because I'm worried you're gonna hurt me again and I can't use the internet for a few days.",
-        "For those who listen to the Daily's, perhaps you'll have heard this general sentiment before, but where is in white ball cricket?",
-        "This wasn't an Australian team within, you know, beset by internal issues that capitulated because something inside is going on."
-      ],
-      "transcript_content_summary": "If you get hurt me like this, then I'm gonna forget about all the unrivaled success and achievements or how you're literally the number one ranked test team in the world. Because I'm worried you're gonna hurt me again and I can't use the internet for a few days.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-18T07:33:52.186401-07:00",
-      "transcript_takeaways": [
-        "**Client-fit lesson from the BetterHelp ad**: The sponsor segment makes a real point that applies directly to AI consulting \u2014 not every client will be the right fit, and that's fine. Structure engagements so switching is easy (pilot \u2192 assessment \u2192 retainer, not year-long contracts). David's $999 assessment model already works this way: low-commitment entry, prove value, then expand or exit cleanly.",
-        "**Complacency kills \u2014 even market leaders get dismantled**: Australia had won 11 of their last 13 tests, yet got demolished because they treated the match as a tune-up and Bangladesh treated it as a final. For David's CPA and finance clients: the firm that's been \"doing things the same way for 20 years\" is the Australian test side. The competitor who adopts AI workflows first is Bangladesh \u2014 hungrier, more focused, and willing to out-execute everywhere. Your job is to be the warning flare.",
-        "**\"Nowhere to hide\" in test cricket = same in consulting**: The hosts note test cricket exposes every gap \u2014 technical, mental, physical \u2014 because there's enough time for weaknesses to surface. The same applies to a discovery engagement or pilot: a well-structured 2-week assessment will reveal exactly where a firm's processes are fragile. Sell the diagnosis, not the aspirin.",
-        "**When something looks like an aberration but isn't**: The panel muses whether the loss was a one-off blip or the result of problems \"bubbling away.\" In consulting, a client's \"we just need better spreadsheets\" is often the same thing \u2014 a symptom of deeper process debt. Push past the surface ask. David's play: the discovery call question should be \"what keeps breaking or takes too long,\" not \"what AI tools interest you.\""
-      ],
-      "transcript_summary": "**Client-fit lesson from the BetterHelp ad**: The sponsor segment makes a real point that applies directly to AI consulting \u2014 not every client will be the right fit, and that's fine. Structure engagements so switching is easy (pilot \u2192 assessment \u2192 retainer, not year-long contracts). David's $999 assessment model already works this way: low-commitment entry, prove value, then expand or exit cleanly. **Complacency kills \u2014 even market leaders get dismantled**: Australia had won 11 of their last 13 tests, yet got demolished because they treated the match as a tune-up and Bangladesh treated it as a final. For David's CPA and finance clients: the firm that's been \"doing things the same way for 20 years\" is the Australian test side. The competitor who adopts AI workflows first is Bangladesh \u2014 hungrier, more focused, and willing to out-execute everywhere. Your job is to be the warning flare."
-    },
-    {
-      "id": "899cf46ee352e2ff",
-      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
-      "short_name": "All-In",
-      "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
-      "image": "https://static.libsyn.com/p/assets/3/e/5/4/3e54b0bf0f3e5cf6d959afa2a1bf1c87/flock_in_cover_lybson.jpg",
-      "accent": "#6d5dfc",
-      "emoji": "\u265f\ufe0f",
-      "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
-      "url": "https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
-      "guid": "428ae13c-11c4-4412-876b-0559528050e9",
-      "published_at": "2026-08-18T00:47:00+00:00",
-      "published_date": "2026-08-17",
-      "published_month": "2026-08",
-      "duration": "55:58",
-      "summary": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! Full-screen video ads with a 35-second median watch time. sales tax, VAT, and GST, used by 3,000+ businesses globally.",
-      "content_summary": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! Full-screen video ads with a 35-second median watch time. sales tax, VAT, and GST, used by 3,000+ businesses globally.",
-      "content_takeaways": [
-        "(0:00) The most controversial company in privacy right now, Flock CEO joins the show!",
-        "They handle registrations, filings, and tax rates, so you can stay ahead of risk.",
-        "Learn more at Follow Garrett: Follow the besties: Follow on X: Follow on Instagram: Follow on TikTok: Follow on LinkedIn: Intro Music Credit: Intro Video Credit: #allin #tech #news",
-        "Full-screen video ads with a 35-second median watch time."
-      ],
-      "show_notes": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! (7:23) License plate data retention: 7 days solves 90% of crimes (13:00) Camera vandalism, felony charges, and privacy concerns (18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired (28:25) AI, drones, facial recognition, and avoiding predictive policing (39:43) Safety is a privilege and who actually needs Flock (45:36) Flock's PR crisis: internal morale, churn, and 20 cities turning the cameras back on Thanks to our partners for making this possible! AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at http://applovin.com/ALLIN Numeral is the trusted solution for U.S. sales tax, VAT, and GST, used by 3,000+ businesses globally. They handle registrations, filings, and tax rates, so you can stay ahead of risk. Learn more at https://www.numeral.com/?utm_source=all-in Follow Garrett: https://x.com/glangley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "tags": [
-        "AI",
-        "Business",
-        "Finance",
-        "Career",
-        "Markets",
-        "Politics",
-        "Startups"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "So, you know, one of the reasons Jason, we struggled so much to raise money as a business is because it is traditionally and was for flock very hard to get contracts done with local government.",
-        "I have a huge team whose entire job is just going to city council meetings explaining what flock does and what flock doesn't do.",
-        "And that retention period for how long this data will be stored is going to determine the efficacy of the product.",
-        "Wouldn't there be like a higher level person who they put the request in or maybe there could be like a supervisor and that supervisor says, I'm looking into this case, I explain why I'm looking into it."
-      ],
-      "transcript_content_summary": "So, you know, one of the reasons Jason, we struggled so much to raise money as a business is because it is traditionally and was for flock very hard to get contracts done with local government. I have a huge team whose entire job is just going to city council meetings explaining what flock does and what flock doesn't do.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-18T07:36:19.192056-07:00",
-      "transcript_takeaways": [
-        "And that retention period for how long this data will be stored is going to determine the efficacy of the product.",
-        "And it's really interesting to me that there's been so much energy on this recently, because when I see that kind of energy as an investor, whereas a podcast, so is to your world's greatest moderate, GM, I know there's something at stake.",
-        "This is where we find the people building the future, sometimes a politician, sometimes a CEO, sometimes an investor all the time, an important discussion.",
-        "But I've always been intrigued by what you're doing on the margin, sometimes concerned."
-      ],
-      "transcript_summary": "And that retention period for how long this data will be stored is going to determine the efficacy of the product. And it's really interesting to me that there's been so much energy on this recently, because when I see that kind of energy as an investor, whereas a podcast, so is to your world's greatest moderate, GM, I know there's something at stake. This is where we find the people building the future, sometimes a politician, sometimes a CEO, sometimes an investor all the time, an important discussion."
-    },
-    {
-      "id": "50845083ec8793d9",
-      "podcast": "This Week in Startups",
-      "short_name": "TWIST",
-      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
-      "image": "https://static.libsyn.com/p/assets/7/6/8/b/768bc45f762b8d28d959afa2a1bf1c87/69b4ab0b-120e-4e0f-8eb2-baadfb1e0b9b.png",
-      "accent": "#0ea5e9",
-      "emoji": "\u26a1",
-      "title": "Bittensor creator Const on Affine, dTAO, \"mining reasoning,\" and more | E2326",
-      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/bittensor-creator-const-on-affine-dtao-mining-reasoning-and-more-e2326",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2326_POD.mp3?dest-id=5500155",
-      "guid": "9082d5f7-1aaa-46c6-ac29-0ec5ec1e5534",
-      "published_at": "2026-08-17T19:37:00+00:00",
-      "published_date": "2026-08-17",
-      "published_month": "2026-08",
-      "duration": "01:24:54",
-      "summary": "We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage. Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka \"Const\") to the show. He gives us a quick tour of the project's first principles, before diving into how subnets incentivize miners to contribute, how dTAO turned the creation of subnets into its own competition, how Const says he employs \"the internal machinery of capitalism\" to rank subnects, and his latest projec",
-      "content_summary": "We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage. Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka \"Const\") to the show. He gives us a quick tour of the project's first principles, before diving into how subnets incentivize miners to contribute, how dTAO turned the creation of subnets into its own competition, how Const says he employs \"the internal machinery of capitalism\" to rank subnects, and his latest projec",
-      "content_takeaways": [
-        "We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage.",
-        "Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka \"Const\") to the show.",
-        "Find out what the OpenTensor Foundation actually does, go inside the Templar controversy, and learn why Const is trying to make himself increasingly irrelevant."
-      ],
-      "show_notes": "This Week In Startups is made possible by: Northwest Registered Agent https://northwestregisteredagent.com/twist DigitalOcean https://do.co/twist Odoo https://Odoo.com/twist Today's show: We've been going deep on Bittensor and how it works all year on TWiST, meeting with the creators of some of our favorite subnets, and exploring how the system decentralizes inference, compute, and storage. Now, on this very special episode, Jason and Lon welcome Bittensor co-founder Jason Steeves (aka \"Const\") to the show. He gives us a quick tour of the project's first principles, before diving into how subnets incentivize miners to contribute, how dTAO turned the creation of subnets into its own competition, how Const says he employs \"the internal machinery of capitalism\" to rank subnects, and his latest project, Subnet 120 (aka Affine). Find out what the OpenTensor Foundation actually does, go inside the Templar controversy, and learn why Const is trying to make himself increasingly irrelevant. Guest Jacob Steeves on X: https://x.com/const_reborn Bittensor: https://www.bittensor.com/ Affine: https://affine.io/ Relevant Links Original Bittensor whitepaper: https://bittensor.com/whitepaper Bittensor governance and documentation: https://www.bittensor.com/docs Beginner's Guide to Dynamic TAO: https://www.tao.media/the-complete-beginners-guide-to-dynamic-tao-dtao/ Prime Intellect: TOPLOC: https://www.primeintellect.ai/blog/toploc Engy (SN53): https://engy.ai/ Lium (SN51): https://www.lium.io Targon (SN4): https://targon.com/ Templar (SN3): https://www.tplr.ai/ Hippius (SN75): https://hippius.com/ MakerDAO: https://makerdao.com/ Stillcore Capital: https://stillcorecapital.com/ Timestamps: 0:00 The origin of Bittensor (and the name Const) 10:48 Northwest Registered Agent - Get more when you start your business with Northwest. In 10 clicks and 10 minutes, you can form your company and walk away with a real business identity \u2014 Learn more at https://northwestregisteredagent.com/twist 13:55 From Bitcoin mining to mining intelligence 19:33 DigitalOcean - Head to https://do.co/twist to start building on DigitalOcean's AI-Native Cloud today \u2014 and cut your AI workload costs by up to 50%. 30:17 Odoo - The all-in-one business platform. Get started for free at https://Odoo.com/twist 32:37 What is a subnet? 33:35 Forcing honest inference from bad actors 37:14 Building a subnet is harder than it looks 40:42 Understanding dTAO 51:57 Where the registration TAO actually goes 1:02:57 All about the Conviction \"rug pull\" 1:15:19 How Const is making himself irrelevant 1:17:33 The \"Buy One TAO\" philosophy Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Lon: X: https://x.com/lons Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Check out all our partner offers: https://partners.launch.co/ Great TWIST interviews: Will Guidara, Eoghan McCabe , Steve Huffman , Brian Chesky , Bob Moesta, Aaron Levie , Sophia Amoruso , Reid Hoffman , Frank Slootman , Billy McFarland Check out Jason's suite of newsletters: https://substack.com/@calacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
-      "tags": [
-        "AI",
-        "Startups",
-        "Business",
-        "Finance",
-        "Career",
-        "Content",
-        "Venture"
-      ],
-      "source": "favorite_feed",
-      "transcript_status": "not_ingested"
-    },
-    {
-      "id": "b6667427640b4962",
-      "podcast": "The Startup Ideas Podcast",
-      "short_name": "Startup Ideas",
-      "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-      "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-      "accent": "#f97316",
-      "emoji": "\ud83d\ude80",
-      "title": "How to use Claude Code better than 99% of People",
-      "url": "",
-      "audio_url": "https://episode.flightcast.com/01M089CF1M9JC39FN4FD5RAGMY.mp3",
-      "guid": "flightcast:01M089CF1MY5R8Q3NYJ3HMA0A0",
-      "published_at": "2026-08-17T18:00:00+00:00",
-      "published_date": "2026-08-17",
-      "published_month": "2026-08",
-      "duration": "2890",
-      "summary": "Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step.",
-      "content_summary": "Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step.",
-      "content_takeaways": [
-        "We turn 'what if' into reality with AI, apps, and next-gen products The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: FIND ME ON SOCIAL X/Twitter: Instagram: LinkedIn",
-        "Get Claude Code: In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee.",
-        "The repo brain teaches Claude how I work and what good looks like.",
-        "Plan mode comes first: Claude reads the context, proposes an approach, and waits for my approval."
-      ],
-      "show_notes": "Get Claude Code: https://startup-ideas-pod.link/claude-greg In this solo episode I lay out the exact system I use to turn Claude Code into what I call an AI employee. My premise is simple: give Claude the same things you would give a person joining your company (a workspace, memory, a brief, a clear ticket, eyes, review, a schedule, and permissions). I build the whole setup live around a real idea I found on ideabrowser.com , a missed-lead responder for med spas, and I share the specific prompts I use at each step. By the end, the product, the customer feedback, the docs, the demos, the reviews, and the recurring work all live inside one operating loop. I close with a seven-day plan you can run at your own pace. And thank you to Claude and Anthropic for supporting the podcast. Setup Claude Code to be your 24/7 employee: https://startup-ideas-pod.link/Claude-code Timestamps 00:00 \u2013 Intro: The AI Employee Map 05:47 \u2013 Step 1: Creating The Workspace In Claude Desktop 14:53 \u2013 Step 2: The Brief And Plan Mode 18:08 \u2013 Step 3: The Ticket And Defining Done 22:15 \u2013 Step 4: The Eyes And Desktop Preview 26:13 \u2013 Step 5: Review In Layers And The Diff View 29:34 \u2013 Step 6: The Schedule And Routines 34:32 \u2013 Step 7: Parallel Agents And Worktree Isolation 39:14 \u2013 Step 8: Permissions: Safe, Ask First, Human-Owned 41:15 \u2013 Step 9: Skills, Connectors, And Hooks 44:28 \u2013 The Seven-Day Plan 47:42 \u2013 Closing Thoughts Key Points I treat Claude Code like a new hire: workspace, memory, brief, ticket, eyes, review, schedule, permissions. The repo brain teaches Claude how I work and what good looks like. Plan mode comes first: Claude reads the context, proposes an approach, and waits for my approval. One ticket at a time means one task, one finish line, and one reviewable change. The eyes matter: Claude opens the app in desktop preview, clicks the flow, checks the console, and reports what a buyer experiences. Routines and permissions turn a chat tool into a 24/7 operator with clear boundaries. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/",
-      "tags": [
-        "AI",
-        "Startups",
-        "Business",
-        "Career",
-        "Content",
-        "Business Ideas",
-        "Saas"
-      ],
-      "source": "favorite_feed",
-      "transcript_status": "not_ingested"
     }
   ],
   "stats": {
-    "total_available": 5268,
-    "ytd_count": 770,
-    "recent_count": 19,
+    "total_available": 5270,
+    "ytd_count": 773,
+    "recent_count": 17,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "Grade Cricketer": 79,
+      "TWIST": 106,
+      "All-In": 78,
       "Modern Wisdom": 101,
       "DOAC": 101,
-      "Grade Cricketer": 78,
-      "TWIST": 105,
       "Startup Ideas": 71,
-      "All-In": 77,
       "The Game": 75,
       "Prof G Markets": 162
     },
     "by_tag": {
-      "Business": 603,
-      "AI": 475,
-      "Content": 438,
-      "Career": 413,
-      "Startups": 354,
+      "Business": 605,
+      "AI": 477,
+      "Content": 439,
+      "Career": 415,
+      "Startups": 356,
       "Finance": 287,
-      "Markets": 239,
+      "Markets": 240,
       "Health": 231,
       "Psychology": 200,
       "Relationships": 181,
       "Performance": 164,
       "Investing": 160,
       "Strategy": 127,
-      "Cricket": 103,
-      "Sport": 92,
-      "Venture": 84,
-      "Parenting": 79,
-      "Australia": 78
+      "Cricket": 104,
+      "Sport": 94,
+      "Venture": 85,
+      "Parenting": 80,
+      "Australia": 79
     },
     "by_month": {
       "2026-01": 106,
@@ -29816,9 +29863,164 @@
       "2026-05": 87,
       "2026-06": 100,
       "2026-07": 97,
-      "2026-08": 69
+      "2026-08": 72
     },
     "latest_by_podcast": {
+      "Grade Cricketer": {
+        "id": "0438c176e39cd8d6",
+        "podcast": "The Grade Cricketer",
+        "short_name": "Grade Cricketer",
+        "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+        "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
+        "accent": "#16a34a",
+        "emoji": "\ud83c\udfcf",
+        "title": "Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell",
+        "url": "https://omny.fm/shows/the-grade-cricketer/batting-issues-carse-handcuffs-jaiswal-headbutt-with-greg-chappell",
+        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/146ae7c6-50ad-4888-9ca9-b4b10044949e/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
+        "guid": "146ae7c6-50ad-4888-9ca9-b4b10044949e",
+        "published_at": "2026-08-25T04:33:01+00:00",
+        "published_date": "2026-08-24",
+        "published_month": "2026-08",
+        "duration": "7088",
+        "summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+        "content_summary": "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+        "content_takeaways": [
+          "Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.",
+          "Or is it just an inherent lack of ability rendering Test batters mostly useless in this country?",
+          "Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard?",
+          "Read Greg Chappell's Cricinfo piece on the issues modern batters face here: The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people."
+        ],
+        "show_notes": "Is it the decks? Is it TikTok? Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow. Read Greg Chappell's Cricinfo piece on the issues modern batters face here: https://www.cricinfo.com/story/australia-have-batting-problems-and-they-are-linked-to-their-calendar-1551300 The Chappell Foundation raises funds for frontline charities who provide shelter, care, education, training and a better future to homeless young people. You can support the foundation here: https://thechappellfoundation.com/donate SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
+        "tags": [
+          "Parenting",
+          "Cricket",
+          "Australia",
+          "South Africa",
+          "Sport",
+          "Culture"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well.",
+          "But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+          "So at the judiciary, the Indian captain, Verinda Bumbler, also had a case to answer for dissent because this decision is eventually overturned.",
+          "What I do understand is that if you are proffering an explanation of why runs are down over a, you know, a five year period supported by copious data, you can only provide one reason."
+        ],
+        "transcript_content_summary": "You know, it's, it's just not simple, but I don't know how you can ignore data that systemically in a trend fashion over five years shows batting numbers are down here and bowling numbers are down as well. But I do, I think there are several elements that you throw into the mix that explains why numbers are down.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-25T07:33:59.976104-07:00",
+        "transcript_takeaways": [
+          "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring.",
+          "**Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix.",
+          "**Reputation shields create governance blind spots** \u2014 Over 60s player got a 1-match ban for serious misconduct because of \"exemplary record over 50 years.\" In any client org, check for senior people or long-tenured vendors whose \"exemplary record\" excuses recurring issues. Map that into risk assessment when doing audits or compliance reviews.",
+          "**Single-cause explanations are preferred, but the expensive answer is almost always multi-factor** \u2014 The episode mocks how you're \"not allowed to explain it systemically\" or use multiple factors. Clients want one reason, one fix, one price. Your consulting value is refusing that framing: do the work to untangle 3-5 interacting causes, show them the cost of the simple story, and charge for the real one."
+        ],
+        "transcript_summary": "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring. **Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix."
+      },
+      "TWIST": {
+        "id": "bb2b5b1db9243e7f",
+        "podcast": "This Week in Startups",
+        "short_name": "TWIST",
+        "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+        "image": "https://static.libsyn.com/p/assets/5/4/8/9/5489286e3005c78316c3140a3186d450/01b15116-47b2-4290-98c2-d3f00c068d3f.png",
+        "accent": "#0ea5e9",
+        "emoji": "\u26a1",
+        "title": "China wants you to cheer for the robots taking your job | E2329",
+        "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155",
+        "guid": "1ebb02fa-70dd-40f8-97d9-aa5966cfd640",
+        "published_at": "2026-08-25T02:12:00+00:00",
+        "published_date": "2026-08-24",
+        "published_month": "2026-08",
+        "duration": "01:20:22",
+        "summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+        "content_summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+        "content_takeaways": [
+          "While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
+          "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered.",
+          "Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth.",
+          "Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036."
+        ],
+        "show_notes": "This Week In Startups is made possible by: Odoo https://Odoo.com/twist Quo https://quo.com/TWiST Conservation Fund https://conservationfund.org how old a movie has to be for me to be able to show a part of it on youtube Generally 10 seconds or less of a film clip can fall under fair use for commentary or criticism \u2014 which is how most podcasts and talk shows use clips without issue. But there's no hard legal rule based on age. What actually matters more than age is fair use, which considers: \u2022 Purpose \u2014 commentary, criticism, education = stronger fair use case \u2022 Amount used \u2014 shorter = safer; a 5-10 second clip for reaction/discussion is generally fine \u2022 Effect on market \u2014 your clip shouldn't replace the original In practice for YouTube specifically: \u2022 Most major studios have Content ID systems that will flag clips regardless of movie age \u2014 even 100-year-old films if the rights holder has registered them \u2022 Public domain is the real safe zone \u2014 films from 1927 or earlier are generally in the public domain in the US. Some films from the 1928-1963 range are also public domain if copyright wasn't renewed \u2022 Disney, Warner Bros., Universal etc. actively enforce even very old films For a show like TWiST showing a short reaction clip \u2014 5-10 seconds with clear commentary context is the industry standard and rarely gets actioned. But age alone won't protect you. Today's show: *A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment. Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036. PLUS on an all-news TWiST, hot takes on the potential $13B Hugging Face sale (to a mystery buyer), why founders should always \"buy the threat,\" analyzing Sam Altman's \"I'm listening and I hear you\" face, and are kill drones already in operation around the world? We're digging in to how close the real world is to mirroring the \"Terminator\" films. Relevant Links CBS coverage of World Humanoid Robot Games: https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/ Bloomberg coverage of World Humanoid Robot Games: https://www.youtube.com/watch?v=0lsrUAdcPPE X-Humanoid: https://www.x-humanoid.com/ Tesla Optimus on X: https://x.com/Tesla_Optimus Trailer for Spielberg's \"A.I. Artificial Intelligence\": https://www.youtube.com/watch?v=_19pRsZRiz4 Bloomberg: Hugging Face exploring sale: https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says Fortune: Stripe acquires OpenRouter: https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/ InfoWorld: OpenAI acqui-hires OPenClaw founder: https://www.infoworld.com/article/4132731/openai-hires-openclaw-founder-as-ai-agent-race-intensifies-2.html David Senra podcast w/ Sam Altman: https://www.davidsenra.com/episode/sam-altman Harvey Tenet Research Preview: https://www.harvey.ai/blog/post-training-update-harvey-tenet David Sacks comments on Harvey's Tenet (from X): https://x.com/DavidSacks/status/2090790063047168473 CNBC: Iran linked to UK cyberattack: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html NYT: A drone killed 3 Ukrainians: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html Forbes: Eric Schmidt secretly testing AI drones: https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/ Restream: https://restream.io/ Kimbal Musk's Nova Sky Stories: https://novaskystories.com/ IKEA: Plug-in Solar Panels: https://www.ikea.com/be/en/energy-services/plug-in-solar/ Deadline: \"Mandalorian and Grogu\" box office: https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/ THR: Dave Filoni leading Lucasfilm: https://www.hollywoodreporter.com/movies/movie-news/star-wars-mandalorian-grogu-box-office-franchise-low-1236604973/ Star Wars: Starfighter first look: https://www.starwars.com/news/star-wars-starfighter-ryan-gosling Star Wars Theory: \"Vader\" fan series: https://www.youtube.com/watch?v=Ey68aMOV9gc Timestamps: 0:00 Jason got a fresh Optimus demo 1:35 Robots are breaking human sports records 3:39 America's messaging problem vs. China's elite PR machine 11:07 Odoo - The all-in-one business platform. Your first app is free! Get started today at https://Odoo.com/twist 12:08 Jason got a fresh Optimus demo 19:21 Quo (formerly OpenPhone) - Quo gives you a clean, modern way to handle every customer call, text, and thread all in one place. Try it free and get 20% off your first 6",
+        "tags": [
+          "AI",
+          "Startups",
+          "Business",
+          "Career",
+          "Content",
+          "Sport",
+          "Venture"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you.",
+          "That would be a good reason to show them like sparking up or catching fire when they failed.",
+          "And I will say, I do feel like there's an inherent limit to how interesting robot sports can be because the robots don't have to work at it.",
+          "And somehow, even with all these time savers, you're still moving data around by yourself at 10 p.m."
+        ],
+        "transcript_content_summary": "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you. That would be a good reason to show them like sparking up or catching fire when they failed.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-25T07:36:55.663191-07:00",
+        "transcript_takeaways": [
+          "**4 Key Takeaways for David Bunn**"
+        ],
+        "transcript_summary": "**4 Key Takeaways for David Bunn**"
+      },
+      "All-In": {
+        "id": "68a59cd1802024c9",
+        "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+        "short_name": "All-In",
+        "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
+        "image": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg",
+        "accent": "#6d5dfc",
+        "emoji": "\u265f\ufe0f",
+        "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+        "url": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300",
+        "guid": "64b534f7-b272-4bb8-9238-96055f4fa858",
+        "published_at": "2026-08-24T23:19:00+00:00",
+        "published_date": "2026-08-24",
+        "published_month": "2026-08",
+        "duration": "55:59",
+        "summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+        "content_summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?",
+        "content_takeaways": [
+          "The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?"
+        ],
+        "show_notes": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"climate emergency\" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated? (22:24) Big bold bets: Genesis Mission, quantum by 2028, fusion by 2035, boots on the moon in '28 (34:04) The great race with China: $33B to $670B, and 7 out of 10 STEM PhDs aren't American (44:09) Fauci did more damage to science than anyone in modern history, and NIH's median researcher is 71 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+        "tags": [
+          "Career",
+          "AI",
+          "Markets",
+          "Politics",
+          "Startups",
+          "Business",
+          "Tech"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure.",
+          "Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+          "So then there's arguably a question like is it worth the economic cost, particularly because it mostly impacts the poorer communities than the wealthy communities can afford alternatives but poorer communities that lose access to certain sources of energy.",
+          "And typically that's low risk because if something is likely to happen, the review board would say, okay great we're giving that grant because we feel confident that money is well spent."
+        ],
+        "transcript_content_summary": "And you want to have nine out of 10 failures because that means you're taking a lot of a risk that's really how you push the envelope and discover new things and make breakthroughs is you got to take risk which means failure. Can you just frame up the administration's view on how settled is anthropogenic climate change, meaning the climate is changing because of human action and releasing carbon into the atmosphere?",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-25T07:39:41.878527-07:00",
+        "transcript_takeaways": [
+          "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it.",
+          "**Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI.",
+          "**Extreme-scenario models can drive policy for years \u2014 then get pulled.** The RCP 8.5 climate scenario (the most extreme warming projection) was just removed by its own authors as unsupportable, but it already shaped a decade of funding, regulation, and media coverage. Finance/ops takeaway: audit your own models and clients' forecasts for tail-risk assumptions that drive decisions but aren't grounded. Stress testing is useful; living in the worst case isn't.",
+          "**Unilateral action on global problems rarely moves the needle.** The China vs. US carbon framing: the US going backward economically doesn't fix a problem China dominates (~50% of global output). Operator lesson \u2014 for David's consulting: don't sell expensive solutions that don't solve the actual problem scale. Technology breakthroughs (fusion, solar, battery) beat regulation every time. Frame your AI pitches as leverage multipliers, not compliance costs."
+        ],
+        "transcript_summary": "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it. **Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI."
+      },
       "Modern Wisdom": {
         "id": "03f25bc4b2ab4883",
         "podcast": "Modern Wisdom",
@@ -29879,9 +30081,9 @@
         "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
         "accent": "#dc2626",
         "emoji": "\ud83c\udf99\ufe0f",
-        "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+        "title": "The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!",
         "url": "",
-        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj",
         "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
         "published_at": "2026-08-24T05:00:00+00:00",
         "published_date": "2026-08-23",
@@ -29906,126 +30108,7 @@
           "Relationships"
         ],
         "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-          "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-          "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-          "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-        ],
-        "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-        "transcript_takeaways": [
-          "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-          "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-        ],
-        "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
-      },
-      "Grade Cricketer": {
-        "id": "70fafc54413026f0",
-        "podcast": "The Grade Cricketer",
-        "short_name": "Grade Cricketer",
-        "podcast_image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-        "image": "https://www.omnycontent.com/d/playlist/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/ebea9171-5a2f-4a13-96e0-b081006fa5e8/image.jpg?t=1780359434&size=Large",
-        "accent": "#16a34a",
-        "emoji": "\ud83c\udfcf",
-        "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
-        "url": "https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test",
-        "audio_url": "https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8",
-        "guid": "08596b07-fc9c-4ce3-ad63-b4af0088b1c6",
-        "published_at": "2026-08-23T08:23:27+00:00",
-        "published_date": "2026-08-23",
-        "published_month": "2026-08",
-        "duration": "2255",
-        "summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
-        "content_summary": "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?",
-        "content_takeaways": [
-          "\ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 It\u2019s risk- free with Nord\u2019s 30-day money back guarantee!",
-          "Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl.",
-          "Bowling averages in Australia are low and so are the batting averages, so what's going on?",
-          "A big day for Slug and not for particularly good reasons."
-        ],
-        "show_notes": "Australia lost to this team. Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on? \ud83c\udf0e Get our Exclusive NordVPN deal here \u21a3 https://nordvpn.com/tgc It\u2019s risk- free with Nord\u2019s 30-day money back guarantee! SUBSCRIBE TO OUR TGC CLIPS YOUTUBE CHANNEL HERE Sign up to TGCRaw and get access to the entire 300+ episode back catalogue of AskTGC Fridays via Patreon or Apple Podcasts EXTRA HOUR of AskTGC EVERY WEEK: https://patreon.com/gradecricketer See omnystudio.com/listener for privacy information.",
-        "tags": [
-          "Cricket",
-          "Australia",
-          "South Africa",
-          "Sport",
-          "Culture"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question.",
-          "Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
-          "That may well be because Tom Morris is at the cricket providing 40 updates during the coverage.",
-          "But from their perspective, they're rolling through teams because of their undeniable brilliance and not because they're getting enormous assistance from these decks that they're clearly choosing to play on."
-        ],
-        "transcript_content_summary": "Uh, do you think you're going to be batting through said yeah for sure, but I couldn't, I wasn't sure if you meant that because I think that's how he answers every question. Um, however, commentators routinely assess Australia's not by winning games, but by how they went relative to them on different decks and against that backdrop, where pass.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-23T07:33:10.100968-07:00",
-        "transcript_takeaways": [
-          "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work.",
-          "**The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives rewrite the scoreboard."
-        ],
-        "transcript_summary": "**The \"wrong win\" trap.** Australia won by an innings, but the hosts call it \"the wrong kind of win\" \u2014 it presents more questions than answers. They papered over structural batting problems with a lopsided deck. Business parallel: closing a deal or shipping a feature that glosses over real system rot is worse than a loss you actually learn from. Don't let a good outcome on a friendly surface fool you into skipping the hard work. **The KPI paradox.** Australia's stated KPI is \"score more runs and win\" \u2014 and they do it well. Yet critics judge them against a different standard: how they'd go on different decks, against past greats, by batting average in isolation. Reminds me of consulting engagements where the client says one metric matters, then moves the goalposts to something else when the result lands. Define your success criteria up front, defend them, and don't let external narratives"
-      },
-      "TWIST": {
-        "id": "fe9d9f2c1c64dc37",
-        "podcast": "This Week in Startups",
-        "short_name": "TWIST",
-        "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
-        "image": "https://static.libsyn.com/p/assets/5/7/f/c/57fc013cacd463efd959afa2a1bf1c87/cd2e5bf3-107a-4a8a-90a6-804d34e6f74c.png",
-        "accent": "#0ea5e9",
-        "emoji": "\u26a1",
-        "title": "Open source is going to win it all: Harvey proves it | E2328",
-        "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/open-source-is-going-to-win-it-all-harvey-proves-it-e2328",
-        "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_EP_2328.mp3?dest-id=5500155",
-        "guid": "e077c1c7-908b-464c-90cf-f3981dd266a6",
-        "published_at": "2026-08-21T21:20:00+00:00",
-        "published_date": "2026-08-21",
-        "published_month": "2026-08",
-        "duration": "01:09:14",
-        "summary": "Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it). This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base. Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs.",
-        "content_summary": "Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it). This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base. Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs.",
-        "content_takeaways": [
-          "Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs.",
-          "PLUS we're checking out the FREE AI dictation app Willow with co-founder Allan Guo, and finding out how he plans to compete with giants like Wispr Flow and Apple.",
-          "This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base.",
-          "Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it)."
-        ],
-        "show_notes": "This Week In Startups is made possible by: Superhuman https://Superhuman.com Sentry https://sentry.io/twist Lightfield https://lightfield.app Today's show: Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it). Open source will win the AI race. This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base. Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs. PLUS we're checking out the FREE AI dictation app Willow with co-founder Allan Guo, and finding out how he plans to compete with giants like Wispr Flow and Apple. AND we've got the Stanford student who built an automated golf cart and gave luminaries like Jensen Huang and Sam Altman rides around campus. Guests Allan Guo on X: https://x.com/_allanguo Willow: https://willowvoice.com/ Ethan Goodhart: https://x.com/EthanGoodhart Sign up for the Wind TestFlight: https://testflight.apple.com/join/zZqmhhwf Relevant Links CNBC: OpenAI \"will be a public company in 2027\": https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html OpenAI Zero Data Retention Pledge: https://openai.com/index/our-commitment-to-zero-data-retention TWIST (June 2026): Jason comments on OpenAI and training data: https://youtu.be/o3eow1nTrcI?si=orungk7OmplOuyio&t=742 All In podcast (Feb 2023): Jason comments on open source vs. frontier models: https://youtu.be/PVgBWV2bvLs?si=j6y7sHS0wx9q09oa&t=5173 Harvey: https://www.harvey.ai/ Harvey Tenet Research Preview: https://www.harvey.ai/blog/post-training-update-harvey-tenet Fireworks AI: https://fireworks.ai/ Wispr Flow: https://wisprflow.ai/ Pipedrive: https://www.pipedrive.com/ Nvidia Jetson Thor: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/ OpenAI shares Wind golf cart clip: https://www.tiktok.com/@openai/video/7645336713472134431 Starlink Mini: https://starlink.com/mini-product-us?srsltid=AfmBOorzM7arxhdzYAdDpH6RGD4LLg9WV_BFnEoLuYieuHuGSCjQTE1Y Toro mowers: https://www.toro.com/ 404 Media: https://www.404media.co/ Punchbowl News: https://punchbowl.news/ Semafor: https://www.semafor.com/ Skift: https://skift.com/ Newcomer: https://www.newcomer.co/ Deirdre Bosa on YouTube: https://www.youtube.com/@deebosa Electrek: Genesis GV90 review: https://electrek.co/2026/08/20/genesis-gv90-luxury-coach-doors-images/ Toyota Alphard gallery: https://global.toyota/en/mobility/toyota-brand/gallery/alphard.html The Clash \"London Calling\" video: https://www.youtube.com/watch?v=EfK-WX2pa8c Timestamps: 0:00 What is Jason's Grok Bot up to? 5:17 Systems over goals 9:43 Superhuman - Superhuman Go is an AI chat that's always there when you need it, already aware of what you're doing, and doesn't ask you to start from zero. Sign up to get the best in AI at https://Superhuman.com 13:08 OpenAI will go public soon 14:19 Top line ARR matters way less than churn 20:43 Sentry - Your team should be focused on shipping features \u2014 not chasing down bugs. New users can get $240 in free credits when they go to https://sentry.io/twist and use the code TWIST 29:55 Lightfield - Name one person who's ever enjoyed updating a CRM. Exactly. Lightfield's AI agent does it for you \u2014 it even prospects and books your meetings. Used by thousands of startups. Free at https://lightfield.app 30:52 Harvey launches Tenet 34:32 \"Open source is going to win it all\" 35:58 Allan Guo of Willow joins 39:18 Managing a single source of truth across a team 47:00 Lon and Jason love the Toyota Alphard 51:00 Stanford student and AV expert Ethan Goodhart joins 1:00:09 How Ethan got Jensen Huang to go for a ride 1:00:37 Punk Rock 101 1:06:24 Phoebe Gates' secret Harvard class Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Lon: X: https://x.com/lons Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Check out all our partner offers: https://partners.launch.co/ Great TWIST interviews: Will Guidara, Eoghan McCabe , Steve Huffman , Brian Chesky , Bob Moesta, Aaron Levie , Sophia Amoruso , Reid Hoffman , Frank Slootman , Billy McFarland Check out Jason's suite of newsletters: https://substack.com/@calacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
-        "tags": [
-          "AI",
-          "Startups",
-          "Career",
-          "Content",
-          "Sport",
-          "Venture",
-          "Tech"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "Instead of giving the money to the network TV shows, the concept was, well, why don't we just give the money to the customers in the form of a discount, have them become addicted to this.",
-          "Find product market fit and generally grow hiring sales, paid marketing, fundraising content marketing, all that good stuff.",
-          "I think because they know they have to face the music and explain profitability, they'll have a reasonable story.",
-          "It's especially hard to gather the insights you need when your logs, errors and performance data all live in different tools."
-        ],
-        "transcript_content_summary": "Instead of giving the money to the network TV shows, the concept was, well, why don't we just give the money to the customers in the form of a discount, have them become addicted to this. Find product market fit and generally grow hiring sales, paid marketing, fundraising content marketing, all that good stuff.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-22T07:38:50.352560-07:00",
-        "transcript_takeaways": [
-          "But then it's fine to give your your bot that whatever one you're using your agent, but you want to build a system that doesn't break and doesn't require a human.",
-          "Harvey now is like, not only do we not trust Open AI with this, we need to have our own model.",
-          "Find product market fit and generally grow hiring sales, paid marketing, fundraising content marketing, all that good stuff.",
-          "Instead of giving the money to the network TV shows, the concept was, well, why don't we just give the money to the customers in the form of a discount, have them become addicted to this."
-        ],
-        "transcript_summary": "But then it's fine to give your your bot that whatever one you're using your agent, but you want to build a system that doesn't break and doesn't require a human. Harvey now is like, not only do we not trust Open AI with this, we need to have our own model. Find product market fit and generally grow hiring sales, paid marketing, fundraising content marketing, all that good stuff."
+        "transcript_status": "not_ingested"
       },
       "Startup Ideas": {
         "id": "13252211a3eacea4",
@@ -30063,56 +30146,6 @@
         ],
         "source": "favorite_feed",
         "transcript_status": "not_ingested"
-      },
-      "All-In": {
-        "id": "67b207c4787de8c8",
-        "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
-        "short_name": "All-In",
-        "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
-        "image": "https://static.libsyn.com/p/assets/f/9/8/7/f9872058ce451cf0d959afa2a1bf1c87/signal-2026-08-21-10-19-27-715.png",
-        "accent": "#6d5dfc",
-        "emoji": "\u265f\ufe0f",
-        "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
-        "url": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
-        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
-        "guid": "688c4809-9cf4-4d77-b5d7-482ee43e7ccc",
-        "published_at": "2026-08-21T14:14:00+00:00",
-        "published_date": "2026-08-21",
-        "published_month": "2026-08",
-        "duration": "01:30:53",
-        "summary": "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?",
-        "content_summary": "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?",
-        "content_takeaways": [
-          "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs.",
-          "MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?"
-        ],
-        "show_notes": "(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement (56:33) a16z under DOJ investigation over \"interlocking directorates\" (1:01:15) Midterms: broken polls, the socialism surge, and CATO's DSA price tag Come hang with the Besties at the All-In Summit | September 13-15: \u2060 http://theallinsummit.com \u2060 \u2060 #AllInSummit \u2060 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpodIntro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburgIntro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-        "tags": [
-          "AI",
-          "Career",
-          "Markets",
-          "Politics",
-          "Startups",
-          "Business",
-          "Tech"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "So even as you grow, you're actually making your problem worse in the sense that you need more and more capacity to sustain that growth, that you can't fund because all the negativity has turned people against you.",
-          "We got a huge, huge docket with me again, the core for Chumaf freeberg, sex and your boy, Jake, health, topic one, topic one.",
-          "Do you expect us to have amnesia about the fact that just about a year and a half ago, you said very specifically that within one to five years, 50% of entry level knowledge workers would lose their jobs.",
-          "And again, my point here is that this is not just so I'm just riffing on a podcast about the alignment risk of AI."
-        ],
-        "transcript_content_summary": "So even as you grow, you're actually making your problem worse in the sense that you need more and more capacity to sustain that growth, that you can't fund because all the negativity has turned people against you. We got a huge, huge docket with me again, the core for Chumaf freeberg, sex and your boy, Jake, health, topic one, topic one.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-21T07:33:26.254002-07:00",
-        "transcript_takeaways": [
-          "~Self-regulation is the only viable middle path, and the model matters: The MPAA-style model (industry sets standards proactively to block heavy-handed government intervention) is presented as the pragmatic alternative to a FINRA-style government SRO. For consulting, this is the regulatory framework conversation to be ready for \u2014 clients will need guidance on which self-regulatory structure works for their use case and how to position within it.*",
-          "~The compute bottlenecks are structural, not temporary: Rising risk-free rates + state-level pushback + frontier labs needing ever more capacity creates a self-reinforcing squeeze. Balance sheets matter \u2014 the hosts point out that newer, unprofitable model companies are the most exposed. For an operator/finance perspective, this is the kind of capital stack analysis (who can fund compute, who can't) that is directly applicable to due diligence work for AI investments or partnerships.*"
-        ],
-        "transcript_summary": "~Self-regulation is the only viable middle path, and the model matters: The MPAA-style model (industry sets standards proactively to block heavy-handed government intervention) is presented as the pragmatic alternative to a FINRA-style government SRO. For consulting, this is the regulatory framework conversation to be ready for \u2014 clients will need guidance on which self-regulatory structure works for their use case and how to position within it.* ~The compute bottlenecks are structural, not temporary: Rising risk-free rates + state-level pushback + frontier labs needing ever more capacity creates a self-reinforcing squeeze. Balance sheets matter \u2014 the hosts point out that newer, unprofitable model companies are the most exposed. For an operator/finance perspective, this is the kind of capital stack analysis (who can fund compute, who can't) that is directly applicable to due diligence wo"
       },
       "The Game": {
         "id": "29c29fe15555eb0a",
@@ -30224,28 +30257,28 @@
     },
     "transcript_runs": [
       {
-        "podcast": "Modern Wisdom",
-        "title": "\u201cAge Reversal Is Coming.\u201d Inside The First Human Trials - Dr David Sinclair - #1141",
-        "status": "available",
-        "chars": 24430,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "DOAC",
-        "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
-        "status": "available",
-        "chars": 24977,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
         "podcast": "Grade Cricketer",
-        "title": "Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test",
+        "title": "Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell",
         "status": "available",
-        "chars": 25429,
+        "chars": 24497,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "TWIST",
+        "title": "China wants you to cheer for the robots taking your job | E2329",
+        "status": "available",
+        "chars": 23280,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "All-In",
+        "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
+        "status": "available",
+        "chars": 26390,
         "llm_takeaways": true,
         "source": "faster_whisper",
         "youtube_url": null
