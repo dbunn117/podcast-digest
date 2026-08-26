@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:40:28.084908-07:00",
+  "generated_at": "2026-08-26T07:37:15.706455-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -171,6 +171,111 @@
   ],
   "episodes": [
     {
+      "id": "a17ba42bb2951e12",
+      "podcast": "This Week in Startups",
+      "short_name": "TWIST",
+      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "accent": "#0ea5e9",
+      "emoji": "\u26a1",
+      "title": "You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics",
+      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/you-cant-fire-a-vc-from-your-board-heres-why-wilson-sonsini-startup-legal-basics",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_1.mp4?dest-id=5500155",
+      "guid": "1b667ae4-1e73-413e-978d-45c137daf704",
+      "published_at": "2026-08-25T22:51:00+00:00",
+      "published_date": "2026-08-25",
+      "published_month": "2026-08",
+      "duration": "24:50",
+      "summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+      "content_summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+      "content_takeaways": [
+        "And the reason why may surprise a lot of founders.",
+        "On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer."
+      ],
+      "show_notes": "Today's show: Can a founder actually fire a board member? Short answer: almost never. And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer. Check out an episode that might just save your cab table someday. PLUS they walk through the full lifecycle of your startup's board, exploring what it actually controls, when founders should start adding their own board members, the ownership threshold that means investors will start asking for seats, and how boards evolve from seed rounds to Series B> Timestamps: 0:06 Welcome back to Legal Basics 1:47 When should a seed stage founder add their first board member? 7:47 From founder-controlled to \"balanced\" 10:31 Private vs. public company board pay 12:18 Do board members get expenses covered? 14:34 Why observers need a confidentiality provision 15:36 The \"sign in the next 24 hours\" pressure tactic 17:46 How to remove a director 24:01 When to use \"Pled\" vs. \"Pleaded\" Check out all of the Startup Basics episodes here: https://thisweekinstartups.com/basics Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Becki: LinkedIn: https://www.linkedin.com/in/rebecca-degraw-639bbb62/ Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
+      "tags": [
+        "Startups",
+        "Career",
+        "Content",
+        "Venture",
+        "AI",
+        "Tech",
+        "Saas"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a.",
+        "And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+        "There's tons of blocking and tackling in finance in AI in customer acquisition and sales and most of all legal.",
+        "Should I know like what the right thing is or is it up to me and how I feel however you feel it's perfectly fine."
+      ],
+      "transcript_content_summary": "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a. And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-26T07:34:07.872991-07:00",
+      "transcript_takeaways": [
+        "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises.",
+        "**Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later.",
+        "**When to formalise a board (practical rule of thumb).** Jason's heuristic: total raised >$2-3M OR revenue >$2-3M \u2192 time for at least one independent board member + formal meetings. Below that, written consents suffice. **Action:** Keep this as a client-advice anchor when doing AI/automation engagements for early-stage finance clients \u2014 boards are a recurring operational cost and governance decision point they'll face."
+      ],
+      "transcript_summary": "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises. **Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later."
+    },
+    {
+      "id": "266b6931496f1cab",
+      "podcast": "The Startup Ideas Podcast",
+      "short_name": "Startup Ideas",
+      "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "accent": "#f97316",
+      "emoji": "\ud83d\ude80",
+      "title": "Screensharing top takes in AI/startups",
+      "url": "",
+      "audio_url": "https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3",
+      "guid": "flightcast:01M0WZHRJ1K1AC62SRFDDHWM40",
+      "published_at": "2026-08-25T18:30:00+00:00",
+      "published_date": "2026-08-25",
+      "published_month": "2026-08",
+      "duration": "2477",
+      "summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+      "content_summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+      "content_takeaways": [
+        "This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders.",
+        "Let the team explore AI tools freely, then ask one department, such as admin, to lead.",
+        "We turn 'what if' into reality with AI, apps, and next-gen products The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: FIND ME ON SOCIAL X/Twitter: Instagram: LinkedIn: FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: X/Twitter: LinkedIn",
+        "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat."
+      ],
+      "show_notes": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take. Timestamps 00:00 \u2013 Intro 00:59 \u2013 Where an AI-Native Company Starts 04:48 \u2013 The $1M-a-Month Baby Food App 10:31 \u2013 An App Store for iMessage Agents 16:32 \u2013 Customer Support Is Eating Engineering 23:38 \u2013 RIP to the 2-Pizza Team 26:36 \u2013 Paul Graham on Reading as an Advantage 33:31 \u2013 The Worst Moves for 2026 37:01 \u2013 From Designer to Salesperson Key Points Make the company legible first: keep meeting notes and SOPs in files that an LLM can read. Let the team explore AI tools freely, then ask one department, such as admin, to lead. A million-dollar-a-month app leaves room for niche copies that earn 10K to 30K a month. Build loops that turn daily support transcripts into prototypes and measurable goals. Human support works as a marketing advantage, and premium buyers pay for it. Sales stays part of the owner's job, so learn the frameworks and start cold calling. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: https://www.unscheduledceo.com/ X/Twitter: https://twitter.com/Jicecream LinkedIn: https://www.linkedin.com/in/jonathan-courtney-4510644b/",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Content",
+        "Business Ideas",
+        "Saas"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses.",
+        "A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+        "Just make sure that it's being read and then you start thinking about that step one and then step two is going roll by roll and then basically saying okay this person what are the jobs to be done for that person?",
+        "So if it's a social media marketer they need to do research around what content they should be creating."
+      ],
+      "transcript_content_summary": "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses. A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-26T07:36:36.480245-07:00",
+      "transcript_takeaways": [
+        "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable.",
+        "**Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows.",
+        "**Niche info-products with high trust can price premium \u2014 $1M/month exists.** Solid Starts (baby food guide) proves parents pay heavily for authoritative, trusted health info. Niche down to $10-30k/month as a viable entry point. David should consider productizing his own knowledge: a CPA-firm AI readiness playbook, or an audit sprint with clear pricing. Pricing power comes from perceived risk of being wrong, not from feature count.",
+        "**Verticalized AI agents (not general chatbots) for specific workflows are the model to watch.** The iMessage agent directory shows agents that do a few things well vs. broad assistants. Maps directly to David's productized consulting: build/deploy specific agents for single workflows (client intake, document triage, deal review) rather than selling \"AI transformation.\" One good workflow agent beats a generic chatbot every time."
+      ],
+      "transcript_summary": "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable. **Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows."
+    },
+    {
       "id": "0438c176e39cd8d6",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -333,7 +438,7 @@
       "image": "https://megaphone.imgix.net/podcasts/c2d68c48-2c72-11f1-b575-fb76c3785658/image/2d8e56edb0445d3dd9fc612f46a6551e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "\u201cAge Reversal Is Coming.\u201d Inside The First Human Trials - Dr David Sinclair - #1141",
+      "title": "\u201cAge Reversal Is Coming.\u201d Everything You Need To Know - Dr David Sinclair - #1141",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3",
       "guid": "c2d68c48-2c72-11f1-b575-fb76c3785658",
@@ -519,7 +624,7 @@
       "image": "https://megaphone.imgix.net/podcasts/a746ded8-2c72-11f1-b12e-83da568e796a/image/b53196ccbc34a4bebbc484b407dfd934.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Ex-Gang Member: What Makes A Violent Man Change? - Johnny Chang - #1140",
+      "title": "Why Violence Is Safer Than Vulnerability - Johnny Chang - #1140",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8576589876.mp3",
       "guid": "a746ded8-2c72-11f1-b12e-83da568e796a",
@@ -28985,6 +29090,111 @@
   ],
   "recent": [
     {
+      "id": "a17ba42bb2951e12",
+      "podcast": "This Week in Startups",
+      "short_name": "TWIST",
+      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+      "accent": "#0ea5e9",
+      "emoji": "\u26a1",
+      "title": "You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics",
+      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/you-cant-fire-a-vc-from-your-board-heres-why-wilson-sonsini-startup-legal-basics",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_1.mp4?dest-id=5500155",
+      "guid": "1b667ae4-1e73-413e-978d-45c137daf704",
+      "published_at": "2026-08-25T22:51:00+00:00",
+      "published_date": "2026-08-25",
+      "published_month": "2026-08",
+      "duration": "24:50",
+      "summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+      "content_summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+      "content_takeaways": [
+        "And the reason why may surprise a lot of founders.",
+        "On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer."
+      ],
+      "show_notes": "Today's show: Can a founder actually fire a board member? Short answer: almost never. And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer. Check out an episode that might just save your cab table someday. PLUS they walk through the full lifecycle of your startup's board, exploring what it actually controls, when founders should start adding their own board members, the ownership threshold that means investors will start asking for seats, and how boards evolve from seed rounds to Series B> Timestamps: 0:06 Welcome back to Legal Basics 1:47 When should a seed stage founder add their first board member? 7:47 From founder-controlled to \"balanced\" 10:31 Private vs. public company board pay 12:18 Do board members get expenses covered? 14:34 Why observers need a confidentiality provision 15:36 The \"sign in the next 24 hours\" pressure tactic 17:46 How to remove a director 24:01 When to use \"Pled\" vs. \"Pleaded\" Check out all of the Startup Basics episodes here: https://thisweekinstartups.com/basics Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Becki: LinkedIn: https://www.linkedin.com/in/rebecca-degraw-639bbb62/ Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
+      "tags": [
+        "Startups",
+        "Career",
+        "Content",
+        "Venture",
+        "AI",
+        "Tech",
+        "Saas"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a.",
+        "And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+        "There's tons of blocking and tackling in finance in AI in customer acquisition and sales and most of all legal.",
+        "Should I know like what the right thing is or is it up to me and how I feel however you feel it's perfectly fine."
+      ],
+      "transcript_content_summary": "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a. And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-26T07:34:07.872991-07:00",
+      "transcript_takeaways": [
+        "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises.",
+        "**Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later.",
+        "**When to formalise a board (practical rule of thumb).** Jason's heuristic: total raised >$2-3M OR revenue >$2-3M \u2192 time for at least one independent board member + formal meetings. Below that, written consents suffice. **Action:** Keep this as a client-advice anchor when doing AI/automation engagements for early-stage finance clients \u2014 boards are a recurring operational cost and governance decision point they'll face."
+      ],
+      "transcript_summary": "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises. **Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later."
+    },
+    {
+      "id": "266b6931496f1cab",
+      "podcast": "The Startup Ideas Podcast",
+      "short_name": "Startup Ideas",
+      "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+      "accent": "#f97316",
+      "emoji": "\ud83d\ude80",
+      "title": "Screensharing top takes in AI/startups",
+      "url": "",
+      "audio_url": "https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3",
+      "guid": "flightcast:01M0WZHRJ1K1AC62SRFDDHWM40",
+      "published_at": "2026-08-25T18:30:00+00:00",
+      "published_date": "2026-08-25",
+      "published_month": "2026-08",
+      "duration": "2477",
+      "summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+      "content_summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+      "content_takeaways": [
+        "This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders.",
+        "Let the team explore AI tools freely, then ask one department, such as admin, to lead.",
+        "We turn 'what if' into reality with AI, apps, and next-gen products The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: FIND ME ON SOCIAL X/Twitter: Instagram: LinkedIn: FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: X/Twitter: LinkedIn",
+        "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat."
+      ],
+      "show_notes": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take. Timestamps 00:00 \u2013 Intro 00:59 \u2013 Where an AI-Native Company Starts 04:48 \u2013 The $1M-a-Month Baby Food App 10:31 \u2013 An App Store for iMessage Agents 16:32 \u2013 Customer Support Is Eating Engineering 23:38 \u2013 RIP to the 2-Pizza Team 26:36 \u2013 Paul Graham on Reading as an Advantage 33:31 \u2013 The Worst Moves for 2026 37:01 \u2013 From Designer to Salesperson Key Points Make the company legible first: keep meeting notes and SOPs in files that an LLM can read. Let the team explore AI tools freely, then ask one department, such as admin, to lead. A million-dollar-a-month app leaves room for niche copies that earn 10K to 30K a month. Build loops that turn daily support transcripts into prototypes and measurable goals. Human support works as a marketing advantage, and premium buyers pay for it. Sales stays part of the owner's job, so learn the frameworks and start cold calling. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: https://www.unscheduledceo.com/ X/Twitter: https://twitter.com/Jicecream LinkedIn: https://www.linkedin.com/in/jonathan-courtney-4510644b/",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Content",
+        "Business Ideas",
+        "Saas"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses.",
+        "A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+        "Just make sure that it's being read and then you start thinking about that step one and then step two is going roll by roll and then basically saying okay this person what are the jobs to be done for that person?",
+        "So if it's a social media marketer they need to do research around what content they should be creating."
+      ],
+      "transcript_content_summary": "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses. A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-26T07:36:36.480245-07:00",
+      "transcript_takeaways": [
+        "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable.",
+        "**Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows.",
+        "**Niche info-products with high trust can price premium \u2014 $1M/month exists.** Solid Starts (baby food guide) proves parents pay heavily for authoritative, trusted health info. Niche down to $10-30k/month as a viable entry point. David should consider productizing his own knowledge: a CPA-firm AI readiness playbook, or an audit sprint with clear pricing. Pricing power comes from perceived risk of being wrong, not from feature count.",
+        "**Verticalized AI agents (not general chatbots) for specific workflows are the model to watch.** The iMessage agent directory shows agents that do a few things well vs. broad assistants. Maps directly to David's productized consulting: build/deploy specific agents for single workflows (client intake, document triage, deal review) rather than selling \"AI transformation.\" One good workflow agent beats a generic chatbot every time."
+      ],
+      "transcript_summary": "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable. **Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows."
+    },
+    {
       "id": "0438c176e39cd8d6",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -29147,7 +29357,7 @@
       "image": "https://megaphone.imgix.net/podcasts/c2d68c48-2c72-11f1-b575-fb76c3785658/image/2d8e56edb0445d3dd9fc612f46a6551e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "\u201cAge Reversal Is Coming.\u201d Inside The First Human Trials - Dr David Sinclair - #1141",
+      "title": "\u201cAge Reversal Is Coming.\u201d Everything You Need To Know - Dr David Sinclair - #1141",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3",
       "guid": "c2d68c48-2c72-11f1-b575-fb76c3785658",
@@ -29333,7 +29543,7 @@
       "image": "https://megaphone.imgix.net/podcasts/a746ded8-2c72-11f1-b12e-83da568e796a/image/b53196ccbc34a4bebbc484b407dfd934.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "accent": "#a855f7",
       "emoji": "\ud83e\udde0",
-      "title": "Ex-Gang Member: What Makes A Violent Man Change? - Johnny Chang - #1140",
+      "title": "Why Violence Is Safer Than Vulnerability - Johnny Chang - #1140",
       "url": "",
       "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8576589876.mp3",
       "guid": "a746ded8-2c72-11f1-b12e-83da568e796a",
@@ -29820,27 +30030,27 @@
     }
   ],
   "stats": {
-    "total_available": 5270,
-    "ytd_count": 773,
-    "recent_count": 17,
+    "total_available": 5271,
+    "ytd_count": 775,
+    "recent_count": 19,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "TWIST": 107,
+      "Startup Ideas": 72,
       "Grade Cricketer": 79,
-      "TWIST": 106,
       "All-In": 78,
       "Modern Wisdom": 101,
       "DOAC": 101,
-      "Startup Ideas": 71,
       "The Game": 75,
       "Prof G Markets": 162
     },
     "by_tag": {
-      "Business": 605,
-      "AI": 477,
-      "Content": 439,
-      "Career": 415,
-      "Startups": 356,
+      "Business": 606,
+      "AI": 479,
+      "Content": 441,
+      "Career": 417,
+      "Startups": 358,
       "Finance": 287,
       "Markets": 240,
       "Health": 231,
@@ -29851,7 +30061,7 @@
       "Strategy": 127,
       "Cricket": 104,
       "Sport": 94,
-      "Venture": 85,
+      "Venture": 86,
       "Parenting": 80,
       "Australia": 79
     },
@@ -29863,9 +30073,114 @@
       "2026-05": 87,
       "2026-06": 100,
       "2026-07": 97,
-      "2026-08": 72
+      "2026-08": 74
     },
     "latest_by_podcast": {
+      "TWIST": {
+        "id": "a17ba42bb2951e12",
+        "podcast": "This Week in Startups",
+        "short_name": "TWIST",
+        "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+        "image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
+        "accent": "#0ea5e9",
+        "emoji": "\u26a1",
+        "title": "You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics",
+        "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/you-cant-fire-a-vc-from-your-board-heres-why-wilson-sonsini-startup-legal-basics",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_1.mp4?dest-id=5500155",
+        "guid": "1b667ae4-1e73-413e-978d-45c137daf704",
+        "published_at": "2026-08-25T22:51:00+00:00",
+        "published_date": "2026-08-25",
+        "published_month": "2026-08",
+        "duration": "24:50",
+        "summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+        "content_summary": "Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.",
+        "content_takeaways": [
+          "And the reason why may surprise a lot of founders.",
+          "On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer."
+        ],
+        "show_notes": "Today's show: Can a founder actually fire a board member? Short answer: almost never. And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer. Check out an episode that might just save your cab table someday. PLUS they walk through the full lifecycle of your startup's board, exploring what it actually controls, when founders should start adding their own board members, the ownership threshold that means investors will start asking for seats, and how boards evolve from seed rounds to Series B> Timestamps: 0:06 Welcome back to Legal Basics 1:47 When should a seed stage founder add their first board member? 7:47 From founder-controlled to \"balanced\" 10:31 Private vs. public company board pay 12:18 Do board members get expenses covered? 14:34 Why observers need a confidentiality provision 15:36 The \"sign in the next 24 hours\" pressure tactic 17:46 How to remove a director 24:01 When to use \"Pled\" vs. \"Pleaded\" Check out all of the Startup Basics episodes here: https://thisweekinstartups.com/basics Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Becki: LinkedIn: https://www.linkedin.com/in/rebecca-degraw-639bbb62/ Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
+        "tags": [
+          "Startups",
+          "Career",
+          "Content",
+          "Venture",
+          "AI",
+          "Tech",
+          "Saas"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a.",
+          "And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+          "There's tons of blocking and tackling in finance in AI in customer acquisition and sales and most of all legal.",
+          "Should I know like what the right thing is or is it up to me and how I feel however you feel it's perfectly fine."
+        ],
+        "transcript_content_summary": "So I'm in my seed stage the boards me and my co founder my attorney shows up okay now I'm at my series a my series a investor joins the board two founders one series a. And she knows hotel and she certainly knows marketing and everybody approves the founder selected the end the investors approve the independence on the board what do you give an independent board director.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-26T07:34:07.872991-07:00",
+        "transcript_takeaways": [
+          "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises.",
+          "**Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later.",
+          "**When to formalise a board (practical rule of thumb).** Jason's heuristic: total raised >$2-3M OR revenue >$2-3M \u2192 time for at least one independent board member + formal meetings. Below that, written consents suffice. **Action:** Keep this as a client-advice anchor when doing AI/automation engagements for early-stage finance clients \u2014 boards are a recurring operational cost and governance decision point they'll face."
+        ],
+        "transcript_summary": "**Board seat threshold matters.** Investors typically demand a board seat only at a priced preferred-stock round (not SAFEs), once they hold 10-20% of the cap table. Below that, board seats are unusual and worth pushing back on. **Action:** If advising or co-investing, formalize the cap-table trigger in term sheets \u2014 avoids surprises. **Board observers are lighter but still influence.** Observers get materials, attend meetings, can speak \u2014 but have zero voting power and zero fiduciary duty. Founders often grant observer rights casually. **Action:** If representing a portfolio company or client in a fundraise, insist on a written observer letter (not just verbal) so the scope is explicit and can't expand later."
+      },
+      "Startup Ideas": {
+        "id": "266b6931496f1cab",
+        "podcast": "The Startup Ideas Podcast",
+        "short_name": "Startup Ideas",
+        "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+        "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
+        "accent": "#f97316",
+        "emoji": "\ud83d\ude80",
+        "title": "Screensharing top takes in AI/startups",
+        "url": "",
+        "audio_url": "https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3",
+        "guid": "flightcast:01M0WZHRJ1K1AC62SRFDDHWM40",
+        "published_at": "2026-08-25T18:30:00+00:00",
+        "published_date": "2026-08-25",
+        "published_month": "2026-08",
+        "duration": "2477",
+        "summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+        "content_summary": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.",
+        "content_takeaways": [
+          "This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders.",
+          "Let the team explore AI tools freely, then ask one department, such as admin, to lead.",
+          "We turn 'what if' into reality with AI, apps, and next-gen products The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: FIND ME ON SOCIAL X/Twitter: Instagram: LinkedIn: FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: X/Twitter: LinkedIn",
+          "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat."
+        ],
+        "show_notes": "On this week\u2019s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take. Timestamps 00:00 \u2013 Intro 00:59 \u2013 Where an AI-Native Company Starts 04:48 \u2013 The $1M-a-Month Baby Food App 10:31 \u2013 An App Store for iMessage Agents 16:32 \u2013 Customer Support Is Eating Engineering 23:38 \u2013 RIP to the 2-Pizza Team 26:36 \u2013 Paul Graham on Reading as an Advantage 33:31 \u2013 The Worst Moves for 2026 37:01 \u2013 From Designer to Salesperson Key Points Make the company legible first: keep meeting notes and SOPs in files that an LLM can read. Let the team explore AI tools freely, then ask one department, such as admin, to lead. A million-dollar-a-month app leaves room for niche copies that earn 10K to 30K a month. Build loops that turn daily support transcripts into prototypes and measurable goals. Human support works as a marketing advantage, and premium buyers pay for it. Sales stays part of the owner's job, so learn the frameworks and start cold calling. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND JONATHAN ON SOCIAL Unscheduled CEO Podcast: https://www.unscheduledceo.com/ X/Twitter: https://twitter.com/Jicecream LinkedIn: https://www.linkedin.com/in/jonathan-courtney-4510644b/",
+        "tags": [
+          "AI",
+          "Startups",
+          "Business",
+          "Career",
+          "Content",
+          "Business Ideas",
+          "Saas"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses.",
+          "A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+          "Just make sure that it's being read and then you start thinking about that step one and then step two is going roll by roll and then basically saying okay this person what are the jobs to be done for that person?",
+          "So if it's a social media marketer they need to do research around what content they should be creating."
+        ],
+        "transcript_content_summary": "Yesterday I posted what's the one thing you'd ask me and my fellow shrimp millionaire over here if you had me on the phone and we got 139 responses. A cloud code if you're using you know that codecs in the open AI ecosystem the Google ecosystem whatever it is.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-26T07:36:36.480245-07:00",
+        "transcript_takeaways": [
+          "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable.",
+          "**Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows.",
+          "**Niche info-products with high trust can price premium \u2014 $1M/month exists.** Solid Starts (baby food guide) proves parents pay heavily for authoritative, trusted health info. Niche down to $10-30k/month as a viable entry point. David should consider productizing his own knowledge: a CPA-firm AI readiness playbook, or an audit sprint with clear pricing. Pricing power comes from perceived risk of being wrong, not from feature count.",
+          "**Verticalized AI agents (not general chatbots) for specific workflows are the model to watch.** The iMessage agent directory shows agents that do a few things well vs. broad assistants. Maps directly to David's productized consulting: build/deploy specific agents for single workflows (client intake, document triage, deal review) rather than selling \"AI transformation.\" One good workflow agent beats a generic chatbot every time."
+        ],
+        "transcript_summary": "**\"Make the company legible\" first \u2014 then go role-by-role.** The clearest on-ramp to AI-native operations: audit SOPs, meeting notes, and processes so LLMs can actually read them. Then decompose each role into jobs-to-be-done and build AI loops for the automatable pieces. This is a sellable, structured consulting framework \u2014 especially for CPA firms and finance ops where documentation already exists but isn't machine-readable. **Mandate only the boring stuff; let organic adoption do the rest.** One founder gave everyone pro ChatGPT/Claude with no rules, let excitement spread naturally, and only mandated admin/bookkeeping/paperwork automation. That's where the ROI was clearest and resistance lowest. Directly relevant to David's consulting pitch: start with the repetitive paperwork (proposals, tax prep, compliance docs), free up time for revenue work, and the rest follows."
+      },
       "Grade Cricketer": {
         "id": "0438c176e39cd8d6",
         "podcast": "The Grade Cricketer",
@@ -29918,57 +30233,6 @@
           "**Single-cause explanations are preferred, but the expensive answer is almost always multi-factor** \u2014 The episode mocks how you're \"not allowed to explain it systemically\" or use multiple factors. Clients want one reason, one fix, one price. Your consulting value is refusing that framing: do the work to untangle 3-5 interacting causes, show them the cost of the simple story, and charge for the real one."
         ],
         "transcript_summary": "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring. **Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix."
-      },
-      "TWIST": {
-        "id": "bb2b5b1db9243e7f",
-        "podcast": "This Week in Startups",
-        "short_name": "TWIST",
-        "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
-        "image": "https://static.libsyn.com/p/assets/5/4/8/9/5489286e3005c78316c3140a3186d450/01b15116-47b2-4290-98c2-d3f00c068d3f.png",
-        "accent": "#0ea5e9",
-        "emoji": "\u26a1",
-        "title": "China wants you to cheer for the robots taking your job | E2329",
-        "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329",
-        "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155",
-        "guid": "1ebb02fa-70dd-40f8-97d9-aa5966cfd640",
-        "published_at": "2026-08-25T02:12:00+00:00",
-        "published_date": "2026-08-24",
-        "published_month": "2026-08",
-        "duration": "01:20:22",
-        "summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
-        "content_summary": "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
-        "content_takeaways": [
-          "While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.",
-          "A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered.",
-          "Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth.",
-          "Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036."
-        ],
-        "show_notes": "This Week In Startups is made possible by: Odoo https://Odoo.com/twist Quo https://quo.com/TWiST Conservation Fund https://conservationfund.org how old a movie has to be for me to be able to show a part of it on youtube Generally 10 seconds or less of a film clip can fall under fair use for commentary or criticism \u2014 which is how most podcasts and talk shows use clips without issue. But there's no hard legal rule based on age. What actually matters more than age is fair use, which considers: \u2022 Purpose \u2014 commentary, criticism, education = stronger fair use case \u2022 Amount used \u2014 shorter = safer; a 5-10 second clip for reaction/discussion is generally fine \u2022 Effect on market \u2014 your clip shouldn't replace the original In practice for YouTube specifically: \u2022 Most major studios have Content ID systems that will flag clips regardless of movie age \u2014 even 100-year-old films if the rights holder has registered them \u2022 Public domain is the real safe zone \u2014 films from 1927 or earlier are generally in the public domain in the US. Some films from the 1928-1963 range are also public domain if copyright wasn't renewed \u2022 Disney, Warner Bros., Universal etc. actively enforce even very old films For a show like TWiST showing a short reaction clip \u2014 5-10 seconds with clear commentary context is the industry standard and rarely gets actioned. But age alone won't protect you. Today's show: *A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment. Find out what Jason thinks America can do to catch up\u2026 and why he believes there will be 1 billion Optimus robots deployed by the year 2036. PLUS on an all-news TWiST, hot takes on the potential $13B Hugging Face sale (to a mystery buyer), why founders should always \"buy the threat,\" analyzing Sam Altman's \"I'm listening and I hear you\" face, and are kill drones already in operation around the world? We're digging in to how close the real world is to mirroring the \"Terminator\" films. Relevant Links CBS coverage of World Humanoid Robot Games: https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/ Bloomberg coverage of World Humanoid Robot Games: https://www.youtube.com/watch?v=0lsrUAdcPPE X-Humanoid: https://www.x-humanoid.com/ Tesla Optimus on X: https://x.com/Tesla_Optimus Trailer for Spielberg's \"A.I. Artificial Intelligence\": https://www.youtube.com/watch?v=_19pRsZRiz4 Bloomberg: Hugging Face exploring sale: https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says Fortune: Stripe acquires OpenRouter: https://fortune.com/2026/08/16/stripe-7-billion-deal-ai-firm-openrouter-acquisition/ InfoWorld: OpenAI acqui-hires OPenClaw founder: https://www.infoworld.com/article/4132731/openai-hires-openclaw-founder-as-ai-agent-race-intensifies-2.html David Senra podcast w/ Sam Altman: https://www.davidsenra.com/episode/sam-altman Harvey Tenet Research Preview: https://www.harvey.ai/blog/post-training-update-harvey-tenet David Sacks comments on Harvey's Tenet (from X): https://x.com/DavidSacks/status/2090790063047168473 CNBC: Iran linked to UK cyberattack: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html NYT: A drone killed 3 Ukrainians: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html Forbes: Eric Schmidt secretly testing AI drones: https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/ Restream: https://restream.io/ Kimbal Musk's Nova Sky Stories: https://novaskystories.com/ IKEA: Plug-in Solar Panels: https://www.ikea.com/be/en/energy-services/plug-in-solar/ Deadline: \"Mandalorian and Grogu\" box office: https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/ THR: Dave Filoni leading Lucasfilm: https://www.hollywoodreporter.com/movies/movie-news/star-wars-mandalorian-grogu-box-office-franchise-low-1236604973/ Star Wars: Starfighter first look: https://www.starwars.com/news/star-wars-starfighter-ryan-gosling Star Wars Theory: \"Vader\" fan series: https://www.youtube.com/watch?v=Ey68aMOV9gc Timestamps: 0:00 Jason got a fresh Optimus demo 1:35 Robots are breaking human sports records 3:39 America's messaging problem vs. China's elite PR machine 11:07 Odoo - The all-in-one business platform. Your first app is free! Get started today at https://Odoo.com/twist 12:08 Jason got a fresh Optimus demo 19:21 Quo (formerly OpenPhone) - Quo gives you a clean, modern way to handle every customer call, text, and thread all in one place. Try it free and get 20% off your first 6",
-        "tags": [
-          "AI",
-          "Startups",
-          "Business",
-          "Career",
-          "Content",
-          "Sport",
-          "Venture"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you.",
-          "That would be a good reason to show them like sparking up or catching fire when they failed.",
-          "And I will say, I do feel like there's an inherent limit to how interesting robot sports can be because the robots don't have to work at it.",
-          "And somehow, even with all these time savers, you're still moving data around by yourself at 10 p.m."
-        ],
-        "transcript_content_summary": "Instead of telling everybody, you're gonna lose your jobs, Sam Almonds doing UBI studies, what is the Chinese say, let us entertain you. That would be a good reason to show them like sparking up or catching fire when they failed.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-25T07:36:55.663191-07:00",
-        "transcript_takeaways": [
-          "**4 Key Takeaways for David Bunn**"
-        ],
-        "transcript_summary": "**4 Key Takeaways for David Bunn**"
       },
       "All-In": {
         "id": "68a59cd1802024c9",
@@ -30029,7 +30293,7 @@
         "image": "https://megaphone.imgix.net/podcasts/c2d68c48-2c72-11f1-b575-fb76c3785658/image/2d8e56edb0445d3dd9fc612f46a6551e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "accent": "#a855f7",
         "emoji": "\ud83e\udde0",
-        "title": "\u201cAge Reversal Is Coming.\u201d Inside The First Human Trials - Dr David Sinclair - #1141",
+        "title": "\u201cAge Reversal Is Coming.\u201d Everything You Need To Know - Dr David Sinclair - #1141",
         "url": "",
         "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3",
         "guid": "c2d68c48-2c72-11f1-b575-fb76c3785658",
@@ -30106,43 +30370,6 @@
           "Psychology",
           "Business",
           "Relationships"
-        ],
-        "source": "favorite_feed",
-        "transcript_status": "not_ingested"
-      },
-      "Startup Ideas": {
-        "id": "13252211a3eacea4",
-        "podcast": "The Startup Ideas Podcast",
-        "short_name": "Startup Ideas",
-        "podcast_image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-        "image": "https://assets.flightcast.com/workspaces/vde7jbg9rfhsyiw9o46f9sj8/podcasts/ordbkg8yojpehffas7vr7qpc/t8c97hs8oy7a2xnobsfu5p42.jpg",
-        "accent": "#f97316",
-        "emoji": "\ud83d\ude80",
-        "title": "Grok Bot: make a 1 person company with agents",
-        "url": "",
-        "audio_url": "https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3",
-        "guid": "flightcast:01M0JRD6SQHCP5G3VRFNX09M92",
-        "published_at": "2026-08-21T20:10:00+00:00",
-        "published_date": "2026-08-21",
-        "published_month": "2026-08",
-        "duration": "2661",
-        "summary": "I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.",
-        "content_summary": "I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.",
-        "content_takeaways": [
-          "I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams.",
-          "We turn 'what if' into reality with AI, apps, and next-gen products The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: FIND ME ON SOCIAL X/Twitter: Instagram: LinkedIn: FIND BILLY ON SOCIAL: X/Twitter: Instagram: Tiktok: Youtube",
-          "He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.",
-          "Start with a chief of staff bot, and let it audit your business and name the first three agents."
-        ],
-        "show_notes": "I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps. We cover the token math, the four-week plan he follows, and the business models that fit this tool best: newsletters, directories, and Shopify stores. You leave with a setup you can copy for one project this month. Timestamps 00:00 \u2013 Intro 02:22 \u2013 Grok Bot Overview 03:12 \u2013 What makes GrokBot special 06:09 \u2013 Pick one project 08:09 \u2013 Creating your initial agent team 11:19 \u2013 First week sprint with Grok Bot 13:06 \u2013 Automated Routines within Grok Bot 15:51 \u2013 Agent Org Structure 17:35 \u2013 Best Practices for building Agents 19:45 \u2013 Newsletter playbook 21:12 \u2013 Plugins 22:24 \u2013 Newsletter playbook pt 2 25:43 \u2013 Sales agent 29:06 \u2013 Iterating and Improving Agents 33:34 \u2013 Grok Bot business ideas 36:45 \u2013 Site stack builder 38:36 \u2013 Directories and landing pages 41:42 \u2013 One project for a month 42:50 \u2013 Closing Thoughts Key Points Keep one project per Grok Bot account, so context stays clean and tokens stay available. Start with a chief of staff bot, and let it audit your business and name the first three agents. Follow the four weeks: build the team, execute, hire and fire, then automate. Ask each agent for a five-line brief: what shipped, what is stuck, what needs you. Move repeatable steps into scripts or make com, and keep agent tokens for high value work. Newsletters and directories give the easiest entry, and the two models feed each other. The #1 tool to find startup ideas/trends - https://www.ideabrowser.com LCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/ The Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ FIND ME ON SOCIAL X/Twitter: https://twitter.com/gregisenberg Instagram: https://instagram.com/gregisenberg/ LinkedIn: https://www.linkedin.com/in/gisenberg/ FIND BILLY ON SOCIAL: X/Twitter: https://x.com/billyjhowell Instagram: https://www.instagram.com/billyjhowell Tiktok: https://www.tiktok.com/@saasfatigue Youtube: https://www.youtube.com/@billyjhowell",
-        "tags": [
-          "AI",
-          "Startups",
-          "Business",
-          "Career",
-          "Content",
-          "Business Ideas",
-          "Saas"
         ],
         "source": "favorite_feed",
         "transcript_status": "not_ingested"
@@ -30257,28 +30484,28 @@
     },
     "transcript_runs": [
       {
+        "podcast": "TWIST",
+        "title": "You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics",
+        "status": "available",
+        "chars": 24169,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
+        "podcast": "Startup Ideas",
+        "title": "Screensharing top takes in AI/startups",
+        "status": "available",
+        "chars": 22268,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
         "podcast": "Grade Cricketer",
         "title": "Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell",
         "status": "available",
         "chars": 24497,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "TWIST",
-        "title": "China wants you to cheer for the robots taking your job | E2329",
-        "status": "available",
-        "chars": 23280,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "All-In",
-        "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
-        "status": "available",
-        "chars": 26390,
         "llm_takeaways": true,
         "source": "faster_whisper",
         "youtube_url": null

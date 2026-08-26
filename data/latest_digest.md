@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-25
+# Podcast Digest - 2026-08-26
 
-Generated: 2026-08-25 07:40 PDT
+Generated: 2026-08-26 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,21 @@ Generated: 2026-08-25 07:40 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### TWIST — You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics
+- Date: 2026-08-25
+- Duration: 24:50
+- Tags: Startups, Career, Content, Venture, AI, Tech, Saas
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/you-cant-fire-a-vc-from-your-board-heres-why-wilson-sonsini-startup-legal-basics
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_1.mp4?dest-id=5500155
+- Summary from show notes: Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.
+
+### Startup Ideas — Screensharing top takes in AI/startups
+- Date: 2026-08-25
+- Duration: 2477
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3
+- Summary from show notes: On this week’s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.
+
 ### Grade Cricketer — Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell
 - Date: 2026-08-24
 - Duration: 7088
@@ -37,7 +52,7 @@ Generated: 2026-08-25 07:40 PDT
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the "climate emergency" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?
 
-### Modern Wisdom — “Age Reversal Is Coming.” Inside The First Human Trials - Dr David Sinclair - #1141
+### Modern Wisdom — “Age Reversal Is Coming.” Everything You Need To Know - Dr David Sinclair - #1141
 - Date: 2026-08-23
 - Duration: 7548
 - Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
@@ -67,7 +82,7 @@ Generated: 2026-08-25 07:40 PDT
 - Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/57c2aea4-60b7-4151-9f9a-b4ae00908284/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
 - Summary from show notes: Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. 🌎 Get our Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
 
-### Modern Wisdom — Ex-Gang Member: What Makes A Violent Man Change? - Johnny Chang - #1140
+### Modern Wisdom — Why Violence Is Safer Than Vulnerability - Johnny Chang - #1140
 - Date: 2026-08-21
 - Duration: 7205
 - Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
