@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-27
+# Podcast Digest - 2026-08-28
 
-Generated: 2026-08-27 07:38 PDT
+Generated: 2026-08-28 07:33 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,13 @@ Generated: 2026-08-27 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### DOAC — Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life
+- Date: 2026-08-27
+- Duration: 1833
+- Tags: Business, Career, Health, Psychology, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3
+- Summary from show notes: As you build a successful life, are you making sure it’s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.
+
 ### The Game — 3 Stages of Building a Personal Brand | Ep 993
 - Date: 2026-08-27
 - Duration: 727
@@ -103,11 +110,11 @@ Generated: 2026-08-27 07:38 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
 - Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
 
-### DOAC — The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!
+### DOAC — Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!
 - Date: 2026-08-23
 - Duration: 5307
 - Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=nw5ipyhxxbix0jsgdiybucp2
 - Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
 
 ### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
@@ -147,29 +154,6 @@ Generated: 2026-08-27 07:38 PDT
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3
 - Summary from show notes: I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.
-
-### All-In — Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up
-- Date: 2026-08-21
-- Duration: 01:30:53
-- Tags: AI, Career, Markets, Politics, Startups, Business, Tech
-- Episode: https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300
-- Summary from show notes: (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the "DMV for AI" (30:12) Is an open source ban coming?
-
-### DOAC — Most Replayed Moment: Better Sleep Doesn't Always Mean Longer Sleep! Fix These Habits Today
-- Date: 2026-08-20
-- Duration: 1849
-- Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M08555EDSKHDEQT3G2VBRJBX.mp3
-- Summary from show notes: What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits? Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform. Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential.
-
-### TWIST — Taste is the new programming language (w/ Astrocade CEO Amir Sadeghian) | AI Basics
-- Date: 2026-08-20
-- Duration: 21:05
-- Tags: AI, Startups, Career, Content, Venture, Tech, Saas
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/taste-is-the-new-programming-language-w-astrocade-ceo-amir-sadeghian-ai-basics
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Astrocade.mp4?dest-id=5500155
-- Summary from show notes: Making a video game once required a studio, an engine, and a team of five or more people working for six months. But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed. Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

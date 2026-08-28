@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:38:29.622605-07:00",
+  "generated_at": "2026-08-28T07:33:58.623833-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -171,6 +171,56 @@
   ],
   "episodes": [
     {
+      "id": "19e1768ac9e63e21",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ABAAXMPJVNTD2GPCE6NNZF/square_cover_image.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3",
+      "guid": "flightcast:01M0AAXF9NSPF8RYH06SNNV2JZ",
+      "published_at": "2026-08-28T05:00:00+00:00",
+      "published_date": "2026-08-27",
+      "published_month": "2026-08",
+      "duration": "1833",
+      "summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+      "content_summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+      "content_takeaways": [
+        "In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+        "He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful.",
+        "Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment.",
+        "As you build a successful life, are you making sure it\u2019s meaningful too?"
+      ],
+      "show_notes": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled. He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful. Listen to the full episode here! Spotify: https://g2ul0.app.link/VDxq5xcGH5b Apple: https://g2ul0.app.link/ZIsEDFeGH5b Watch the Episodes On YouTube: https://www.youtube.com/c/TheDiaryOfACEO/videos Tony Robbins: https://www.tonyrobbins.com/",
+      "tags": [
+        "Business",
+        "Career",
+        "Health",
+        "Psychology",
+        "Relationships",
+        "Performance"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool.",
+        "And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+        "Well, first of all, how certain do you think that person is you're going to respond when they put a gun to your head?",
+        "Because we're certain it's good, but it's been long enough that we hope it's been there's a variety that we won't remember at all."
+      ],
+      "transcript_content_summary": "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool. And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-28T07:33:25.554143-07:00",
+      "transcript_takeaways": [
+        "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+      ],
+      "transcript_summary": "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+    },
+    {
       "id": "03c7dd787cd32ef3",
       "podcast": "The Game with Alex Hormozi",
       "short_name": "The Game",
@@ -243,10 +293,11 @@
       "content_summary": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless?",
       "content_takeaways": [
         "Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others.",
-        "Kanika Batra is an Australian content creator and author.",
-        "Can they feel love and empathy, or are they truly emotionless?"
+        "(26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge?",
+        "(55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women?",
+        "(01:06:05) How Kanika Met Her Husband (01:13:14) Should Women (01:22:55) How Does a Sociopath Handle a Breakup?"
       ],
-      "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Should We Trust the Word of a Sociopath? (01:00) Is Sociopathy Actually Real? (04:07) What is Antisocial Personality Disorder? (04:45) When Kanika Realised She Was Different (08:38) Are Sociopaths Born Or Made? (09:39) Does Mental Illness Run in Families? (14:12) How Kanika Reached Her Diagnosis (20:01) Do Sociopaths Actually Feel Emotions? (26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge? (35:19) Are Sociopaths Obsessed With Status? (37:52) Has Kanika Ever Wanted to Kill Someone? (46:58) Why is Kanika Fascinated By Rodney Alcala? (49:24) What Is It Like Dating a Sociopath? (55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women? (01:06:05) How Kanika Met Her Husband (01:13:14) Should Women Follow Manipulative Dating Advice? (01:22:55) How Does a Sociopath Handle a Breakup? (01:25:51) Should You Ever Date a Sociopath? (01:27:35) Do Men Find Manipulation Attractive? (01:31:32) Do Sociopaths Understand Themselves? (01:33:48) How to Detect a Sociopath (01:35:39) The World\u2019s Most Famous Sociopaths (01:38:43) The Link Between Sociopathy and Sadism (01:43:32) Does Kanika Wish She Had \u201cNormal\u201d Emotions? (01:53:02) What\u2019s Next For Kanika? Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "tags": [
         "AI",
         "Content",
@@ -761,9 +812,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+      "title": "Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=nw5ipyhxxbix0jsgdiybucp2",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -788,22 +839,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-      ],
-      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-      "transcript_takeaways": [
-        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-      ],
-      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
+      "transcript_status": "not_ingested"
     },
     {
       "id": "70fafc54413026f0",
@@ -29376,6 +29412,56 @@
   ],
   "recent": [
     {
+      "id": "19e1768ac9e63e21",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ABAAXMPJVNTD2GPCE6NNZF/square_cover_image.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3",
+      "guid": "flightcast:01M0AAXF9NSPF8RYH06SNNV2JZ",
+      "published_at": "2026-08-28T05:00:00+00:00",
+      "published_date": "2026-08-27",
+      "published_month": "2026-08",
+      "duration": "1833",
+      "summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+      "content_summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+      "content_takeaways": [
+        "In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+        "He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful.",
+        "Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment.",
+        "As you build a successful life, are you making sure it\u2019s meaningful too?"
+      ],
+      "show_notes": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled. He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful. Listen to the full episode here! Spotify: https://g2ul0.app.link/VDxq5xcGH5b Apple: https://g2ul0.app.link/ZIsEDFeGH5b Watch the Episodes On YouTube: https://www.youtube.com/c/TheDiaryOfACEO/videos Tony Robbins: https://www.tonyrobbins.com/",
+      "tags": [
+        "Business",
+        "Career",
+        "Health",
+        "Psychology",
+        "Relationships",
+        "Performance"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool.",
+        "And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+        "Well, first of all, how certain do you think that person is you're going to respond when they put a gun to your head?",
+        "Because we're certain it's good, but it's been long enough that we hope it's been there's a variety that we won't remember at all."
+      ],
+      "transcript_content_summary": "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool. And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-28T07:33:25.554143-07:00",
+      "transcript_takeaways": [
+        "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+      ],
+      "transcript_summary": "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+    },
+    {
       "id": "03c7dd787cd32ef3",
       "podcast": "The Game with Alex Hormozi",
       "short_name": "The Game",
@@ -29448,10 +29534,11 @@
       "content_summary": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless?",
       "content_takeaways": [
         "Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others.",
-        "Kanika Batra is an Australian content creator and author.",
-        "Can they feel love and empathy, or are they truly emotionless?"
+        "(26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge?",
+        "(55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women?",
+        "(01:06:05) How Kanika Met Her Husband (01:13:14) Should Women (01:22:55) How Does a Sociopath Handle a Breakup?"
       ],
-      "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Should We Trust the Word of a Sociopath? (01:00) Is Sociopathy Actually Real? (04:07) What is Antisocial Personality Disorder? (04:45) When Kanika Realised She Was Different (08:38) Are Sociopaths Born Or Made? (09:39) Does Mental Illness Run in Families? (14:12) How Kanika Reached Her Diagnosis (20:01) Do Sociopaths Actually Feel Emotions? (26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge? (35:19) Are Sociopaths Obsessed With Status? (37:52) Has Kanika Ever Wanted to Kill Someone? (46:58) Why is Kanika Fascinated By Rodney Alcala? (49:24) What Is It Like Dating a Sociopath? (55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women? (01:06:05) How Kanika Met Her Husband (01:13:14) Should Women Follow Manipulative Dating Advice? (01:22:55) How Does a Sociopath Handle a Breakup? (01:25:51) Should You Ever Date a Sociopath? (01:27:35) Do Men Find Manipulation Attractive? (01:31:32) Do Sociopaths Understand Themselves? (01:33:48) How to Detect a Sociopath (01:35:39) The World\u2019s Most Famous Sociopaths (01:38:43) The Link Between Sociopathy and Sadism (01:43:32) Does Kanika Wish She Had \u201cNormal\u201d Emotions? (01:53:02) What\u2019s Next For Kanika? Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "tags": [
         "AI",
         "Content",
@@ -29966,9 +30053,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+      "title": "Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=nw5ipyhxxbix0jsgdiybucp2",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -29993,22 +30080,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-      ],
-      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-      "transcript_takeaways": [
-        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-      ],
-      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
+      "transcript_status": "not_ingested"
     },
     {
       "id": "70fafc54413026f0",
@@ -30250,174 +30322,18 @@
       ],
       "source": "favorite_feed",
       "transcript_status": "not_ingested"
-    },
-    {
-      "id": "67b207c4787de8c8",
-      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
-      "short_name": "All-In",
-      "podcast_image": "https://static.libsyn.com/p/assets/a/9/c/b/a9cb4d1dadb1ea21/all-in_logo.png",
-      "image": "https://static.libsyn.com/p/assets/f/9/8/7/f9872058ce451cf0d959afa2a1bf1c87/signal-2026-08-21-10-19-27-715.png",
-      "accent": "#6d5dfc",
-      "emoji": "\u265f\ufe0f",
-      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
-      "url": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
-      "guid": "688c4809-9cf4-4d77-b5d7-482ee43e7ccc",
-      "published_at": "2026-08-21T14:14:00+00:00",
-      "published_date": "2026-08-21",
-      "published_month": "2026-08",
-      "duration": "01:30:53",
-      "summary": "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?",
-      "content_summary": "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?",
-      "content_takeaways": [
-        "(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs.",
-        "MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming?"
-      ],
-      "show_notes": "(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement (56:33) a16z under DOJ investigation over \"interlocking directorates\" (1:01:15) Midterms: broken polls, the socialism surge, and CATO's DSA price tag Come hang with the Besties at the All-In Summit | September 13-15: \u2060 http://theallinsummit.com \u2060 \u2060 #AllInSummit \u2060 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpodIntro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburgIntro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "tags": [
-        "AI",
-        "Career",
-        "Markets",
-        "Politics",
-        "Startups",
-        "Business",
-        "Tech"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "So even as you grow, you're actually making your problem worse in the sense that you need more and more capacity to sustain that growth, that you can't fund because all the negativity has turned people against you.",
-        "We got a huge, huge docket with me again, the core for Chumaf freeberg, sex and your boy, Jake, health, topic one, topic one.",
-        "Do you expect us to have amnesia about the fact that just about a year and a half ago, you said very specifically that within one to five years, 50% of entry level knowledge workers would lose their jobs.",
-        "And again, my point here is that this is not just so I'm just riffing on a podcast about the alignment risk of AI."
-      ],
-      "transcript_content_summary": "So even as you grow, you're actually making your problem worse in the sense that you need more and more capacity to sustain that growth, that you can't fund because all the negativity has turned people against you. We got a huge, huge docket with me again, the core for Chumaf freeberg, sex and your boy, Jake, health, topic one, topic one.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-21T07:33:26.254002-07:00",
-      "transcript_takeaways": [
-        "~Self-regulation is the only viable middle path, and the model matters: The MPAA-style model (industry sets standards proactively to block heavy-handed government intervention) is presented as the pragmatic alternative to a FINRA-style government SRO. For consulting, this is the regulatory framework conversation to be ready for \u2014 clients will need guidance on which self-regulatory structure works for their use case and how to position within it.*",
-        "~The compute bottlenecks are structural, not temporary: Rising risk-free rates + state-level pushback + frontier labs needing ever more capacity creates a self-reinforcing squeeze. Balance sheets matter \u2014 the hosts point out that newer, unprofitable model companies are the most exposed. For an operator/finance perspective, this is the kind of capital stack analysis (who can fund compute, who can't) that is directly applicable to due diligence work for AI investments or partnerships.*"
-      ],
-      "transcript_summary": "~Self-regulation is the only viable middle path, and the model matters: The MPAA-style model (industry sets standards proactively to block heavy-handed government intervention) is presented as the pragmatic alternative to a FINRA-style government SRO. For consulting, this is the regulatory framework conversation to be ready for \u2014 clients will need guidance on which self-regulatory structure works for their use case and how to position within it.* ~The compute bottlenecks are structural, not temporary: Rising risk-free rates + state-level pushback + frontier labs needing ever more capacity creates a self-reinforcing squeeze. Balance sheets matter \u2014 the hosts point out that newer, unprofitable model companies are the most exposed. For an operator/finance perspective, this is the kind of capital stack analysis (who can fund compute, who can't) that is directly applicable to due diligence wo"
-    },
-    {
-      "id": "c55bf288af023f32",
-      "podcast": "The Diary Of A CEO with Steven Bartlett",
-      "short_name": "DOAC",
-      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
-      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M086HS4ASQ62PSHJ00MDB2HA/square_cover_image.jpg",
-      "accent": "#dc2626",
-      "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Most Replayed Moment: Better Sleep Doesn't Always Mean Longer Sleep! Fix These Habits Today",
-      "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M08555EDSKHDEQT3G2VBRJBX.mp3",
-      "guid": "flightcast:01M08555EDJDXY5E3VGD5B9BPA",
-      "published_at": "2026-08-21T05:00:00+00:00",
-      "published_date": "2026-08-20",
-      "published_month": "2026-08",
-      "duration": "1849",
-      "summary": "What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits? Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform. Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential.",
-      "content_summary": "What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits? Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform. Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential.",
-      "content_takeaways": [
-        "Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform.",
-        "What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits?",
-        "Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential.",
-        "She reveals the overlooked habits that can quietly disrupt recovery and answers common questions about sleep disruption."
-      ],
-      "show_notes": "What if getting better sleep has less to do with sleeping longer, and more to do with your daily habits? Dr. Kristen Holmes is a performance scientist whose work focuses on sleep, recovery, circadian rhythms and the everyday behaviours that influence how well our bodies and minds perform. In this moment, Dr. Kristen Holmes opens up about her childhood and the catalyst to her passion for health and human potential. She reveals the overlooked habits that can quietly disrupt recovery and answers common questions about sleep disruption. Is one glass of wine really going to impact my sleep? What about caffeine? If I don't have time for 9 hours of sleep every night, can my sleep still be restorative? Order Dr Kristen Holmes\u2019 new book, Aligned, here: https://linkly.link/2qdKk Listen to the full episode here! Spotify: https://g2ul0.app.link/ckeUet3eG5b Apple: https://g2ul0.app.link/p1hrOE8eG5b Watch the Episodes On YouTube: \u2060\u2060https://www.youtube.com/c/%20TheDiaryOfACEO/videos",
-      "tags": [
-        "Career",
-        "Health",
-        "Psychology",
-        "Business",
-        "Relationships",
-        "Performance"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "As an adult, unless you really work through that, you know, because you're afraid that you're not going to be taken care of.",
-        "She had massive seasonal effects disorder, which is one of the reasons why I'm so interested in, you know, kind of everything related to light and just the opportunity there for health.",
-        "You know, in what way is this supporting my values of growth and impact and presence and compassion and tolerance, you know, the things that are like core to who I want to be in this world.",
-        "Like your system is having to work so much harder to maintain homeostasis because you're doing exactly the opposite of what your body wants to do."
-      ],
-      "transcript_content_summary": "As an adult, unless you really work through that, you know, because you're afraid that you're not going to be taken care of. She had massive seasonal effects disorder, which is one of the reasons why I'm so interested in, you know, kind of everything related to light and just the opportunity there for health.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-21T07:35:55.556178-07:00",
-      "transcript_takeaways": [
-        "**1 drink is not neutral.** Peer-reviewed data cited in the episode: 1 glass of wine reduces melatonin ~20% and sleep quality ~9%; 2 glasses = 24% reduction; 3+ = ~40% reduction. WHOOP's internal analysis shows a linear decline in HRV and recovery with every drink \u2014 even 1 drink produces clinically significant drops. The data does not support a \"moderate is fine\" position.",
-        "**The \"non-negativity\" principle is a practical operator lens.** Every micro-behavior either supports your core values or it doesn't \u2014 the guest argues there is very little gray, and what looks like gray is usually rationalization. This maps directly to decision-making in consulting and business: when vetting a client, project, or partnership, ask \"does this support my stated values (growth, impact, autonomy) or not?\" \u2014 it cuts through ambiguity faster than ROI projections.",
-        "**Caffeine timing matters as much as alcohol.** The same guest notes caffeine within 8\u201312 hours of intended sleep fragments deep sleep stages even if you fall asleep. Practical rule: last coffee by ~1pm for a 9\u201310pm bedtime. For David's operational schedule (late work sessions, consulting calls) this is a concrete lever \u2014 shift afternoon caffeine to early window or swap for a non-disruptive alternative like l-theanine or a short walk."
-      ],
-      "transcript_summary": "**1 drink is not neutral.** Peer-reviewed data cited in the episode: 1 glass of wine reduces melatonin ~20% and sleep quality ~9%; 2 glasses = 24% reduction; 3+ = ~40% reduction. WHOOP's internal analysis shows a linear decline in HRV and recovery with every drink \u2014 even 1 drink produces clinically significant drops. The data does not support a \"moderate is fine\" position. **The \"non-negativity\" principle is a practical operator lens.** Every micro-behavior either supports your core values or it doesn't \u2014 the guest argues there is very little gray, and what looks like gray is usually rationalization. This maps directly to decision-making in consulting and business: when vetting a client, project, or partnership, ask \"does this support my stated values (growth, impact, autonomy) or not?\" \u2014 it cuts through ambiguity faster than ROI projections."
-    },
-    {
-      "id": "ac932a5248512887",
-      "podcast": "This Week in Startups",
-      "short_name": "TWIST",
-      "podcast_image": "https://static.libsyn.com/p/assets/7/d/7/4/7d74c886f3630eecd959afa2a1bf1c87/20768169-1702529323365-30a5ed5f170b.jpg",
-      "image": "https://static.libsyn.com/p/assets/4/9/0/f/490fb4fa4b4ed45a16c3140a3186d450/gaming_500x500_no_crop.png",
-      "accent": "#0ea5e9",
-      "emoji": "\u26a1",
-      "title": "Taste is the new programming language (w/ Astrocade CEO Amir Sadeghian) | AI Basics",
-      "url": "https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/taste-is-the-new-programming-language-w-astrocade-ceo-amir-sadeghian-ai-basics",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Astrocade.mp4?dest-id=5500155",
-      "guid": "61f789b5-6aaf-4032-9fca-d2fad2e1bee7",
-      "published_at": "2026-08-20T23:08:00+00:00",
-      "published_date": "2026-08-20",
-      "published_month": "2026-08",
-      "duration": "21:05",
-      "summary": "Making a video game once required a studio, an engine, and a team of five or more people working for six months. But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed. Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own.",
-      "content_summary": "Making a video game once required a studio, an engine, and a team of five or more people working for six months. But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed. Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own.",
-      "content_takeaways": [
-        "Making a video game once required a studio, an engine, and a team of five or more people working for six months.",
-        "But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed.",
-        "Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own.",
-        "The magic isn't just in the automation, but the user's creativity and good taste."
-      ],
-      "show_notes": "The TWiST AI Basics series is made possible by Google Cloud! Build context-aware AI workflows using DeepMind models and orchestration tools with Google for Startups' new Startup technical guide on generative media. Get the guide here: https://goo.gle/technical_guide Astrocade is building super-intelligence for the interactive world. Build the future of fun: https://www.astrocade.com/careers Today's show: *Making a video game once required a studio, an engine, and a team of five or more people working for six months. But with Astrocade, users just describe the game they'd like to play and share, and an AI assembles it from minutes, ready to publish to a TikTok-style feed. Still, founder and CEO Amir Sadeghian tell us AI can't actually build a great game all on its own. The magic isn't just in the automation, but the user's creativity and good taste. Amir demos how the app turns simple sentences and descriptions into full video games, explains why frontier models still regress to the mean rather than pushing boundaries, and unpacks how the game's human-in-the-loop workflow can turn even generic ideas into something original and fun. Guest: Amir Sadeghian on X: https://x.com/_amirabs Astrocade: https://www.astrocade.com/ Relevant Links Flappy Bird: https://flappybird.io/ Plants vs. Zombies: https://www.ea.com/ea-studios/popcap/plants-vs-zombies MrBeast on YouTube: https://www.youtube.com/@MrBeast Google's Nano Banana Pro: https://nanabananapro.com/ Timestamps: 0:00 Welcome to AI Basics, presented by Google Cloud 0:44 Amir Sadeghian, CEO of Astrocade joins 1:08 What is Astrocade and how does it work? 2:58 From describing to publishing: the TikTok for games 3:37 Amir's origin story: four continents, one vision 5:11 Why making games used to require years of training 6:46 The watermelon juice theory of product friction 7:35 Taste as the new programming language 14:18 Personalizing games with your own images 15:23 From consumer to prosumer: can you make a living? 16:22 Astrocade's creator fund and new creator economy 17:07 Open roles at Astrocade 18:10 Why play is the most universal human language 19:43 Google Cloud, Gemini, and wrapping up Subscribe to the TWiST500 newsletter: https://ticker.thisweekinstartups.com Check out the TWIST500: https://www.twist500.com Subscribe to This Week in Startups on Apple: https://rb.gy/v19fcp Follow Lon: X: https://x.com/lons Follow Jason: X: https://twitter.com/Jason LinkedIn: https://www.linkedin.com/in/jasoncalacanis Thank you to our partners! Build context-aware AI workflows using DeepMind models and orchestration tools with Google for Startups' new Startup technical guide on generative media. Get the guide here: https://goo.gle/technical_guide Astrocade is building super-intelligence for the interactive world. Build the future of fun: https://www.astrocade.com/careers Great TWIST interviews: Will Guidara, Eoghan McCabe , Steve Huffman , Brian Chesky , Bob Moesta, Aaron Levie , Sophia Amoruso , Reid Hoffman , Frank Slootman , Billy McFarland Check out Jason's suite of newsletters: https://substack.com/@calacanis Follow TWiST: Twitter: https://twitter.com/TWiStartups YouTube: https://www.youtube.com/thisweekin Instagram: https://www.instagram.com/thisweekinstartups TikTok: https://www.tiktok.com/@thisweekinstartups Substack: https://twistartups.substack.com",
-      "tags": [
-        "AI",
-        "Startups",
-        "Career",
-        "Content",
-        "Venture",
-        "Tech",
-        "Saas"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "We're excited about today's guests because we're going to talk a little bit about how AI is impacting video games with us today.",
-        "Because you can just simply describe, you can just describe any kind of content, any kind of game and the AI, our AI system actually generates them.",
-        "It can generate because it's been so many Flappy Bird code that AI has been trained on and it can generate.",
-        "Well, because large language models have been trained on everything, there is a reversion to the meme sometimes people to the mean to the average sometimes."
-      ],
-      "transcript_content_summary": "We're excited about today's guests because we're going to talk a little bit about how AI is impacting video games with us today. Because you can just simply describe, you can just describe any kind of content, any kind of game and the AI, our AI system actually generates them.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-21T07:38:08.808239-07:00",
-      "transcript_takeaways": [
-        "**\"Taste is the new programming language.\"** As AI commoditizes the ability to generate output (code, games, reports, dashboards), the scarce skill shifts to curating, tuning, and knowing what \"good\" looks like. For consulting, this means the value prop shifts from \"I can build it\" to \"I know what to build and how to make it actually useful\" \u2014 a natural differentiator for an operator with domain expertise.",
-        "**AI copies the average; humans provide the edge.** The founder explicitly says AI can replicate Flappy Bird (because the training data has thousands of examples) but struggles with genuinely novel or custom experiences. For finance/accounting automation, this means: expect AI to handle boilerplate well (standard reports, common workflows) but require human taste and iteration for anything non-standard or business-specific. The consulting opportunity is bridging that gap.",
-        "**Remove friction and demand appears.** The watermelon juice fridge experiment: small bottles (high friction, low consumption) vs. big bottles + cups next to fridge (low friction, high consumption). This maps directly to business process \u2014 most reporting, reconciliation, and client intake friction is invisible until you remove it. Concrete consulting pitch: audit your clients' workflows for \"small bottle\" friction points that AI can eliminate.",
-        "**One-shot generation is a myth; iteration is the real workflow.** The best games on Astrocade go through multiple \"wish prompts\" (their term for iterative refinement). AI + human-in-the-loop tuning beats pure AI generation every time. Practical action: when building AI solutions for clients, design the workflow so humans can tune, test, and iterate \u2014 not just press a button. The deterministic controls (sliders, numbers, explicit parameters) are just as important as the natural language."
-      ],
-      "transcript_summary": "**\"Taste is the new programming language.\"** As AI commoditizes the ability to generate output (code, games, reports, dashboards), the scarce skill shifts to curating, tuning, and knowing what \"good\" looks like. For consulting, this means the value prop shifts from \"I can build it\" to \"I know what to build and how to make it actually useful\" \u2014 a natural differentiator for an operator with domain expertise. **AI copies the average; humans provide the edge.** The founder explicitly says AI can replicate Flappy Bird (because the training data has thousands of examples) but struggles with genuinely novel or custom experiences. For finance/accounting automation, this means: expect AI to handle boilerplate well (standard reports, common workflows) but require human taste and iteration for anything non-standard or business-specific. The consulting opportunity is bridging that gap."
     }
   ],
   "stats": {
-    "total_available": 6442,
-    "ytd_count": 781,
-    "recent_count": 21,
+    "total_available": 6443,
+    "ytd_count": 782,
+    "recent_count": 19,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "DOAC": 103,
       "The Game": 76,
       "Modern Wisdom": 102,
-      "DOAC": 102,
       "TWIST": 108,
       "All-In": 79,
       "Startup Ideas": 73,
@@ -30425,17 +30341,17 @@
       "Prof G Markets": 162
     },
     "by_tag": {
-      "Business": 611,
+      "Business": 612,
       "AI": 484,
       "Content": 446,
-      "Career": 422,
+      "Career": 423,
       "Startups": 362,
       "Finance": 289,
       "Markets": 241,
-      "Health": 233,
-      "Psychology": 202,
-      "Relationships": 182,
-      "Performance": 165,
+      "Health": 234,
+      "Psychology": 203,
+      "Relationships": 183,
+      "Performance": 166,
       "Investing": 160,
       "Strategy": 127,
       "Cricket": 104,
@@ -30452,9 +30368,59 @@
       "2026-05": 87,
       "2026-06": 100,
       "2026-07": 97,
-      "2026-08": 80
+      "2026-08": 81
     },
     "latest_by_podcast": {
+      "DOAC": {
+        "id": "19e1768ac9e63e21",
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "short_name": "DOAC",
+        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ABAAXMPJVNTD2GPCE6NNZF/square_cover_image.jpg",
+        "accent": "#dc2626",
+        "emoji": "\ud83c\udf99\ufe0f",
+        "title": "Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life",
+        "url": "",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3",
+        "guid": "flightcast:01M0AAXF9NSPF8RYH06SNNV2JZ",
+        "published_at": "2026-08-28T05:00:00+00:00",
+        "published_date": "2026-08-27",
+        "published_month": "2026-08",
+        "duration": "1833",
+        "summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+        "content_summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+        "content_takeaways": [
+          "In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
+          "He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful.",
+          "Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment.",
+          "As you build a successful life, are you making sure it\u2019s meaningful too?"
+        ],
+        "show_notes": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled. He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful. Listen to the full episode here! Spotify: https://g2ul0.app.link/VDxq5xcGH5b Apple: https://g2ul0.app.link/ZIsEDFeGH5b Watch the Episodes On YouTube: https://www.youtube.com/c/TheDiaryOfACEO/videos Tony Robbins: https://www.tonyrobbins.com/",
+        "tags": [
+          "Business",
+          "Career",
+          "Health",
+          "Psychology",
+          "Relationships",
+          "Performance"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool.",
+          "And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+          "Well, first of all, how certain do you think that person is you're going to respond when they put a gun to your head?",
+          "Because we're certain it's good, but it's been long enough that we hope it's been there's a variety that we won't remember at all."
+        ],
+        "transcript_content_summary": "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool. And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-28T07:33:25.554143-07:00",
+        "transcript_takeaways": [
+          "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+        ],
+        "transcript_summary": "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
+      },
       "The Game": {
         "id": "03c7dd787cd32ef3",
         "podcast": "The Game with Alex Hormozi",
@@ -30528,10 +30494,11 @@
         "content_summary": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless?",
         "content_takeaways": [
           "Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others.",
-          "Kanika Batra is an Australian content creator and author.",
-          "Can they feel love and empathy, or are they truly emotionless?"
+          "(26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge?",
+          "(55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women?",
+          "(01:06:05) How Kanika Met Her Husband (01:13:14) Should Women (01:22:55) How Does a Sociopath Handle a Breakup?"
         ],
-        "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "show_notes": "Kanika Batra is an Australian content creator and author. What goes on inside the mind of a sociopath? Can they feel love and empathy, or are they truly emotionless? Diagnosed with antisocial personality disorder, Kanika Batra reveals how sociopaths actually think, feel and relate to others. Expect to learn how Kanika deals with being a diagnosed sociopath, what emotions she strongly feels or is absent of, why Kanika loves revenge, what friendships are like for sociopaths, the best pieces of advice for women in the dating world, if psychopaths can ever feel true love, if sociopaths ever wish to feel normal and care for people and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Should We Trust the Word of a Sociopath? (01:00) Is Sociopathy Actually Real? (04:07) What is Antisocial Personality Disorder? (04:45) When Kanika Realised She Was Different (08:38) Are Sociopaths Born Or Made? (09:39) Does Mental Illness Run in Families? (14:12) How Kanika Reached Her Diagnosis (20:01) Do Sociopaths Actually Feel Emotions? (26:54) Why Kanika Turned to Christianity (31:24) How Far Would a Sociopath Go for Revenge? (35:19) Are Sociopaths Obsessed With Status? (37:52) Has Kanika Ever Wanted to Kill Someone? (46:58) Why is Kanika Fascinated By Rodney Alcala? (49:24) What Is It Like Dating a Sociopath? (55:44) Why Kanika Struggles With Male Power (01:00:30) Is This the Best Dating Advice For Women? (01:06:05) How Kanika Met Her Husband (01:13:14) Should Women Follow Manipulative Dating Advice? (01:22:55) How Does a Sociopath Handle a Breakup? (01:25:51) Should You Ever Date a Sociopath? (01:27:35) Do Men Find Manipulation Attractive? (01:31:32) Do Sociopaths Understand Themselves? (01:33:48) How to Detect a Sociopath (01:35:39) The World\u2019s Most Famous Sociopaths (01:38:43) The Link Between Sociopathy and Sadism (01:43:32) Does Kanika Wish She Had \u201cNormal\u201d Emotions? (01:53:02) What\u2019s Next For Kanika? Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
         "tags": [
           "AI",
           "Content",
@@ -30560,60 +30527,6 @@
           "**Verification beats charm when trust is the question.** Chris opens with \"Why should I believe anything you say?\" and she points to independent sources (Business Insider profile, brain scans) instead of defending her character. For your consulting pitches and LinkedIn content, same principle: don't talk about how trustworthy you are \u2014 cite case studies, published work, verifiable metrics, and third-party validation. Let proof do the persuasion."
         ],
         "transcript_summary": "**Cold vs. hot personality types in business dealings.** Factor 1 psychopathy (cold, calculating, long-term planner) is more dangerous in a deal or negotiation because it's deliberate and patient, not impulsive. When you're sizing up a client, investor, or partner, watch for the person who methodically plans months ahead versus the one who reacts emotionally \u2014 the former is harder to read and more likely to be executing a hidden agenda. **Emotional mimicry is a negotiation and sales skill, not just a pathology.** The guest describes observing what people want to see, then delivering that exact response without feeling it. For a consultant, this maps directly to client intake and discovery: learn to read stakeholder pain, mirror their language and concerns, and give them the version of you they need to see to trust your advice. It's not manipulation \u2014 it's deliberate empathy-by-protocol."
-      },
-      "DOAC": {
-        "id": "891a706537c5753f",
-        "podcast": "The Diary Of A CEO with Steven Bartlett",
-        "short_name": "DOAC",
-        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
-        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ZKWG6EZ7GY1QTG7T6X9M41/ed_zitron.ep_cover_.jpg",
-        "accent": "#dc2626",
-        "emoji": "\ud83c\udf99\ufe0f",
-        "title": "The Man Who Calls BS On AI: AI Is The World\u2019s Greatest SCAM, And They All Know It! | Ed Zitron",
-        "url": "",
-        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZJXTQSK5PF6BG3869W6YJE.mp3",
-        "guid": "flightcast:01M0ZJXTQSPBEVY6X1T0EZ7M9C",
-        "published_at": "2026-08-27T05:00:00+00:00",
-        "published_date": "2026-08-26",
-        "published_month": "2026-08",
-        "duration": "8839",
-        "summary": "Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burning billions, the fake AI boom, and why the crash could wipe out the ENTIRE economy! Ed Zitron is a British AI critic and one of the most cited voices warning that the AI industry is one giant bubble. He hosts the 'Better Offline' podcast, reaching over a million monthly downloads, and writes the newsletter 'Where's Your Ed At'.",
-        "content_summary": "Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burning billions, the fake AI boom, and why the crash could wipe out the ENTIRE economy! Ed Zitron is a British AI critic and one of the most cited voices warning that the AI industry is one giant bubble. He hosts the 'Better Offline' podcast, reaching over a million monthly downloads, and writes the newsletter 'Where's Your Ed At'.",
-        "content_takeaways": [
-          "01:14:02 How Dangerous Is AI Cyberhacking 01:17:10 Is The AI Industry Creating Economic Growth?",
-          "Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burning billions, the fake AI boom, and why the crash could wipe out the ENTIRE economy!",
-          "00:11:40 The Actual Cost Of AI And How Tokens Actually Work 00:15:49 Is The Spending Of AI Companies Justifiable?",
-          "00:47:22 Does AI Demand Match The Cost And Risk Of Data Centres?"
-        ],
-        "show_notes": "Tech critic Ed Zitron exposes the AI bubble, why OpenAI and Anthropic are burning billions, the fake AI boom, and why the crash could wipe out the ENTIRE economy! Ed Zitron is a British AI critic and one of the most cited voices warning that the AI industry is one giant bubble. He hosts the 'Better Offline' podcast, reaching over a million monthly downloads, and writes the newsletter 'Where's Your Ed At'. He is the founder and CEO of the PR firm EZPR, and is currently writing his upcoming book, 'Why Everything Stopped Working'. He explains: \u25a0 Why he believes generative AI is a \u201ccon\u201d \u25a0 The real reason OpenAI and Anthropic can't turn a profit \u25a0 Why data centers could leave a $500 billion debt bomb \u25a0 Why superintelligence is a myth sold by tech billionaires \u25a0 Why AI won't take your job, no matter what CEOs promise Chapters 00:00:00 Intro 00:02:15 AI Is A Con 00:05:55 How Much Power Data Centres Really Need 00:07:42 Is Widespread AI Adoption Manipulation Or Do People Actually Like Using It? 00:11:40 The Actual Cost Of AI And How Tokens Actually Work 00:15:49 Is The Spending Of AI Companies Justifiable? 00:19:47 Will The Rate Of Improvement Of AI Go Up, Like Previous Innovations? 00:24:03 How Bad Are AI Mistakes? 00:26:34 Comparing Human Error To AI Hallucinations 00:31:11 If The Output Is The Same, Does It Matter If Humans Or AI Created It? 00:33:58 Can We Trust AI Like We Trust Humans? 00:38:17 Would People Use AI If They Paid The Honest Cost? 00:42:15 How Does The AI Bubble Compare To The Dot-Com Bubble? 00:47:22 Does AI Demand Match The Cost And Risk Of Data Centres? 00:52:26 Is AI Making Websites Like Google Worse? 00:58:26 Ads 01:00:30 Is AI Job Disruption A Lie? 01:10:02 Could Your Narrative Be Helping AI Companies? 01:14:02 How Dangerous Is AI Cyberhacking 01:17:10 Is The AI Industry Creating Economic Growth? 01:18:53 How Would The US Beat China In The AI Race? 01:19:33 Is Robotics A Threat To Jobs? 01:23:03 What Do You Think About Agentic AI? 01:24:43 Is The Adoption Of AI The Same As The Rise Of The Internet? 01:27:46 The Overhype Of AI 01:30:03 What Do You Use Generative AI For? 01:33:21 Has AI Gotten More Intelligent? 01:34:09 Will AI Start To Do More Jobs As It Gets More Capable? 01:36:07 What Does The Future Look Like As AI Grows? 01:38:08 You Don't Think People's Workflows Have Been Transformed By AI? 01:40:21 Will All AI Be Powered By Data Centres? 01:43:20 Ads 01:44:34 Is Overspending On AI Due To Demand Or Something Else? 01:54:44 Tech CEOs Rebuttal 01:56:54 What Would It Take For You To Change Your Mind About AI? 02:00:12 Are AI Systems Already Blackmailing? 02:07:51 Are We In An AI Bubble And What Happens When It Pops? 02:12:48 The Tech Depression Is Coming 02:18:30 What Should The Public Do? 02:21:07 Why Do You Have A Bone To Pick With AI CEOs? 02:24:29 What Should We Be Doing To Improve Our Relationships And Social Connection? Follow Ed Zitron: Linktree: https://link.thediaryofaceo.com/C6fKrVK Better Offline: https://link.thediaryofaceo.com/A9awRDM X: https://link.thediaryofaceo.com/GTr0z7R Where's Your Ed At Newsletter: https://link.thediaryofaceo.com/CZ3JLap You can get $10 off your first year of Where's Your Ed At Premium, here: https://link.thediaryofaceo.com/91LBdmi The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK \u25fc Shop The Diary Of A CEO collection: https://thediary.com/collections/shop \u25fc Get email updates - https://link.thediaryofaceo.com/5IB1H6E \u25fc Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Fiverr - https://fiverr.com/diary and get 10% off your first order when you use code DIARY Saily - Download from the app store and use code DOAC at checkout for 15% off. For more details: https://saily.com/doac \u26f5",
-        "tags": [
-          "AI",
-          "Startups",
-          "Business",
-          "Career",
-          "Content",
-          "Health",
-          "Psychology"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "And because of how many of them you need, thousands of them, tens of thousands, hundreds of thousands, in some case, you need a bunch of power.",
-          "Railways, it blows everything out of the water because there is no post bubble story even for this.",
-          "When you look out into the world at how the world is changing from a content perspective, if we're looking at generative AI, it is obvious that these tools have been widely adopted.",
-          "Before we had AI slot, we had SEO slot, because Google incentivized doing the lowest common denominator that would rank well in search."
-        ],
-        "transcript_content_summary": "And because of how many of them you need, thousands of them, tens of thousands, hundreds of thousands, in some case, you need a bunch of power. Railways, it blows everything out of the water because there is no post bubble story even for this.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-27T07:38:04.118401-07:00",
-        "transcript_takeaways": [
-          "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars.",
-          "You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI.",
-          "One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane.",
-          "And not from the revenues, because here's the funny thing about Google Microsoft and Amazon, people for years have been saying, they're AI bets have paid off."
-        ],
-        "transcript_summary": "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars. You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI. One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane."
       },
       "TWIST": {
         "id": "d89588b8e56ecf2a",
@@ -30835,6 +30748,15 @@
     },
     "transcript_runs": [
       {
+        "podcast": "DOAC",
+        "title": "Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life",
+        "status": "available",
+        "chars": 29034,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
         "podcast": "The Game",
         "title": "3 Stages of Building a Personal Brand | Ep 993",
         "status": "available",
@@ -30849,15 +30771,6 @@
         "status": "available",
         "chars": 23213,
         "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "DOAC",
-        "title": "The Man Who Calls BS On AI: AI Is The World\u2019s Greatest SCAM, And They All Know It! | Ed Zitron",
-        "status": "available",
-        "chars": 27557,
-        "llm_takeaways": false,
         "source": "faster_whisper",
         "youtube_url": null
       }
