@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-28
+# Podcast Digest - 2026-08-29
 
-Generated: 2026-08-28 07:33 PDT
+Generated: 2026-08-29 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,29 @@ Generated: 2026-08-28 07:33 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143
+- Date: 2026-08-28
+- Duration: 7756
+- Tags: AI, Health, Content, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2946278073.mp3
+- Summary from show notes: In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman. Why George chooses to wear AirPods during his massages. If Jimmy Carr will run for Prime Minister of the UK.
+
+### All-In — Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine
+- Date: 2026-08-28
+- Duration: 01:36:41
+- Tags: AI, Startups, Business, Finance, Career, Content, Markets
+- Episode: https://allinchamathjason.libsyn.com/nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Bestie intros: Recapping recent interviews and the state of American science (3:31) China's Robot Olympics, Optimus update, Grok Bot (9:05) Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed (33:32) Bessent gets called out by Druckenmiller for bond market interference (1:01:33) AI writing controversy: Druck used AI to write his WSJ Op-ed (1:15:00) CIA Chief visits Moscow, Meta's settlement and new teen rules (1:22:52) Science Corner: Moderna's mRNA cancer vaccine Come hang with the Besties at the All-In Summit | September 13-15: Follow the besties: Follo
+
+### TWIST — Breaking down Nvidia's Hugging Face and Poolside bets | E2331
+- Date: 2026-08-28
+- Duration: 01:48:14
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/breaking-down-nvidias-hugging-face-and-poolside-bets-e2331
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2331_Audio.mp3?dest-id=5500155
+- Summary from show notes: Nvidia agreed to buy Hugging Face for $12.9 billion, just days after quietly licensing Poolside's coding model for $6 billion+. On TWiST, Jason lays out why this is actually the biggest AI story of the year. Nvidia plans to offer enterprises unmetered, unlimited on-prem compute, pulling them away from reliance on Anthropic and OpenAI's frontier models and products.
+
 ### DOAC — Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life
 - Date: 2026-08-27
 - Duration: 1833
@@ -20,7 +43,7 @@ Generated: 2026-08-28 07:33 PDT
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3
 - Summary from show notes: As you build a successful life, are you making sure it’s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.
 
-### The Game — 3 Stages of Building a Personal Brand | Ep 993
+### The Game — 3 Stages of Building a Personal Brand | Ep 994
 - Date: 2026-08-27
 - Duration: 727
 - Tags: Business, Career, Entrepreneurship, Sales, Offers, Pricing, Content
@@ -110,11 +133,11 @@ Generated: 2026-08-28 07:33 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
 - Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
 
-### DOAC — Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!
+### DOAC — The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!
 - Date: 2026-08-23
 - Duration: 5307
 - Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=nw5ipyhxxbix0jsgdiybucp2
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam
 - Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
 
 ### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
@@ -124,36 +147,6 @@ Generated: 2026-08-28 07:33 PDT
 - Episode: https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test
 - Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
 - Summary from show notes: Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?
-
-### Grade Cricketer — Embarrassing Australia take massive first innings lead | Day 1 | AUS v BAN | Mackay Test
-- Date: 2026-08-22
-- Duration: 1953
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/embarrassing-australia-take-massive-1st-innings-lead-day-1-aus-v-ban-mackay-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/57c2aea4-60b7-4151-9f9a-b4ae00908284/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Australia are a disgrace, they won't bat again. We simply just don't do big runs any more. 🌎 Get our Exclusive NordVPN deal here ↣ It’s risk- free with Nord’s 30-day money back guarantee!
-
-### Modern Wisdom — Why Violence Is Safer Than Vulnerability - Johnny Chang - #1140
-- Date: 2026-08-21
-- Duration: 7205
-- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8576589876.mp3
-- Summary from show notes: Johnny Chang is a former gang member and inmate turned Christian pastor, speaker, and podcaster. What happens when a boy enters prison at 12 and doesn’t emerge until 25? Raised amid violence and gangs, he eventually found God.
-
-### TWIST — Open source is going to win it all: Harvey proves it | E2328
-- Date: 2026-08-21
-- Duration: 01:09:14
-- Tags: AI, Startups, Career, Content, Sport, Venture, Tech
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/open-source-is-going-to-win-it-all-harvey-proves-it-e2328
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_EP_2328.mp3?dest-id=5500155
-- Summary from show notes: Jason's been saying it for years now (and we've got an All In clip from 2023 to prove it). This week gives us a major evidence point, as $11B legal AI company Harvey released its own in-house model, trained on an open-weight Kimi K3 base. Harvey made a proprietary specialized solution without having to risk sharing its precious expert-compiled data with the major frontier labs.
-
-### Startup Ideas — Grok Bot: make a 1 person company with agents
-- Date: 2026-08-21
-- Duration: 2661
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M0JRD6SQ7W0TWNA4KJB400CA.mp3
-- Summary from show notes: I sit down with Billy Howell for an inside look at a real business that runs on Grok Bot agent teams. Billy tests hundreds of tools for The Rundown, and he uses Grok Bot to run his local newsletter, The Arlington Bagel, which goes to 6,000 readers every Thursday. He walks me through his chief of staff bot, his research and sales agents, and the routines that move work forward while he sleeps.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
