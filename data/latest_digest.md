@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-29
+# Podcast Digest - 2026-08-30
 
-Generated: 2026-08-29 07:40 PDT
+Generated: 2026-08-30 07:31 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -15,7 +15,7 @@ Generated: 2026-08-29 07:40 PDT
 ## Recent episodes / links
 ### Modern Wisdom — Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143
 - Date: 2026-08-28
-- Duration: 7756
+- Duration: 7771
 - Tags: AI, Health, Content, Psychology, Performance, Relationships, Self-Improvement
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2946278073.mp3
 - Summary from show notes: In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman. Why George chooses to wear AirPods during his massages. If Jimmy Carr will run for Prime Minister of the UK.
@@ -133,20 +133,12 @@ Generated: 2026-08-29 07:40 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
 - Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
 
-### DOAC — The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!
+### DOAC — The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!
 - Date: 2026-08-23
 - Duration: 5307
 - Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj
 - Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
-
-### Grade Cricketer — Dreadful Australia win by an innings | Day 2 | AUS v BAN | Mackay Test
-- Date: 2026-08-23
-- Duration: 2255
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/dreadful-australia-win-by-an-innings-day-2-aus-v-ban-mackay-test
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/08596b07-fc9c-4ce3-ad63-b4af0088b1c6/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Nathan Lyon bowled well, turns out he is still pretty good when he's given the chance to bowl. A big day for Slug and not for particularly good reasons. Bowling averages in Australia are low and so are the batting averages, so what's going on?
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
