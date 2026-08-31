@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-30
+# Podcast Digest - 2026-08-31
 
-Generated: 2026-08-30 07:31 PDT
+Generated: 2026-08-31 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,27 @@ Generated: 2026-08-30 07:31 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Scott Galloway On Money, Happiness, And The Search For Enough
+- Date: 2026-08-31
+- Duration: 3491
+- Tags: Finance, Parenting, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1039937233.mp3
+- Summary from show notes: Scott Galloway and Ed Elson discuss how Scott’s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.
+
+### Modern Wisdom — WW3 DEBATE: “We’re On the Brink of Global Collapse” - #1144
+- Date: 2026-08-30
+- Duration: 11184
+- Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3
+- Summary from show notes: In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.
+
+### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
+- Date: 2026-08-30
+- Duration: 7460
+- Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3
+- Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
+
 ### Modern Wisdom — Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143
 - Date: 2026-08-28
 - Duration: 7771
@@ -125,20 +146,6 @@ Generated: 2026-08-30 07:31 PDT
 - Episode: https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the "climate emergency" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?
-
-### Modern Wisdom — “Age Reversal Is Coming.” Everything You Need To Know - Dr David Sinclair - #1141
-- Date: 2026-08-23
-- Duration: 7548
-- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3
-- Summary from show notes: Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?
-
-### DOAC — The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!
-- Date: 2026-08-23
-- Duration: 5307
-- Tags: Startups, Career, Health, Parenting, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj
-- Summary from show notes: What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the "parental brain" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the "dad bod" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.

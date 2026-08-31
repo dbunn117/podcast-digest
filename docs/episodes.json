@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:31:41.876293-07:00",
+  "generated_at": "2026-08-31T07:39:36.441392-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -170,6 +170,163 @@
     }
   ],
   "episodes": [
+    {
+      "id": "3f6614969d9b172c",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf/image/53942b2525d90684c2cfcce738b058bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Scott Galloway On Money, Happiness, And The Search For Enough",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1039937233.mp3",
+      "guid": "9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf",
+      "published_at": "2026-08-31T08:15:00+00:00",
+      "published_date": "2026-08-31",
+      "published_month": "2026-08",
+      "duration": "3491",
+      "summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+      "content_summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+      "content_takeaways": [
+        "They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke.",
+        "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life.",
+        "He ends with advice on how to get through financial hardships."
+      ],
+      "show_notes": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "Finance",
+        "Parenting",
+        "Content",
+        "Markets",
+        "Business",
+        "Investing",
+        "Strategy"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me.",
+        "That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+        "When I was your age, I was trying to figure out how to pay people the least I could without them leaving because I wanted a great shareholder value that I could then sell and make a lot of money.",
+        "Find out on the markets podcast from Goldman Sachs, a breakdown of market moves and macro signals in 10 minutes or less."
+      ],
+      "transcript_content_summary": "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me. That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:33:55.767162-07:00",
+      "transcript_takeaways": [
+        "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think.",
+        "**2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful.",
+        "**3. Past money trauma drives irrational behavior long after you\u2019re wealthy** \u2014 Galloway admits he still has financial insecurity and body dysmorphia rooted in childhood scarcity, even at $100M+. For consulting: recognize that founders and executives you advise often have similar hidden wiring. Their \u201cenough\u201d number is emotional, not rational \u2014 and pushing past it without addressing the underlying scarcity script leads to burnout or hoarding, not happiness.",
+        "**4. Be open about money \u2014 opacity protects the status quo** \u2014 Galloway\u2019s central argument: \u201cnot talking about your money keeps middle and lower income people down.\u201d For your consulting business, this translates to being transparent about pricing, business economics, and wealth-building mechanics with clients. The norm of secrecy around money is a gatekeeping device \u2014 breaking it builds trust and democratizes the playbook you sell."
+      ],
+      "transcript_summary": "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think. **2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful."
+    },
+    {
+      "id": "981b10a2ac30c498",
+      "podcast": "Modern Wisdom",
+      "short_name": "Modern Wisdom",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/a62f84c0-f8b6-11ed-a4fc-fb9e7841d45b/image/76ed638554a4be965517200d1cd5f30d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7/image/600880fab195f0c33fbbec6046c5255f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#a855f7",
+      "emoji": "\ud83e\udde0",
+      "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d - #1144",
+      "url": "",
+      "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3",
+      "guid": "fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7",
+      "published_at": "2026-08-31T05:00:00+00:00",
+      "published_date": "2026-08-30",
+      "published_month": "2026-08",
+      "duration": "11184",
+      "summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
+      "content_summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
+      "content_takeaways": [
+        "(02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World?",
+        "How big of a deal the Iran War actually is for global stability.",
+        "How future historians will view Trump's legacy.",
+        "(57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada?"
+      ],
+      "show_notes": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability. How future historians will view Trump's legacy. And much more... Guests Professor Jiang Xueqin is an educator, geopolitical commentator, and YouTuber. Robert Pape is a political scientist and professor at the University of Chicago. George Friedman is a geopolitical forecaster, strategist, and author. Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Is America the Biggest Threat to Global Peace? (09:52) Will America Still Be a Superpower in 20 Years? (23:22) What Does America\u2019s Relationship With China Look Like? (32:21) Who Will Be the Biggest Superpower in 20 Years? (37:16) Is America Heading for Civil Unrest? (42:45) The Rise of Violent Populism (47:57) Is Internal Violence in America Inevitable? (57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada? (01:12:22) How Serious Is the Iran War? (01:21:17) Can Economic Pressure Actually Win a War? (01:31:12) Is the Iran War Becoming a Forever War? (01:45:23) Why Did Trump Bomb Fordow? (02:03:21) Is Israel at the Centre of the Iran War? (02:11:13) Why Does Israel Have So Much Influence Over the US? (02:22:43) How Can Trump Win the Iran War? (02:30:37) Is Trump Really Willing to Leave NATO? (02:32:18) Could Britain Become a Global Power Again? (02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World? (02:52:28) How Likely Is Nuclear War? (02:57:45) Is Targeting Electrical Power the Most Dangerous Scenario? (03:05:01) Where to Find the Guys Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "tags": [
+        "AI",
+        "Parenting",
+        "Health",
+        "Psychology",
+        "Performance",
+        "Relationships",
+        "Self-Improvement"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war.",
+        "We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
+        "Assume that the other economies falter, where they can't buy it, or there's a political shift, the Chinese get into trouble because they must have access to the global market.",
+        "Because regardless of how you feel about the United States right now, United States is a self-sufficient resource rich economy with a very vibrant, energetic young population."
+      ],
+      "transcript_content_summary": "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war. We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:36:31.112314-07:00",
+      "transcript_takeaways": [
+        "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.",
+        "**The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore."
+      ],
+      "transcript_summary": "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia. **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignor"
+    },
+    {
+      "id": "73bc1b113c63a861",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3",
+      "guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
+      "published_at": "2026-08-31T05:00:00+00:00",
+      "published_date": "2026-08-30",
+      "published_month": "2026-08",
+      "duration": "7460",
+      "summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+      "content_summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+      "content_takeaways": [
+        "Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job!",
+        "00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions?",
+        "00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs?",
+        "01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI?"
+      ],
+      "show_notes": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world. He is the founder and CEO of The Production Board, and currently serves on President Trump's Council of Advisors on Science and Technology (PCAST). He explains: \u25fcWhy a wave of socialism could come to America by 2028 \u25fcWhy Social Security may have cost Americans over $37 trillion in lost retirement wealth \u25fcWhy \"the government will save you\" is one of the great lies people are told \u25fcWhy AI will make you richer, not unemployed \u25fcWhy Tesla is set to win the trillion-dollar robot race Chapters 00:00:00 Intro 00:02:04 Who Is David Friedberg and Why Does He Matter? 00:05:01 What Does a Presidential Advisor Actually Do? 00:06:06 Why AI Could Be the Most Important Issue of Our Time 00:08:28 What\u2019s Really Happening to the U.S. Economy? 00:14:56 Is America Actually in Decline? 00:18:43 Should the Wealthy Be Paying More Tax? 00:24:09 What Happens If the Current System Continues? 00:26:43 The Great Lie About Home Ownership 00:29:35 What Should You Invest in Instead of Real Estate? 00:33:35 How Much of Success Is Actually in Your Control? 00:37:11 Why Inequality May Be Unavoidable 00:37:33 Will Inequality Always Exist? 00:39:48 The Real Reason the System Feels Broken 00:43:03 Which Countries Could America Learn From? 00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs? 00:56:24 What Will Humans Do When AI Does the Work? 00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions? 01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI? 01:17:19 When Does the AI Revolution Really Begin? 01:18:57 What Open Source Actually Means for AI 01:20:48 The Hidden Risks of Open Source AI 01:22:50 Ads 01:24:17 Is Elon Musk Right That Work Will Become Optional? 01:28:02 What the Next Stage of Humanity Could Look Like 01:29:44 Could Socialism Solve AI-Driven Job Loss? 01:34:58 Could Humans Ever Live Forever? 01:39:16 Why Does the Entire Body Seem to Age Together? 01:39:43 The 2006 Discovery That Changed How We Think About Aging 01:42:39 How AI Could Transform Epigenetics and Longevity 01:45:54 The Great Lies America Tells Itself 01:48:27 What David Friedberg Thinks About the Iran War 01:54:22 Who Could Win the Next Election? 01:57:57 What AI Will Actually Mean for the Average Person 02:00:18 Closing Tradition Follow David: X - https://link.thediaryofaceo.com/BLcFhWv All-In Podcast - https://link.thediaryofaceo.com/Bkwjzt2 Ohalo - https://link.thediaryofaceo.com/FtpiqIA The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK \u25fc Shop The Diary Of A CEO collection: https://thediary.com/collections/shop \u25fc Get email updates - https://link.thediaryofaceo.com/5IB1H6E \u25fc Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Wispr - Get 14 days of Wispr Flow for free at https://wisprflow.ai/steven Wayfair - Visit http://Wayfair.com to start your home refresh",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Health",
+        "Psychology",
+        "Relationships"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences.",
+        "I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+        "And I got interviews with investment banks and the investment banks were like, oh, we want to talk to a kid that knows how to play poker because this was before internet poker before ESPN poker.",
+        "What role should the government play in determining where AI goes, how it gets built, how it gets deployed, who gets to use it, who owns it, where the value lies."
+      ],
+      "transcript_content_summary": "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences. I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:39:09.450835-07:00",
+      "transcript_takeaways": [
+        "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost.",
+        "**AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer \u2014 because they can do more with each person.\""
+      ],
+      "transcript_summary": "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost. **AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer "
+    },
     {
       "id": "4e92aec1800633b3",
       "podcast": "Modern Wisdom",
@@ -969,9 +1126,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!",
+      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -996,7 +1153,22 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_status": "not_ingested"
+      "transcript_content_takeaways": [
+        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
+        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
+        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
+        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
+      ],
+      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
+      "transcript_takeaways": [
+        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
+        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
+      ],
+      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
     },
     {
       "id": "70fafc54413026f0",
@@ -1455,9 +1627,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M011ZSB34WGDGQTT05Q2PJ6Z/konstantin_steve_keen.ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Konstantin Kisin\u2019s WARNING: Our Leaders Have Lost Control, We\u2019re Headed For Conflict And Violence!",
+      "title": "Financial Crash Expert: He Predicted The 2008 Crash, Now He Says Capitalism Failed, It\u2019s Too Late!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011YXPMDDJ8TWA1RB7X36R7.mp3?fcv=zlfnewojsgzws5ss9uvqsdni",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M011YXPMDDJ8TWA1RB7X36R7.mp3",
       "guid": "flightcast:01M011YXPMA7EXR82JB7CMWHJN",
       "published_at": "2026-08-20T05:00:00+00:00",
       "published_date": "2026-08-19",
@@ -1482,23 +1654,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "I, what I can tell you is I came to Britain legally because that's what I thought you're supposed to do.",
-        "So it sounds a little bit smear like we're saying, unless we address this, then the right has a very effective marketing campaign.",
-        "But it's the argument has been that because the Spanish government came out and was critical of Israel, critical of Zionism, then this was a setup by the Israeli through Morocco to disturb Spain.",
-        "Okay, if the Libyan slave markets exist because we came, we saw he died, go quote, Hillary Clinton, not a country leader."
-      ],
-      "transcript_content_summary": "I, what I can tell you is I came to Britain legally because that's what I thought you're supposed to do. So it sounds a little bit smear like we're saying, unless we address this, then the right has a very effective marketing campaign.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-20T07:35:57.673849-07:00",
-      "transcript_takeaways": [
-        "**Operator lesson from his 80/20 point**: Under communism, disincentivizing the productive 20% collapses the whole system. In a business context, your most efficient team members are that 20% \u2014 your job is to free them from manual spreadsheet/reporting work so they stay productive and engaged, not burned out by data grunt work.",
-        "**Macro context for your consulting pipeline**: Kisin argues economic stagnation + housing lockout + political loss of control = rising civil unrest. For SMBs and CPA firms, that means margin pressure and hiring risk. **Practical AI automation becomes a resilience play** \u2014 when labor is uncertain and costs rise, automated workflows keep running. Lean into this in your outreach: \"you can't control the economy, but you can control your reporting pipeline.\"",
-        "**Concrete positioning action**: Use the \"political class has lost control / practical vs feel-good decisions\" framing in your discovery conversations. Kisin says decisions are driven by \"what makes us feel good as opposed to what works\" \u2014 that's your natural sales line for AI auditing/automation. Pitch: \"Most AI consulting is feel-good PowerPoint. Here's what actually works \u2014 I'll build you one reporting workflow in week one and prove the time savings.\""
-      ],
-      "transcript_summary": "**Operator lesson from his 80/20 point**: Under communism, disincentivizing the productive 20% collapses the whole system. In a business context, your most efficient team members are that 20% \u2014 your job is to free them from manual spreadsheet/reporting work so they stay productive and engaged, not burned out by data grunt work. **Macro context for your consulting pipeline**: Kisin argues economic stagnation + housing lockout + political loss of control = rising civil unrest. For SMBs and CPA firms, that means margin pressure and hiring risk. **Practical AI automation becomes a resilience play** \u2014 when labor is uncertain and costs rise, automated workflows keep running. Lean into this in your outreach: \"you can't control the economy, but you can control your reporting pipeline.\""
+      "transcript_status": "not_ingested"
     },
     {
       "id": "e230c2b5be9820ca",
@@ -29569,6 +29725,163 @@
   ],
   "recent": [
     {
+      "id": "3f6614969d9b172c",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf/image/53942b2525d90684c2cfcce738b058bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Scott Galloway On Money, Happiness, And The Search For Enough",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1039937233.mp3",
+      "guid": "9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf",
+      "published_at": "2026-08-31T08:15:00+00:00",
+      "published_date": "2026-08-31",
+      "published_month": "2026-08",
+      "duration": "3491",
+      "summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+      "content_summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+      "content_takeaways": [
+        "They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke.",
+        "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life.",
+        "He ends with advice on how to get through financial hardships."
+      ],
+      "show_notes": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "Finance",
+        "Parenting",
+        "Content",
+        "Markets",
+        "Business",
+        "Investing",
+        "Strategy"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me.",
+        "That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+        "When I was your age, I was trying to figure out how to pay people the least I could without them leaving because I wanted a great shareholder value that I could then sell and make a lot of money.",
+        "Find out on the markets podcast from Goldman Sachs, a breakdown of market moves and macro signals in 10 minutes or less."
+      ],
+      "transcript_content_summary": "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me. That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:33:55.767162-07:00",
+      "transcript_takeaways": [
+        "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think.",
+        "**2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful.",
+        "**3. Past money trauma drives irrational behavior long after you\u2019re wealthy** \u2014 Galloway admits he still has financial insecurity and body dysmorphia rooted in childhood scarcity, even at $100M+. For consulting: recognize that founders and executives you advise often have similar hidden wiring. Their \u201cenough\u201d number is emotional, not rational \u2014 and pushing past it without addressing the underlying scarcity script leads to burnout or hoarding, not happiness.",
+        "**4. Be open about money \u2014 opacity protects the status quo** \u2014 Galloway\u2019s central argument: \u201cnot talking about your money keeps middle and lower income people down.\u201d For your consulting business, this translates to being transparent about pricing, business economics, and wealth-building mechanics with clients. The norm of secrecy around money is a gatekeeping device \u2014 breaking it builds trust and democratizes the playbook you sell."
+      ],
+      "transcript_summary": "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think. **2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful."
+    },
+    {
+      "id": "981b10a2ac30c498",
+      "podcast": "Modern Wisdom",
+      "short_name": "Modern Wisdom",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/a62f84c0-f8b6-11ed-a4fc-fb9e7841d45b/image/76ed638554a4be965517200d1cd5f30d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7/image/600880fab195f0c33fbbec6046c5255f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#a855f7",
+      "emoji": "\ud83e\udde0",
+      "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d - #1144",
+      "url": "",
+      "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3",
+      "guid": "fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7",
+      "published_at": "2026-08-31T05:00:00+00:00",
+      "published_date": "2026-08-30",
+      "published_month": "2026-08",
+      "duration": "11184",
+      "summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
+      "content_summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
+      "content_takeaways": [
+        "(02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World?",
+        "How big of a deal the Iran War actually is for global stability.",
+        "How future historians will view Trump's legacy.",
+        "(57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada?"
+      ],
+      "show_notes": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability. How future historians will view Trump's legacy. And much more... Guests Professor Jiang Xueqin is an educator, geopolitical commentator, and YouTuber. Robert Pape is a political scientist and professor at the University of Chicago. George Friedman is a geopolitical forecaster, strategist, and author. Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Is America the Biggest Threat to Global Peace? (09:52) Will America Still Be a Superpower in 20 Years? (23:22) What Does America\u2019s Relationship With China Look Like? (32:21) Who Will Be the Biggest Superpower in 20 Years? (37:16) Is America Heading for Civil Unrest? (42:45) The Rise of Violent Populism (47:57) Is Internal Violence in America Inevitable? (57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada? (01:12:22) How Serious Is the Iran War? (01:21:17) Can Economic Pressure Actually Win a War? (01:31:12) Is the Iran War Becoming a Forever War? (01:45:23) Why Did Trump Bomb Fordow? (02:03:21) Is Israel at the Centre of the Iran War? (02:11:13) Why Does Israel Have So Much Influence Over the US? (02:22:43) How Can Trump Win the Iran War? (02:30:37) Is Trump Really Willing to Leave NATO? (02:32:18) Could Britain Become a Global Power Again? (02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World? (02:52:28) How Likely Is Nuclear War? (02:57:45) Is Targeting Electrical Power the Most Dangerous Scenario? (03:05:01) Where to Find the Guys Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "tags": [
+        "AI",
+        "Parenting",
+        "Health",
+        "Psychology",
+        "Performance",
+        "Relationships",
+        "Self-Improvement"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war.",
+        "We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
+        "Assume that the other economies falter, where they can't buy it, or there's a political shift, the Chinese get into trouble because they must have access to the global market.",
+        "Because regardless of how you feel about the United States right now, United States is a self-sufficient resource rich economy with a very vibrant, energetic young population."
+      ],
+      "transcript_content_summary": "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war. We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:36:31.112314-07:00",
+      "transcript_takeaways": [
+        "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.",
+        "**The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore."
+      ],
+      "transcript_summary": "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia. **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignor"
+    },
+    {
+      "id": "73bc1b113c63a861",
+      "podcast": "The Diary Of A CEO with Steven Bartlett",
+      "short_name": "DOAC",
+      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg",
+      "accent": "#dc2626",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
+      "url": "",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3",
+      "guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
+      "published_at": "2026-08-31T05:00:00+00:00",
+      "published_date": "2026-08-30",
+      "published_month": "2026-08",
+      "duration": "7460",
+      "summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+      "content_summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+      "content_takeaways": [
+        "Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job!",
+        "00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions?",
+        "00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs?",
+        "01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI?"
+      ],
+      "show_notes": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world. He is the founder and CEO of The Production Board, and currently serves on President Trump's Council of Advisors on Science and Technology (PCAST). He explains: \u25fcWhy a wave of socialism could come to America by 2028 \u25fcWhy Social Security may have cost Americans over $37 trillion in lost retirement wealth \u25fcWhy \"the government will save you\" is one of the great lies people are told \u25fcWhy AI will make you richer, not unemployed \u25fcWhy Tesla is set to win the trillion-dollar robot race Chapters 00:00:00 Intro 00:02:04 Who Is David Friedberg and Why Does He Matter? 00:05:01 What Does a Presidential Advisor Actually Do? 00:06:06 Why AI Could Be the Most Important Issue of Our Time 00:08:28 What\u2019s Really Happening to the U.S. Economy? 00:14:56 Is America Actually in Decline? 00:18:43 Should the Wealthy Be Paying More Tax? 00:24:09 What Happens If the Current System Continues? 00:26:43 The Great Lie About Home Ownership 00:29:35 What Should You Invest in Instead of Real Estate? 00:33:35 How Much of Success Is Actually in Your Control? 00:37:11 Why Inequality May Be Unavoidable 00:37:33 Will Inequality Always Exist? 00:39:48 The Real Reason the System Feels Broken 00:43:03 Which Countries Could America Learn From? 00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs? 00:56:24 What Will Humans Do When AI Does the Work? 00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions? 01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI? 01:17:19 When Does the AI Revolution Really Begin? 01:18:57 What Open Source Actually Means for AI 01:20:48 The Hidden Risks of Open Source AI 01:22:50 Ads 01:24:17 Is Elon Musk Right That Work Will Become Optional? 01:28:02 What the Next Stage of Humanity Could Look Like 01:29:44 Could Socialism Solve AI-Driven Job Loss? 01:34:58 Could Humans Ever Live Forever? 01:39:16 Why Does the Entire Body Seem to Age Together? 01:39:43 The 2006 Discovery That Changed How We Think About Aging 01:42:39 How AI Could Transform Epigenetics and Longevity 01:45:54 The Great Lies America Tells Itself 01:48:27 What David Friedberg Thinks About the Iran War 01:54:22 Who Could Win the Next Election? 01:57:57 What AI Will Actually Mean for the Average Person 02:00:18 Closing Tradition Follow David: X - https://link.thediaryofaceo.com/BLcFhWv All-In Podcast - https://link.thediaryofaceo.com/Bkwjzt2 Ohalo - https://link.thediaryofaceo.com/FtpiqIA The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK \u25fc Shop The Diary Of A CEO collection: https://thediary.com/collections/shop \u25fc Get email updates - https://link.thediaryofaceo.com/5IB1H6E \u25fc Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Wispr - Get 14 days of Wispr Flow for free at https://wisprflow.ai/steven Wayfair - Visit http://Wayfair.com to start your home refresh",
+      "tags": [
+        "AI",
+        "Startups",
+        "Business",
+        "Career",
+        "Health",
+        "Psychology",
+        "Relationships"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences.",
+        "I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+        "And I got interviews with investment banks and the investment banks were like, oh, we want to talk to a kid that knows how to play poker because this was before internet poker before ESPN poker.",
+        "What role should the government play in determining where AI goes, how it gets built, how it gets deployed, who gets to use it, who owns it, where the value lies."
+      ],
+      "transcript_content_summary": "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences. I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-08-31T07:39:09.450835-07:00",
+      "transcript_takeaways": [
+        "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost.",
+        "**AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer \u2014 because they can do more with each person.\""
+      ],
+      "transcript_summary": "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost. **AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer "
+    },
+    {
       "id": "4e92aec1800633b3",
       "podcast": "Modern Wisdom",
       "short_name": "Modern Wisdom",
@@ -30306,131 +30619,42 @@
         "**Unilateral action on global problems rarely moves the needle.** The China vs. US carbon framing: the US going backward economically doesn't fix a problem China dominates (~50% of global output). Operator lesson \u2014 for David's consulting: don't sell expensive solutions that don't solve the actual problem scale. Technology breakthroughs (fusion, solar, battery) beat regulation every time. Frame your AI pitches as leverage multipliers, not compliance costs."
       ],
       "transcript_summary": "**Federal R&D is pivoting hard.** Kratsios is redirecting $200B/yr S&T spending away from DEI/climate grants toward fusion (2035 target), nuclear, and \"abundant energy\" tech. VTubers: if your clients or prospects touch govtech, defense, energy, or regulated industries, this signals where the real funding and policy tailwinds are \u2014 and where they'll need practical AI/automation to absorb it. **Follow the inefficiency, not the budget number.** Kratsios argues 25% of NSF grants under Biden (~$8B over 4 years) went to DEI \"science\" \u2014 i.e., money spent on signaling rather than substance. Consulting lesson: the market for \"practical AI that actually works\" directly maps to organizations (CPA firms, operators, SMBs) that are tired of performative spending and want measurable ROI."
-    },
-    {
-      "id": "03f25bc4b2ab4883",
-      "podcast": "Modern Wisdom",
-      "short_name": "Modern Wisdom",
-      "podcast_image": "https://megaphone.imgix.net/podcasts/a62f84c0-f8b6-11ed-a4fc-fb9e7841d45b/image/76ed638554a4be965517200d1cd5f30d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "image": "https://megaphone.imgix.net/podcasts/c2d68c48-2c72-11f1-b575-fb76c3785658/image/2d8e56edb0445d3dd9fc612f46a6551e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "accent": "#a855f7",
-      "emoji": "\ud83e\udde0",
-      "title": "\u201cAge Reversal Is Coming.\u201d Everything You Need To Know - Dr David Sinclair - #1141",
-      "url": "",
-      "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8575812635.mp3",
-      "guid": "c2d68c48-2c72-11f1-b575-fb76c3785658",
-      "published_at": "2026-08-24T05:00:00+00:00",
-      "published_date": "2026-08-23",
-      "published_month": "2026-08",
-      "duration": "7548",
-      "summary": "Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?",
-      "content_summary": "Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability?",
-      "content_takeaways": [
-        "And how close are scientists to turning age-reversal experiments into medicines that could radically extend our lives?",
-        "Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author.",
-        "What happens if we treat aging as a disease rather than an inevitability?"
-      ],
-      "show_notes": "Dr David Sinclair is a geneticist, professor at Harvard Medical School, and author. Can human aging actually be reversed? What happens if we treat aging as a disease rather than an inevitability? And how close are scientists to turning age-reversal experiments into medicines that could radically extend our lives? Expect to learn how scientists can reset the age of cells without causing cancer, whether resveratrol and NAD supplements actually work, why three meals a day plus snacks might be marketing, the best exercise protocol for longevity, whether GLP-1s are legitimate longevity drugs, and much more... Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get a free bottle of D3K2, an AG1 Welcome Kit, and more when you first subscribe at https://ag1.info/modernwisdom Get up to 20% off Timeline\u2019s leading longevity and cellular health supplement at https://timeline.com/modernwisdom Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Get 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (0:00) How David\u2019s Work Has Evolved(0:58) Can Scientists Actually Reverse Blindness?(5:53) How Does ER100 Work?(8:57) Is Aging a Disease?(10:14) What\u2019s Next in Age Reversal?(14:00) How to Reverse Aging Without Going Too Far(17:10) What Most Longevity Experts Secretly Believe(20:48) The Biggest Levers for Reversing Aging(22:53) Can We Survive 2 Weeks Without Food?(32:55) The Most Effective Way to Fast(36:10) Does Calorie Restriction Actually Extend Human Life?(40:52) Is the Proteinmaxxing Movement Overhyped?(44:41) Could Sex Help You Live Longer?(47:57) Why Quality Sleep Is Essential for Longevity(51:01) Can Overthinking Shorten Your Lifespan?(55:05) What Longevity Drugs Does David Take Every Day?(56:48) The Truth Behind Controversial Longevity Drugs(1:13:51) Can Erectile Dysfunction Medication Treat Cancer?(1:17:46) The Hidden Danger of Heavy Metals in Supplements(1:21:45) The Benefits of Creating a Longevity Community(1:24:54) Sauna vs Cold Plunges: Which Is Better for Longevity?(1:31:34) Is Bryan Johnson\u2019s Protocol Actually Working?(1:35:39) Are Vitamins a Waste of Money?(1:39:41) Could GLP-1s Protect Against Dementia?(1:46:23) What\u2019s AI Doing to Longevity Research?(1:54:30) Can Your Mindset Affect How Long You Live?(1:56:55) The Two Things That Matter Most for Longevity(1:58:01) Which Longevity Methods Actually Work?(2:03:31) When Health Optimisation Goes Too Far(2:05:18) Where to Find David Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "tags": [
-        "AI",
-        "Career",
-        "Health",
-        "Psychology",
-        "Performance",
-        "Relationships",
-        "Self-Improvement"
-      ],
-      "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "So the main things about fasting are we know from animals and some human data, but mostly from animals that if you restrict how often you eat and to some extent, how much you eat, you get longevity benefits.",
-        "And obviously you try to think about the yamanaka factors and how important NAD and rest fair at all in in your get is.",
-        "We when we show and it's a matter of when not if that aging is reversible in humans because it works in all these other animals.",
-        "I was going to say most of them secretly think that I hyped this stuff way more than I should, which is again, not a fair thing because my lab is eight years ahead of what we've published."
-      ],
-      "transcript_content_summary": "So the main things about fasting are we know from animals and some human data, but mostly from animals that if you restrict how often you eat and to some extent, how much you eat, you get longevity benefits. And obviously you try to think about the yamanaka factors and how important NAD and rest fair at all in in your get is.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:33:20.872048-07:00",
-      "transcript_takeaways": [
-        "**Human trials are live.** Sinclair's lab moved OSK gene therapy (Yamanaka factors w/out tumor risk) from mice to humans \u2014 ER100 injected into eyes for blindness via AAV. For operators: the preclinical \u2192 clinical bridge finally crossed. Watch the trial readouts; if they work, the capital floodgate Sinclair predicts (he explicitly compares it to the AGI inflection point) starts opening.",
-        "**The real needle-mover is an oral pill, not an injection.** His lab quietly developed a 3-day/week oral cocktail that rejuvenates memory, skin, and cognition in old mice \u2014 working *through* the same Tet-enzyme epigenetic reset mechanism. If scalable oral delivery works in humans, the business model shifts from million-dollar gene therapy ($2.2M per patient for Hemgenix precedent) to subscription-pill economics. Track which small-molecule companies license or partner on this path.",
-        "**Concrete action: put Sinclair's human trial timeline and pill data on your radar for client positioning.** If ER100 Phase 1/2 data drops positive, longevity biotech becomes a credible vertical for AI-finance consulting \u2014 data pipelines, trial analytics, biomarker dashboards. Sinclair says \"it's a matter of when, not if.\" That \"when\" is the year or two window David should watch for portfolio/allocation advisory angles with high-net-worth or family-office clients already asking about the space."
-      ],
-      "transcript_summary": "**Human trials are live.** Sinclair's lab moved OSK gene therapy (Yamanaka factors w/out tumor risk) from mice to humans \u2014 ER100 injected into eyes for blindness via AAV. For operators: the preclinical \u2192 clinical bridge finally crossed. Watch the trial readouts; if they work, the capital floodgate Sinclair predicts (he explicitly compares it to the AGI inflection point) starts opening. **The real needle-mover is an oral pill, not an injection.** His lab quietly developed a 3-day/week oral cocktail that rejuvenates memory, skin, and cognition in old mice \u2014 working *through* the same Tet-enzyme epigenetic reset mechanism. If scalable oral delivery works in humans, the business model shifts from million-dollar gene therapy ($2.2M per patient for Hemgenix precedent) to subscription-pill economics. Track which small-molecule companies license or partner on this path."
-    },
-    {
-      "id": "a3facde922ee33b9",
-      "podcast": "The Diary Of A CEO with Steven Bartlett",
-      "short_name": "DOAC",
-      "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
-      "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
-      "accent": "#dc2626",
-      "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: Parenthood Shrinks Your Brain, And Drops Testosterone 25%!",
-      "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=h630bmnb3arcf0pv2eztowyj",
-      "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
-      "published_at": "2026-08-24T05:00:00+00:00",
-      "published_date": "2026-08-23",
-      "published_month": "2026-08",
-      "duration": "5307",
-      "summary": "What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the \"parental brain\" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the \"dad bod\" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.",
-      "content_summary": "What actually happens to your brain, and how fast or slow do you age when you become a parent? Darby Saxbe reveals the surprising science of the \"parental brain\" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the \"dad bod\" might be nature's design. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood.",
-      "content_takeaways": [
-        "Darby Saxbe reveals the surprising science of the \"parental brain\" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the \"dad bod\" might be nature's design.",
-        "Her research has reshaped how scientists understand fatherhood, men's mental health, and what it really takes to raise a child.",
-        "00:30:44 Why Fewer People May Be Choosing Parenthood 00:35:12 Ads 00:37:34 Do Parents Actually Have Healthier Brains?",
-        "What actually happens to your brain, and how fast or slow do you age when you become a parent?"
-      ],
-      "show_notes": "What actually happens to your brain, and how fast or slow do you age when you become a parent? Dr. Darby Saxbe reveals the surprising science of the \"parental brain\" and how fatherhood physically reshapes a man's mind, why dads lose grey matter, what really happens to testosterone, and why the \"dad bod\" might be nature's design. Dr. Darby Saxbe is a professor of psychology and a leading researcher on the neuroscience of parenthood. She is the founder and director of the NEST (Neuroendocrinology of Social Ties) Lab at the University of Southern California, where her pioneering work studies how the transition to parenthood changes the brains, hormones and relationships of both mothers and fathers. Her research has reshaped how scientists understand fatherhood, men's mental health, and what it really takes to raise a child. Chapters 00:00:00 Intro 00:02:13 Role Of Fathers In Parenting 00:06:10 What Happens To The Brain When You Become A Father? 00:09:09 Why Testosterone Drops When Men Become Fathers 00:11:22 Should Men Be Worried About Lower Testosterone? 00:15:39 What Fatherhood Can Change In A Man\u2019s Personality 00:19:00 The Upsides And Downsides Of Parenting 00:21:30 What Happens When We Make Parents Fight? 00:23:48 Why The Birth Experience Can Shape Your Relationship 00:27:25 Are People Waiting For The Perfect Time To Have Kids? 00:30:44 Why Fewer People May Be Choosing Parenthood 00:35:12 Ads 00:37:34 Do Parents Actually Have Healthier Brains? 00:45:02 What Does Daycare Really Mean For Children? 00:47:17 Why Mothers Become The Default Parent 00:49:10 Maternal Gatekeeping And Weaponized Incompetence 00:52:04 What Really Happens To Relationships After A Baby 00:54:27 Why Fathers Can Experience Postpartum Depression 00:56:45 Can Your Personality Predict Whether You\u2019ll Divorce? 01:00:51 Why Women\u2019s Ovulation May Be Harder To Detect 01:03:06 How Can You Increase Your Chances Of Conceiving? 01:04:03 What Every New Father Needs To Know 01:04:51 Ads 01:05:51 How Should Parents Divide Baby Care? 01:07:54 What Couples Should Do Before Having Kids 01:13:26 How To Protect Your Relationship After Having Children 01:15:24 Is The Dad Bod More Attractive? 01:18:36 What Does Your Childhood Teach You About Parenting? 01:20:30 How Divorce Can Affect Children 01:20:47 Are Humans Really Meant To Be Monogamous? 01:22:09 What Are The Biggest Concerns About Modern Parenthood? 01:23:54 What Systemic Change Could Transform Parenting? She explains: \u25fc Why a father's brain physically shrinks when you become a dad \u25fc Why testosterone drops in new fathers \u25fc Why the \"dad bod\" may signal a more attentive hands-on father \u25fc Why men experience postpartum depression \u25fc Why raising a child was never meant to be done by two people alone Follow Dr. Darby Saxbe: X: https://x.com/darbysaxbe NEST Lab: https://www.nestlab.ca Her research: https://dornsife.usc.edu/nestlab/ Her book \u2018Dad Brain: The New Science of Fatherhood and How It Shapes Men's Lives: https://a.co/d/03Qhspxt Join her US based \u2018Daddy Stroller Social Club\u2019: https://daddystrollersocialclub.com The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Shop The Diary Of A CEO collection: https://thediary.com/collections/shop (https://link.thediaryofaceo.com/5IB1H6E) \u25fc Get email updates - https://link.thediaryofaceo.com/5IB1H6E \u25fc Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Shopify - https://shopify.com/bartlett Linkedin Talent Solutions - http://linkedin.com/DOAC Pipedrive - https://pipedrive.com/CEO",
-      "tags": [
-        "Startups",
-        "Career",
-        "Health",
-        "Parenting",
-        "Psychology",
-        "Business",
-        "Relationships"
-      ],
-      "source": "favorite_feed",
-      "transcript_status": "not_ingested"
     }
   ],
   "stats": {
-    "total_available": 6446,
-    "ytd_count": 785,
-    "recent_count": 17,
+    "total_available": 6449,
+    "ytd_count": 788,
+    "recent_count": 18,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
-      "Modern Wisdom": 103,
+      "Prof G Markets": 163,
+      "Modern Wisdom": 104,
+      "DOAC": 104,
       "All-In": 80,
       "TWIST": 109,
-      "DOAC": 103,
       "The Game": 76,
       "Startup Ideas": 73,
-      "Grade Cricketer": 79,
-      "Prof G Markets": 162
+      "Grade Cricketer": 79
     },
     "by_tag": {
-      "Business": 614,
-      "AI": 487,
-      "Content": 449,
-      "Career": 425,
-      "Startups": 364,
-      "Finance": 291,
-      "Markets": 242,
-      "Health": 235,
-      "Psychology": 204,
-      "Relationships": 184,
-      "Performance": 167,
-      "Investing": 160,
-      "Strategy": 127,
+      "Business": 616,
+      "AI": 489,
+      "Content": 450,
+      "Career": 426,
+      "Startups": 365,
+      "Finance": 292,
+      "Markets": 243,
+      "Health": 237,
+      "Psychology": 206,
+      "Relationships": 186,
+      "Performance": 168,
+      "Investing": 161,
+      "Strategy": 128,
       "Cricket": 104,
       "Sport": 94,
       "Venture": 87,
-      "Parenting": 81,
+      "Parenting": 83,
       "Tech": 79
     },
     "by_month": {
@@ -30441,38 +30665,91 @@
       "2026-05": 87,
       "2026-06": 100,
       "2026-07": 97,
-      "2026-08": 84
+      "2026-08": 87
     },
     "latest_by_podcast": {
+      "Prof G Markets": {
+        "id": "3f6614969d9b172c",
+        "podcast": "Prof G Markets",
+        "short_name": "Prof G Markets",
+        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf/image/53942b2525d90684c2cfcce738b058bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "accent": "#22c55e",
+        "emoji": "\ud83d\udcc8",
+        "title": "Scott Galloway On Money, Happiness, And The Search For Enough",
+        "url": "",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1039937233.mp3",
+        "guid": "9e90ce2e-c3c8-11f0-a59c-5b4d40789dcf",
+        "published_at": "2026-08-31T08:15:00+00:00",
+        "published_date": "2026-08-31",
+        "published_month": "2026-08",
+        "duration": "3491",
+        "summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+        "content_summary": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships.",
+        "content_takeaways": [
+          "They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke.",
+          "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life.",
+          "He ends with advice on how to get through financial hardships."
+        ],
+        "show_notes": "Scott Galloway and Ed Elson discuss how Scott\u2019s relationship with money has evolved over the course of his life. They unpack the exact moment that Scott became obsessed with money, how it became an addictive substance, and why he still has fears of going broke. He ends with advice on how to get through financial hardships. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "tags": [
+          "Finance",
+          "Parenting",
+          "Content",
+          "Markets",
+          "Business",
+          "Investing",
+          "Strategy"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me.",
+          "That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+          "When I was your age, I was trying to figure out how to pay people the least I could without them leaving because I wanted a great shareholder value that I could then sell and make a lot of money.",
+          "Find out on the markets podcast from Goldman Sachs, a breakdown of market moves and macro signals in 10 minutes or less."
+        ],
+        "transcript_content_summary": "When I look in the mirror, I think I look emaciated because growing up, I was so painfully thin that it kind of traumatized me. That's maybe it's an unhealthy addiction, but also maybe it's healthy because ultimately it's going to lead you to good places.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-31T07:33:55.767162-07:00",
+        "transcript_takeaways": [
+          "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think.",
+          "**2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful.",
+          "**3. Past money trauma drives irrational behavior long after you\u2019re wealthy** \u2014 Galloway admits he still has financial insecurity and body dysmorphia rooted in childhood scarcity, even at $100M+. For consulting: recognize that founders and executives you advise often have similar hidden wiring. Their \u201cenough\u201d number is emotional, not rational \u2014 and pushing past it without addressing the underlying scarcity script leads to burnout or hoarding, not happiness.",
+          "**4. Be open about money \u2014 opacity protects the status quo** \u2014 Galloway\u2019s central argument: \u201cnot talking about your money keeps middle and lower income people down.\u201d For your consulting business, this translates to being transparent about pricing, business economics, and wealth-building mechanics with clients. The norm of secrecy around money is a gatekeeping device \u2014 breaking it builds trust and democratizes the playbook you sell."
+        ],
+        "transcript_summary": "**1. The happiness ceiling on money is real** \u2014 Galloway cites Kahneman\u2019s research: income correlates with happiness only to a point, then flattens. He hit his \u201cenough\u201d number in 2017 ($125M based on 25\u00d7 monthly spend) but kept grinding. Practical takeaway: if you\u2019re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill \u2014 the next dollar moves the needle less than they think. **2. Spend on leverage and experiences, not status symbols** \u2014 Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life \u2014 not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful."
+      },
       "Modern Wisdom": {
-        "id": "4e92aec1800633b3",
+        "id": "981b10a2ac30c498",
         "podcast": "Modern Wisdom",
         "short_name": "Modern Wisdom",
         "podcast_image": "https://megaphone.imgix.net/podcasts/a62f84c0-f8b6-11ed-a4fc-fb9e7841d45b/image/76ed638554a4be965517200d1cd5f30d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "image": "https://megaphone.imgix.net/podcasts/ec3731b4-2c72-11f1-8665-ebc169324cb0/image/c50a1fe338aecc45e94795544d201d1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7/image/600880fab195f0c33fbbec6046c5255f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "accent": "#a855f7",
         "emoji": "\ud83e\udde0",
-        "title": "Mexican Batman, Britain\u2019s Downfall, Mr Bean\u2019s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143",
+        "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d - #1144",
         "url": "",
-        "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2946278073.mp3",
-        "guid": "ec3731b4-2c72-11f1-8665-ebc169324cb0",
-        "published_at": "2026-08-29T05:00:00+00:00",
-        "published_date": "2026-08-28",
+        "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3",
+        "guid": "fe9b6b9a-2c72-11f1-9d2d-cb2307229ef7",
+        "published_at": "2026-08-31T05:00:00+00:00",
+        "published_date": "2026-08-30",
         "published_month": "2026-08",
-        "duration": "7771",
-        "summary": "In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman. Why George chooses to wear AirPods during his massages. If Jimmy Carr will run for Prime Minister of the UK.",
-        "content_summary": "In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman. Why George chooses to wear AirPods during his massages. If Jimmy Carr will run for Prime Minister of the UK.",
+        "duration": "11184",
+        "summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
+        "content_summary": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.",
         "content_takeaways": [
-          "Why George chooses to wear AirPods during his massages.",
-          "In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman.",
-          "George Mack is a writer, marketer, and entrepreneur.",
-          "If Jimmy Carr will run for Prime Minister of the UK."
+          "(02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World?",
+          "How big of a deal the Iran War actually is for global stability.",
+          "How future historians will view Trump's legacy.",
+          "(57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada?"
         ],
-        "show_notes": "In the fifth installment of this new experimental format, we explore: - Inside the antics of a real-life Mexican Batman. - Why George chooses to wear AirPods during his massages. - If Jimmy Carr will run for Prime Minister of the UK. - and much more\u2026 Guests: - Jimmy Carr is a comedian, television host and an author. - George Mack is a writer, marketer, and entrepreneur. - Harry Dry is a marketer, copywriter and writer Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get up to 20% off Timeline\u2019s leading longevity and cellular health supplement at https://timeline.com/modernwisdom Get the brand new Whoop 5.0 and your first month for free at https://join.whoop.com/modernwisdom Get up to $50 off the RP Hypertrophy App at https://rpstrength.com/modernwisdom Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Who Is the Batman of Lagos De Moreno? (02:17) Is the British Pound Overvalued? (06:32) Jimmy Carr for Prime Minister? (08:30) Can You Guess This Victorian Slang? (12:40) Why Word Choice Makes or Breaks a Joke (17:47) Are All Relationships Transactional? (33:42) The Unexpected Upside of Being Cancelled (36:21) Why We\u2019ve Forgotten How to Build Friendships (42:18) Why Are Americans More Optimistic Than Brits? (44:41) The Secret to Truly Original Writing (54:28) Which Industry Will Disappear Next? (59:36) Is AI Killing Conspiracy Theories? (01:06:02) Are Smartphones the Real Epidemic? (01:08:26) Why We Need to Learn to Be Bored Again (01:11:49) Do Meditation Retreats Need AI Chatbots? (01:17:01) Are Mental Health Problems Really Societal Problems? (01:20:03) Is Gambling More Popular Than Reading? (01:31:18) Is Belief the Secret to Great Writing? (01:37:44) How GLP-1s Are Killing Gastric Band Surgery (01:38:46) Is Mr Bean the World\u2019s Biggest Comedy Star? (01:45:17) When Did Criticism Replace Encouragement? (01:52:15) The Best Rules of Great Communication (01:55:36) Is Living Longer Actually a Good Thing? (02:05:22) Who Should Be Britain\u2019s Next Prime Minister? Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "show_notes": "In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability. How future historians will view Trump's legacy. And much more... Guests Professor Jiang Xueqin is an educator, geopolitical commentator, and YouTuber. Robert Pape is a political scientist and professor at the University of Chicago. George Friedman is a geopolitical forecaster, strategist, and author. Sponsors: See discounts for all the products I use and recommend: \u2060https://chriswillx.com/deals\u2060 Get 160+ lab tests for just $365 and save an extra $25 at https://functionhealth.com/modernwisdom Sign up for a free trial from Shopify at https://shopify.com/modernwisdom Get a Free Sample Pack of LMNT\u2019s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom Get 10% discount on all Gymshark products at https://gym.sh/modernwisdom (use code MODERNWISDOM10) Get ChatGPT to explore ideas, solve problems, and learn faster at \u2060https://chatgpt.com Timestamps: (00:00) Is America the Biggest Threat to Global Peace? (09:52) Will America Still Be a Superpower in 20 Years? (23:22) What Does America\u2019s Relationship With China Look Like? (32:21) Who Will Be the Biggest Superpower in 20 Years? (37:16) Is America Heading for Civil Unrest? (42:45) The Rise of Violent Populism (47:57) Is Internal Violence in America Inevitable? (57:09) What the 1960s Teach Us About Civil Unrest (59:36) Would Trump Really Invade Greenland or Canada? (01:12:22) How Serious Is the Iran War? (01:21:17) Can Economic Pressure Actually Win a War? (01:31:12) Is the Iran War Becoming a Forever War? (01:45:23) Why Did Trump Bomb Fordow? (02:03:21) Is Israel at the Centre of the Iran War? (02:11:13) Why Does Israel Have So Much Influence Over the US? (02:22:43) How Can Trump Win the Iran War? (02:30:37) Is Trump Really Willing to Leave NATO? (02:32:18) Could Britain Become a Global Power Again? (02:36:03) How Population Collapse Could Reshape Geopolitics (02:41:31) Are We Living in a Quasi-Anarchist World? (02:52:28) How Likely Is Nuclear War? (02:57:45) Is Targeting Electrical Power the Most Dangerous Scenario? (03:05:01) Where to Find the Guys Extra Stuff: Get my free reading list of 100 books to read before you die: \u2060https://chriswillx.com/books\u2060 Try my productivity energy drink Neutonic: \u2060https://neutonic.com/modernwisdom\u2060 Episodes You Might Enjoy: #577 - David Goggins - This Is How To Master Your Life: \u2060lnkfi.re/SN-Goggins\u2060 #712 - Dr Jordan Peterson - How To Destroy Your Negative Beliefs: \u2060lnkfi.re/SN-Peterson\u2060 #700 - Dr Andrew Huberman - The Secret Tools To Hack Your Brain: \u2060lnkfi.re/SN-Huberman\u2060 - Get In Touch: Instagram: \u2060https://www.instagram.com/chriswillx\u2060 Twitter: \u2060https://www.twitter.com/chriswillx\u2060 YouTube: \u2060https://www.youtube.com/modernwisdompodcast\u2060 Email: \u2060https://chriswillx.com/contact\u2060 - Learn more about your ad choices. Visit megaphone.fm/adchoices",
         "tags": [
           "AI",
+          "Parenting",
           "Health",
-          "Content",
           "Psychology",
           "Performance",
           "Relationships",
@@ -30480,23 +30757,73 @@
         ],
         "source": "favorite_feed",
         "transcript_content_takeaways": [
-          "It's interesting how you have these, you can even explain some of these techniques yet they still work.",
-          "Interestingly, how do you get a data one way you can look at it is with, or what's the current people that reject technology that forgot?",
-          "Because normally, if you see a story about crime in Mexico, you go, or this is gonna be...",
-          "There was the case about seven months ago in the UK, where a guy purposely left his bike, I think, outside of the HMP in London, where all the police are based and put like a Apple air-tag on it."
+          "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war.",
+          "We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
+          "Assume that the other economies falter, where they can't buy it, or there's a political shift, the Chinese get into trouble because they must have access to the global market.",
+          "Because regardless of how you feel about the United States right now, United States is a self-sufficient resource rich economy with a very vibrant, energetic young population."
         ],
-        "transcript_content_summary": "It's interesting how you have these, you can even explain some of these techniques yet they still work. Interestingly, how do you get a data one way you can look at it is with, or what's the current people that reject technology that forgot?",
+        "transcript_content_summary": "When Ukraine can also be blamed on the United States, because at the onset of the war in 2022, Putin would have come to an agreement, but Boris Johnson flew into Kiev and convinced the landscape to fight this war. We don't have the workers to do that because we're not integrating the advanced workforce with the advance, with also advanced healthcare.",
         "transcript_status": "available",
         "transcript_source": "faster_whisper",
         "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-29T07:34:11.228847-07:00",
+        "transcript_generated_at": "2026-08-31T07:36:31.112314-07:00",
         "transcript_takeaways": [
-          "**Currency devaluation as a deliberate competitiveness play.** The transcript argues that devaluing the pound makes the UK cheap for foreign investment and exports \u2014 China did it for 20 years. For an AI consultant: the same logic applies to pricing strategy in a global market. If you're selling services priced in USD/EUR while operating from a weaker-currency cost base, you have a structural margin advantage. Worth modeling into your pricing.",
-          "**Energy cost is a 20-year structural moat or drag.** UK energy is 4x US prices, making production and office operations expensive. For any consulting client evaluating where to locate an AI/tech operation (including your own), this is a first-order consideration \u2014 not a tertiary one. France's 56 nuclear plants in 10 years is the benchmark for decisive infrastructure policy.",
-          "**Tax policy drives capital migration; countries are in a zero-sum competition for talent and investment.** Ireland's 12% corp tax captured all the tech HQs. The counter-argument in the transcript (GDP drops 4-5% if you alienate foreign investors) is the exact tradeoff your high-net-worth/tax-adjacent clients need to evaluate \u2014 both personally and for their businesses.",
-          "**Language as an emergent system is the best analogy for why top-down control fails.** No one centrally approves English words; they survive by usage. The same principle applies to AI governance, internal tool adoption, and community moderation \u2014 dictate less, let useful patterns propagate, and the system self-selects. If you're designing agent rules or SOPs, design for emergence, not enforcement."
+          "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.",
+          "**The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore."
         ],
-        "transcript_summary": "**Currency devaluation as a deliberate competitiveness play.** The transcript argues that devaluing the pound makes the UK cheap for foreign investment and exports \u2014 China did it for 20 years. For an AI consultant: the same logic applies to pricing strategy in a global market. If you're selling services priced in USD/EUR while operating from a weaker-currency cost base, you have a structural margin advantage. Worth modeling into your pricing. **Energy cost is a 20-year structural moat or drag.** UK energy is 4x US prices, making production and office operations expensive. For any consulting client evaluating where to locate an AI/tech operation (including your own), this is a first-order consideration \u2014 not a tertiary one. France's 56 nuclear plants in 10 years is the benchmark for decisive infrastructure policy."
+        "transcript_summary": "**US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence \u2014 meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia. **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq \u2014 even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignor"
+      },
+      "DOAC": {
+        "id": "73bc1b113c63a861",
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "short_name": "DOAC",
+        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg",
+        "accent": "#dc2626",
+        "emoji": "\ud83c\udf99\ufe0f",
+        "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
+        "url": "",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3",
+        "guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
+        "published_at": "2026-08-31T05:00:00+00:00",
+        "published_date": "2026-08-30",
+        "published_month": "2026-08",
+        "duration": "7460",
+        "summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+        "content_summary": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.",
+        "content_takeaways": [
+          "Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job!",
+          "00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions?",
+          "00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs?",
+          "01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI?"
+        ],
+        "show_notes": "Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world. He is the founder and CEO of The Production Board, and currently serves on President Trump's Council of Advisors on Science and Technology (PCAST). He explains: \u25fcWhy a wave of socialism could come to America by 2028 \u25fcWhy Social Security may have cost Americans over $37 trillion in lost retirement wealth \u25fcWhy \"the government will save you\" is one of the great lies people are told \u25fcWhy AI will make you richer, not unemployed \u25fcWhy Tesla is set to win the trillion-dollar robot race Chapters 00:00:00 Intro 00:02:04 Who Is David Friedberg and Why Does He Matter? 00:05:01 What Does a Presidential Advisor Actually Do? 00:06:06 Why AI Could Be the Most Important Issue of Our Time 00:08:28 What\u2019s Really Happening to the U.S. Economy? 00:14:56 Is America Actually in Decline? 00:18:43 Should the Wealthy Be Paying More Tax? 00:24:09 What Happens If the Current System Continues? 00:26:43 The Great Lie About Home Ownership 00:29:35 What Should You Invest in Instead of Real Estate? 00:33:35 How Much of Success Is Actually in Your Control? 00:37:11 Why Inequality May Be Unavoidable 00:37:33 Will Inequality Always Exist? 00:39:48 The Real Reason the System Feels Broken 00:43:03 Which Countries Could America Learn From? 00:44:47 Why Progress Matters More Than We Think 00:48:58 Ads 00:51:02 Will AI Really Take Our Jobs? 00:56:24 What Will Humans Do When AI Does the Work? 00:58:25 Why In-Person Jobs Could Explode in the AI Era 01:01:17 How AI Could Disrupt the Hiring Process 01:05:20 Can We Trust AI Founders\u2019 Predictions? 01:10:06 What Klarna\u2019s CEO Reveals About AI and Jobs 01:15:24 What Would Force Governments to Intervene in AI? 01:17:19 When Does the AI Revolution Really Begin? 01:18:57 What Open Source Actually Means for AI 01:20:48 The Hidden Risks of Open Source AI 01:22:50 Ads 01:24:17 Is Elon Musk Right That Work Will Become Optional? 01:28:02 What the Next Stage of Humanity Could Look Like 01:29:44 Could Socialism Solve AI-Driven Job Loss? 01:34:58 Could Humans Ever Live Forever? 01:39:16 Why Does the Entire Body Seem to Age Together? 01:39:43 The 2006 Discovery That Changed How We Think About Aging 01:42:39 How AI Could Transform Epigenetics and Longevity 01:45:54 The Great Lies America Tells Itself 01:48:27 What David Friedberg Thinks About the Iran War 01:54:22 Who Could Win the Next Election? 01:57:57 What AI Will Actually Mean for the Average Person 02:00:18 Closing Tradition Follow David: X - https://link.thediaryofaceo.com/BLcFhWv All-In Podcast - https://link.thediaryofaceo.com/Bkwjzt2 Ohalo - https://link.thediaryofaceo.com/FtpiqIA The Diary Of A CEO: \u25fc Join DOAC circle here - https://doaccircle.com/ \u25fc Buy The Diary Of A CEO book here - https://link.thediaryofaceo.com/BWjLTZK \u25fc Shop The Diary Of A CEO collection: https://thediary.com/collections/shop \u25fc Get email updates - https://link.thediaryofaceo.com/5IB1H6E \u25fc Follow Steven - https://link.thediaryofaceo.com/AGU9QP4 Sponsors: Wispr - Get 14 days of Wispr Flow for free at https://wisprflow.ai/steven Wayfair - Visit http://Wayfair.com to start your home refresh",
+        "tags": [
+          "AI",
+          "Startups",
+          "Business",
+          "Career",
+          "Health",
+          "Psychology",
+          "Relationships"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences.",
+          "I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+          "And I got interviews with investment banks and the investment banks were like, oh, we want to talk to a kid that knows how to play poker because this was before internet poker before ESPN poker.",
+          "What role should the government play in determining where AI goes, how it gets built, how it gets deployed, who gets to use it, who owns it, where the value lies."
+        ],
+        "transcript_content_summary": "Because AI unleashes this capacity for human advancement, and it's transforming every aspect of biology and our understanding of life sciences. I would say I'm deeply curious about the world and the universe and how it works and why it works the way it does.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-08-31T07:39:09.450835-07:00",
+        "transcript_takeaways": [
+          "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost.",
+          "**AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer \u2014 because they can do more with each person.\""
+        ],
+        "transcript_summary": "**Open-source AI is the great wealth-creation wedge.** Friedberg predicts a zero-net-worth founder will build a billion-dollar company from downloaded open-source models within 10 years. For your consulting practice, this is a positioning angle: the clients you advise on AI strategy don't need a $50/million-token API from Anthropic \u2014 they need to know which open-weight model (Chinese DeepSeek, Llama, Mistral) gives 99% of the capability for 1/100th the cost. **AI adoption is a hiring accelerator, not a job killer \u2014 use this to sell past fear.** Friedberg cites historical data: every tech revolution expanded total employment, not contracted it. When a skeptical operator client pushes back on AI investment with \"it'll replace my team,\" you now have a defensible counter-anchor grounded in actual evidence, not hype. Frame it as: \"The companies that adopt AI fastest will hire more, not fewer "
       },
       "All-In": {
         "id": "9b61a57a24c170d1",
@@ -30600,56 +30927,6 @@
           "**AI-powered hacking is unbounded and getting cheaper \u2014 long bullish for Palo Alto Networks and CrowdStrike.** Frontier models can now ingest every GitHub repo, every past exploit, every CVE history and relentlessly probe unmaintained code 24/7. With inference costs dropping (DeepSeek, open models), hackers are no longer budget-constrained. If you trade, look at PANW/CRWD; if you advise, budget for AI-native security tooling \u2014 the old \"patch Tuesday\" model is dead."
         ],
         "transcript_summary": "**Nvidia buying Hugging Face for $12.9B makes open-source AI a strategic asset, not a side project.** If the deal closes, Nvidia becomes the US open-source AI champion (vs China's Kimi/K2). For AI consulting clients: this signals that owning the open-source distribution layer is now big-tech territory \u2014 the window for independent open-source model startups to be platform-defining is closing fast. **\"On meter\" consumption pricing is the 2027 breakout model for AI revenue.** Customers like Uber are already shifting to metered, usage-based pricing instead of seat-based SaaS. If you're building or advising AI products, design pricing around tokens/API calls consumed, not per-user subscriptions \u2014 that's where frontier AI companies (Anthropic hitting $50B, OpenAI $30-40B) are pulling their revenue."
-      },
-      "DOAC": {
-        "id": "19e1768ac9e63e21",
-        "podcast": "The Diary Of A CEO with Steven Bartlett",
-        "short_name": "DOAC",
-        "podcast_image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
-        "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ABAAXMPJVNTD2GPCE6NNZF/square_cover_image.jpg",
-        "accent": "#dc2626",
-        "emoji": "\ud83c\udf99\ufe0f",
-        "title": "Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life",
-        "url": "",
-        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3",
-        "guid": "flightcast:01M0AAXF9NSPF8RYH06SNNV2JZ",
-        "published_at": "2026-08-28T05:00:00+00:00",
-        "published_date": "2026-08-27",
-        "published_month": "2026-08",
-        "duration": "1833",
-        "summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
-        "content_summary": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
-        "content_takeaways": [
-          "In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled.",
-          "He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful.",
-          "Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment.",
-          "As you build a successful life, are you making sure it\u2019s meaningful too?"
-        ],
-        "show_notes": "As you build a successful life, are you making sure it\u2019s meaningful too? Tony Robbins is a world-renowned life and business strategist, bestselling author, entrepreneur, and coach who has spent decades studying the forces that shape human behaviour, achievement and fulfilment. In this moment, Tony shares the hidden needs influencing almost every decision we make, and explains why money, status and freedom can still leave people feeling strangely unfulfilled. He explores what social media may be amplifying in us, why some of our strongest drives can quietly work against the life we want, and what can help us build a life that feels not just successful, but deeply meaningful. Listen to the full episode here! Spotify: https://g2ul0.app.link/VDxq5xcGH5b Apple: https://g2ul0.app.link/ZIsEDFeGH5b Watch the Episodes On YouTube: https://www.youtube.com/c/TheDiaryOfACEO/videos Tony Robbins: https://www.tonyrobbins.com/",
-        "tags": [
-          "Business",
-          "Career",
-          "Health",
-          "Psychology",
-          "Relationships",
-          "Performance"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool.",
-          "And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
-          "Well, first of all, how certain do you think that person is you're going to respond when they put a gun to your head?",
-          "Because we're certain it's good, but it's been long enough that we hope it's been there's a variety that we won't remember at all."
-        ],
-        "transcript_content_summary": "There's growth people, contribution people, but that's the dominant force because of our cultural conditioning and because certainty is basically survival tool. And it's like, and eventually they all want to get back in the game because we have six human needs, certainty, uncertainty, because think about this.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-28T07:33:25.554143-07:00",
-        "transcript_takeaways": [
-          "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
-        ],
-        "transcript_summary": "**\"Not growing = dying\" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check \u2014 how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay."
       },
       "The Game": {
         "id": "03c7dd787cd32ef3",
@@ -30793,85 +31070,32 @@
           "**Single-cause explanations are preferred, but the expensive answer is almost always multi-factor** \u2014 The episode mocks how you're \"not allowed to explain it systemically\" or use multiple factors. Clients want one reason, one fix, one price. Your consulting value is refusing that framing: do the work to untangle 3-5 interacting causes, show them the cost of the simple story, and charge for the real one."
         ],
         "transcript_summary": "**When data contradicts the dominant narrative, the narrative wins** \u2014 The Gabba pitch was rated \"very good\" despite totals of 64 and 95 all out. In consulting (or internal ops), you'll face clients who blame \"the batters don't dig in\" when the real signal is in system design: prep, incentives, schedule compression. Frame your diagnosis against what people *feel*, not just what the numbers say. Your job is to name the system gap they're ignoring. **Blame gravitates to individual technique, not structural causes** \u2014 Same pattern in finance/accounting teams: \"the analyst isn't thorough enough\" when the real issue is the data pipeline, handoff process, or unrealistic deadlines. Don't let clients pay you to fix people when you should be fixing the workflow. Sell the system fix."
-      },
-      "Prof G Markets": {
-        "id": "3cd5a8aed1a98d5f",
-        "podcast": "Prof G Markets",
-        "short_name": "Prof G Markets",
-        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "image": "https://megaphone.imgix.net/podcasts/dd0d7fb8-969e-11f1-9fa5-afaa0e225692/image/53942b2525d90684c2cfcce738b058bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "accent": "#22c55e",
-        "emoji": "\ud83d\udcc8",
-        "title": "Prof G Markets Is Taking A Break \u2014 You Should Too",
-        "url": "",
-        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1631081062.mp3",
-        "guid": "dd0d7fb8-969e-11f1-9fa5-afaa0e225692",
-        "published_at": "2026-08-17T08:15:00+00:00",
-        "published_date": "2026-08-17",
-        "published_month": "2026-08",
-        "duration": "255",
-        "summary": "Ed Elson and Scott Galloway are officially out on summer vacation. We\u2019ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too.",
-        "content_summary": "Ed Elson and Scott Galloway are officially out on summer vacation. We\u2019ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too.",
-        "content_takeaways": [
-          "The team will be enjoying the break from the daily news cycle, and we hope you do too.",
-          "Ed Elson and Scott Galloway are officially out on summer vacation.",
-          "We\u2019ll have no new episodes on the feed from August 17th to the 28th.",
-          "We\u2019ll be back on August 31st with a fresh episode."
-        ],
-        "show_notes": "Ed Elson and Scott Galloway are officially out on summer vacation. We\u2019ll have no new episodes on the feed from August 17th to the 28th. The team will be enjoying the break from the daily news cycle, and we hope you do too. We\u2019ll be back on August 31st with a fresh episode. See you then, and enjoy the rest of your summer! Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-        "tags": [
-          "Finance",
-          "Content",
-          "Markets",
-          "Business",
-          "Investing",
-          "Strategy"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "As you know, the quality of this show is highly correlated with our ability to be just good at our jobs.",
-          "I believe our producer, Claire, will be in France, and Scott will be God knows where, probably conducting some sort of psychedelic experiment in a bezer, perhaps even meekin' there.",
-          "Now, I understand this might be a disappointment for our regular listeners who want to get their daily briefing.",
-          "Yes, a longitudinal study from the Behavioral Science Institute showed that taking vacations leads to greater cognitive flexibility as well as higher levels of originality."
-        ],
-        "transcript_content_summary": "As you know, the quality of this show is highly correlated with our ability to be just good at our jobs. I believe our producer, Claire, will be in France, and Scott will be God knows where, probably conducting some sort of psychedelic experiment in a bezer, perhaps even meekin' there.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-08-17T07:31:59.260622-07:00",
-        "transcript_takeaways": [
-          "**Vacation improves cognitive performance, not just wellbeing.** Ed cites studies from the Behavioral Science Institute and University of Queensland showing vacations boost cognitive flexibility, originality, and concentration \u2014 verified by objective physiological measures. For AI consultants and operators running on adrenaline: scheduled disconnection is a performance strategy, not a luxury. Block a real break into your calendar, not a \"working vacation.\"",
-          "**Attention fasting produces better ideas than constant news consumption.** Ed is turning off notifications, not reading news, and argues that \"best ideas come from a place of stasis.\" For anyone building an AI consulting practice or products: the delta between you and competitors shrinks when you're both reading the same feeds. Scheduled ignorance of the news cycle is a competitive move. Action: pick one day/week with zero market or tech news consumption and see what surfaces.",
-          "**The tension between \"informed\" and \"effective\" is real and manageable.** He explicitly says you can't be in stasis all the time \u2014 you need to be informed and take action. The pattern is deliberate cycle: consume \u2192 act \u2192 pause \u2192 reflect \u2192 repeat. Apply this to your consulting workflow: batch your news/research into set blocks, not a constant drip throughout the day.",
-          "**Prerecording a \"meaning of money\" discussion suggests a playbook for content while disconnected.** They prerecorded an evergreen, emotional episode on what money means \u2014 not reactive market commentary. Actionable: build a backlog of reusable, non-time-sensitive content (thought pieces, frameworks, client case studies) so you can genuinely disconnect without your content pipeline dying. Prep your \"August 31st\" equivalent before you step away."
-        ],
-        "transcript_summary": "**Vacation improves cognitive performance, not just wellbeing.** Ed cites studies from the Behavioral Science Institute and University of Queensland showing vacations boost cognitive flexibility, originality, and concentration \u2014 verified by objective physiological measures. For AI consultants and operators running on adrenaline: scheduled disconnection is a performance strategy, not a luxury. Block a real break into your calendar, not a \"working vacation.\" **Attention fasting produces better ideas than constant news consumption.** Ed is turning off notifications, not reading news, and argues that \"best ideas come from a place of stasis.\" For anyone building an AI consulting practice or products: the delta between you and competitors shrinks when you're both reading the same feeds. Scheduled ignorance of the news cycle is a competitive move. Action: pick one day/week with zero market or t"
       }
     },
     "transcript_runs": [
       {
+        "podcast": "Prof G Markets",
+        "title": "Scott Galloway On Money, Happiness, And The Search For Enough",
+        "status": "available",
+        "chars": 24439,
+        "llm_takeaways": true,
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
         "podcast": "Modern Wisdom",
-        "title": "Mexican Batman, Britain\u2019s Downfall, Mr Bean\u2019s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143",
+        "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d - #1144",
         "status": "available",
-        "chars": 27225,
+        "chars": 21773,
         "llm_takeaways": true,
         "source": "faster_whisper",
         "youtube_url": null
       },
       {
-        "podcast": "All-In",
-        "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+        "podcast": "DOAC",
+        "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
         "status": "available",
-        "chars": 25802,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "TWIST",
-        "title": "Breaking down Nvidia's Hugging Face and Poolside bets | E2331",
-        "status": "available",
-        "chars": 23729,
+        "chars": 29063,
         "llm_takeaways": true,
         "source": "faster_whisper",
         "youtube_url": null
