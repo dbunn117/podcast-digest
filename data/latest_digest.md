@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-08-31
+# Podcast Digest - 2026-09-01
 
-Generated: 2026-08-31 07:39 PDT
+Generated: 2026-09-01 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,43 @@ Generated: 2026-08-31 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Why Bessent Tried To Rescue The Bond Market (And Failed)
+- Date: 2026-09-01
+- Duration: 2127
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4878826642.mp3
+- Summary from show notes: Ed Elson is joined by Robert Armstrong to break down what’s been happening in the bond market and what he makes of Scott Bessent’s intervention. Then, Deirdre Bosa joins the show to unpack how OpenAI’s agents went rogue and whether or not it raises larger concerns for the industry. Finally, Ed shares his thoughts on the recent SaaS rally and what he thinks we can learn from it.
+
+### The Game — Improving Team Performance Through Elimination | Ep 995
+- Date: 2026-09-01
+- Duration: 904
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M1D82R6DT3ZRNFERMMFADGZM.mp3
+- Summary from show notes: Alex defines what organizational culture actually is, why the worst person on the team sets the bar for everyone else, and the most powerful signal a leader can send to a high-performance team. In this episode 00:00 What is culture? Individuals and business owners should evaluate their own business strategies and identify any potential risks.
+
+### Grade Cricketer — PCB Clown Show, with Vithushan Ehantharajah
+- Date: 2026-08-31
+- Duration: 7064
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/pcb-clown-show-with-vithushan-ehantharajah
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/600197e0-4bb3-45f6-bc13-b4b80068a014/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- Summary from show notes: The longest run up for a delivery ever. A village cricketer wants to helicopter to Lords after his wedding. Are England the greatest ever test team or are Pakistan just at a generational low.
+
+### TWIST — Are AI Agents forming "civilizations" or is this just a psy op? | 2332
+- Date: 2026-08-31
+- Duration: 01:06:47
+- Tags: AI, Startups, Business, Career, Content, Venture, Tech
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/are-ai-agents-forming-civilizations-or-is-this-just-a-psy-op-2332
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Main_Sequence.mp3?dest-id=5500155
+- Summary from show notes: Hugging Face's $399 Microduck and the art of companies taking on side quests. Then, we get into Dwarkesh Patel's "The Rise and Fall of Agent Civilizations," which blew up online this weekend. Jason calls the "secret AI civilization" framing deliberate PR, and thinks it's inflammatory enough that someone might attack a data center over it.
+
+### Startup Ideas — Making $$$ as a Marketing Engineer
+- Date: 2026-08-31
+- Duration: 2118
+- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M1CBQNS9R4HG8K2Z9FZ45MAW.mp3
+- Summary from show notes: In this solo episode I explain a role that I call the marketing engineer. I believe this person becomes one of the most valuable hires in tech in the next 18 to 24 months. I define the job, I show the four eras of marketing that lead to it, and I give the tool stack that makes it work.
+
 ### Prof G Markets — Scott Galloway On Money, Happiness, And The Search For Enough
 - Date: 2026-08-31
 - Duration: 3491
@@ -27,11 +64,11 @@ Generated: 2026-08-31 07:39 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3
 - Summary from show notes: In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.
 
-### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
+### DOAC — Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg
 - Date: 2026-08-30
 - Duration: 7460
 - Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h
 - Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
 
 ### Modern Wisdom — Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143
@@ -122,30 +159,6 @@ Generated: 2026-08-31 07:39 PDT
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3
 - Summary from show notes: On this week’s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.
-
-### Grade Cricketer — Batting issues, Carse handcuffs, Jaiswal headbutt, with Greg Chappell
-- Date: 2026-08-24
-- Duration: 7088
-- Tags: Parenting, Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/batting-issues-carse-handcuffs-jaiswal-headbutt-with-greg-chappell
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/146ae7c6-50ad-4888-9ca9-b4b10044949e/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Summary from show notes: Or is it just an inherent lack of ability rendering Test batters mostly useless in this country? Do we need to compulsorily acquire suburban land so that middle class kids can have a backyard? Also, Brydon Carse proves that it actually is quite difficult to go out and not end up in handcuffs, Tugga has some thoughts on franchise cricket and Jaiswal and Asitha cop fines after their heads come together...somehow.
-
-### TWIST — China wants you to cheer for the robots taking your job | E2329
-- Date: 2026-08-24
-- Duration: 01:20:22
-- Tags: AI, Startups, Business, Career, Content, Sport, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/china-wants-you-to-cheer-for-the-robots-taking-your-job-e2329
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO.mp3?dest-id=5500155
-- Summary from show notes: A humanoid robot ran the 100m in 9.39, breaking the human Usain Bolt's world record, while an entire stadium cheered. Jason thinks Beijing's World Humanoid Robot Games aren't a science fair, or a fun exhibition, but the best AI PR campaign on Earth. While Americans debate the data centers that train the robot brains, China is already turning them into a spectacle and world-class entertainment.
-
-### All-In — Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China
-- Date: 2026-08-24
-- Duration: 55:59
-- Tags: Career, AI, Markets, Politics, Startups, Business, Tech
-- Episode: https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Kratsios_Int_AUDIO_VFINAL.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the "climate emergency" narrative collapses (13:45) $47B at NIH, Eroom's Law, and golden tickets: has American science stagnated?
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
