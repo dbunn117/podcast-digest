@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:10:54.439901-07:00",
+  "generated_at": "2026-09-02T10:05:39.345827-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -951,12 +951,12 @@
       "transcript_model": "tiny.en",
       "transcript_generated_at": "2026-09-02T00:00:00-07:00",
       "transcript_takeaways": [
-        "**00:02:15 \u2014 AI is a con, not a revolution**",
-        "Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.",
-        "**00:11:40 \u2014 The financials don't add up and they know it**",
-        "OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding."
+        "The real cost is hidden. Companies like OpenAI and Anthropic burn billions with no path to profit.",
+        "Data centres are a 500B debt bomb. No post-bubble story for what happens when returns do not materialise.",
+        "Superintelligence is a myth sold to justify spending. AGI is the story, not a roadmap.",
+        "AI is not taking your job. CEOs use AI as cover for layoffs they wanted anyway."
       ],
-      "transcript_summary": "## Core arguments\n\n1. **00:02:15 \u2014 AI is a con, not a revolution**\n   Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.\n\n2. **00:11:40 \u2014 The financials don't add up and they know it**\n   OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding.\n\n3. **00:05:55 / 00:47:22 \u2014 Data centers are a trillion-dollar debt bomb**\n   Over $1 trillion already spent on CapEx (data cente",
+      "transcript_summary": "1. **The real cost is hidden.** Companies like OpenAI and Anthropic burn billions with no path to profit. If users paid the honest cost of each token - covering compute, power, data centre infrastructure - demand would collapse.\n\n2. **Data centres are a 500B debt bomb.** The infrastructure buildout is financed on the assumption that demand will justify it, but there's no post-bubble story for what happens when returns don't materialise. Compares it to railway overbuilding in the 1800s.\n\n3. **Superintelligence is a myth sold to justify spending.** Tech CEOs need a story that justifies trillion-dollar capex. AGI / superintelligence is that story - not a realistic roadmap.\n\n4. **The AI boom is fragile.** Revenues at the big players aren't really coming from AI in any meaningful way - it's their existing businesses relabelled. The actual AI product revenue is tiny relative to spending.\n\n5. *",
       "core_arguments": true
     },
     {
@@ -30754,12 +30754,12 @@
       "transcript_model": "tiny.en",
       "transcript_generated_at": "2026-09-02T00:00:00-07:00",
       "transcript_takeaways": [
-        "**00:02:15 \u2014 AI is a con, not a revolution**",
-        "Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.",
-        "**00:11:40 \u2014 The financials don't add up and they know it**",
-        "OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding."
+        "The real cost is hidden. Companies like OpenAI and Anthropic burn billions with no path to profit.",
+        "Data centres are a 500B debt bomb. No post-bubble story for what happens when returns do not materialise.",
+        "Superintelligence is a myth sold to justify spending. AGI is the story, not a roadmap.",
+        "AI is not taking your job. CEOs use AI as cover for layoffs they wanted anyway."
       ],
-      "transcript_summary": "## Core arguments\n\n1. **00:02:15 \u2014 AI is a con, not a revolution**\n   Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.\n\n2. **00:11:40 \u2014 The financials don't add up and they know it**\n   OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding.\n\n3. **00:05:55 / 00:47:22 \u2014 Data centers are a trillion-dollar debt bomb**\n   Over $1 trillion already spent on CapEx (data cente",
+      "transcript_summary": "1. **The real cost is hidden.** Companies like OpenAI and Anthropic burn billions with no path to profit. If users paid the honest cost of each token - covering compute, power, data centre infrastructure - demand would collapse.\n\n2. **Data centres are a 500B debt bomb.** The infrastructure buildout is financed on the assumption that demand will justify it, but there's no post-bubble story for what happens when returns don't materialise. Compares it to railway overbuilding in the 1800s.\n\n3. **Superintelligence is a myth sold to justify spending.** Tech CEOs need a story that justifies trillion-dollar capex. AGI / superintelligence is that story - not a realistic roadmap.\n\n4. **The AI boom is fragile.** Revenues at the big players aren't really coming from AI in any meaningful way - it's their existing businesses relabelled. The actual AI product revenue is tiny relative to spending.\n\n5. *",
       "core_arguments": true
     },
     {
