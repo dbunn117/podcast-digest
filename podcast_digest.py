@@ -569,9 +569,9 @@ def parse_bullets(text: str) -> list[str]:
 
 def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -> dict:
     """Generate structured core arguments + takeaways from transcript + show notes.
-    Returns {'summary': str, 'takeaways': list[str]}."""
+    Returns {'summary': str, 'takeaways': list[str], 'error': str}."""
     show_notes = episode.get('show_notes', '') or episode.get('summary', '') or ''
-    excerpt = transcript[:12000]
+    excerpt = transcript[:50000]
     notes_excerpt = show_notes[:3000]
     prompt = (
         "You are writing the structured episode summary for a podcast dashboard. "
@@ -599,15 +599,19 @@ def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -
             stderr=subprocess.STDOUT,
             timeout=timeout,
         )
-    except Exception:
-        return {'summary': '', 'takeaways': []}
+    except subprocess.TimeoutExpired:
+        return {'summary': '', 'takeaways': [], 'error': f'timeout after {timeout}s'}
+    except Exception as exc:
+        return {'summary': '', 'takeaways': [], 'error': f'{type(exc).__name__}: {exc}'}
     if cp.returncode != 0:
-        return {'summary': '', 'takeaways': []}
+        return {'summary': '', 'takeaways': [], 'error': f'hermes exited {cp.returncode}: {cp.stdout.strip()[-500:]}'}
     raw = cp.stdout.strip()
     # Save the full structured output as the summary
     summary = raw[:2000]
     takeaways = parse_bullets(raw)
-    return {'summary': summary, 'takeaways': takeaways}
+    if not takeaways:
+        return {'summary': summary, 'takeaways': [], 'error': 'hermes returned no parseable bullets'}
+    return {'summary': summary, 'takeaways': takeaways, 'error': ''}
 
 
 def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: bool = False, prefer_youtube: bool = True) -> dict:
@@ -699,6 +703,7 @@ def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str
             json_path, _ = transcript_paths(episode)
             TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
             json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
+        llm_error = ''
         if llm_takeaways and data.get('transcript') and (force or not data.get('llm_takeaways')):
             result = generate_llm_takeaways(data['transcript'], episode)
             if result['takeaways']:
@@ -706,13 +711,18 @@ def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str
                 data['takeaways'] = result['takeaways']
             if result['summary']:
                 data['llm_summary'] = result['summary']
-            if result.get('summary') or result.get('takeaways'):
+            llm_error = result.get('error') or ''
+            if llm_error:
+                data['llm_error'] = llm_error
+            if result.get('summary') or result.get('takeaways') or llm_error:
                 json_path, _ = transcript_paths(episode)
                 json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
         elif data.get('llm_takeaways'):
             data['takeaways'] = data['llm_takeaways']
+        elif data.get('llm_error'):
+            llm_error = data['llm_error']
         attach_transcript(episode, data)
-        completed.append({'podcast': episode.get('short_name'), 'title': episode.get('title'), 'status': data.get('status'), 'chars': len(data.get('transcript', '')), 'llm_takeaways': bool(data.get('llm_takeaways')), 'source': data.get('source'), 'youtube_url': data.get('youtube_url')})
+        completed.append({'podcast': episode.get('short_name'), 'title': episode.get('title'), 'status': data.get('status'), 'chars': len(data.get('transcript', '')), 'llm_takeaways': bool(data.get('llm_takeaways')), 'llm_error': llm_error, 'source': data.get('source'), 'youtube_url': data.get('youtube_url')})
     attach_cached_transcripts(episodes)
     return completed
 
@@ -796,8 +806,15 @@ def build_digest(episodes, days: int, config):
             lines.append(f"- Episode: {e.get('url')}")
         if e.get('audio_url'):
             lines.append(f"- Audio: {e.get('audio_url')}")
-        if e.get('summary'):
+        if e.get('transcript_status') == 'available' and e.get('transcript_summary'):
+            label = 'AI summary (Hermes)' if e.get('core_arguments') else 'Transcript takeaways'
+            lines.append(f"- {label}: {e['transcript_summary']}")
+            for t in e.get('transcript_takeaways') or []:
+                lines.append(f"  - {t}")
+        elif e.get('summary'):
             lines.append(f"- Summary from show notes: {e['summary']}")
+        if e.get('transcript_status') and e.get('transcript_status') not in ('available',):
+            lines.append(f"- _Transcript: none available ({e['transcript_status']})_")
         lines.append('')
     lines.append('## AI summary prompt')
     lines.append('For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.')
@@ -831,11 +848,11 @@ def main():
     ap.add_argument('--since', default='2026-01-01', help='Dashboard history start date, YYYY-MM-DD')
     ap.add_argument('--write', action='store_true', help='Write Obsidian daily digest')
     ap.add_argument('--json', action='store_true')
-    ap.add_argument('--transcribe-recent', type=int, default=0, help='Transcribe N newest audio episodes before writing dashboard')
+    ap.add_argument('--transcribe-recent', type=int, default=8, help='Transcribe N newest audio episodes before writing dashboard (0 to disable)')
     ap.add_argument('--transcript-model', default='tiny.en', help='faster-whisper model size for transcript ingestion')
     ap.add_argument('--transcript-max-minutes', type=int, default=45, help='Max minutes to transcribe per episode')
     ap.add_argument('--force-transcripts', action='store_true', help='Regenerate cached transcripts for selected recent episodes')
-    ap.add_argument('--llm-transcript-takeaways', action='store_true', help='Use Hermes oneshot to turn transcripts into David-specific takeaways')
+    ap.add_argument('--llm-transcript-takeaways', action=argparse.BooleanOptionalAction, default=True, help='Use Hermes oneshot to turn transcripts into David-specific takeaways (use --no-llm-transcript-takeaways to disable)')
     ap.add_argument('--skip-youtube-transcripts', action='store_true', help='Skip YouTube caption lookup/search and use audio transcription fallback')
     args = ap.parse_args()
 
@@ -878,6 +895,9 @@ def main():
     stats = build_stats(dedup, ytd, recent, podcasts)
     if transcript_runs:
         stats['transcript_runs'] = transcript_runs
+        llm_failures = [r for r in transcript_runs if r.get('llm_error')]
+        if llm_failures:
+            stats['llm_takeaway_failures'] = len(llm_failures)
 
     (DATA / 'episodes.json').write_text(json.dumps({'episodes': dedup, 'ytd': ytd, 'podcasts': podcasts, 'stats': stats, 'errors': errors}, indent=2), encoding='utf-8')
     (DATA / 'latest_digest.md').write_text(digest, encoding='utf-8')
