@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-01
+# Podcast Digest - 2026-09-02
 
-Generated: 2026-09-01 07:39 PDT
+Generated: 2026-09-02 07:33 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,13 @@ Generated: 2026-09-01 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Geopolitical Expert: Iran War May Drag On For Years
+- Date: 2026-09-02
+- Duration: 1958
+- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8573136109.mp3
+- Summary from show notes: Ed Elson is joined by Ian Bremmer to break down the latest attacks in Iran and why the markets are finally pricing in a longer war. Then, Jonathan Kanter joins the show to unpack the FTC’s new lawsuit against Amazon and give his take on Meta’s “big tobacco” moment. Finally, Ed shares his thoughts on Anthropic’s new deal with cloud company Lambda.
+
 ### Prof G Markets — Why Bessent Tried To Rescue The Bond Market (And Failed)
 - Date: 2026-09-01
 - Duration: 2127
@@ -64,11 +71,11 @@ Generated: 2026-09-01 07:39 PDT
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3
 - Summary from show notes: In this geopolitical debate, we explore: What the biggest threats to global peace are. Whether America will lose its hegemony in 20 years or less. How big of a deal the Iran War actually is for global stability.
 
-### DOAC — Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg
+### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
 - Date: 2026-08-30
 - Duration: 7460
 - Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9
 - Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
 
 ### Modern Wisdom — Mexican Batman, Britain’s Downfall, Mr Bean’s Comeback & Jimmy Carr - Rabbit Hole #5 - #1143
@@ -144,21 +151,6 @@ Generated: 2026-09-01 07:39 PDT
 - Tags: AI, Startups, Business, Finance, Career, Content, Business Ideas
 - Audio: https://episode.flightcast.com/01M0ZJPYQ7EHVKBPDSK8402R8Q.mp3
 - Summary from show notes: Vinny is back on the pod, and he explains WebMCP. WebMCP puts MCP tools inside the browser UI, so any agent that you bring can read a page and act on it. Vinny demos an espresso gear store where his agent compares two machines, checks the counter width, matches accessories, adds an item to the cart, and applies a coupon.
-
-### TWIST — You Can't Fire a VC From Your Board: Here's Why | Wilson Sonsini Startup Legal Basics
-- Date: 2026-08-25
-- Duration: 24:50
-- Tags: Startups, Career, Content, Venture, AI, Tech, Saas
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/you-cant-fire-a-vc-from-your-board-heres-why-wilson-sonsini-startup-legal-basics
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_1.mp4?dest-id=5500155
-- Summary from show notes: Can a founder actually fire a board member? And the reason why may surprise a lot of founders. On this edition of Legal Basics, Wilson Sonsini partner Becki DeGraw joins Jason for a deep dive into who really controls your board, when investors start earning seats, and the differences between a board member and a board observer.
-
-### Startup Ideas — Screensharing top takes in AI/startups
-- Date: 2026-08-25
-- Duration: 2477
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M0WZHRJ1C8BGBX1MXE4FEQE7.mp3
-- Summary from show notes: On this week’s SIP Live we dive deep on the X timeline to give each post a sip or a skip, and we answer questions from the chat. This episode covers AI-native operations, a baby food app that earns a million dollars a month, iMessage agents, human customer support as a brand advantage, small teams, reading habits, and sales advice for builders. Listeners get concrete first steps, business ideas they can copy today, and two clear opinions on each take.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
