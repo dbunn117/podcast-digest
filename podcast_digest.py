@@ -381,6 +381,7 @@ def attach_transcript(episode: dict, transcript_data: dict | None):
     episode['transcript_takeaways'] = takeaways[:4]
     if transcript_data.get('llm_summary'):
         episode['transcript_summary'] = transcript_data['llm_summary'][:900]
+        episode['core_arguments'] = True
     elif transcript_data.get('llm_takeaways'):
         episode['transcript_summary'] = ' '.join(transcript_data['llm_takeaways'][:2])[:900]
     else:
@@ -566,13 +567,29 @@ def parse_bullets(text: str) -> list[str]:
     return bullets[:5]
 
 
-def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -> list[str]:
-    excerpt = transcript[:14000]
+def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -> dict:
+    """Generate structured core arguments + takeaways from transcript + show notes.
+    Returns {'summary': str, 'takeaways': list[str]}."""
+    show_notes = episode.get('show_notes', '') or episode.get('summary', '') or ''
+    excerpt = transcript[:12000]
+    notes_excerpt = show_notes[:3000]
     prompt = (
-        "From this podcast transcript excerpt, write 4 concise, specific key takeaways for David Bunn. "
-        "Focus on practical AI consulting/business implications, finance/operator lessons, health/family relevance only if clearly present, and concrete actions. "
-        "Do not quote filler or generic episode marketing copy. Return bullet list only.\n\n"
-        f"Podcast: {episode.get('short_name')}\nTitle: {episode.get('title')}\nTags: {', '.join(episode.get('tags') or [])}\n\nTranscript:\n{excerpt}"
+        "You are writing the structured episode summary for a podcast dashboard. "
+        "From the podcast content below, produce TWO things:\n\n"
+        "FIRST: A structured 'Core arguments' summary — 4–6 numbered points capturing "
+        "the key arguments, claims, or takeaways the guest made. Include timestamps "
+        "(from the show notes) where available. Be specific — avoid filler. "
+        "Format as:\n"
+        "1. [timestamp — argument title]\n   [1-2 sentence explanation]\n"
+        "2. [timestamp — next argument]\n   [1-2 sentence explanation]\n\n"
+        "SECOND: 3–4 bullet takeaways specific to David's context (AI consulting, "
+        "finance/operations, content ideas, or personal relevance). "
+        "Label them 'FOR DAVID:' on a new line after the core arguments.\n\n"
+        f"Podcast: {episode.get('short_name')}\n"
+        f"Title: {episode.get('title')}\n"
+        f"Tags: {', '.join(episode.get('tags') or [])}\n\n"
+        f"Show notes (with chapters/timestamps):\n{notes_excerpt}\n\n"
+        f"Transcript excerpt:\n{excerpt}"
     )
     try:
         cp = subprocess.run(
@@ -583,10 +600,14 @@ def generate_llm_takeaways(transcript: str, episode: dict, timeout: int = 240) -
             timeout=timeout,
         )
     except Exception:
-        return []
+        return {'summary': '', 'takeaways': []}
     if cp.returncode != 0:
-        return []
-    return parse_bullets(cp.stdout)
+        return {'summary': '', 'takeaways': []}
+    raw = cp.stdout.strip()
+    # Save the full structured output as the summary
+    summary = raw[:2000]
+    takeaways = parse_bullets(raw)
+    return {'summary': summary, 'takeaways': takeaways}
 
 
 def transcribe_episode(episode: dict, model_size: str, max_minutes: int, force: bool = False, prefer_youtube: bool = True) -> dict:
@@ -679,10 +700,13 @@ def transcribe_recent_episodes(episodes: list[dict], limit: int, model_size: str
             TRANSCRIPTS.mkdir(parents=True, exist_ok=True)
             json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
         if llm_takeaways and data.get('transcript') and (force or not data.get('llm_takeaways')):
-            bullets = generate_llm_takeaways(data['transcript'], episode)
-            if bullets:
-                data['llm_takeaways'] = bullets
-                data['takeaways'] = bullets
+            result = generate_llm_takeaways(data['transcript'], episode)
+            if result['takeaways']:
+                data['llm_takeaways'] = result['takeaways']
+                data['takeaways'] = result['takeaways']
+            if result['summary']:
+                data['llm_summary'] = result['summary']
+            if result.get('summary') or result.get('takeaways'):
                 json_path, _ = transcript_paths(episode)
                 json_path.write_text(json.dumps(data, indent=2), encoding='utf-8')
         elif data.get('llm_takeaways'):

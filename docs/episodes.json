@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:33:49.759261-07:00",
+  "generated_at": "2026-09-02T09:10:54.439901-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -949,14 +949,15 @@
       "transcript_status": "available",
       "transcript_source": "faster_whisper",
       "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-27T07:38:04.118401-07:00",
+      "transcript_generated_at": "2026-09-02T00:00:00-07:00",
       "transcript_takeaways": [
-        "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars.",
-        "You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI.",
-        "One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane.",
-        "And not from the revenues, because here's the funny thing about Google Microsoft and Amazon, people for years have been saying, they're AI bets have paid off."
+        "**00:02:15 \u2014 AI is a con, not a revolution**",
+        "Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.",
+        "**00:11:40 \u2014 The financials don't add up and they know it**",
+        "OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding."
       ],
-      "transcript_summary": "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars. You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI. One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane."
+      "transcript_summary": "## Core arguments\n\n1. **00:02:15 \u2014 AI is a con, not a revolution**\n   Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.\n\n2. **00:11:40 \u2014 The financials don't add up and they know it**\n   OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding.\n\n3. **00:05:55 / 00:47:22 \u2014 Data centers are a trillion-dollar debt bomb**\n   Over $1 trillion already spent on CapEx (data cente",
+      "core_arguments": true
     },
     {
       "id": "d89588b8e56ecf2a",
@@ -30751,14 +30752,15 @@
       "transcript_status": "available",
       "transcript_source": "faster_whisper",
       "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-27T07:38:04.118401-07:00",
+      "transcript_generated_at": "2026-09-02T00:00:00-07:00",
       "transcript_takeaways": [
-        "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars.",
-        "You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI.",
-        "One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane.",
-        "And not from the revenues, because here's the funny thing about Google Microsoft and Amazon, people for years have been saying, they're AI bets have paid off."
+        "**00:02:15 \u2014 AI is a con, not a revolution**",
+        "Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.",
+        "**00:11:40 \u2014 The financials don't add up and they know it**",
+        "OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding."
       ],
-      "transcript_summary": "Anyway, nothing to do with AI, but because number go up, because revenue go up everyone, it's AI, because these companies wouldn't spend a trillion dollars. You're saying that their fundamental business model is, Akon, well, their revenues are not really coming from AI. One of the rebuttals to that would be that the adoption, the customer adoption of people using Open AI and in Thropic has been absolutely insane."
+      "transcript_summary": "## Core arguments\n\n1. **00:02:15 \u2014 AI is a con, not a revolution**\n   Ed argues generative AI was sold as \"magic\" that would replace jobs and cure cancer, but is actually boring, expensive, unreliable cloud software. The CEOs are misleading the entire world by overselling both capability and financials, exploiting weak journalism and compliant analysts.\n\n2. **00:11:40 \u2014 The financials don't add up and they know it**\n   OpenAI lost $20.9B last year. Anthropic and OpenAI can't exist without Amazon/Google/Microsoft propping them up with multi-billion dollar infusions. These companies refuse to disclose real AI revenue, hide behind vague \"run rate\" metrics, and analysts expect $400B+ in revenue from just two unprofitable companies that others have to keep funding.\n\n3. **00:05:55 / 00:47:22 \u2014 Data centers are a trillion-dollar debt bomb**\n   Over $1 trillion already spent on CapEx (data cente",
+      "core_arguments": true
     },
     {
       "id": "d89588b8e56ecf2a",
@@ -31285,35 +31287,6 @@
         ],
         "transcript_summary": "**Phase shift in enterprise AI**: The pod maps three phases \u2014 models (brain), agents (eyes/hands/memory), then contextualized agents trained to do a specific job (lawyer, sales rep, customer service). Enterprises are entering phase 3 now. That's where the consulting value is: not selling agent scaffolding, but helping clients train agents on their proprietary context and workflows. **Multi-agent swarms over one agent**: Multiple specialized agents outperform a single general one because each builds deeper context and expertise in its domain. Grokbot's \"multi-player mode\" (agents + humans in the same room) is the next viral unlock. Practical takeaway: design client solutions as swarms of narrow agents, not one monolithic bot."
       }
-    },
-    "transcript_runs": [
-      {
-        "podcast": "Prof G Markets",
-        "title": "Geopolitical Expert: Iran War May Drag On For Years",
-        "status": "available",
-        "chars": 22694,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "Prof G Markets",
-        "title": "Why Bessent Tried To Rescue The Bond Market (And Failed)",
-        "status": "available",
-        "chars": 22794,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "The Game",
-        "title": "Improving Team Performance Through Elimination | Ep 995",
-        "status": "available",
-        "chars": 15146,
-        "llm_takeaways": true,
-        "source": "faster_whisper",
-        "youtube_url": null
-      }
-    ]
+    }
   }
 }
