@@ -9,19 +9,213 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;450;500;550;600;650;700;750&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f6f7f4;--panel:#fff;--panel2:#f9faf7;--ink:#17211b;--muted:#66736b;--muted2:#8a968f;--line:#dfe5dd;--line2:#edf1ea;--green:#128455;--green2:#e7f5ec;--blue:#3157d5;--amber:#b96a18;--shadow:0 20px 55px rgba(27,49,36,.08);--side:278px;--r:20px}*{box-sizing:border-box}body{margin:0;background:radial-gradient(900px 480px at 86% -12%,rgba(35,132,85,.12),transparent 62%),linear-gradient(180deg,#fbfcf8,var(--bg));color:var(--ink);font:14px/1.48 'Geist',ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;letter-spacing:-.012em}a{color:inherit;text-decoration:none}.app{display:grid;grid-template-columns:var(--side) 1fr;min-height:100vh}.side{position:sticky;top:0;height:100vh;padding:22px 16px;background:rgba(255,255,255,.72);border-right:1px solid var(--line);backdrop-filter:blur(22px)}.brand{display:flex;gap:12px;align-items:center;margin:0 0 28px}.mark{width:42px;height:42px;border-radius:15px;background:linear-gradient(135deg,#0f2d20,#22a06b);box-shadow:var(--shadow)}.brand h1{font-size:18px;line-height:1;margin:0;letter-spacing:-.04em}.brand p{margin:4px 0 0;color:var(--muted);font-size:12px}.nav{display:flex;flex-direction:column;gap:5px}.nav a{display:flex;gap:10px;align-items:center;color:#44524a;border-radius:13px;padding:10px 12px;font-weight:650}.nav a.active,.nav a:hover{background:var(--green2);color:#0b5d39}.nav a span{font-family:'Geist Mono';font-size:11px;color:var(--green)}.sideStats{margin-top:26px;border:1px solid var(--line);background:var(--panel);border-radius:18px;padding:14px;color:var(--muted);box-shadow:var(--shadow)}.sideStats b{display:block;color:var(--ink);font-size:22px;margin-top:8px}.main{padding:28px;min-width:0}.shell{max-width:1500px;margin:0 auto}.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}.status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}.dot{width:8px;height:8px;border-radius:99px;background:var(--green);box-shadow:0 0 0 5px rgba(18,132,85,.12)
+:root{--bg:#f6f7f4;--panel:#fff;--panel2:#f9faf7;--ink:#17211b;--muted:#66736b;--muted2:#8a968f;--line:#dfe5dd;--line2:#edf1ea;--green:#128455;--green2:#e7f5ec;--blue:#3157d5;--amber:#b96a18;--shadow:0 20px 55px rgba(27,49,36,.08);--side:278px;--r:20px;--ease:cubic-bezier(.2,.7,.3,1)}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:radial-gradient(900px 480px at 86% -12%,rgba(35,132,85,.12),transparent 62%),linear-gradient(180deg,#fbfcf8,var(--bg));color:var(--ink);font:14px/1.48 'Geist',ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;letter-spacing:-.012em}
+a{color:inherit;text-decoration:none}
+.app{display:grid;grid-template-columns:var(--side) 1fr;min-height:100vh}
+.side{position:sticky;top:0;height:100vh;padding:22px 16px;background:rgba(255,255,255,.72);border-right:1px solid var(--line);backdrop-filter:blur(22px)}
+.brand{display:flex;gap:12px;align-items:center;margin:0 0 28px}
+.mark{width:42px;height:42px;border-radius:15px;background:linear-gradient(135deg,#0f2d20,#22a06b);box-shadow:var(--shadow)}
+.brand h1{font-size:18px;line-height:1;margin:0;letter-spacing:-.04em}
+.brand p{margin:4px 0 0;color:var(--muted);font-size:12px}
+.nav{display:flex;flex-direction:column;gap:5px}
+.nav a{display:flex;gap:10px;align-items:center;color:#44524a;border-radius:13px;padding:10px 12px;font-weight:650;cursor:pointer;transition:background .16s var(--ease),color .16s var(--ease),transform .16s var(--ease)}
+.nav a.active,.nav a:hover{background:var(--green2);color:#0b5d39}
+.nav a:hover{transform:translateX(2px)}
+.nav a span{font-family:'Geist Mono';font-size:11px;color:var(--green)}
+.sideStats{margin-top:26px;border:1px solid var(--line);background:var(--panel);border-radius:18px;padding:14px;color:var(--muted);box-shadow:var(--shadow)}
+.sideStats b{display:block;color:var(--ink);font-size:22px;margin-top:8px}
+.skeleton{position:relative;overflow:hidden;background:var(--line2);border-radius:8px;color:transparent!important}
+.skeleton::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.75),transparent);transform:translateX(-100%);animation:shimmer 1.3s infinite}
+@keyframes shimmer{100%{transform:translateX(100%)}}
+.main{padding:28px;min-width:0}
+.shell{max-width:1500px;margin:0 auto}
+.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
+.dot{width:8px;height:8px;border-radius:99px;background:var(--green);box-shadow:0 0 0 5px rgba(18,132,85,.12);animation:pulse 2.4s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 5px rgba(18,132,85,.12)}50%{box-shadow:0 0 0 8px rgba(18,132,85,.05)}}
+.actions{display:flex;gap:8px}
+.btn{display:inline-flex;align-items:center;justify-content:center;border:1px solid #bcdcc9;background:var(--green2);color:#0d6942;border-radius:999px;padding:8px 12px;font-weight:750;cursor:pointer;transition:transform .14s var(--ease),box-shadow .14s var(--ease),background .14s var(--ease)}
+.btn:hover{transform:translateY(-1px);box-shadow:0 8px 20px rgba(18,132,85,.18)}
+.btn:active{transform:translateY(0)}
+.btn.secondary{background:#fff;color:#415047;border-color:var(--line)}
+.hero{background:linear-gradient(135deg,#ffffff,#f7faf6);border:1px solid var(--line);border-radius:28px;padding:26px;box-shadow:var(--shadow);margin-bottom:16px}
+.heroTop{display:flex;justify-content:space-between;gap:24px;align-items:flex-start;flex-wrap:wrap}
+.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:11px;color:var(--green);font-weight:800}
+.hero h2{font-size:38px;line-height:1.05;letter-spacing:-.045em;margin:8px 0 10px}
+.hero p{max-width:850px;color:var(--muted);font-size:16px;margin:0}
+.monthChart{min-width:220px}
+.monthChart .capt{text-align:right;color:var(--muted);font-size:11px;margin-top:4px;font-family:'Geist Mono'}
+.metrics{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:20px}
+.metric{border:1px solid var(--line);background:var(--panel2);border-radius:18px;padding:14px;transition:transform .16s var(--ease),box-shadow .16s var(--ease),border-color .16s var(--ease)}
+.metric:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(27,49,36,.09);border-color:#cfe7d8}
+.metric b{display:block;font-size:27px;font-variant-numeric:tabular-nums}
+.metric span{color:var(--muted);font-size:12px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow)}
+.view{animation:viewIn .28s var(--ease)}
+@keyframes viewIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.workbench{display:grid;grid-template-columns:minmax(430px,560px) 1fr;gap:16px;align-items:start}
+.listPanel{padding:16px}
+.sectionHead{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;margin-bottom:14px}
+.sectionHead h2{margin:0 0 4px;font-size:23px;letter-spacing:-.03em}
+.sectionHead p{margin:0;color:var(--muted)}
+.controls{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:10px;margin-bottom:12px}
+.input,.select{width:100%;border:1px solid var(--line);border-radius:13px;background:#fff;padding:10px 11px;font:inherit;color:var(--ink);transition:border-color .14s var(--ease),box-shadow .14s var(--ease)}
+.input:focus,.select:focus{outline:none;border-color:var(--green);box-shadow:0 0 0 4px rgba(18,132,85,.14)}
+.episodeList{max-height:930px;overflow:auto;padding-right:4px}
+.episodeRow{width:100%;border:1px solid transparent;border-bottom-color:var(--line2);background:transparent;text-align:left;padding:13px 10px;border-radius:15px;display:grid;grid-template-columns:88px minmax(0,1fr) 70px;gap:12px;cursor:pointer;color:var(--ink);transition:background .14s var(--ease),border-color .14s var(--ease),transform .14s var(--ease)}
+.episodeRow:hover{transform:translateX(2px)}
+.episodeRow:hover,.episodeRow.active{background:#f6fbf7;border-color:#cfe7d8}
+.rowShow{font-weight:750;color:var(--green);font-size:12px}
+.rowTitle{font-weight:720;line-height:1.25}
+.meta{font-family:'Geist Mono';font-size:11px;color:var(--muted2)}
+.rowMeta{text-align:right}
+.detailPanel{padding:22px;position:sticky;top:18px;max-height:calc(100vh - 36px);overflow:auto}
+.detailTop{display:grid;grid-template-columns:86px 1fr;gap:16px;align-items:start}
+.art{width:86px;height:86px;border-radius:18px;object-fit:cover;background:linear-gradient(135deg,#1f3a2c,#89d4ad)}
+.detailPanel h2{font-size:30px;line-height:1.12;letter-spacing:-.04em;margin:4px 0 10px}
+.pill{display:inline-block;background:#eef7ef;border:1px solid #d7eadc;color:#2c5a40;border-radius:999px;padding:4px 8px;margin:3px 3px 3px 0;font-size:11px;font-weight:650;transition:transform .14s var(--ease)}
+.pill.warn{background:#fff7ed;border-color:#fed7aa;color:#9a4b12}
+.detailActions{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+.block{border:1px solid var(--line);background:#fbfdf9;border-radius:18px;padding:16px;margin-top:13px}
+.block.primary{border-color:#bfe3cd;background:#f5fbf7}
+.block h3{margin:0 0 9px;font-size:15px}
+.block p{margin:0;color:#33423a}
+.block ul{margin:0;padding-left:19px}
+.block li{margin:7px 0;color:#33423a}
+.empty{padding:22px;color:var(--muted);border:1px dashed var(--line);border-radius:18px;background:var(--panel2)}
 .argCard{display:flex;gap:14px;align-items:flex-start;padding:12px 14px;margin:0 0 10px;background:var(--panel2);border-radius:14px;border:1px solid var(--line2);line-height:1.5}
 .argNum{flex-shrink:0;width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:99px;background:var(--green);color:#fff;font-size:13px;font-weight:650;margin-top:1px}
 .argBody{flex:1;min-width:0}
 .argBody strong{color:var(--ink)}
 .davidSection{margin-top:16px;padding:14px 16px;background:var(--panel);border-radius:14px;border:1px solid var(--line);box-shadow:0 4px 14px rgba(27,49,36,.06)}
 .davidSection ul{margin:8px 0 0;padding:0 0 0 18px}
-.davidSection li{margin:0 0 6px;color:var(--muted)}}.actions{display:flex;gap:8px}.btn{display:inline-flex;align-items:center;justify-content:center;border:1px solid #bcdcc9;background:var(--green2);color:#0d6942;border-radius:999px;padding:8px 12px;font-weight:750}.btn.secondary{background:#fff;color:#415047;border-color:var(--line)}.hero{background:linear-gradient(135deg,#ffffff,#f7faf6);border:1px solid var(--line);border-radius:28px;padding:26px;box-shadow:var(--shadow);margin-bottom:16px}.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:11px;color:var(--green);font-weight:800}.hero h2{font-size:38px;line-height:1.05;letter-spacing:-.045em;margin:8px 0 10px}.hero p{max-width:850px;color:var(--muted);font-size:16px;margin:0}.metrics{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:20px}.metric{border:1px solid var(--line);background:var(--panel2);border-radius:18px;padding:14px}.metric b{display:block;font-size:27px}.metric span{color:var(--muted);font-size:12px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow)}.workbench{display:grid;grid-template-columns:minmax(430px,560px) 1fr;gap:16px;align-items:start}.listPanel{padding:16px}.sectionHead{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;margin-bottom:14px}.sectionHead h2{margin:0 0 4px;font-size:23px;letter-spacing:-.03em}.sectionHead p{margin:0;color:var(--muted)}.controls{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:10px;margin-bottom:12px}.input,.select{width:100%;border:1px solid var(--line);border-radius:13px;background:#fff;padding:10px 11px;font:inherit;color:var(--ink)}.episodeList{max-height:930px;overflow:auto;padding-right:4px}.episodeRow{width:100%;border:1px solid transparent;border-bottom-color:var(--line2);background:transparent;text-align:left;padding:13px 10px;border-radius:15px;display:grid;grid-template-columns:88px minmax(0,1fr) 70px;gap:12px;cursor:pointer;color:var(--ink)}.episodeRow:hover,.episodeRow.active{background:#f6fbf7;border-color:#cfe7d8}.rowShow{font-weight:750;color:var(--green);font-size:12px}.rowTitle{font-weight:720;line-height:1.25}.meta{font-family:'Geist Mono';font-size:11px;color:var(--muted2)}.rowMeta{text-align:right}.detailPanel{padding:22px;position:sticky;top:18px;max-height:calc(100vh - 36px);overflow:auto}.detailTop{display:grid;grid-template-columns:86px 1fr;gap:16px;align-items:start}.art{width:86px;height:86px;border-radius:18px;object-fit:cover;background:linear-gradient(135deg,#1f3a2c,#89d4ad)}.detailPanel h2{font-size:30px;line-height:1.12;letter-spacing:-.04em;margin:4px 0 10px}.pill{display:inline-block;background:#eef7ef;border:1px solid #d7eadc;color:#2c5a40;border-radius:999px;padding:4px 8px;margin:3px 3px 3px 0;font-size:11px;font-weight:650}.pill.warn{background:#fff7ed;border-color:#fed7aa;color:#9a4b12}.detailActions{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}.block{border:1px solid var(--line);background:#fbfdf9;border-radius:18px;padding:16px;margin-top:13px}.block.primary{border-color:#bfe3cd;background:#f5fbf7}.block h3{margin:0 0 9px;font-size:15px}.block p{margin:0;color:#33423a}.block ul{margin:0;padding-left:19px}.block li{margin:7px 0;color:#33423a}.empty{padding:22px;color:var(--muted);border:1px dashed var(--line);border-radius:18px;background:var(--panel2)}.secondaryGrid{display:grid;grid-template-columns:1.2fr .8fr;gap:16px;margin-top:16px}.shows{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.showCard{padding:16px;border:1px solid var(--line);border-radius:18px;background:#fff}.showCard h3{margin:0 0 6px}.barRow{display:grid;grid-template-columns:120px 1fr 42px;gap:10px;align-items:center;margin:9px 0}.bar{height:9px;background:#eef2ea;border-radius:99px;overflow:hidden}.fill{height:100%;background:linear-gradient(90deg,#2da86d,#92d7aa)}.archiveGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.card{border:1px solid var(--line);background:#fff;border-radius:18px;padding:15px}.card h3{margin:5px 0 8px;font-size:16px}.card p{color:var(--muted);margin:0}.footer{color:var(--muted);text-align:center;padding:26px}@media(max-width:1180px){.workbench,.secondaryGrid{grid-template-columns:1fr}.detailPanel{position:relative;top:auto;max-height:none}.archiveGrid{grid-template-columns:repeat(2,1fr)}.shows{grid-template-columns:repeat(2,1fr)}}@media(max-width:860px){.app{grid-template-columns:1fr}.side{position:sticky;height:auto;z-index:5;padding:10px;border-right:0;border-bottom:1px solid var(--line)}.brand{margin-bottom:10px}.nav{flex-direction:row;overflow:auto}.nav a{white-space:nowrap}.sideStats{display:none}.main{padding:14px}.hero h2{font-size:30px}.metrics,.controls,.archiveGrid,.shows{grid-template-columns:1fr}.episodeRow{grid-template-columns:1fr}.rowMeta{text-align:left}.detailTop{grid-template-columns:1fr}.art{width:100%;height:160px}.actions{display:none}}
+.davidSection li{margin:0 0 6px;color:var(--muted)}
+.secondaryGrid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:16px}
+.shows{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.showCard{padding:16px;border:1px solid var(--line);border-radius:18px;background:#fff;transition:transform .16s var(--ease),box-shadow .16s var(--ease),border-color .16s var(--ease)}
+.showCard:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(27,49,36,.09);border-color:#cfe7d8}
+.showCard h3{margin:0 0 6px}
+.chartCard{margin-top:0}
+.barChart{width:100%}
+.barChartRow{display:grid;grid-template-columns:120px 1fr 46px;gap:10px;align-items:center;margin:10px 0}
+.barTrack{height:11px;border-radius:99px;overflow:visible;display:block}
+.barTrack .fillRect{transition:width .7s var(--ease)}
+.donutRow{display:flex;gap:24px;align-items:center;flex-wrap:wrap}
+.donutLegend{display:flex;flex-direction:column;gap:8px}
+.legendItem{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted)}
+.legendDot{width:10px;height:10px;border-radius:99px;flex-shrink:0}
+.archiveGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.card{border:1px solid var(--line);background:#fff;border-radius:18px;padding:15px;transition:transform .16s var(--ease),box-shadow .16s var(--ease),border-color .16s var(--ease)}
+.card:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(27,49,36,.09);border-color:#cfe7d8}
+.card h3{margin:5px 0 8px;font-size:16px}
+.card p{color:var(--muted);margin:0}
+.footer{color:var(--muted);text-align:center;padding:26px}
+@media(max-width:1180px){
+.workbench{grid-template-columns:1fr}
+.detailPanel{position:relative;top:auto;max-height:none}
+.archiveGrid{grid-template-columns:repeat(2,1fr)}
+.shows{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:860px){
+.app{grid-template-columns:1fr}
+.side{position:sticky;height:auto;z-index:5;padding:10px;border-right:0;border-bottom:1px solid var(--line);min-width:0}
+.brand{margin-bottom:10px}
+.nav{flex-direction:row;overflow:auto}
+.nav a{white-space:nowrap}
+.sideStats{display:none}
+.main{padding:14px}
+.hero h2{font-size:30px}
+.metrics,.controls,.archiveGrid,.shows{grid-template-columns:1fr}
+.episodeRow{grid-template-columns:1fr}
+.rowMeta{text-align:left}
+.detailTop{grid-template-columns:1fr}
+.art{width:100%;height:160px}
+.actions{display:none}
+.heroTop{flex-direction:column}
+.monthChart{width:100%;min-width:0}
+}
+@media(prefers-reduced-motion:reduce){*{animation-duration:.001s!important;transition-duration:.001s!important}}
 </style>
 </head>
-<body><div class="app"><aside class="side"><div class="brand"><div class="mark"></div><div><h1>Podcast OS</h1><p>Content-first listening dashboard</p></div></div><nav class="nav"><a class="active" href="#listen"><span>01</span> Listen</a><a href="#business"><span>02</span> Business lens</a><a href="#shows"><span>03</span> Shows</a><a href="#archive"><span>04</span> Archive</a><a href="#data"><span>05</span> Data</a></nav><div class="sideStats" id="sideStats">Loading…</div></aside><main class="main"><div class="shell"><div class="topbar"><div class="status"><i class="dot"></i><span>Static dashboard · RSS + local transcript summaries</span></div><div class="actions"><a class="btn secondary" href="./episodes.json" target="_blank">Open data</a><a class="btn secondary" href="https://github.com/dbunn117/podcast-digest" target="_blank">GitHub</a></div></div><section class="hero"><div class="eyebrow">David Podcast OS</div><h2>What was actually said?</h2><p>The main view is now built around episode content: summary first, content takeaways second, links third. David-specific business interpretation is kept separate below, so it does not drown out the episode itself.</p><div class="metrics" id="metrics"></div></section><section id="listen" class="workbench"><div class="panel listPanel"><div class="sectionHead"><div><h2>Episode list</h2><p>Pick an episode. The detail panel opens with the actual content summary first.</p></div><div class="meta" id="episodeCount"></div></div><div class="controls"><input class="input" id="search" placeholder="Search topics, guests, summaries…"><select class="select" id="podFilter"><option value="all">All shows</option></select><select class="select" id="tagFilter"><option value="all">All themes</option></select><select class="select" id="sort"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="podcast">Show</option><option value="transcripts">Transcripts first</option></select></div><div class="episodeList" id="episodeList"></div></div><article class="panel detailPanel" id="episodeDetail"><div class="empty">Select an episode from the list.</div></article></section><section id="business" class="secondaryGrid"><div class="panel listPanel"><div class="sectionHead"><div><h2>Business interpretation, separated</h2><p>This section is intentionally secondary. It is useful, but it should not replace the podcast summary.</p></div></div><div id="businessLens"></div></div><div class="panel listPanel" id="data"><div class="sectionHead"><div><h2>Data quality</h2><p>Know when a summary is transcript-backed versus show-notes only.</p></div></div><div id="quality"></div></div></section><section id="shows" class="panel listPanel" style="margin-top:16px"><div class="sectionHead"><div><h2>Shows</h2><p>Configured feeds and current 2026 episode counts.</p></div></div><div class="shows" id="showsGrid"></div></section><section id="archive" class="panel listPanel" style="margin-top:16px"><div class="sectionHead"><div><h2>Archive cards</h2><p>Compact browse view for the current filtered set.</p></div></div><div class="archiveGrid" id="archiveGrid"></div></section><div class="footer">Generated from RSS feeds and local transcript cache. Full raw transcripts remain local/private; public data contains only derived summaries and takeaways.</div></div></main></div><script>
-const $=s=>document.querySelector(s); const esc=s=>(s||'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m])); const fmt=n=>Number(n||0).toLocaleString();
+<body>
+<div class="app">
+<aside class="side">
+  <div class="brand"><div class="mark"></div><div><h1>Podcast OS</h1><p>Content-first listening dashboard</p></div></div>
+  <nav class="nav" id="nav">
+    <a class="active" data-view="listen" href="#listen"><span>01</span> Listen</a>
+    <a data-view="business" href="#business"><span>02</span> Business lens</a>
+    <a data-view="shows" href="#shows"><span>03</span> Shows</a>
+    <a data-view="archive" href="#archive"><span>04</span> Archive</a>
+    <a data-view="data" href="#data"><span>05</span> Data</a>
+  </nav>
+  <div class="sideStats skeleton" id="sideStats">Loading…</div>
+</aside>
+<main class="main"><div class="shell">
+  <div class="topbar">
+    <div class="status"><i class="dot"></i><span>Static dashboard · RSS + local transcript summaries</span></div>
+    <div class="actions"><a class="btn secondary" href="./episodes.json" target="_blank">Open data</a><a class="btn secondary" href="https://github.com/dbunn117/podcast-digest" target="_blank">GitHub</a></div>
+  </div>
+
+  <section class="hero">
+    <div class="heroTop">
+      <div>
+        <div class="eyebrow">David Podcast OS</div>
+        <h2>What was actually said?</h2>
+        <p>The main view is built around episode content: summary first, content takeaways second, links third. David-specific business interpretation is kept separate, so it doesn't drown out the episode itself.</p>
+      </div>
+      <div class="monthChart" id="monthChart"></div>
+    </div>
+    <div class="metrics" id="metrics"></div>
+  </section>
+
+  <section id="listen" data-view="listen" class="view workbench">
+    <div class="panel listPanel">
+      <div class="sectionHead"><div><h2>Episode list</h2><p>Pick an episode. The detail panel opens with the actual content summary first.</p></div><div class="meta" id="episodeCount"></div></div>
+      <div class="controls">
+        <input class="input" id="search" placeholder="Search topics, guests, summaries…">
+        <select class="select" id="podFilter"><option value="all">All shows</option></select>
+        <select class="select" id="tagFilter"><option value="all">All themes</option></select>
+        <select class="select" id="sort"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="podcast">Show</option><option value="transcripts">Transcripts first</option></select>
+      </div>
+      <div class="episodeList" id="episodeList"></div>
+    </div>
+    <article class="panel detailPanel" id="episodeDetail"><div class="empty">Select an episode from the list.</div></article>
+  </section>
+
+  <section id="business" data-view="business" class="view secondaryGrid" hidden>
+    <div class="panel listPanel">
+      <div class="sectionHead"><div><h2>Business interpretation, separated</h2><p>This section is intentionally secondary. It is useful, but it should not replace the podcast summary.</p></div></div>
+      <div id="businessLens"></div>
+    </div>
+  </section>
+
+  <section id="shows" data-view="shows" class="view panel listPanel" hidden>
+    <div class="sectionHead"><div><h2>Shows</h2><p>Configured feeds and current 2026 episode counts.</p></div></div>
+    <div class="shows" id="showsGrid"></div>
+  </section>
+
+  <section id="archive" data-view="archive" class="view panel listPanel" hidden>
+    <div class="sectionHead"><div><h2>Archive cards</h2><p>Compact browse view for the current filtered set.</p></div></div>
+    <div class="archiveGrid" id="archiveGrid"></div>
+  </section>
+
+  <section id="data" data-view="data" class="view panel listPanel" hidden>
+    <div class="sectionHead"><div><h2>Data quality</h2><p>Know when a summary is transcript-backed versus show-notes only.</p></div></div>
+    <div id="quality"></div>
+  </section>
+
+  <div class="footer">Generated from RSS feeds and local transcript cache. Full raw transcripts remain local/private; public data contains only derived summaries and takeaways.</div>
+</div></main>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>(s||'').toString().replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+const fmt=n=>Number(n||0).toLocaleString();
 let DATA, EPISODES=[], CURRENT=[], SELECTED=null;
+
 function dateLabel(d){if(!d)return 'link'; const x=new Date(d+'T12:00:00'); return x.toLocaleDateString(undefined,{month:'short',day:'numeric',year:'numeric'}).replace(', 2026','');}
 function clean(s){return (s||'').replace(/https?:\/\/\S+/g,' ').replace(/\s+/g,' ').trim()}
 function mdBold(s){return (s||'').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}
@@ -29,16 +223,194 @@ function isTranscript(e){return e.transcript_status==='available'}
 function contentSummary(e){if(e.core_arguments&&e.transcript_summary)return clean(e.transcript_summary); return clean(e.content_summary||e.summary||e.transcript_content_summary||'No content summary available yet.')}
 function contentBullets(e){let arr=e.content_takeaways||e.transcript_content_takeaways||[]; if(arr.length)return arr.slice(0,5); const txt=clean(e.show_notes||e.summary||''); return txt.split(/(?<=[.!?])\s+/).filter(x=>x.length>55&&!/sponsor|advertis|subscribe|follow|promo code|made possible/i.test(x)).slice(0,4)}
 function businessBullets(e){return (e.transcript_takeaways||[]).slice(0,4)}
-function summaryHtml(e){const s=clean(e.transcript_summary||e.content_summary||e.summary||'');if(!s)return'<p>No content summary available yet.</p>';if(!e.core_arguments)return`<p>${esc(s)}</p>`;const lines=s.split('\n').map(x=>x.trim()).filter(Boolean);const args=[];const david=[];let inD=false;lines.forEach(l=>{if(/^for david:/i.test(l)){inD=true;return}if(inD){david.push(l.replace(/^[-*•]\s*/,''));return}args.push(l)});const argHtml=args.map(l=>{const m=l.match(/^(\d+)[.)]\s+(.+)$/);if(!m)return`<div class="argCard"><div class="argBody">${mdBold(esc(l))}</div></div>`;const num=m[1],body=m[2];const tm=body.match(/^(\*\*.*?\*\*)\s*(.*)$/);if(tm){const title=esc(tm[1]).replace(/\*\*/g,''),expl=tm[2]?mdBold(esc(tm[2])):'';return`<div class="argCard"><div class="argNum">${num}</div><div class="argBody"><strong>${title}</strong> ${expl}</div></div>`}return`<div class="argCard"><div class="argNum">${num}</div><div class="argBody">${mdBold(esc(body))}</div></div>`}).join('');const davidHtml=david.length?`<div class="davidSection"><div class="eyebrow" style="margin:0 0 4px">For David</div><ul>${david.map(x=>`<li>${mdBold(esc(x.replace(/^[-*•]\s*/,'')))}</li>`).join('')}</ul></div>`:'';return argHtml+davidHtml}
+
+function summaryHtml(e){
+  const s=clean(e.transcript_summary||e.content_summary||e.summary||'');
+  if(!s)return'<p>No content summary available yet.</p>';
+  if(!e.core_arguments)return`<p>${esc(s)}</p>`;
+  const lines=s.split('\n').map(x=>x.trim()).filter(Boolean);
+  const args=[]; const david=[]; let inD=false;
+  lines.forEach(l=>{if(/^for david:/i.test(l)){inD=true;return} if(inD){david.push(l.replace(/^[-*•]\s*/,''));return} args.push(l)});
+  const argHtml=args.map(l=>{
+    const m=l.match(/^(\d+)[.)]\s+(.+)$/);
+    if(!m)return`<div class="argCard"><div class="argBody">${mdBold(esc(l))}</div></div>`;
+    const num=m[1],body=m[2];
+    const tm=body.match(/^(\*\*.*?\*\*)\s*(.*)$/);
+    if(tm){const title=esc(tm[1]).replace(/\*\*/g,''),expl=tm[2]?mdBold(esc(tm[2])):''; return`<div class="argCard"><div class="argNum">${num}</div><div class="argBody"><strong>${title}</strong> ${expl}</div></div>`}
+    return`<div class="argCard"><div class="argNum">${num}</div><div class="argBody">${mdBold(esc(body))}</div></div>`
+  }).join('');
+  const davidHtml=david.length?`<div class="davidSection"><div class="eyebrow" style="margin:0 0 4px">For David</div><ul>${david.map(x=>`<li>${mdBold(esc(x.replace(/^[-*•]\s*/,'')))}</li>`).join('')}</ul></div>`:'';
+  return argHtml+davidHtml;
+}
+
 function row(e){return `<button class="episodeRow ${e.id===SELECTED?'active':''}" data-id="${esc(e.id)}" onclick="selectEpisode('${e.id}',true)"><div class="rowShow">${esc(e.short_name)}</div><div><div class="rowTitle">${esc(e.title)}</div><div class="meta">${isTranscript(e)?'Transcript':'Show notes'} · ${esc((e.tags||[]).slice(0,3).join(' · '))}</div></div><div class="rowMeta meta">${dateLabel(e.published_date)}</div></button>`}
-function pills(items, warn=false){return (items||[]).slice(0,8).map(x=>`<span class="pill ${warn?'warn':''}">${esc(x)}</span>`).join('')}
-function detail(e){const img=e.image||e.podcast_image; const bullets=contentBullets(e).map(x=>`<li>${esc(clean(x))}</li>`).join('')||'<li>No clean content takeaways available yet.</li>'; const biz=businessBullets(e); const bizHtml=biz.length?biz.map(x=>`<li>${esc(clean(x))}</li>`).join(''):'<li>No David-specific interpretation generated yet. Use the actual summary above first.</li>'; const summaryLabel=e.core_arguments?'Core arguments':'Actual episode summary'; return `<div class="detailTop">${img?`<img class="art" src="${esc(img)}" alt="Episode artwork">`:`<div class="art"></div>`}<div><div class="meta">${esc(e.short_name)} · ${dateLabel(e.published_date)} ${e.duration?'· '+esc(e.duration):''}</div><h2>${esc(e.title)}</h2><div>${isTranscript(e)?'<span class="pill">Transcript-backed</span>':'<span class="pill warn">Show-notes only</span>'}${pills(e.tags||[])}</div></div></div><div class="detailActions">${e.url?`<a class="btn secondary" href="${esc(e.url)}" target="_blank">Open episode</a>`:''}${e.audio_url?`<a class="btn secondary" href="${esc(e.audio_url)}" target="_blank">Audio</a>`:''}<button class="btn secondary" onclick="navigator.clipboard&&navigator.clipboard.writeText('${esc((e.short_name+' — '+e.title).replace(/'/g,'’'))}' )">Copy title</button></div><section class="block primary"><div class="eyebrow">Main content</div><h3>${summaryLabel}</h3>${summaryHtml(e)}</section><section class="block primary"><h3>Content takeaways</h3><ul>${bullets}</ul></section><section class="block" id="businessInDetail"><div class="eyebrow">Secondary section</div><h3>Interpretation for David's business / operating system</h3><ul>${bizHtml}</ul></section><section class="block"><h3>Source quality</h3><p>${isTranscript(e)?`Summary uses derived transcript fields from ${esc(e.transcript_source||'transcript cache')}.`:'Only RSS/show-note text is available. Treat as a useful preview, not a complete episode summary.'}</p></section>`}
-function selectEpisode(id,scroll=false){SELECTED=id; const e=CURRENT.find(x=>x.id===id)||EPISODES.find(x=>x.id===id); $('#episodeDetail').innerHTML=e?detail(e):'<div class="empty">Select an episode.</div>'; document.querySelectorAll('.episodeRow').forEach(r=>r.classList.toggle('active',r.dataset.id===id)); renderBusiness(e); if(scroll&&matchMedia('(max-width:1180px)').matches)$('#episodeDetail').scrollIntoView({behavior:'smooth',block:'start'})}
-function filtered(){const q=$('#search').value.toLowerCase().trim(), pf=$('#podFilter').value, tf=$('#tagFilter').value, sort=$('#sort').value; let list=[...EPISODES]; if(pf!=='all')list=list.filter(e=>e.short_name===pf); if(tf!=='all')list=list.filter(e=>(e.tags||[]).includes(tf)); if(q)list=list.filter(e=>[e.title,e.short_name,e.summary,e.content_summary,e.transcript_content_summary,e.show_notes,(e.tags||[]).join(' ')].join(' ').toLowerCase().includes(q)); list.sort((a,b)=>sort==='oldest'?(a.published_at||'').localeCompare(b.published_at||''):sort==='podcast'?(a.short_name+a.title).localeCompare(b.short_name+b.title):sort==='transcripts'?(Number(isTranscript(b))-Number(isTranscript(a)) || (b.published_at||'').localeCompare(a.published_at||'')):(b.published_at||'').localeCompare(a.published_at||'')); return list}
-function renderList(){CURRENT=filtered(); $('#episodeCount').textContent=`${fmt(CURRENT.length)} / ${fmt(EPISODES.length)}`; if(!SELECTED||!CURRENT.some(e=>e.id===SELECTED))SELECTED=CURRENT[0]?.id; $('#episodeList').innerHTML=CURRENT.slice(0,350).map(row).join('')||'<div class="empty">No matching episodes.</div>'; const e=CURRENT.find(x=>x.id===SELECTED); $('#episodeDetail').innerHTML=e?detail(e):'<div class="empty">Select an episode.</div>'; renderArchive(CURRENT); renderBusiness(e)}
+function pills(items){return (items||[]).slice(0,8).map(x=>`<span class="pill">${esc(x)}</span>`).join('')}
+
+function detail(e){
+  const img=e.image||e.podcast_image;
+  const bullets=contentBullets(e).map(x=>`<li>${esc(clean(x))}</li>`).join('')||'<li>No clean content takeaways available yet.</li>';
+  const biz=businessBullets(e);
+  const bizHtml=biz.length?biz.map(x=>`<li>${esc(clean(x))}</li>`).join(''):'<li>No David-specific interpretation generated yet. Use the actual summary above first.</li>';
+  const summaryLabel=e.core_arguments?'Core arguments':'Actual episode summary';
+  return `<div class="detailTop">${img?`<img class="art" src="${esc(img)}" alt="Episode artwork">`:`<div class="art"></div>`}<div><div class="meta">${esc(e.short_name)} · ${dateLabel(e.published_date)} ${e.duration?'· '+esc(e.duration):''}</div><h2>${esc(e.title)}</h2><div>${isTranscript(e)?'<span class="pill">Transcript-backed</span>':'<span class="pill warn">Show-notes only</span>'}${pills(e.tags||[])}</div></div></div><div class="detailActions">${e.url?`<a class="btn secondary" href="${esc(e.url)}" target="_blank">Open episode</a>`:''}${e.audio_url?`<a class="btn secondary" href="${esc(e.audio_url)}" target="_blank">Audio</a>`:''}<button class="btn secondary" onclick="navigator.clipboard&&navigator.clipboard.writeText('${esc((e.short_name+' — '+e.title).replace(/'/g,'’'))}' )">Copy title</button></div><section class="block primary"><div class="eyebrow">Main content</div><h3>${summaryLabel}</h3>${summaryHtml(e)}</section><section class="block primary"><h3>Content takeaways</h3><ul>${bullets}</ul></section><section class="block" id="businessInDetail"><div class="eyebrow">Secondary section</div><h3>Interpretation for David's business / operating system</h3><ul>${bizHtml}</ul></section><section class="block"><h3>Source quality</h3><p>${isTranscript(e)?`Summary uses derived transcript fields from ${esc(e.transcript_source||'transcript cache')}.`:'Only RSS/show-note text is available. Treat as a useful preview, not a complete episode summary.'}</p></section>`;
+}
+
+function selectEpisode(id,scroll=false){
+  SELECTED=id;
+  const e=CURRENT.find(x=>x.id===id)||EPISODES.find(x=>x.id===id);
+  const panel=$('#episodeDetail');
+  panel.style.animation='none'; panel.offsetHeight; panel.style.animation='';
+  panel.innerHTML=e?detail(e):'<div class="empty">Select an episode.</div>';
+  panel.classList.remove('view'); void panel.offsetWidth; panel.classList.add('view');
+  document.querySelectorAll('.episodeRow').forEach(r=>r.classList.toggle('active',r.dataset.id===id));
+  renderBusiness(e);
+  if(scroll&&matchMedia('(max-width:1180px)').matches)panel.scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+function filtered(){
+  const q=$('#search').value.toLowerCase().trim(), pf=$('#podFilter').value, tf=$('#tagFilter').value, sort=$('#sort').value;
+  let list=[...EPISODES];
+  if(pf!=='all')list=list.filter(e=>e.short_name===pf);
+  if(tf!=='all')list=list.filter(e=>(e.tags||[]).includes(tf));
+  if(q)list=list.filter(e=>[e.title,e.short_name,e.summary,e.content_summary,e.transcript_content_summary,e.show_notes,(e.tags||[]).join(' ')].join(' ').toLowerCase().includes(q));
+  list.sort((a,b)=>sort==='oldest'?(a.published_at||'').localeCompare(b.published_at||''):sort==='podcast'?(a.short_name+a.title).localeCompare(b.short_name+b.title):sort==='transcripts'?(Number(isTranscript(b))-Number(isTranscript(a)) || (b.published_at||'').localeCompare(a.published_at||'')):(b.published_at||'').localeCompare(a.published_at||''));
+  return list;
+}
+
+function renderList(){
+  CURRENT=filtered();
+  $('#episodeCount').textContent=`${fmt(CURRENT.length)} / ${fmt(EPISODES.length)}`;
+  if(!SELECTED||!CURRENT.some(e=>e.id===SELECTED))SELECTED=CURRENT[0]?.id;
+  $('#episodeList').innerHTML=CURRENT.slice(0,350).map(row).join('')||'<div class="empty">No matching episodes.</div>';
+  const e=CURRENT.find(x=>x.id===SELECTED);
+  $('#episodeDetail').innerHTML=e?detail(e):'<div class="empty">Select an episode.</div>';
+  renderArchive(CURRENT);
+  renderBusiness(e);
+}
+
 function renderArchive(list){$('#archiveGrid').innerHTML=list.slice(0,60).map(e=>`<article class="card"><div class="meta">${esc(e.short_name)} · ${dateLabel(e.published_date)}</div><h3>${esc(e.title)}</h3><p>${esc(contentSummary(e)).slice(0,210)}${contentSummary(e).length>210?'…':''}</p><div>${isTranscript(e)?'<span class="pill">Transcript</span>':'<span class="pill warn">Show notes</span>'}</div></article>`).join('')}
-function renderBusiness(e){if(!e){$('#businessLens').innerHTML='<div class="empty">Select an episode to see the separate business lens.</div>';return} const biz=businessBullets(e); $('#businessLens').innerHTML=`<div class="meta">Selected episode</div><h3 style="margin:4px 0 8px">${esc(e.short_name)} — ${esc(e.title)}</h3><div class="block"><h3>Business / operator interpretation</h3><ul>${biz.length?biz.map(x=>`<li>${esc(clean(x))}</li>`).join(''):'<li>No business interpretation generated for this episode yet.</li>'}</ul></div>`}
-function barRows(obj){const entries=Object.entries(obj||{}), max=Math.max(1,...entries.map(x=>x[1])); return entries.map(([k,v])=>`<div class="barRow"><div class="meta">${esc(k)}</div><div class="bar"><div class="fill" style="width:${Math.max(4,100*v/max)}%"></div></div><div class="meta">${fmt(v)}</div></div>`).join('')}
-async function main(){DATA=await fetch('./episodes.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json()); EPISODES=DATA.episodes||[]; const stats=DATA.stats||{}, pods=DATA.podcasts||[]; const transcriptCount=EPISODES.filter(isTranscript).length; $('#sideStats').innerHTML=`Generated<br>${new Date(DATA.generated_at).toLocaleString()}<b>${fmt(stats.ytd_count)}</b>YTD episodes<b>${fmt(transcriptCount)}</b>transcript-backed`; $('#metrics').innerHTML=[['YTD episodes',stats.ytd_count],['Shows',stats.podcast_count],['Transcript-backed',transcriptCount],['Recent items',stats.recent_count],['Saved links',stats.link_inbox_count]].map(x=>`<div class="metric"><b>${fmt(x[1])}</b><span>${x[0]}</span></div>`).join(''); $('#podFilter').innerHTML+=[...new Set(EPISODES.map(e=>e.short_name))].sort().map(x=>`<option>${esc(x)}</option>`).join(''); $('#tagFilter').innerHTML+=[...new Set(EPISODES.flatMap(e=>e.tags||[]))].sort().map(x=>`<option>${esc(x)}</option>`).join(''); $('#showsGrid').innerHTML=pods.map(p=>`<article class="showCard"><div class="meta">${fmt(stats.by_podcast?.[p.short_name]||0)} episodes</div><h3>${esc(p.short_name)}</h3><p>${esc((p.themes||[]).join(' · '))}</p></article>`).join(''); $('#quality').innerHTML=`<div class="block"><h3>Transcript coverage</h3>${barRows({'Transcript-backed':transcriptCount,'Show-notes only':EPISODES.length-transcriptCount})}</div><div class="block"><h3>Theme mix</h3>${barRows(stats.by_tag||{})}</div>`; ['search','podFilter','tagFilter','sort'].forEach(id=>$('#'+id).addEventListener('input',renderList)); renderList()}
-main().catch(err=>{document.body.innerHTML='<pre style="padding:20px">Dashboard error: '+esc(String(err))+'</pre>'})
-</script></body></html>
+
+function renderBusiness(e){
+  if(!e){$('#businessLens').innerHTML='<div class="empty">Select an episode to see the separate business lens.</div>';return}
+  const biz=businessBullets(e);
+  $('#businessLens').innerHTML=`<div class="meta">Selected episode</div><h3 style="margin:4px 0 8px">${esc(e.short_name)} — ${esc(e.title)}</h3><div class="block"><h3>Business / operator interpretation</h3><ul>${biz.length?biz.map(x=>`<li>${esc(clean(x))}</li>`).join(''):'<li>No business interpretation generated for this episode yet.</li>'}</ul></div>`;
+}
+
+// --- Charts (inline SVG, no dependencies) ---
+
+function svgBarChart(obj){
+  const entries=Object.entries(obj||{}).slice(0,10);
+  const max=Math.max(1,...entries.map(x=>x[1]));
+  return `<div class="barChart">${entries.map(([k,v],i)=>{
+    const pct=Math.max(3,100*v/max);
+    return `<div class="barChartRow"><div class="meta">${esc(k)}</div>
+      <svg class="barTrack" width="100%" height="11" viewBox="0 0 100 11" preserveAspectRatio="none" role="img" aria-label="${esc(k)}: ${fmt(v)}">
+        <rect x="0" y="0" width="100" height="11" rx="5.5" fill="var(--line2)"></rect>
+        <rect class="fillRect" x="0" y="0" width="0" height="11" rx="5.5" fill="url(#barGrad)" style="transition-delay:${i*40}ms" data-w="${pct}"></rect>
+      </svg>
+      <div class="meta">${fmt(v)}</div></div>`;
+  }).join('')}
+  <svg width="0" height="0"><defs><linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2da86d"/><stop offset="100%" stop-color="#92d7aa"/></linearGradient></defs></svg></div>`;
+}
+
+function svgDonut(transcriptCount,total){
+  const pct=total?Math.round(1000*transcriptCount/total)/10:0;
+  const r=42,c=2*Math.PI*r;
+  const dash=c*pct/100;
+  return `<div class="donutRow">
+    <svg width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="${pct}% transcript-backed">
+      <circle cx="60" cy="60" r="${r}" fill="none" stroke="var(--line2)" stroke-width="14"></circle>
+      <circle cx="60" cy="60" r="${r}" fill="none" stroke="url(#donutGrad)" stroke-width="14" stroke-linecap="round"
+        stroke-dasharray="0 ${c}" data-dash="${dash} ${c}" transform="rotate(-90 60 60)"
+        style="transition:stroke-dasharray 1s var(--ease)"></circle>
+      <text x="60" y="56" text-anchor="middle" font-size="22" font-weight="700" fill="var(--ink)" font-family="Geist">${pct}%</text>
+      <text x="60" y="74" text-anchor="middle" font-size="9.5" fill="var(--muted)" font-family="Geist">transcript</text>
+      <defs><linearGradient id="donutGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#128455"/><stop offset="100%" stop-color="#5fd39a"/></linearGradient></defs>
+    </svg>
+    <div class="donutLegend">
+      <div class="legendItem"><span class="legendDot" style="background:#128455"></span>Transcript-backed · ${fmt(transcriptCount)}</div>
+      <div class="legendItem"><span class="legendDot" style="background:var(--line2);border:1px solid var(--line)"></span>Show-notes only · ${fmt(total-transcriptCount)}</div>
+    </div>
+  </div>`;
+}
+
+function svgMonthChart(byMonth){
+  const entries=Object.entries(byMonth||{}).sort((a,b)=>a[0].localeCompare(b[0])).slice(-8);
+  if(!entries.length)return '';
+  const max=Math.max(1,...entries.map(x=>x[1]));
+  const w=220,h=54,bw=w/entries.length,gap=4;
+  const bars=entries.map(([k,v],i)=>{
+    const bh=Math.max(3,(h-4)*v/max);
+    const x=i*bw+gap/2, bwi=bw-gap;
+    return `<rect x="${x}" y="${h-bh}" width="${bwi}" height="0" rx="3" fill="url(#monthGrad)" data-h="${bh}" data-y="${h-bh}" style="transition:height .7s var(--ease) ${i*35}ms,y .7s var(--ease) ${i*35}ms"><title>${esc(k)}: ${fmt(v)}</title></rect>`;
+  }).join('');
+  const first=entries[0][0].slice(5), last=entries[entries.length-1][0].slice(5);
+  return `<svg width="100%" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">${bars}<defs><linearGradient id="monthGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#5fd39a"/><stop offset="100%" stop-color="#128455"/></linearGradient></defs></svg><div class="capt">${esc(first)} → ${esc(last)} · episodes / month</div>`;
+}
+
+function animateCharts(){
+  requestAnimationFrame(()=>{
+    document.querySelectorAll('.barTrack .fillRect[data-w]').forEach(r=>r.setAttribute('width',r.dataset.w));
+    document.querySelectorAll('circle[data-dash]').forEach(c=>c.setAttribute('stroke-dasharray',c.dataset.dash));
+    document.querySelectorAll('rect[data-h]').forEach(r=>{r.setAttribute('height',r.dataset.h); r.setAttribute('y',r.dataset.y)});
+  });
+}
+
+function countUp(el,target){
+  const dur=650, start=performance.now(), from=0;
+  target=Number(target||0);
+  function tick(now){
+    const p=Math.min(1,(now-start)/dur);
+    const eased=1-Math.pow(1-p,3);
+    el.textContent=fmt(Math.round(from+(target-from)*eased));
+    if(p<1)requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+}
+
+// --- View switching (functional tab nav) ---
+
+const VIEWS=['listen','business','shows','archive','data'];
+function showView(id,push=true){
+  if(!VIEWS.includes(id))id='listen';
+  VIEWS.forEach(v=>{const el=$('#'+v); if(el)el.hidden=(v!==id)});
+  document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.dataset.view===id));
+  const active=$('#'+id); if(active){active.classList.remove('view'); void active.offsetWidth; active.classList.add('view')}
+  if(push&&location.hash.slice(1)!==id)history.replaceState(null,'','#'+id);
+}
+document.getElementById('nav').addEventListener('click',ev=>{
+  const a=ev.target.closest('a[data-view]'); if(!a)return;
+  ev.preventDefault(); showView(a.dataset.view);
+});
+window.addEventListener('hashchange',()=>showView(location.hash.slice(1)||'listen',false));
+
+async function main(){
+  DATA=await fetch('./episodes.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.json());
+  EPISODES=DATA.episodes||[];
+  const stats=DATA.stats||{}, pods=DATA.podcasts||[];
+  const transcriptCount=EPISODES.filter(isTranscript).length;
+
+  const sideStats=$('#sideStats');
+  sideStats.classList.remove('skeleton');
+  sideStats.innerHTML=`Generated<br>${new Date(DATA.generated_at).toLocaleString()}<b>${fmt(stats.ytd_count)}</b>YTD episodes<b>${fmt(transcriptCount)}</b>transcript-backed`;
+
+  const metricDefs=[['YTD episodes',stats.ytd_count],['Shows',stats.podcast_count],['Transcript-backed',transcriptCount],['Recent items',stats.recent_count],['Saved links',stats.link_inbox_count]];
+  $('#metrics').innerHTML=metricDefs.map((x,i)=>`<div class="metric"><b data-target="${Number(x[1]||0)}" id="metric-${i}">0</b><span>${x[0]}</span></div>`).join('');
+  metricDefs.forEach((x,i)=>countUp($('#metric-'+i),x[1]));
+
+  $('#monthChart').innerHTML=svgMonthChart(stats.by_month);
+
+  $('#podFilter').innerHTML+=[...new Set(EPISODES.map(e=>e.short_name))].sort().map(x=>`<option>${esc(x)}</option>`).join('');
+  $('#tagFilter').innerHTML+=[...new Set(EPISODES.flatMap(e=>e.tags||[]))].sort().map(x=>`<option>${esc(x)}</option>`).join('');
+  $('#showsGrid').innerHTML=pods.map(p=>`<article class="showCard"><div class="meta">${fmt(stats.by_podcast?.[p.short_name]||0)} episodes</div><h3>${esc(p.short_name)}</h3><p>${esc((p.themes||[]).join(' · '))}</p></article>`).join('');
+
+  $('#quality').innerHTML=`<div class="block chartCard"><h3>Transcript coverage</h3>${svgDonut(transcriptCount,EPISODES.length)}</div><div class="block chartCard"><h3>Theme mix</h3>${svgBarChart(stats.by_tag||{})}</div>`;
+
+  ['search','podFilter','tagFilter','sort'].forEach(id=>$('#'+id).addEventListener('input',renderList));
+  renderList();
+  showView(location.hash.slice(1)||'listen',false);
+  animateCharts();
+}
+main().catch(err=>{document.body.innerHTML='<pre style="padding:20px">Dashboard error: '+esc(String(err))+'</pre>'});
+</script>
+</body></html>
