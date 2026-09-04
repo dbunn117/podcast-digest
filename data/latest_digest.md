@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-03
+# Podcast Digest - 2026-09-04
 
-Generated: 2026-09-03 07:39 PDT
+Generated: 2026-09-04 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,69 @@ Generated: 2026-09-03 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions
+- Date: 2026-09-04
+- Duration: 3581
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4089839790.mp3
+- AI summary (Hermes): Here's the structured summary:
+
+---
+
+**Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions**
+
+**Core arguments**
+
+1. **AI is not a bubble — the technology works and that's what matters.**
+   Cowen flatly rejects Ed Zitron's "AI is a con" framing. He counters that AI outperforms humans on many intellectual tasks, calling it "one of the top achievements in the history of mankind." Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy — it's how much society will accept the changes AI brings.
+
+2. **The circular-spend criticism is a normal bootstrapping pattern, not a red flag.**
+   To the concern that big tech funds AI labs that then spend the money on compute from those same investors, Cowen says every new sector straps itself this way. Nvidia is the "lender or buyer of last resort" fo
+  - Here's the structured summary:
+  - **Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions**
+  - **AI is not a bubble — the technology works and that's what matters.**
+  - Cowen flatly rejects Ed Zitron's "AI is a con" framing. He counters that AI outperforms humans on many intellectual tasks, calling it "one of the top achievements in the history of mankind." Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy — it's how much society will accept the changes AI brings.
+
+### DOAC — Most Replayed Moment: The First Warning Signs Of Insulin Resistance! Check Your Skin For This
+- Date: 2026-09-03
+- Duration: 1115
+- Tags: Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AC7XP9BMZ2YS50VWQADJV2.mp3
+- AI summary (Hermes): ## Core arguments
+
+**1. [N/A — meal timing] Late eating drives chronic high insulin overnight**
+Calorie timing becomes increasingly important with age. Dr. Boz argues that one bite of food after 6pm provokes the same insulin response as 10 bites before noon. Eating late — especially processed carbs — keeps insulin elevated through the night, which she calls "the beginning of the chronic inflammatory churn" driving accelerated aging.
+
+**2. [N/A — insulin's full role] High insulin is not just about fat gain — it creates cellular "trash"**
+Beyond storing sugar as fat, chronically high insulin blocks the body's normal waste clearance. The debris accumulates between brain cells (linked to depression, brain fog, Parkinson's), in skin, and throughout tissues. The trash only gets taken out when insulin drops — which most people never allow to happen.
+
+**3. [N/A — visible signs] Skin tags, velvet
+  - **1. [N/A — meal timing] Late eating drives chronic high insulin overnight**
+  - Calorie timing becomes increasingly important with age. Dr. Boz argues that one bite of food after 6pm provokes the same insulin response as 10 bites before noon. Eating late — especially processed carbs — keeps insulin elevated through the night, which she calls "the beginning of the chronic inflammatory churn" driving accelerated aging.
+  - **2. [N/A — insulin's full role] High insulin is not just about fat gain — it creates cellular "trash"**
+  - Beyond storing sugar as fat, chronically high insulin blocks the body's normal waste clearance. The debris accumulates between brain cells (linked to depression, brain fog, Parkinson's), in skin, and throughout tissues. The trash only gets taken out when insulin drops — which most people never allow to happen.
+
+### TWIST — Becki DeGraw on spinouts, IP licensing & clean exits | Wilson Sonsini Startup Legal Basics
+- Date: 2026-09-03
+- Duration: 17:54
+- Tags: AI, Startups, Finance, Career, Parenting, Content, Cricket
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/becki-degraw-on-spinouts-ip-licensing-clean-exits-wilson-sonsini-startup-legal-basics
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2_Legal_Basics.mp4?dest-id=5500155
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **0:00-5:03 — A spinout is an orphan done faster**
+   Spinouts happen when an internal project works but doesn't fit the parent's strategic vision. The "why" is pragmatic: you get built+tested tech without full startup risk. University R&D spinouts follow the same logic — negotiating with the institution for IP terms is just a variant.
+
+2. **5:03-6:06 — The 80/20 rule + unicorn test**
+   Jason's heuristic: old company keeps ~20%, new team gets ~80%. Anything above ~50% breaks the cap table and kills fundability. Test: "what's an amount where if this went to $1B you'd feel great?" 20% of $1B = $200M — the parent looks savvy. 60% of $0 looks dumb. Investors won't touch a spinout where founders aren't properly motivated.
+
+3. **6:36-8:44 — Exclusive licensing as an M&A workaround (receding)**
+   When M&A was blocked, companies did "global exclusive license + team trans
+  - **0:00-5:03 — A spinout is an orphan done faster**
+  - Spinouts happen when an internal project works but doesn't fit the parent's strategic vision. The "why" is pragmatic: you get built+tested tech without full startup risk. University R&D spinouts follow the same logic — negotiating with the institution for IP terms is just a variant.
+  - **5:03-6:06 — The 80/20 rule + unicorn test**
+  - Jason's heuristic: old company keeps ~20%, new team gets ~80%. Anything above ~50% breaks the cap table and kills fundability. Test: "what's an amount where if this went to $1B you'd feel great?" 20% of $1B = $200M — the parent looks savvy. 60% of $0 looks dumb. Investors won't touch a spinout where founders aren't properly motivated.
+
 ### The Game — How to Think Like the Top 1% | Ep 996
 - Date: 2026-09-03
 - Duration: 751
@@ -52,7 +115,7 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - [Bonds segment — The bond bubble that nobody noticed] When the 10-year yielded 50bps, investors were paying ~200x cash flow for bonds. What we've experienced since is a normalization, not a spike. The real surprise would have been if those levels persisted forever, not that they corrected.
   - [Bonds segment — Inflation is the insidious tax] The US deals with its $40T+ debt via inflation — repaying with devalued dollars. It's the most regressive tax on the global population because it hits everyone equally. The way to fight it is to be an investor, on the side of companies that can pass through inflation.
 
-### Modern Wisdom — How To Build A Business That Runs Without You - Codie Sanchez - #1145
+### Modern Wisdom — Why Working Harder Won’t Make You Rich - Codie Sanchez - #1145
 - Date: 2026-09-02
 - Duration: 5586
 - Tags: AI, Business, Career, Health, Psychology, Performance, Relationships
@@ -72,11 +135,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **07:35 — The "hero complex" traps founders in self-employment**
   - Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
 
-### DOAC — Andrew Huberman: My Exact Routine To Optimize Brain & Body, I Do All Of These Every Day!
+### DOAC — Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted
 - Date: 2026-09-02
 - Duration: 8177
-- Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3
+- Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=avwdogbcug45mk4wt6tpol30
 - Summary from show notes: Stanford Neuroscientist Andrew Huberman returns to reveal the truth about GLP-1s, peptides, and the testosterone collapse, and the 10 protocols he uses every day to fix his sleep, stress, and focus! Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the Departments of Neurobiology and Ophthalmology at Stanford University School of Medicine. 1 health podcast 'Huberman Lab', and is also the author of his upcoming book, 'Protocols: An Operating Manual for the Human Body'.
 - _Transcript: none available (not_ingested)_
 
@@ -172,11 +235,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence — meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.
   - **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq — even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore.
 
-### DOAC — Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg
+### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
 - Date: 2026-08-30
 - Duration: 7460
 - Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9
 - Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
 - _Transcript: none available (not_ingested)_
 
@@ -214,14 +277,6 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **"On meter" consumption pricing is the 2027 breakout model for AI revenue.** Customers like Uber are already shifting to metered, usage-based pricing instead of seat-based SaaS. If you're building or advising AI products, design pricing around tokens/API calls consumed, not per-user subscriptions — that's where frontier AI companies (Anthropic hitting $50B, OpenAI $30-40B) are pulling their revenue.
   - **The cyber-defense open letter is pre-PR, not a policy push — expect a major hack disclosed before year-end.** Sam Altman is the loudest voice because OpenAI's own agent hacked Hugging Face's site (credential theft). The "call to action" is getting ahead of known liability/embarrassment. Practical action: advise clients with sensitive infrastructure to lock down their AI agents' browser/API permissions now and watch for a big breach announcement in Q4.
   - **AI-powered hacking is unbounded and getting cheaper — long bullish for Palo Alto Networks and CrowdStrike.** Frontier models can now ingest every GitHub repo, every past exploit, every CVE history and relentlessly probe unmaintained code 24/7. With inference costs dropping (DeepSeek, open models), hackers are no longer budget-constrained. If you trade, look at PANW/CRWD; if you advise, budget for AI-native security tooling — the old "patch Tuesday" model is dead.
-
-### DOAC — Most Replayed Moment: Tony Robbins Reveals The Key To A Meaningful Life
-- Date: 2026-08-27
-- Duration: 1833
-- Tags: Business, Career, Health, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AAXF9ND240164721SD7ETJ.mp3
-- Transcript takeaways: **"Not growing = dying" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check — how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay.
-  - **"Not growing = dying" applies to your business too.** Tony says this explicitly about relationships and businesses. For David's career transition: Stockbridge 20h/wk at $175/hr through Aug 2026 is a bridge, not a destination. If your consulting pipeline isn't growing month over month, it's already shrinking. Concrete action: run a monthly pipeline health check — how many discovery calls, how many pilots active, how many case studies published. If any of those are flat, you're in decay.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
