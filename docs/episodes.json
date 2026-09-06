@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:39:26.149650-07:00",
+  "generated_at": "2026-09-06T07:34:03.620081-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -170,6 +170,59 @@
     }
   ],
   "episodes": [
+    {
+      "id": "701f388bd0897060",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/78155700-fc81-11f0-ae7f-9f797a3b7e7b/image/1ec022a6cc817a1da1315963e0dc4179.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Why Nobody Trusts the News \u2014 And How to Fix It",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7686377354.mp3",
+      "guid": "78155700-fc81-11f0-ae7f-9f797a3b7e7b",
+      "published_at": "2026-09-06T08:15:00+00:00",
+      "published_date": "2026-09-06",
+      "published_month": "2026-09",
+      "duration": "3505",
+      "summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+      "content_summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+      "content_takeaways": [
+        "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable.",
+        "They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem."
+      ],
+      "show_notes": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Markets",
+        "Finance",
+        "Business",
+        "Investing",
+        "Strategy"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information.",
+        "I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+        "I know how to track down the smartest people across science energy technology when they're on shows and listen to them unfiltered.",
+        "And again, like, because what people missed the critics of journalism, like I've said again, like I was at the journal, I was at the post at Politico here."
+      ],
+      "transcript_content_summary": "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information. I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-09-06T07:33:17.574809-07:00",
+      "transcript_takeaways": [
+        "**[~09:00] \u2014 The information paradox**",
+        "More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.",
+        "**[~10:30] \u2014 Smart brevity as an architectural solution**",
+        "Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff."
+      ],
+      "transcript_summary": "**Core arguments:**\n\n1. **[~09:00] \u2014 The information paradox**\n   More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.\n\n2. **[~10:30] \u2014 Smart brevity as an architectural solution**\n   Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff.\n\n3. **[~16:00] \u2014 Information inequality is the real worry, not just income inequality**\n   Axios thrives because it serves powerful people who need high-end information",
+      "core_arguments": true
+    },
     {
       "id": "87322094970880f7",
       "podcast": "Modern Wisdom",
@@ -1164,9 +1217,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg",
+      "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9",
       "guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
       "published_at": "2026-08-31T05:00:00+00:00",
       "published_date": "2026-08-30",
@@ -1993,9 +2046,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECVHEFBNH72Y2F0MPMV0X2/darby_saxbe_ep_cover.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "The Scientist Who Scans Fathers' Brains: The Parenting Checklist You NEED Before You Have Babies!",
+      "title": "Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3?fcv=mxgmwmai4jwl4rdh0n5r5yam",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECRSS1DEAZE07EAX6TP2EC.mp3",
       "guid": "flightcast:01M0ECRSS1Y4MX77YFXTYP472G",
       "published_at": "2026-08-24T05:00:00+00:00",
       "published_date": "2026-08-23",
@@ -2020,22 +2073,7 @@
         "Relationships"
       ],
       "source": "favorite_feed",
-      "transcript_content_takeaways": [
-        "Yes, it covers more of the brain and it also shows a larger across the board volume reduction.",
-        "What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-        "Like many of us prefer that theatrical release because it's easier to And by getting rid of certain parts of the brain, that means more energy can be used in the other parts of the brain.",
-        "Sounds a bit counterintuitive because I imagine it's that my brain would grow when I get better at something."
-      ],
-      "transcript_content_summary": "Yes, it covers more of the brain and it also shows a larger across the board volume reduction. What it means is that the brain is actually working more efficiently because it's building better connected pathways and better channels for communicating information.",
-      "transcript_status": "available",
-      "transcript_source": "faster_whisper",
-      "transcript_model": "tiny.en",
-      "transcript_generated_at": "2026-08-24T07:35:57.878006-07:00",
-      "transcript_takeaways": [
-        "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities.",
-        "**Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something broke."
-      ],
-      "transcript_summary": "**Your brain is literally rewiring for parenthood \u2013 and that's good.** The gray-matter shrinkage in the mentalizing and visual networks isn't \"mommy brain\" or cognitive decline; it's the brain pruning inefficient pathways to build superhighways for reading your kid's cues. For you as a twin dad, every hour of hands-on care accelerates that adaptive rewiring. Stop worrying about feeling cognitively slower \u2014 you're building a better operating system for your new priorities. **Corollary for health tracking: look at the trajectory, not the number.** David tracks T1D data obsessively. Apply the same logic here: a single testosterone reading means nothing. What matters is the trend over months and whether your body is *responsive* to life demands. If you're feeling fine, sleeping reasonably, and keeping up with gym work, a 25% drop from pre-kids baseline is expected \u2014 not a sign something brok"
+      "transcript_status": "not_ingested"
     },
     {
       "id": "70fafc54413026f0",
@@ -30592,6 +30630,59 @@
   ],
   "recent": [
     {
+      "id": "701f388bd0897060",
+      "podcast": "Prof G Markets",
+      "short_name": "Prof G Markets",
+      "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image": "https://megaphone.imgix.net/podcasts/78155700-fc81-11f0-ae7f-9f797a3b7e7b/image/1ec022a6cc817a1da1315963e0dc4179.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "accent": "#22c55e",
+      "emoji": "\ud83d\udcc8",
+      "title": "Why Nobody Trusts the News \u2014 And How to Fix It",
+      "url": "",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7686377354.mp3",
+      "guid": "78155700-fc81-11f0-ae7f-9f797a3b7e7b",
+      "published_at": "2026-09-06T08:15:00+00:00",
+      "published_date": "2026-09-06",
+      "published_month": "2026-09",
+      "duration": "3505",
+      "summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+      "content_summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+      "content_takeaways": [
+        "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable.",
+        "They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem."
+      ],
+      "show_notes": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "tags": [
+        "AI",
+        "Startups",
+        "Markets",
+        "Finance",
+        "Business",
+        "Investing",
+        "Strategy"
+      ],
+      "source": "favorite_feed",
+      "transcript_content_takeaways": [
+        "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information.",
+        "I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+        "I know how to track down the smartest people across science energy technology when they're on shows and listen to them unfiltered.",
+        "And again, like, because what people missed the critics of journalism, like I've said again, like I was at the journal, I was at the post at Politico here."
+      ],
+      "transcript_content_summary": "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information. I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+      "transcript_status": "available",
+      "transcript_source": "faster_whisper",
+      "transcript_model": "tiny.en",
+      "transcript_generated_at": "2026-09-06T07:33:17.574809-07:00",
+      "transcript_takeaways": [
+        "**[~09:00] \u2014 The information paradox**",
+        "More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.",
+        "**[~10:30] \u2014 Smart brevity as an architectural solution**",
+        "Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff."
+      ],
+      "transcript_summary": "**Core arguments:**\n\n1. **[~09:00] \u2014 The information paradox**\n   More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.\n\n2. **[~10:30] \u2014 Smart brevity as an architectural solution**\n   Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff.\n\n3. **[~16:00] \u2014 Information inequality is the real worry, not just income inequality**\n   Axios thrives because it serves powerful people who need high-end information",
+      "core_arguments": true
+    },
+    {
       "id": "87322094970880f7",
       "podcast": "Modern Wisdom",
       "short_name": "Modern Wisdom",
@@ -31585,9 +31676,9 @@
       "image": "https://files.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/01M0ECY4JWW16H35KYFSQH2MB2/david_friedberg.ep_cpver_png.jpg",
       "accent": "#dc2626",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg",
+      "title": "Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg",
       "url": "",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9",
       "guid": "flightcast:01M0ECWWKZKQ93WCFTA6JV03WZ",
       "published_at": "2026-08-31T05:00:00+00:00",
       "published_date": "2026-08-30",
@@ -31616,35 +31707,35 @@
     }
   ],
   "stats": {
-    "total_available": 6467,
-    "ytd_count": 806,
-    "recent_count": 21,
+    "total_available": 6468,
+    "ytd_count": 807,
+    "recent_count": 22,
     "podcast_count": 8,
     "link_inbox_count": 0,
     "by_podcast": {
+      "Prof G Markets": 168,
       "Modern Wisdom": 106,
       "All-In": 81,
       "TWIST": 113,
-      "Prof G Markets": 167,
       "DOAC": 106,
       "The Game": 78,
       "Startup Ideas": 75,
       "Grade Cricketer": 80
     },
     "by_tag": {
-      "Business": 630,
-      "AI": 501,
+      "Business": 631,
+      "AI": 502,
       "Content": 463,
       "Career": 436,
-      "Startups": 374,
-      "Finance": 299,
-      "Markets": 248,
+      "Startups": 375,
+      "Finance": 300,
+      "Markets": 249,
       "Health": 242,
       "Psychology": 210,
       "Relationships": 190,
       "Performance": 172,
-      "Investing": 165,
-      "Strategy": 130,
+      "Investing": 166,
+      "Strategy": 131,
       "Cricket": 107,
       "Sport": 95,
       "Venture": 89,
@@ -31660,9 +31751,62 @@
       "2026-06": 100,
       "2026-07": 97,
       "2026-08": 90,
-      "2026-09": 15
+      "2026-09": 16
     },
     "latest_by_podcast": {
+      "Prof G Markets": {
+        "id": "701f388bd0897060",
+        "podcast": "Prof G Markets",
+        "short_name": "Prof G Markets",
+        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/78155700-fc81-11f0-ae7f-9f797a3b7e7b/image/1ec022a6cc817a1da1315963e0dc4179.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "accent": "#22c55e",
+        "emoji": "\ud83d\udcc8",
+        "title": "Why Nobody Trusts the News \u2014 And How to Fix It",
+        "url": "",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7686377354.mp3",
+        "guid": "78155700-fc81-11f0-ae7f-9f797a3b7e7b",
+        "published_at": "2026-09-06T08:15:00+00:00",
+        "published_date": "2026-09-06",
+        "published_month": "2026-09",
+        "duration": "3505",
+        "summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+        "content_summary": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem.",
+        "content_takeaways": [
+          "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable.",
+          "They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem."
+        ],
+        "show_notes": "Ed Elson sits down with Jim VandeHei, co-founder and CEO of Axios, to discuss how AI is reshaping the media industry, what role it should play in newsrooms, and why he believes AI will ultimately make human journalism more valuable. They also discuss how distrust in the media influenced his decision to launch Axios, where he draws the line between journalism and commentary, and what he makes of today\u2019s rapidly changing media ecosystem. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "tags": [
+          "AI",
+          "Startups",
+          "Markets",
+          "Finance",
+          "Business",
+          "Investing",
+          "Strategy"
+        ],
+        "source": "favorite_feed",
+        "transcript_content_takeaways": [
+          "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information.",
+          "I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+          "I know how to track down the smartest people across science energy technology when they're on shows and listen to them unfiltered.",
+          "And again, like, because what people missed the critics of journalism, like I've said again, like I was at the journal, I was at the post at Politico here."
+        ],
+        "transcript_content_summary": "Newsrooms everywhere are grappling with how AI is changing the way people discover and consume information. I feel like I have almost a bionic brain because I know what inputs to put in and what to filter out.",
+        "transcript_status": "available",
+        "transcript_source": "faster_whisper",
+        "transcript_model": "tiny.en",
+        "transcript_generated_at": "2026-09-06T07:33:17.574809-07:00",
+        "transcript_takeaways": [
+          "**[~09:00] \u2014 The information paradox**",
+          "More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.",
+          "**[~10:30] \u2014 Smart brevity as an architectural solution**",
+          "Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff."
+        ],
+        "transcript_summary": "**Core arguments:**\n\n1. **[~09:00] \u2014 The information paradox**\n   More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.\n\n2. **[~10:30] \u2014 Smart brevity as an architectural solution**\n   Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied \u2014 a family tree of successful digital publications founded by former staff.\n\n3. **[~16:00] \u2014 Information inequality is the real worry, not just income inequality**\n   Axios thrives because it serves powerful people who need high-end information",
+        "core_arguments": true
+      },
       "Modern Wisdom": {
         "id": "87322094970880f7",
         "podcast": "Modern Wisdom",
@@ -31827,61 +31971,6 @@
           "**[6:43 \u2014 America's \"sick care\" system is failing, not treating]**"
         ],
         "transcript_summary": "Here's the structured summary.\n\n**CORE ARGUMENTS**\n\n1. **[0:00 \u2014 Healthcare is a broken data-access system]**\n   You can't manage what you can't measure. Most people have no access to their own biology data \u2014 doctors gatekeep testing, insurance decides what's covered, and prices are completely opaque ($300 for vitamin D in one clinic, $10 down the street). Function Health's $365/year membership (160+ biomarkers twice a year) is a dollar-a-day shortcut around the whole dysfunctional system.\n\n2. **[6:43 \u2014 America's \"sick care\" system is failing, not treating]**\n   93% of Americans have measurable metabolic dysfunction; 75% are overweight/obese; 6 in 10 have a chronic illness. Yet the system only rewards acute intervention \u2014 there's no billing code for keeping someone healthy. Function isn't just cheaper labs; it's a different model: proactive, longitudinal, data-driven instead of episodic ",
-        "core_arguments": true
-      },
-      "Prof G Markets": {
-        "id": "505e82a59c49f0f5",
-        "podcast": "Prof G Markets",
-        "short_name": "Prof G Markets",
-        "podcast_image": "https://megaphone.imgix.net/podcasts/54663ef8-fc08-11ee-a810-5fc7d9606929/image/2dae8d68a17a5cb7298ee425a525ef19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "image": "https://megaphone.imgix.net/podcasts/e806b438-c3c8-11f0-b1f3-bf1419e5995c/image/89bf7447486b89813be1657f5eb603b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "accent": "#22c55e",
-        "emoji": "\ud83d\udcc8",
-        "title": "Tyler Cowen: The AI Bears Are Asking The Wrong Questions",
-        "url": "",
-        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4089839790.mp3",
-        "guid": "e806b438-c3c8-11f0-b1f3-bf1419e5995c",
-        "published_at": "2026-09-04T08:15:00+00:00",
-        "published_date": "2026-09-04",
-        "published_month": "2026-09",
-        "duration": "3581",
-        "summary": "Ed Elson and Scott Galloway are joined by Tyler Cowen to discuss why he\u2019s not concerned about a potential AI bubble, how AI is reshaping the labor market, and why he thinks the data center buildout is ultimately a good thing. They also discuss who stands to benefit most from AI, why cybersecurity is a growing concern, how he would grade the U.S. economy today, and what he sees as the biggest obstacle to AI\u2019s continued growth.",
-        "content_summary": "Ed Elson and Scott Galloway are joined by Tyler Cowen to discuss why he\u2019s not concerned about a potential AI bubble, how AI is reshaping the labor market, and why he thinks the data center buildout is ultimately a good thing. They also discuss who stands to benefit most from AI, why cybersecurity is a growing concern, how he would grade the U.S. economy today, and what he sees as the biggest obstacle to AI\u2019s continued growth.",
-        "content_takeaways": [
-          "Ed Elson and Scott Galloway are joined by Tyler Cowen to discuss why he\u2019s not concerned about a potential AI bubble, how AI is reshaping the labor market, and why he thinks the data center buildout is ultimately a good thing.",
-          "They also discuss who stands to benefit most from AI, why cybersecurity is a growing concern, how he would grade the U.S.",
-          "economy today, and what he sees as the biggest obstacle to AI\u2019s continued growth.",
-          "Tyler Cowen is an economist, author, podcaster and chair of the Mercatus Center at George Mason University."
-        ],
-        "show_notes": "Ed Elson and Scott Galloway are joined by Tyler Cowen to discuss why he\u2019s not concerned about a potential AI bubble, how AI is reshaping the labor market, and why he thinks the data center buildout is ultimately a good thing. They also discuss who stands to benefit most from AI, why cybersecurity is a growing concern, how he would grade the U.S. economy today, and what he sees as the biggest obstacle to AI\u2019s continued growth. Tyler Cowen is an economist, author, podcaster and chair of the Mercatus Center at George Mason University. Subscribe to the Prof G Markets Youtube Channel Check out our latest Prof G Markets newsletter Follow Prof G Markets on Instagram Follow Ed on Instagram, X and Substack Follow Scott on Instagram Send us your questions or comments by emailing Markets@profgmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-        "tags": [
-          "AI",
-          "Business",
-          "Finance",
-          "Content",
-          "Markets",
-          "Investing",
-          "Strategy"
-        ],
-        "source": "favorite_feed",
-        "transcript_content_takeaways": [
-          "How will AI reshape the job market and is the massive spending that we're seeing from these companies actually sustainable?",
-          "There's some data that have come out from the two main companies on how many tokens people are using per month and that number has just been going crazy through the roof.",
-          "But beyond that breaking news, there are still some lingering questions about AI that are keeping the market on edge.",
-          "If one of those companies were to fail, because you're saying, you know, maybe these companies won't all make it out alive, is that not quite a significant statement?"
-        ],
-        "transcript_content_summary": "How will AI reshape the job market and is the massive spending that we're seeing from these companies actually sustainable? There's some data that have come out from the two main companies on how many tokens people are using per month and that number has just been going crazy through the roof.",
-        "transcript_status": "available",
-        "transcript_source": "faster_whisper",
-        "transcript_model": "tiny.en",
-        "transcript_generated_at": "2026-09-04T07:34:08.742514-07:00",
-        "transcript_takeaways": [
-          "Here's the structured summary:",
-          "**Prof G Markets \u2014 Tyler Cowen: The AI Bears Are Asking The Wrong Questions**",
-          "**AI is not a bubble \u2014 the technology works and that's what matters.**",
-          "Cowen flatly rejects Ed Zitron's \"AI is a con\" framing. He counters that AI outperforms humans on many intellectual tasks, calling it \"one of the top achievements in the history of mankind.\" Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy \u2014 it's how much society will accept the changes AI brings."
-        ],
-        "transcript_summary": "Here's the structured summary:\n\n---\n\n**Prof G Markets \u2014 Tyler Cowen: The AI Bears Are Asking The Wrong Questions**\n\n**Core arguments**\n\n1. **AI is not a bubble \u2014 the technology works and that's what matters.**\n   Cowen flatly rejects Ed Zitron's \"AI is a con\" framing. He counters that AI outperforms humans on many intellectual tasks, calling it \"one of the top achievements in the history of mankind.\" Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy \u2014 it's how much society will accept the changes AI brings.\n\n2. **The circular-spend criticism is a normal bootstrapping pattern, not a red flag.**\n   To the concern that big tech funds AI labs that then spend the money on compute from those same investors, Cowen says every new sector straps itself this way. Nvidia is the \"lender or buyer of last resort\" fo",
         "core_arguments": true
       },
       "DOAC": {
@@ -32079,6 +32168,16 @@
     },
     "transcript_runs": [
       {
+        "podcast": "Prof G Markets",
+        "title": "Why Nobody Trusts the News \u2014 And How to Fix It",
+        "status": "available",
+        "chars": 23036,
+        "llm_takeaways": true,
+        "llm_error": "",
+        "source": "faster_whisper",
+        "youtube_url": null
+      },
+      {
         "podcast": "Modern Wisdom",
         "title": "Couples Therapist: \u201cThe One Rule Every Relationship Must Live By\u201d - Stan Tatkin -#1146",
         "status": "available",
@@ -32093,16 +32192,6 @@
         "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
         "status": "available",
         "chars": 25343,
-        "llm_takeaways": true,
-        "llm_error": "",
-        "source": "faster_whisper",
-        "youtube_url": null
-      },
-      {
-        "podcast": "TWIST",
-        "title": "Dr. Mark Hyman on Function Health & GLP-1 microdosing | E2334",
-        "status": "available",
-        "chars": 26072,
         "llm_takeaways": true,
         "llm_error": "",
         "source": "faster_whisper",

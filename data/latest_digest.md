@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-05
+# Podcast Digest - 2026-09-06
 
-Generated: 2026-09-05 07:39 PDT
+Generated: 2026-09-06 07:34 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,26 @@ Generated: 2026-09-05 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Why Nobody Trusts the News — And How to Fix It
+- Date: 2026-09-06
+- Duration: 3505
+- Tags: AI, Startups, Markets, Finance, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7686377354.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **[~09:00] — The information paradox**
+   More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.
+
+2. **[~10:30] — Smart brevity as an architectural solution**
+   Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
+
+3. **[~16:00] — Information inequality is the real worry, not just income inequality**
+   Axios thrives because it serves powerful people who need high-end information
+  - **[~09:00] — The information paradox**
+  - More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.
+  - **[~10:30] — Smart brevity as an architectural solution**
+  - Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
+
 ### Modern Wisdom — Couples Therapist: “The One Rule Every Relationship Must Live By” - Stan Tatkin -#1146
 - Date: 2026-09-04
 - Duration: 4148
@@ -297,11 +317,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence — meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.
   - **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq — even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore.
 
-### DOAC — Top White House Advisor: Why Big Tech Wants You Terrified Of AI! | David Friedberg
+### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
 - Date: 2026-08-30
 - Duration: 7460
 - Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=wg9vtq3cbvlnz0cb248ata3h
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9
 - Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
 - _Transcript: none available (not_ingested)_
 
