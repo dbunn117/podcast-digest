@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-06
+# Podcast Digest - 2026-09-07
 
-Generated: 2026-09-06 07:34 PDT
+Generated: 2026-09-07 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,38 @@ Generated: 2026-09-06 07:34 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Why You Feel Everything So Deeply (and how to survive it) - Dr Sasha Hamdani - #1147
+- Date: 2026-09-06
+- Duration: 5057
+- Tags: AI, Career, Parenting, Health, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7481904006.mp3
+- AI summary (Hermes): 1. **02:55 — RSD is a specific slice of a broader sensitivity spectrum**  
+   Highly sensitive people (HSP — not a clinical term) are sensitive to everything: emotions, sound, light, chaos. Rejection Sensitive Dysphoria (coined by Dr. William Dodson) is the narrower case — a profound emotional *and physical* response to perceived rejection or criticism, sitting at the far end of a sensitivity spectrum. Sensitive people feel things quickly, deeply, and for a long time, and burn real brainpower over-analyzing every interaction and pre-emptively masking to avoid disappointing people.
+
+2. **05:40 — Why rejection hurts so much: the brain is structurally wired for it**  
+   There's a hyperactive amygdala (threat receptor) plus an underactive frontal lobe (the part that should say "this isn't a big deal"), with a weak link between them — so you feel before you can think. Add dopamine dysregulat
+  - **02:55 — RSD is a specific slice of a broader sensitivity spectrum**
+  - **05:40 — Why rejection hurts so much: the brain is structurally wired for it**
+  - There's a hyperactive amygdala (threat receptor) plus an underactive frontal lobe (the part that should say "this isn't a big deal"), with a weak link between them — so you feel before you can think. Add dopamine dysregulation (not too little dopamine, but not enough at the right place and time to weather ups and downs) and a norepinephrine surge, and rejection produces genuine physical symptoms — chest pain, racing heart, sweating — so your body insists something is actually wrong.
+  - **13:46 — Hormones and genetics set your baseline sensitivity**
+
+### DOAC — Human Lie Detector: The #1 Sign They’re Lying To You, Catch Liars Instantly! | Dr Leanne Ten Brinke
+- Date: 2026-09-06
+- Duration: 6528
+- Tags: AI, Career, Parenting, Content, Health, Psychology, Business
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1M9A59AFBGJG3WGBMW30A0F.mp3
+- AI summary (Hermes): **Core arguments**
+
+1. **00:04:05 — Psychopathy is readable in five seconds** — Lilienfeld's research shows naive raters judge psychopathic traits from 5-second clips about as well as clinicians do after hours of interviewing. What they're picking up on: "Duchenne smiles" (crow's feet around the eyes) paired with hostile content, and heavy hand gestures — but personality plays out across time and context, so these are starting signals, not verdicts.
+
+2. **00:05:30 — Falsely grieving faces leak the truth** — In ten Brinke's PhD research on TV pleas for missing loved ones, guilty parties couldn't fake genuine sadness: they produced the downturned mouth but not the inner-eyebrows-up-and-together combination, defaulting to a surprise-like expression instead. Four cues predicted guilt ~90% of the time, though replication found weaker effects — the verbal cues held up best.
+
+3. **00:09:59 — Th
+  - **00:04:05 — Psychopathy is readable in five seconds** — Lilienfeld's research shows naive raters judge psychopathic traits from 5-second clips about as well as clinicians do after hours of interviewing. What they're picking up on: "Duchenne smiles" (crow's feet around the eyes) paired with hostile content, and heavy hand gestures — but personality plays out across time and context, so these are starting signals, not verdicts.
+  - **00:05:30 — Falsely grieving faces leak the truth** — In ten Brinke's PhD research on TV pleas for missing loved ones, guilty parties couldn't fake genuine sadness: they produced the downturned mouth but not the inner-eyebrows-up-and-together combination, defaulting to a surprise-like expression instead. Four cues predicted guilt ~90% of the time, though replication found weaker effects — the verbal cues held up best.
+  - **00:09:59 — The three real signs someone is lying** — Sparse or ambiguous information (liars give fewer, vaguer details — the "embedded lie" pattern of rich detail where truthful, thin detail where lying); unverifiable details; and visible cognitive effort (slow speech, ums, furrowed brows) from the load of improvising and tracking a false story. Liars also show raised cortisol. None is a "Pinocchio's nose" — they're red flags that warrant follow-up questions.
+  - **00:13:46 — People are bad lie detectors; asking better questions beats reading better** — Average detection accuracy is ~54%, barely above chance, and training barely moves it. What works: open-ended, unanticipated questions and "tell me more about that" — a truth-teller can always add lived detail; a liar hits a cognitive ceiling and stays vague. Compare against someone's detail baseline (Jussie Smollett's tuna-sub specifics vs. his vague lies) to spot deviations.
+
 ### Prof G Markets — Why Nobody Trusts the News — And How to Fix It
 - Date: 2026-09-06
 - Duration: 3505
@@ -217,11 +249,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **07:35 — The "hero complex" traps founders in self-employment**
   - Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
 
-### DOAC — Andrew Huberman: My Exact Routine To Optimize Brain & Body, I Do All Of These Every Day!
+### DOAC — Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted
 - Date: 2026-09-02
 - Duration: 8177
 - Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=ur178qtwl6ef5bv1xufuccq3
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=avwdogbcug45mk4wt6tpol30
 - Summary from show notes: Stanford Neuroscientist Andrew Huberman returns to reveal the truth about GLP-1s, peptides, and the testosterone collapse, and the 10 protocols he uses every day to fix his sleep, stress, and focus! Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the Departments of Neurobiology and Ophthalmology at Stanford University School of Medicine. 1 health podcast 'Huberman Lab', and is also the author of his upcoming book, 'Protocols: An Operating Manual for the Human Body'.
 - _Transcript: none available (not_ingested)_
 
@@ -295,34 +327,6 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
 - Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M1CBQNS9R4HG8K2Z9FZ45MAW.mp3
 - Summary from show notes: In this solo episode I explain a role that I call the marketing engineer. I believe this person becomes one of the most valuable hires in tech in the next 18 to 24 months. I define the job, I show the four eras of marketing that lead to it, and I give the tool stack that makes it work.
-- _Transcript: none available (not_ingested)_
-
-### Prof G Markets — Scott Galloway On Money, Happiness, And The Search For Enough
-- Date: 2026-08-31
-- Duration: 3491
-- Tags: Finance, Parenting, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1039937233.mp3
-- Transcript takeaways: **1. The happiness ceiling on money is real** — Galloway cites Kahneman’s research: income correlates with happiness only to a point, then flattens. He hit his “enough” number in 2017 ($125M based on 25× monthly spend) but kept grinding. Practical takeaway: if you’re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill — the next dollar moves the needle less than they think. **2. Spend on leverage and experiences, not status symbols** — Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life — not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful.
-  - **1. The happiness ceiling on money is real** — Galloway cites Kahneman’s research: income correlates with happiness only to a point, then flattens. He hit his “enough” number in 2017 ($125M based on 25× monthly spend) but kept grinding. Practical takeaway: if you’re coaching or consulting financially successful operators, help them calculate *their* number and consciously detach from the accumulation treadmill — the next dollar moves the needle less than they think.
-  - **2. Spend on leverage and experiences, not status symbols** — Galloway spends heavily on a private plane ($150K/mo) because it reduces his anxiety and *enables* more work and life — not on cars, clothes, or things. Operator lesson: the best personal spending category is the one that buys back time, lowers stress, or gives you mobility. Evaluate your own monthly burn on that axis, not on what looks successful.
-  - **3. Past money trauma drives irrational behavior long after you’re wealthy** — Galloway admits he still has financial insecurity and body dysmorphia rooted in childhood scarcity, even at $100M+. For consulting: recognize that founders and executives you advise often have similar hidden wiring. Their “enough” number is emotional, not rational — and pushing past it without addressing the underlying scarcity script leads to burnout or hoarding, not happiness.
-  - **4. Be open about money — opacity protects the status quo** — Galloway’s central argument: “not talking about your money keeps middle and lower income people down.” For your consulting business, this translates to being transparent about pricing, business economics, and wealth-building mechanics with clients. The norm of secrecy around money is a gatekeeping device — breaking it builds trust and democratizes the playbook you sell.
-
-### Modern Wisdom — WW3 DEBATE: “We’re On the Brink of Global Collapse” - #1144
-- Date: 2026-08-30
-- Duration: 11184
-- Tags: AI, Parenting, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9834899836.mp3
-- Transcript takeaways: **US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence — meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia. **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq — even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignor
-  - **US internal instability is the prime geopolitical risk for business.** The debaters agree that America's deepening domestic divisions (political violence normalisation, demographic shifts, wealth concentration) degrade strategic coherence — meaning less predictable foreign policy and trade decisions. For anyone running a business that depends on cross-border supply chains, tariffs, or regulatory stability, this is the foundational risk to monitor, not China vs. Russia.
-  - **The global system is fragmenting into regional conflicts, not one unified WW3.** Multiple regional wars (Ukraine, Iran, potential Taiwan) are already producing global economic disruption worse than Vietnam or Iraq — even without a US-China force-on-force confrontation. Practical take: diversify supply chain and revenue exposure across at least 2-3 regions; single-region concentration is now a tail risk you cannot ignore.
-
-### DOAC — Top White House Advisor: The US Empire Is DYING And Socialism Is Coming Next! | David Friedberg
-- Date: 2026-08-30
-- Duration: 7460
-- Tags: AI, Startups, Business, Career, Health, Psychology, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ECWWKZXFC843G5B93ZSYPH.mp3?fcv=w9f24fv46w2dfvfmocxt78s9
-- Summary from show notes: Is the American Dream quietly dying? Scientist-entrepreneur David Friedberg reveals why the US is in imperial decline, why socialism is coming next, and how AI could save your job! David Friedberg is an entrepreneur and scientist, and co-host of the 'All-In Podcast', one of the most popular business and technology podcasts in the world.
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
