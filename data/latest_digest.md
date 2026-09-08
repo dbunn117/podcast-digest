@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-07
+# Podcast Digest - 2026-09-08
 
-Generated: 2026-09-07 07:38 PDT
+Generated: 2026-09-08 07:35 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,7 +13,47 @@ Generated: 2026-09-07 07:38 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
-### Modern Wisdom — Why You Feel Everything So Deeply (and how to survive it) - Dr Sasha Hamdani - #1147
+### The Game — 3 Signs You’re Going to Be a Successful Entrepreneur | Ep 997
+- Date: 2026-09-08
+- Duration: 635
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M1Z8RFS2XFF7JTAVPG30P2D9.mp3
+- AI summary (Hermes): ## Core Arguments
+
+1. **00:00 — The bottleneck is character, not tactics**
+   Entrepreneurs at $1M–$50M always ask for tactics, but the real ceiling is three behavioral traits: focus (doing one thing, not chasing novelty), patience (doing it for a long time), and frustration tolerance (enduring failure without quitting). These are "anti-human" because humans want new, now, and easy — the exact opposite of what scaling requires.
+
+2. **03:22 — The third-person perspective (solvent paradox)**
+   You give better advice to others than you follow yourself because you lack emotional attachment to their situation. The hack: ask "what would my most dangerous competitor do in my position?" — then do that. The goal is to make the logical decision independent of how you feel, even when it's emotionally uncomfortable.
+
+3. **06:31 — Surface area thinking (multiple coats of paint)**
+   Great solutions 
+  - **00:00 — The bottleneck is character, not tactics**
+  - Entrepreneurs at $1M–$50M always ask for tactics, but the real ceiling is three behavioral traits: focus (doing one thing, not chasing novelty), patience (doing it for a long time), and frustration tolerance (enduring failure without quitting). These are "anti-human" because humans want new, now, and easy — the exact opposite of what scaling requires.
+  - **03:22 — The third-person perspective (solvent paradox)**
+  - You give better advice to others than you follow yourself because you lack emotional attachment to their situation. The hack: ask "what would my most dangerous competitor do in my position?" — then do that. The goal is to make the logical decision independent of how you feel, even when it's emotionally uncomfortable.
+
+### Prof G Markets — OpenAI Says “AGI” Is Here — What Does That Actually Mean?
+- Date: 2026-09-08
+- Duration: 2291
+- Tags: AI, Business, Finance, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7608417631.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **[Start-3:30 — The benchmark gap]**
+   Models ace benchmarks but don't perform in the real world. Each new model gets called a "quantum leap" for a few days until users find it doesn't work on their actual problems — code quality is still poor, files get deleted, agents can't be trusted.
+
+2. **[3:30-7:00 — The AGI bait-and-switch]**
+   "AGI" was originally defined as doing any cognitive work a human can do. That definition has been quietly weakened for marketing. The strong version would mean wages go to zero and capitalism breaks — neither has happened. What we actually have is the "marketing version of AGI" — a label used to drive hype and stock prices, not a substantive milestone.
+
+3. **[7:00-9:00 — Sam Altman's evasion]**
+   When pressed, Altman dodges: first says AGI "can't be defined," then says maybe it's been met, then invents the meaningless term "AGI-li
+  - **[Start-3:30 — The benchmark gap]**
+  - Models ace benchmarks but don't perform in the real world. Each new model gets called a "quantum leap" for a few days until users find it doesn't work on their actual problems — code quality is still poor, files get deleted, agents can't be trusted.
+  - **[3:30-7:00 — The AGI bait-and-switch]**
+  - "AGI" was originally defined as doing any cognitive work a human can do. That definition has been quietly weakened for marketing. The strong version would mean wages go to zero and capitalism breaks — neither has happened. What we actually have is the "marketing version of AGI" — a label used to drive hype and stock prices, not a substantive milestone.
+
+### Modern Wisdom — The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani - #1147
 - Date: 2026-09-06
 - Duration: 5057
 - Tags: AI, Career, Parenting, Health, Psychology, Performance, Relationships
@@ -28,10 +68,10 @@ Generated: 2026-09-07 07:38 PDT
   - There's a hyperactive amygdala (threat receptor) plus an underactive frontal lobe (the part that should say "this isn't a big deal"), with a weak link between them — so you feel before you can think. Add dopamine dysregulation (not too little dopamine, but not enough at the right place and time to weather ups and downs) and a norepinephrine surge, and rejection produces genuine physical symptoms — chest pain, racing heart, sweating — so your body insists something is actually wrong.
   - **13:46 — Hormones and genetics set your baseline sensitivity**
 
-### DOAC — Human Lie Detector: The #1 Sign They’re Lying To You, Catch Liars Instantly! | Dr Leanne Ten Brinke
+### DOAC — Human Lie Detector: The #1 Sign They’re Lying To You, Catch Liars Instantly! | Dr Leanne ten Brinke
 - Date: 2026-09-06
-- Duration: 6528
-- Tags: AI, Career, Parenting, Content, Health, Psychology, Business
+- Duration: 6263
+- Tags: AI, Parenting, Content, Health, Psychology, Business, Relationships
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1M9A59AFBGJG3WGBMW30A0F.mp3
 - AI summary (Hermes): **Core arguments**
 
@@ -65,7 +105,7 @@ Generated: 2026-09-07 07:38 PDT
   - **[~10:30] — Smart brevity as an architectural solution**
   - Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
 
-### Modern Wisdom — Couples Therapist: “The One Rule Every Relationship Must Live By” - Stan Tatkin -#1146
+### Modern Wisdom — Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan Tatkin -#1146
 - Date: 2026-09-04
 - Duration: 4148
 - Tags: AI, Health, Parenting, Psychology, Performance, Relationships, Self-Improvement
@@ -249,11 +289,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **07:35 — The "hero complex" traps founders in self-employment**
   - Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
 
-### DOAC — Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted
+### DOAC — Andrew Huberman: Stop Wasting Money On Bad Vitamins, I Take THESE Supplements Every Single Day!
 - Date: 2026-09-02
 - Duration: 8177
 - Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=avwdogbcug45mk4wt6tpol30
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=ckcsuqiqakss0a2e5n3fgbhr
 - Summary from show notes: Stanford Neuroscientist Andrew Huberman returns to reveal the truth about GLP-1s, peptides, and the testosterone collapse, and the 10 protocols he uses every day to fix his sleep, stress, and focus! Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the Departments of Neurobiology and Ophthalmology at Stanford University School of Medicine. 1 health podcast 'Huberman Lab', and is also the author of his upcoming book, 'Protocols: An Operating Manual for the Human Body'.
 - _Transcript: none available (not_ingested)_
 
@@ -282,52 +322,6 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
 - Transcript takeaways: **Sustained energy-cost pressure is the new baseline.** Brent at $95, diesel at record highs, US strategic reserves at multi-decade lows, and China re-entering the market. Bremer expects no Iran deal through at least the midterms and possibly beyond. **Action:** If you have any energy-sensitive line items in your consulting clients' operating budgets (logistics, manufacturing, travel-dependent businesses), model a +15–20% energy-cost scenario for the next 12–18 months, not a reversion. **The Fed's rate-hike path just got firmer.** 30-year yield near 5.3% (highest sustained level in ~20 years), and prediction markets now price a 77% chance of a 2026 rate hike. The bond market's worst stretch since 2006. **Operator takeaway:** If you or your clients carry variable-rate debt or are planning any financing round, lock in rates now — the window for cheaper money is closed.
   - **Sustained energy-cost pressure is the new baseline.** Brent at $95, diesel at record highs, US strategic reserves at multi-decade lows, and China re-entering the market. Bremer expects no Iran deal through at least the midterms and possibly beyond. **Action:** If you have any energy-sensitive line items in your consulting clients' operating budgets (logistics, manufacturing, travel-dependent businesses), model a +15–20% energy-cost scenario for the next 12–18 months, not a reversion.
   - **The Fed's rate-hike path just got firmer.** 30-year yield near 5.3% (highest sustained level in ~20 years), and prediction markets now price a 77% chance of a 2026 rate hike. The bond market's worst stretch since 2006. **Operator takeaway:** If you or your clients carry variable-rate debt or are planning any financing round, lock in rates now — the window for cheaper money is closed.
-
-### Prof G Markets — Why Bessent Tried To Rescue The Bond Market (And Failed)
-- Date: 2026-09-01
-- Duration: 2127
-- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4878826642.mp3
-- Transcript takeaways: **Bessent's bond-buyback escalation backfired because markets read it as panic, not plumbing.** Doubling debt buybacks off-schedule looked like price-propping, not liquidity maintenance. Yields initially fell then climbed higher. **Action:** In any system you design — AI ops, market analysis, competitive intelligence — distinguish between routine process and signals of desperation. The market penalizes the latter, even if the tool is the same. **The expert callout: "when government bond interventions don't work, they tend to make things worse" — Japan is the cautionary case.** Once credibility is spent, you can't get it back with more of the same tool. **Action:** In consulting engagements, when a client's intervention (pricing change, org restructure, product pivot) isn't landing, flag the escalation risk early. Bessent doubling down on a failing tactic is a textbook case of the sunk-co
-  - **Bessent's bond-buyback escalation backfired because markets read it as panic, not plumbing.** Doubling debt buybacks off-schedule looked like price-propping, not liquidity maintenance. Yields initially fell then climbed higher. **Action:** In any system you design — AI ops, market analysis, competitive intelligence — distinguish between routine process and signals of desperation. The market penalizes the latter, even if the tool is the same.
-  - **The expert callout: "when government bond interventions don't work, they tend to make things worse" — Japan is the cautionary case.** Once credibility is spent, you can't get it back with more of the same tool. **Action:** In consulting engagements, when a client's intervention (pricing change, org restructure, product pivot) isn't landing, flag the escalation risk early. Bessent doubling down on a failing tactic is a textbook case of the sunk-cost fallacy scaled to trillions.
-
-### The Game — Improving Team Performance Through Elimination | Ep 995
-- Date: 2026-09-01
-- Duration: 904
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M1D82R6DT3ZRNFERMMFADGZM.mp3
-- Transcript takeaways: **Culture = what gets rewarded and punished.** The rules are mostly unspoken, learned by observation and feedback. If late arrivals get no pushback, that's the real policy on punctuality. Action: audit what your org actually reinforces through silence or attention, not what you say you value. **The bar is set by your worst person, not your best.** Your lowest performer is what you've signed off as acceptable, and winners resent carrying mediocre colleagues. The biggest cultural signal you can send is who you fire — not ruthlessly, but promptly once someone's output brands them as the floor.
-  - **Culture = what gets rewarded and punished.** The rules are mostly unspoken, learned by observation and feedback. If late arrivals get no pushback, that's the real policy on punctuality. Action: audit what your org actually reinforces through silence or attention, not what you say you value.
-  - **The bar is set by your worst person, not your best.** Your lowest performer is what you've signed off as acceptable, and winners resent carrying mediocre colleagues. The biggest cultural signal you can send is who you fire — not ruthlessly, but promptly once someone's output brands them as the floor.
-  - **The mediocre middle clogs more than the obvious losers.** True losers self-remove because they're painful enough to act on. The bigger drag is the "clock in, clock out" middle — they produce work the winners have to redo. Action: reduce tolerance and number of chances for mediocre output, not just for toxic behaviour.
-  - **Elimination raises the average faster than hiring.** Removing one mediocre person lifts team quality more than adding one exceptional one. Frame the hard conversation as *local vs global empathy* — absorb the personal discomfort so the rest of the team doesn't suffer. The delay between knowing and doing is the gap that holds growth back.
-
-### Grade Cricketer — PCB Clown Show, with Vithushan Ehantharajah
-- Date: 2026-08-31
-- Duration: 7064
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/pcb-clown-show-with-vithushan-ehantharajah
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/600197e0-4bb3-45f6-bc13-b4b80068a014/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- Transcript takeaways: Nothing actionable here for David Bunn. This transcript is pure cricket banter from The Grade Cricketer — a guy running 100km to bowl a ball, a village captain helicoptering from his wedding to Lord's, England vs Pakistan pitch ratings, and jokes about Ben Stokes joining the BBL. Zero AI/consulting, finance/operator, or health/family signal.
-  - Nothing actionable here for David Bunn. This transcript is pure cricket banter from The Grade Cricketer — a guy running 100km to bowl a ball, a village captain helicoptering from his wedding to Lord's, England vs Pakistan pitch ratings, and jokes about Ben Stokes joining the BBL. Zero AI/consulting, finance/operator, or health/family signal.
-
-### TWIST — Are AI Agents forming "civilizations" or is this just a psy op? | 2332
-- Date: 2026-08-31
-- Duration: 01:06:47
-- Tags: AI, Startups, Business, Career, Content, Venture, Tech
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/are-ai-agents-forming-civilizations-or-is-this-just-a-psy-op-2332
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Main_Sequence.mp3?dest-id=5500155
-- Summary from show notes: Hugging Face's $399 Microduck and the art of companies taking on side quests. Then, we get into Dwarkesh Patel's "The Rise and Fall of Agent Civilizations," which blew up online this weekend. Jason calls the "secret AI civilization" framing deliberate PR, and thinks it's inflammatory enough that someone might attack a data center over it.
-- _Transcript: none available (not_ingested)_
-
-### Startup Ideas — Making $$$ as a Marketing Engineer
-- Date: 2026-08-31
-- Duration: 2118
-- Tags: AI, Startups, Business, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M1CBQNS9R4HG8K2Z9FZ45MAW.mp3
-- Summary from show notes: In this solo episode I explain a role that I call the marketing engineer. I believe this person becomes one of the most valuable hires in tech in the next 18 to 24 months. I define the job, I show the four eras of marketing that lead to it, and I give the tool stack that makes it work.
-- _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
