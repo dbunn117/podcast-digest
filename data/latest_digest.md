@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-08
+# Podcast Digest - 2026-09-09
 
-Generated: 2026-09-08 07:35 PDT
+Generated: 2026-09-09 07:41 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,69 @@ Generated: 2026-09-08 07:35 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Canadian Economist: Trump’s Tariffs Are A Gift To Mark Carney
+- Date: 2026-09-09
+- Duration: 2242
+- Tags: Finance, Parenting, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1589631054.mp3
+- AI summary (Hermes): **Prof G Markets — Sept 9, 2026**
+*Ed Elson; guests Mike Moffatt (Canadian economist) & John Burn-Murdoch (FT)*
+
+**Core arguments**
+
+1. [Canada tariff segment — ~mid-section] **Canada matched Trump's tariffs dollar-for-dollar, but targeted US swing states and goods Canada can source elsewhere**
+   Canada's retaliation is designed to minimize domestic price impact by targeting goods Canada can buy from Japan or the EU instead, while politically pressuring US states that matter in the next election cycle. Moffatt estimates the full tariff regime costs Canada ~0.3–0.4% of GDP over a year — significant but survivable, and Carney benefits from oil prices rising in parallel ($50 to $80/barrel for Western Canadian Select).
+
+2. [Canada tariff segment] **Trump's bullying tactics (AI-generated video, name-calling) backfire and make Carney more popular**
+   Each escalation — the AI hockey video, re
+  - **Prof G Markets — Sept 9, 2026**
+  - *Ed Elson; guests Mike Moffatt (Canadian economist) & John Burn-Murdoch (FT)*
+  - [Canada tariff segment — ~mid-section] **Canada matched Trump's tariffs dollar-for-dollar, but targeted US swing states and goods Canada can source elsewhere**
+  - Canada's retaliation is designed to minimize domestic price impact by targeting goods Canada can buy from Japan or the EU instead, while politically pressuring US states that matter in the next election cycle. Moffatt estimates the full tariff regime costs Canada ~0.3–0.4% of GDP over a year — significant but survivable, and Carney benefits from oil prices rising in parallel ($50 to $80/barrel for Western Canadian Select).
+
+### Grade Cricketer — Greenberg greenlights Knight Rider bunce
+- Date: 2026-09-08
+- Duration: 5175
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/greenberg-greenlights-knight-rider-bunce
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e2a87e8d-7689-405d-9674-b4c000522162/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **Opening — Privatisation has been greenlit, but the process reeks of panic**
+   Gideon Haigh opens by dismissing Greenberg's framing of "the most important strategic decision in a generation." He calls the press conference "disturbing" — the word "opportunity" was used 47 times, always next to "billion dollars," with an undertone of "take the money now or be poor forever." His read: a game lacking confidence in its future, panic-stricken, rushing toward the danger.
+
+2. **No public mandate exists**
+   Haigh can't recall a single conversation in 18 months where a regular cricket fan said privatisation was a good idea. Two state associations representing 55% of Australia's population appear opposed. His line: "The argument should be compelling, the counter-arguments ventilated, concerns swaged. Instead we got a ragged traipsing toward a far-off objective."
+
+3. **The 
+  - **Opening — Privatisation has been greenlit, but the process reeks of panic**
+  - Gideon Haigh opens by dismissing Greenberg's framing of "the most important strategic decision in a generation." He calls the press conference "disturbing" — the word "opportunity" was used 47 times, always next to "billion dollars," with an undertone of "take the money now or be poor forever." His read: a game lacking confidence in its future, panic-stricken, rushing toward the danger.
+  - Haigh can't recall a single conversation in 18 months where a regular cricket fan said privatisation was a good idea. Two state associations representing 55% of Australia's population appear opposed. His line: "The argument should be compelling, the counter-arguments ventilated, concerns swaged. Instead we got a ragged traipsing toward a far-off objective."
+  - **The real driver is global T20 capital, not the health of Australian cricket**
+
+### Startup Ideas — Local AI Clearly Explained
+- Date: 2026-09-08
+- Duration: 2326
+- Tags: AI, Startups, Business, Career, Health, Content, Business Ideas
+- Audio: https://episode.flightcast.com/01M20SQKPT51D8AY5MJ8971PAF.mp3
+- AI summary (Hermes): Here's the structured summary for the dashboard:
+
+---
+
+**Core arguments:**
+
+1. **01:35 — The real question is "good enough for the job," not "smarter than the cloud"**
+   Most people ask whether a local model beats frontier cloud models. The useful reframe: is the model good enough for the specific job, and does running it locally make the product better? Private files, field work, low latency, and repeated internal workflows are where local AI wins.
+
+2. **03:09 — Four pieces of the local AI landscape**
+   The model (brain file — Gemma, Llama, Mistral), the warehouse (Hugging Face, $13B valuation, acquisition target), the software (LM Studio for non-technical users, Ollama for builders), and the workflow (the product you build around all three). Understanding which layer you're operating at is the prerequisite for building anything.
+
+3. **06:48 — Gemma 4 E4B is the practical starting poi
+  - Here's the structured summary for the dashboard:
+  - **01:35 — The real question is "good enough for the job," not "smarter than the cloud"**
+  - Most people ask whether a local model beats frontier cloud models. The useful reframe: is the model good enough for the specific job, and does running it locally make the product better? Private files, field work, low latency, and repeated internal workflows are where local AI wins.
+  - **03:09 — Four pieces of the local AI landscape**
+
 ### The Game — 3 Signs You’re Going to Be a Successful Entrepreneur | Ep 997
 - Date: 2026-09-08
 - Duration: 635
@@ -289,11 +352,11 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
   - **07:35 — The "hero complex" traps founders in self-employment**
   - Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
 
-### DOAC — Andrew Huberman: Stop Wasting Money On Bad Vitamins, I Take THESE Supplements Every Single Day!
+### DOAC — Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted
 - Date: 2026-09-02
 - Duration: 8177
 - Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=ckcsuqiqakss0a2e5n3fgbhr
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=avwdogbcug45mk4wt6tpol30
 - Summary from show notes: Stanford Neuroscientist Andrew Huberman returns to reveal the truth about GLP-1s, peptides, and the testosterone collapse, and the 10 protocols he uses every day to fix his sleep, stress, and focus! Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the Departments of Neurobiology and Ophthalmology at Stanford University School of Medicine. 1 health podcast 'Huberman Lab', and is also the author of his upcoming book, 'Protocols: An Operating Manual for the Human Body'.
 - _Transcript: none available (not_ingested)_
 
@@ -313,15 +376,6 @@ Broader TAM feels like more opportunity but lowers perceived value per customer.
 - Audio: https://episode.flightcast.com/01M1HGMVD210P85FN5GWX5HEQG.mp3
 - Summary from show notes: On this solo episode, I review five free, open source GitHub repos that help you build products, make money, or save time: Peter Yang's No AI Slop Skill, the CRM by TryComp AI, Video Use by browser use, SkillSpector by NVIDIA, and Phone Harness. For each repo I explain what it does, why it matters, how to install it, and the first small workflow to try. I close with a simple three-step method: install the repo, make one small workflow work, then decide to productize it or keep it as your own leverage.
 - _Transcript: none available (not_ingested)_
-
-### Prof G Markets — Geopolitical Expert: Iran War May Drag On For Years
-- Date: 2026-09-02
-- Duration: 1958
-- Tags: AI, Startups, Business, Finance, Content, Markets, Investing
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8573136109.mp3
-- Transcript takeaways: **Sustained energy-cost pressure is the new baseline.** Brent at $95, diesel at record highs, US strategic reserves at multi-decade lows, and China re-entering the market. Bremer expects no Iran deal through at least the midterms and possibly beyond. **Action:** If you have any energy-sensitive line items in your consulting clients' operating budgets (logistics, manufacturing, travel-dependent businesses), model a +15–20% energy-cost scenario for the next 12–18 months, not a reversion. **The Fed's rate-hike path just got firmer.** 30-year yield near 5.3% (highest sustained level in ~20 years), and prediction markets now price a 77% chance of a 2026 rate hike. The bond market's worst stretch since 2006. **Operator takeaway:** If you or your clients carry variable-rate debt or are planning any financing round, lock in rates now — the window for cheaper money is closed.
-  - **Sustained energy-cost pressure is the new baseline.** Brent at $95, diesel at record highs, US strategic reserves at multi-decade lows, and China re-entering the market. Bremer expects no Iran deal through at least the midterms and possibly beyond. **Action:** If you have any energy-sensitive line items in your consulting clients' operating budgets (logistics, manufacturing, travel-dependent businesses), model a +15–20% energy-cost scenario for the next 12–18 months, not a reversion.
-  - **The Fed's rate-hike path just got firmer.** 30-year yield near 5.3% (highest sustained level in ~20 years), and prediction markets now price a 77% chance of a 2026 rate hike. The bond market's worst stretch since 2006. **Operator takeaway:** If you or your clients carry variable-rate debt or are planning any financing round, lock in rates now — the window for cheaper money is closed.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
