@@ -31,10 +31,12 @@ The hosted dashboard is now a static, interactive **David Podcast OS** app. It p
 - Tag/theme cloud aligned to David's interests
 - Obsidian daily digest output
 
-## Commands
+## Running it
+
+Don't call `podcast_digest.py` directly with `--write` — that flag makes it write its own unenhanced copy straight to Obsidian, which caused a real duplicate-write bug (2026-09-08). The daily job is `/root/.hermes/profiles/personal/scripts/podcast_digest_collect.py`, which calls this script *without* `--write`, then writes the single Obsidian copy itself deterministically, then sweeps digests older than 30 days into `Daily Digests/Archive/YYYY-MM/`. Run that wrapper, not this script directly:
 
 ```bash
-python3 /root/podcast-digest/podcast_digest.py --days 7 --since 2026-01-01 --write
+python3 /root/.hermes/profiles/personal/scripts/podcast_digest_collect.py
 ```
 
 ## Outputs
@@ -43,7 +45,8 @@ python3 /root/podcast-digest/podcast_digest.py --days 7 --since 2026-01-01 --wri
 - Hosted dashboard data: `/root/podcast-digest/docs/episodes.json`
 - Raw episode data: `/root/podcast-digest/data/episodes.json`
 - Latest digest markdown: `/root/podcast-digest/data/latest_digest.md`
-- Obsidian daily digests: `/root/obsidian/David OS/01 Personal/Media/Podcasts/Daily Digests/`
+- Obsidian daily digests: `/root/obsidian/David OS/02 Personal/Media/Podcasts/Daily Digests/` (rolling 30-day window; older digests archive automatically to `Archive/YYYY-MM/`)
+- Obsidian link inbox: `/root/obsidian/David OS/02 Personal/Media/Podcasts/Podcast Link Inbox.md`
 
 ## Next improvements
 
