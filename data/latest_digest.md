@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-09
+# Podcast Digest - 2026-09-10
 
-Generated: 2026-09-09 07:41 PDT
+Generated: 2026-09-10 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,70 @@ Generated: 2026-09-09 07:41 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — If You Hate Selling, Watch This | Ep 998
+- Date: 2026-09-10
+- Duration: 1806
+- Tags: AI, Business, Content, Entrepreneurship, Sales, Offers, Pricing
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M240HRWHVF97RP18GWY86M9B.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **04:55 — The back-to-front scaling framework**
+   Fix the offer first, then the conversion process, then traffic—in that order. Most founders chase traffic before the offer and delivery can scale, which amplifies their bottlenecks instead of solving them.
+
+2. **09:02 — Structured webinar replaces marathon sessions**
+   Shrink a 3-4 hour free-form Q&A into a structured 45-minute webinar (big promise → origin story → old way/new way → 3 biggest objections → offer → FAQ). Tina was converting ~9% of live attendees; a tighter format aims to double that and makes the content reproducible for cold audiences.
+
+3. **11:03 — Two-tier pricing to unbundle founder time**
+   Charge $2,500 via checkout (self-serve) and $3,000 for one-on-one. The $500 premium prices the founder's scarcity and incentivizes checkout—anyone currently getting free one-on-ones now self-selects into t
+  - **04:55 — The back-to-front scaling framework**
+  - Fix the offer first, then the conversion process, then traffic—in that order. Most founders chase traffic before the offer and delivery can scale, which amplifies their bottlenecks instead of solving them.
+  - **09:02 — Structured webinar replaces marathon sessions**
+  - Shrink a 3-4 hour free-form Q&A into a structured 45-minute webinar (big promise → origin story → old way/new way → 3 biggest objections → offer → FAQ). Tina was converting ~9% of live attendees; a tighter format aims to double that and makes the content reproducible for cold audiences.
+
+### Prof G Markets — Anthropic Whistleblower Says AI Could “Kill Us All”
+- Date: 2026-09-10
+- Duration: 1981
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8433274388.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **[~0:00-3:00 — AI extinction risk is overstated]**
+   Kantrowitz argues the Anthropic/OpenAI extinction warnings are credible on safety broadly but wrong on the "kill all humans" conclusion. AI needs human economic activity (data centers, power, compute) to function — wiping us out would be self-defeating. He sees the 10%+ extinction probability as a logical hole from insiders who correctly predicted AI's earlier capability leaps but extrapolated to an apocalyptic conclusion.
+
+2. **[~3:00-6:00 — AI regulation will become a major political wedge]**
+   Kantrowitz expects AI moratoriums to be a genuine 2026/2028 election issue. The key point: AI's political enemies are becoming more bipartisan — even Texas Republicans have turned hostile. But regulation stays local (municipal/state level), not federal — AI companies can route around it by choosing permissive jurisdic
+  - **[~0:00-3:00 — AI extinction risk is overstated]**
+  - Kantrowitz argues the Anthropic/OpenAI extinction warnings are credible on safety broadly but wrong on the "kill all humans" conclusion. AI needs human economic activity (data centers, power, compute) to function — wiping us out would be self-defeating. He sees the 10%+ extinction probability as a logical hole from insiders who correctly predicted AI's earlier capability leaps but extrapolated to an apocalyptic conclusion.
+  - **[~3:00-6:00 — AI regulation will become a major political wedge]**
+  - Kantrowitz expects AI moratoriums to be a genuine 2026/2028 election issue. The key point: AI's political enemies are becoming more bipartisan — even Texas Republicans have turned hostile. But regulation stays local (municipal/state level), not federal — AI companies can route around it by choosing permissive jurisdictions, so no national pause is coming.
+
+### Modern Wisdom — Best Peptides, Stem Cells, Testosterone & Exercise Hacks - Biohacking Roundtable - #1148
+- Date: 2026-09-09
+- Duration: 10243
+- Tags: AI, Startups, Career, Health, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7146648512.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **(0:00-6:47) — Peptides are targeted tools, not daily protocols**
+   The panel runs a modular peptide stack: thymus alpha-1 for immune (travel), BPC-157/TB-500 for injury repair, tesamorelin/ipa/cjc for GH cycles, IGF-1 LR3 as a safer GH alternative. Core principle: diet, lifestyle, and training come first — peptides are additives, not answers.
+
+2. **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
+   All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
+
+3. **(45:23-54:12) — The sarcopenia trap: GLP-1s are trading obesity for muscle 
+  - **(0:00-6:47) — Peptides are targeted tools, not daily protocols**
+  - The panel runs a modular peptide stack: thymus alpha-1 for immune (travel), BPC-157/TB-500 for injury repair, tesamorelin/ipa/cjc for GH cycles, IGF-1 LR3 as a safer GH alternative. Core principle: diet, lifestyle, and training come first — peptides are additives, not answers.
+  - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
+  - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
+
+### DOAC — Likeability Expert: Stop Doing This, It’s Why People Quietly Avoid You! | Vanessa Van Edwards
+- Date: 2026-09-09
+- Duration: 8798
+- Tags: Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3
+- Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — Canadian Economist: Trump’s Tariffs Are A Gift To Mark Carney
 - Date: 2026-09-09
 - Duration: 2242
@@ -292,90 +356,6 @@ Beyond storing sugar as fat, chronically high insulin blocks the body's normal w
   - Spinouts happen when an internal project works but doesn't fit the parent's strategic vision. The "why" is pragmatic: you get built+tested tech without full startup risk. University R&D spinouts follow the same logic — negotiating with the institution for IP terms is just a variant.
   - **5:03-6:06 — The 80/20 rule + unicorn test**
   - Jason's heuristic: old company keeps ~20%, new team gets ~80%. Anything above ~50% breaks the cap table and kills fundability. Test: "what's an amount where if this went to $1B you'd feel great?" 20% of $1B = $200M — the parent looks savvy. 60% of $0 looks dumb. Investors won't touch a spinout where founders aren't properly motivated.
-
-### The Game — How to Think Like the Top 1% | Ep 996
-- Date: 2026-09-03
-- Duration: 751
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M1JFAXWYTA671FG1WHJWZP2M.mp3
-- AI summary (Hermes): ## Core arguments
-
-**1. [01:51 — Pay employees more to reduce labor costs]**
-Above-market pay attracts A-players who cost 25–50% more but produce 3–5x the output of B-players. The math flips: higher base pay lands as a net saving on effective labor cost, because the gap in output far exceeds the gap in compensation.
-
-**2. [03:19 — Sell fewer products to make more money]**
-More SKUs = worse execution on each = muddy messaging and unclear avatars. Fewer products forces focus, lets you go deeper on one offer, and — counterintuitively — drives more total revenue off less overhead.
-
-**3. [04:05 — Niche down to scale your business]**
-Broader TAM feels like more opportunity but lowers perceived value per customer. Niche down (e.g. "time management for outbound sales reps selling power tools" vs. "time management for everyone") and the same offer jumps from $19 to $10,000. Relevance jacks up dre
-  - **1. [01:51 — Pay employees more to reduce labor costs]**
-  - Above-market pay attracts A-players who cost 25–50% more but produce 3–5x the output of B-players. The math flips: higher base pay lands as a net saving on effective labor cost, because the gap in output far exceeds the gap in compensation.
-  - **2. [03:19 — Sell fewer products to make more money]**
-  - More SKUs = worse execution on each = muddy messaging and unclear avatars. Fewer products forces focus, lets you go deeper on one offer, and — counterintuitively — drives more total revenue off less overhead.
-
-### Prof G Markets — Bonds Are Warning Of A Global Inflation Crisis
-- Date: 2026-09-03
-- Duration: 2254
-- Tags: Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2005668089.mp3
-- AI summary (Hermes): Here's the structured summary:
-
-**Core arguments:**
-
-1. [Bonds segment — Inflation regime shift] The old "inflation is dead" era is over. Globalization masked inflation by importing deflation via cheap Chinese labor and just-in-time supply chains. That's being reordered into a new normal where safety matters more than cheapness, and inflation is now structurally embedded — not transitory.
-
-2. [Bonds segment — The bond bubble that nobody noticed] When the 10-year yielded 50bps, investors were paying ~200x cash flow for bonds. What we've experienced since is a normalization, not a spike. The real surprise would have been if those levels persisted forever, not that they corrected.
-
-3. [Bonds segment — Inflation is the insidious tax] The US deals with its $40T+ debt via inflation — repaying with devalued dollars. It's the most regressive tax on the global population because it hits everyone 
-  - Here's the structured summary:
-  - [Bonds segment — Inflation regime shift] The old "inflation is dead" era is over. Globalization masked inflation by importing deflation via cheap Chinese labor and just-in-time supply chains. That's being reordered into a new normal where safety matters more than cheapness, and inflation is now structurally embedded — not transitory.
-  - [Bonds segment — The bond bubble that nobody noticed] When the 10-year yielded 50bps, investors were paying ~200x cash flow for bonds. What we've experienced since is a normalization, not a spike. The real surprise would have been if those levels persisted forever, not that they corrected.
-  - [Bonds segment — Inflation is the insidious tax] The US deals with its $40T+ debt via inflation — repaying with devalued dollars. It's the most regressive tax on the global population because it hits everyone equally. The way to fight it is to be an investor, on the side of companies that can pass through inflation.
-
-### Modern Wisdom — Why Working Harder Won’t Make You Rich - Codie Sanchez - #1145
-- Date: 2026-09-02
-- Duration: 5586
-- Tags: AI, Business, Career, Health, Psychology, Performance, Relationships
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1231483504.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **00:00 — The biggest lie about getting rich**
-   Most people chase the appearance of wealth, not actual wealth. Real richness is two things: enough money (÷0.04) for the life you want, and actually liking that life. 46% of business owners aren't profitable; 64% make less than California minimum wage (~$75-78K). A $1M/yr business puts you above the top 1%, but you're likely taking home ~$150K.
-
-2. **07:35 — The "hero complex" traps founders in self-employment**
-   Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
-
-3. **08:44 — The three founder archetypes and why they stall**
-   Most founders are a Closer (sales), a Builder 
-  - **00:00 — The biggest lie about getting rich**
-  - Most people chase the appearance of wealth, not actual wealth. Real richness is two things: enough money (÷0.04) for the life you want, and actually liking that life. 46% of business owners aren't profitable; 64% make less than California minimum wage (~$75-78K). A $1M/yr business puts you above the top 1%, but you're likely taking home ~$150K.
-  - **07:35 — The "hero complex" traps founders in self-employment**
-  - Codie turned down Richard Branson's island because she thought the business would collapse without her — a lie. Being indispensable isn't a compliment; if your revenue depends on you, you have a highly paid job, not a business. "Being the hero is heroin" — an addiction founders need to break.
-
-### DOAC — Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted
-- Date: 2026-09-02
-- Duration: 8177
-- Tags: Career, Health, Content, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0ZPY4TQJ3P79EJ838S4NJAD.mp3?fcv=avwdogbcug45mk4wt6tpol30
-- Summary from show notes: Stanford Neuroscientist Andrew Huberman returns to reveal the truth about GLP-1s, peptides, and the testosterone collapse, and the 10 protocols he uses every day to fix his sleep, stress, and focus! Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the Departments of Neurobiology and Ophthalmology at Stanford University School of Medicine. 1 health podcast 'Huberman Lab', and is also the author of his upcoming book, 'Protocols: An Operating Manual for the Human Body'.
-- _Transcript: none available (not_ingested)_
-
-### TWIST — VC experts on why Physical AI funding is heating up | E2333
-- Date: 2026-09-02
-- Duration: 01:20:16
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/vc-experts-on-why-physical-ai-funding-is-heating-up-e2333
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2333_Audio.mp3?dest-id=5500155
-- Summary from show notes: Are we one step closer to data centers in space? Katelin Holloway of Seven Seven Six and Paige Doherty of Behind Genius Ventures break it down what it would take. Plus investor interest is surging in Physical AI companies.
-- _Transcript: none available (not_ingested)_
-
-### Startup Ideas — These 5 Github Repos are a goldmine
-- Date: 2026-09-02
-- Duration: 1483
-- Tags: AI, Startups, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M1HGMVD210P85FN5GWX5HEQG.mp3
-- Summary from show notes: On this solo episode, I review five free, open source GitHub repos that help you build products, make money, or save time: Peter Yang's No AI Slop Skill, the CRM by TryComp AI, Video Use by browser use, SkillSpector by NVIDIA, and Phone Harness. For each repo I explain what it does, why it matters, how to install it, and the first small workflow to try. I close with a simple three-step method: install the repo, make one small workflow work, then decide to productize it or keep it as your own leverage.
-- _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
