@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-10
+# Podcast Digest - 2026-09-11
 
-Generated: 2026-09-10 07:40 PDT
+Generated: 2026-09-11 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,75 @@ Generated: 2026-09-10 07:40 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Why The Bond Market Is Starting To Revolt — ft. Katie Martin
+- Date: 2026-09-11
+- Duration: 4032
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7869150293.mp3
+- AI summary (Hermes): ## Core Arguments
+
+1. **[No timestamp available] — Government borrowing has reached a breaking point**
+   US national debt crossed $40T; multiple countries now spend more on debt service than on defense. Bond investors are demanding higher returns across the board — not because of a single event, but because the cumulative debt load has finally crossed a threshold where markets are paying attention.
+
+2. **[No timestamp available] — "Things don't matter in markets until they do"**
+   The Streisand effect is driving this selloff: when the US stepped in to help Japan avoid selling treasuries (to support the yen), the market's read was "the US is worried about people selling its bonds." That awareness, once seeded, became self-reinforcing — investors suddenly focused on US borrowing costs because the administration itself seemed uncomfortable with them.
+
+3. **[No timestamp available] — Contr
+  - **[No timestamp available] — Government borrowing has reached a breaking point**
+  - US national debt crossed $40T; multiple countries now spend more on debt service than on defense. Bond investors are demanding higher returns across the board — not because of a single event, but because the cumulative debt load has finally crossed a threshold where markets are paying attention.
+  - **[No timestamp available] — "Things don't matter in markets until they do"**
+  - The Streisand effect is driving this selloff: when the US stepped in to help Japan avoid selling treasuries (to support the yen), the market's read was "the US is worried about people selling its bonds." That awareness, once seeded, became self-reinforcing — investors suddenly focused on US borrowing costs because the administration itself seemed uncomfortable with them.
+
+### DOAC — Most Replayed Moment: Brain Rot Experts - How To Use AI In A Healthy Way!
+- Date: 2026-09-10
+- Duration: 2062
+- Tags: AI, Career, Health, Content, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0BDP5KGJPA083G1X5N3ZBSC.mp3
+- AI summary (Hermes): **Core arguments**
+
+1. [Early segment — AI use is about engagement, not delegation]
+   The danger isn't using AI but *how* you use it. If you interact with it, question it, and think critically alongside it, it strengthens cognition. If you just hand off the work, your brain doesn't encode the information — similar to calculators, which freed up cognitive space but didn't eliminate the need to understand the math.
+
+2. [MIT study segment — Passive AI use erases memory]
+   Participants who used ChatGPT had nearly 2× less activity in brain regions linked to memory vs. a brain-only group. 83% of ChatGPT users couldn't remember what they'd just written and failed to quote their own essay minutes later. The hippocampus doesn't engage when you're not part of the experience of writing.
+
+3. [Short-term incentives segment — People know it's harmful and do it anyway]
+   The guest argues that humans
+  - [Early segment — AI use is about engagement, not delegation]
+  - The danger isn't using AI but *how* you use it. If you interact with it, question it, and think critically alongside it, it strengthens cognition. If you just hand off the work, your brain doesn't encode the information — similar to calculators, which freed up cognitive space but didn't eliminate the need to understand the math.
+  - [MIT study segment — Passive AI use erases memory]
+  - Participants who used ChatGPT had nearly 2× less activity in brain regions linked to memory vs. a brain-only group. 83% of ChatGPT users couldn't remember what they'd just written and failed to quote their own essay minutes later. The hippocampus doesn't engage when you're not part of the experience of writing.
+
+### TWIST — Becki DeGraw on founder vesting, advisor equity & the 4-term-sheet play
+- Date: 2026-09-10
+- Duration: 22:35
+- Tags: AI, Startups, Finance, Career, Content, Venture, Tech
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/becki-degraw-on-founder-vesting-advisor-equity-the-4-term-sheet-play
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Legal_Basics_EP_3.mp4_.mp3?dest-id=5500155
+- AI summary (Hermes): **TWIST — Becki DeGraw on Founder Vesting, Advisor Equity & the 4-Term-Sheet Play**
+
+**Core Arguments**
+
+1. **3:49 — Vesting exists to protect co-founders from each other, not just investors**
+   Even if you never take VC money, a vesting schedule prevents a departing co-founder from walking away with 50% of the company. The YouTube example drives it home: Jawed Karim left to finish grad school, got only 1/5 of his shares, and missed the bulk of a ~$10B outcome. The math on getting it wrong compounds.
+
+2. **6:05 — "I've already put in four years" rarely sways VCs the way founders hope**
+   VCs' reflex: if you're at a first priced round after four years, it didn't take four years of work — it took you longer to get to stage one. Bootstrap to real revenue (e.g., $3M ARR) changes the conversation; otherwise you're starting the vesting clock fresh like anyone else.
+
+3. **7:32 — Leverage is a
+  - **TWIST — Becki DeGraw on Founder Vesting, Advisor Equity & the 4-Term-Sheet Play**
+  - **3:49 — Vesting exists to protect co-founders from each other, not just investors**
+  - Even if you never take VC money, a vesting schedule prevents a departing co-founder from walking away with 50% of the company. The YouTube example drives it home: Jawed Karim left to finish grad school, got only 1/5 of his shares, and missed the bulk of a ~$10B outcome. The math on getting it wrong compounds.
+  - **6:05 — "I've already put in four years" rarely sways VCs the way founders hope**
+
+### Startup Ideas — You're using GPT-6 Astra WRONG
+- Date: 2026-09-10
+- Duration: 1372
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M262A87SZCDMR1D5W0W1RSQV.mp3
+- Summary from show notes: I talk with Ras Mic about GPT-6 Astra. We skip the game demos and the 3D toys, and we focus on use cases to earn money or improve products. I share 9 Astra prompts that I posted publicly, and Greg Brockman reposted.
+- _Transcript: none available (not_ingested)_
+
 ### The Game — If You Hate Selling, Watch This | Ep 998
 - Date: 2026-09-10
 - Duration: 1806
@@ -69,12 +138,21 @@ Generated: 2026-09-10 07:40 PDT
   - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
   - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
 
-### DOAC — Likeability Expert: Stop Doing This, It’s Why People Quietly Avoid You! | Vanessa Van Edwards
+### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
 - Date: 2026-09-09
 - Duration: 8798
 - Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
 - Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
+- _Transcript: none available (not_ingested)_
+
+### TWIST — Did OpenAI Steal the Navier-Stokes Solution? | E2335
+- Date: 2026-09-09
+- Duration: 01:21:25
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/did-openai-steal-the-navier-stokes-solution-e2335
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Audio_EP_2335.mp3?dest-id=5500155
+- Summary from show notes: An Anthropic researcher quit this week, saying both leading labs are gambling with everyone's lives. His coworker chimed in and predicts there is a greater than 10% chance that AI will end humanity IN THE NEXT 10 YEARS. Jason and Lon take it to Yohei Nakajima of Untapped Capital, Ben Lerer of Lerer Hippeau, and Rebecca Lynn of Canvas Prime, who cannot decide whether it is the greatest PR strategy in history or some kind of mass psychosis.
 - _Transcript: none available (not_ingested)_
 
 ### Prof G Markets — Canadian Economist: Trump’s Tariffs Are A Gift To Mark Carney
@@ -293,69 +371,6 @@ Generated: 2026-09-10 07:40 PDT
   - **[0:00 — Healthcare is a broken data-access system]**
   - You can't manage what you can't measure. Most people have no access to their own biology data — doctors gatekeep testing, insurance decides what's covered, and prices are completely opaque ($300 for vitamin D in one clinic, $10 down the street). Function Health's $365/year membership (160+ biomarkers twice a year) is a dollar-a-day shortcut around the whole dysfunctional system.
   - **[6:43 — America's "sick care" system is failing, not treating]**
-
-### Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions
-- Date: 2026-09-04
-- Duration: 3581
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4089839790.mp3
-- AI summary (Hermes): Here's the structured summary:
-
----
-
-**Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions**
-
-**Core arguments**
-
-1. **AI is not a bubble — the technology works and that's what matters.**
-   Cowen flatly rejects Ed Zitron's "AI is a con" framing. He counters that AI outperforms humans on many intellectual tasks, calling it "one of the top achievements in the history of mankind." Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy — it's how much society will accept the changes AI brings.
-
-2. **The circular-spend criticism is a normal bootstrapping pattern, not a red flag.**
-   To the concern that big tech funds AI labs that then spend the money on compute from those same investors, Cowen says every new sector straps itself this way. Nvidia is the "lender or buyer of last resort" fo
-  - Here's the structured summary:
-  - **Prof G Markets — Tyler Cowen: The AI Bears Are Asking The Wrong Questions**
-  - **AI is not a bubble — the technology works and that's what matters.**
-  - Cowen flatly rejects Ed Zitron's "AI is a con" framing. He counters that AI outperforms humans on many intellectual tasks, calling it "one of the top achievements in the history of mankind." Revenue is real ($1B+ ads alone for OpenAI), and product-market fit is demonstrable. The key question isn't whether valuations are frothy — it's how much society will accept the changes AI brings.
-
-### DOAC — Most Replayed Moment: The First Warning Signs Of Insulin Resistance! Check Your Skin For This
-- Date: 2026-09-03
-- Duration: 1115
-- Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M0AC7XP9BMZ2YS50VWQADJV2.mp3
-- AI summary (Hermes): ## Core arguments
-
-**1. [N/A — meal timing] Late eating drives chronic high insulin overnight**
-Calorie timing becomes increasingly important with age. Dr. Boz argues that one bite of food after 6pm provokes the same insulin response as 10 bites before noon. Eating late — especially processed carbs — keeps insulin elevated through the night, which she calls "the beginning of the chronic inflammatory churn" driving accelerated aging.
-
-**2. [N/A — insulin's full role] High insulin is not just about fat gain — it creates cellular "trash"**
-Beyond storing sugar as fat, chronically high insulin blocks the body's normal waste clearance. The debris accumulates between brain cells (linked to depression, brain fog, Parkinson's), in skin, and throughout tissues. The trash only gets taken out when insulin drops — which most people never allow to happen.
-
-**3. [N/A — visible signs] Skin tags, velvet
-  - **1. [N/A — meal timing] Late eating drives chronic high insulin overnight**
-  - Calorie timing becomes increasingly important with age. Dr. Boz argues that one bite of food after 6pm provokes the same insulin response as 10 bites before noon. Eating late — especially processed carbs — keeps insulin elevated through the night, which she calls "the beginning of the chronic inflammatory churn" driving accelerated aging.
-  - **2. [N/A — insulin's full role] High insulin is not just about fat gain — it creates cellular "trash"**
-  - Beyond storing sugar as fat, chronically high insulin blocks the body's normal waste clearance. The debris accumulates between brain cells (linked to depression, brain fog, Parkinson's), in skin, and throughout tissues. The trash only gets taken out when insulin drops — which most people never allow to happen.
-
-### TWIST — Becki DeGraw on spinouts, IP licensing & clean exits | Wilson Sonsini Startup Legal Basics
-- Date: 2026-09-03
-- Duration: 17:54
-- Tags: AI, Startups, Finance, Career, Parenting, Content, Cricket
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/becki-degraw-on-spinouts-ip-licensing-clean-exits-wilson-sonsini-startup-legal-basics
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2_Legal_Basics.mp4?dest-id=5500155
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **0:00-5:03 — A spinout is an orphan done faster**
-   Spinouts happen when an internal project works but doesn't fit the parent's strategic vision. The "why" is pragmatic: you get built+tested tech without full startup risk. University R&D spinouts follow the same logic — negotiating with the institution for IP terms is just a variant.
-
-2. **5:03-6:06 — The 80/20 rule + unicorn test**
-   Jason's heuristic: old company keeps ~20%, new team gets ~80%. Anything above ~50% breaks the cap table and kills fundability. Test: "what's an amount where if this went to $1B you'd feel great?" 20% of $1B = $200M — the parent looks savvy. 60% of $0 looks dumb. Investors won't touch a spinout where founders aren't properly motivated.
-
-3. **6:36-8:44 — Exclusive licensing as an M&A workaround (receding)**
-   When M&A was blocked, companies did "global exclusive license + team trans
-  - **0:00-5:03 — A spinout is an orphan done faster**
-  - Spinouts happen when an internal project works but doesn't fit the parent's strategic vision. The "why" is pragmatic: you get built+tested tech without full startup risk. University R&D spinouts follow the same logic — negotiating with the institution for IP terms is just a variant.
-  - **5:03-6:06 — The 80/20 rule + unicorn test**
-  - Jason's heuristic: old company keeps ~20%, new team gets ~80%. Anything above ~50% breaks the cap table and kills fundability. Test: "what's an amount where if this went to $1B you'd feel great?" 20% of $1B = $200M — the parent looks savvy. 60% of $0 looks dumb. Investors won't touch a spinout where founders aren't properly motivated.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
