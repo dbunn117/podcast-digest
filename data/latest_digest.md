@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-11
+# Podcast Digest - 2026-09-12
 
-Generated: 2026-09-11 07:39 PDT
+Generated: 2026-09-12 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,65 @@ Generated: 2026-09-11 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Raccoon Wars, NFL Scammers & Past Crimes - Matt McCusker #1149
+- Date: 2026-09-11
+- Duration: 5884
+- Tags: AI, Parenting, Sport, Health, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8631430840.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **29:05 — Bull riding is a deeper sport than it looks**
+   McCusker attended PBR and discovered it has team structure (city-based squads), draft-style bull-rider matching (knowing which way a bull turns vs a rider's strong side), walkout music, and fierce pride in unridden bulls. The surface impression is "guy holding onto bull" — underneath it's a tactical sport with real athletic hierarchy.
+
+2. **32:15 — The Lindsay Clancy tragedy is about what happens when postpartum support fails**
+   The case of a mother who killed her children while in postpartum psychosis divided public opinion between horror at the act and recognition that severe postpartum mental health support is still inadequate. The discussion implicitly argues that the system sets mothers up to fail, then punishes them for the result.
+
+3. **41:00 — Having kids reframes what's worth enduring**
+   The "ge
+  - **29:05 — Bull riding is a deeper sport than it looks**
+  - McCusker attended PBR and discovered it has team structure (city-based squads), draft-style bull-rider matching (knowing which way a bull turns vs a rider's strong side), walkout music, and fierce pride in unridden bulls. The surface impression is "guy holding onto bull" — underneath it's a tactical sport with real athletic hierarchy.
+  - **32:15 — The Lindsay Clancy tragedy is about what happens when postpartum support fails**
+  - The case of a mother who killed her children while in postpartum psychosis divided public opinion between horror at the act and recognition that severe postpartum mental health support is still inadequate. The discussion implicitly argues that the system sets mothers up to fail, then punishes them for the result.
+
+### TWIST — The Pentagon Wants Equity in AI Startups | E2336
+- Date: 2026-09-11
+- Duration: 01:12:38
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/the-pentagon-wants-equity-in-ai-startups-e2336
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/AUDIO_only_ss.mp3?dest-id=5500155
+- AI summary (Hermes): **Core arguments:**
+
+1. **[~9:10 — Government shouldn't pick AI winners]**
+   Jason argues the Pentagon loaning $5B to Fluidstack for equity is the government competing directly with VC. The free market should allocate capital to AI infrastructure — not taxpayers. If the mandate is procurement, buy the product; owning shares in one startup creates perverse incentives and the appearance of impropriety.
+
+2. **[~12:00 — Government ownership creates conflicts down the chain]**
+   If the US holds equity in Fluidstack (or OpenAI, or SpaceX), it's obligated to favor them for contracts, or it explains why it didn't. Either way it's a conflict. The clean answer is competitive bidding with performance-backed contracts the government can walk away from.
+
+3. **[~13:00 — The Tesla precedent argues for warrants, not loans]**
+   The Obama-era energy loan program had hits (Tesla repaid early with intere
+  - **[~9:10 — Government shouldn't pick AI winners]**
+  - Jason argues the Pentagon loaning $5B to Fluidstack for equity is the government competing directly with VC. The free market should allocate capital to AI infrastructure — not taxpayers. If the mandate is procurement, buy the product; owning shares in one startup creates perverse incentives and the appearance of impropriety.
+  - **[~12:00 — Government ownership creates conflicts down the chain]**
+  - If the US holds equity in Fluidstack (or OpenAI, or SpaceX), it's obligated to favor them for contracts, or it explains why it didn't. Either way it's a conflict. The clean answer is competitive bidding with performance-backed contracts the government can walk away from.
+
+### All-In — AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse
+- Date: 2026-09-11
+- Duration: 01:35:57
+- Tags: AI, Finance, Career, Markets, Politics, Startups, Business
+- Episode: https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300
+- AI summary (Hermes): **CORE ARGUMENTS:**
+
+1. **[~4:00] — The Jacob Coxon resignation was an orchestrated doomer op, not a spontaneous whistleblower**
+   The hosts walk through evidence: Coxon's account had near-zero followers and scrubbed history yet hit 150M views in a day; three EA-funded groups (Encode AI, AI Policy Network, AI Futures Project) amplified it within 15 minutes; the WSJ story was published minutes before the tweet went live, meaning it was pre-briefed under embargo. Sacks calls it a coordinated regulatory-capture campaign, not an employee acting alone.
+
+2. **[~20:00] — Anthropic faces an unresolvable IPO contradiction**
+   If Anthropic's own safety lead (Evan Hubinger) cosigns a >10% extinction risk, the company is simultaneously telling public market investors "we're worth trillions" and "our product is potentially civilization-ending." Sacks argues this creates product liability exposure t
+  - **[~4:00] — The Jacob Coxon resignation was an orchestrated doomer op, not a spontaneous whistleblower**
+  - The hosts walk through evidence: Coxon's account had near-zero followers and scrubbed history yet hit 150M views in a day; three EA-funded groups (Encode AI, AI Policy Network, AI Futures Project) amplified it within 15 minutes; the WSJ story was published minutes before the tweet went live, meaning it was pre-briefed under embargo. Sacks calls it a coordinated regulatory-capture campaign, not an employee acting alone.
+  - **[~20:00] — Anthropic faces an unresolvable IPO contradiction**
+  - **[~30:00] — The endgame is a federal AI regulator, not safety**
+
 ### Prof G Markets — Why The Bond Market Is Starting To Revolt — ft. Katie Martin
 - Date: 2026-09-11
 - Duration: 4032
@@ -138,11 +197,11 @@ Generated: 2026-09-11 07:39 PDT
   - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
   - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
 
-### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
+### DOAC — Likeability Expert: Stop Doing This, It’s Why People Quietly Avoid You! | Vanessa Van Edwards
 - Date: 2026-09-09
 - Duration: 8798
 - Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=o9ecuelizcpuj3mp1ciq09u3
 - Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
 - _Transcript: none available (not_ingested)_
 
@@ -309,68 +368,6 @@ Generated: 2026-09-11 07:39 PDT
   - More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.
   - **[~10:30] — Smart brevity as an architectural solution**
   - Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
-
-### Modern Wisdom — Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan Tatkin -#1146
-- Date: 2026-09-04
-- Duration: 4148
-- Tags: AI, Health, Parenting, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1374777501.mp3
-- AI summary (Hermes): Here's the structured summary from the transcript:
-
----
-
-**Core arguments**
-
-1. [~06:00 min — Relationships by design, not desire]
-   Romantic relationships need a shared purpose, vision, and governance structure, not just feelings. Couples who plan for their "devils" (what could go wrong under stress) instead of assuming their "angels" will carry the day last longer and suffer less. As Tatkin puts it: "Couples plan on their angel. That's a big mistake."
-
-2. [~10:00 min — Attachment is survival biology, not romance]
-   The adult romantic attachment bond hijacks the same existential glue as the infant-caregiver relationship — the "I can't quit you" biology. We're reliving our earliest dependency dynamics, projecting "the parents in our heads from age 12 and before" onto our partner, which makes conflict feel existential, not petty.
-
-3. [~11:00 min — Love is not enough]
-   Feelings come an
-  - Here's the structured summary from the transcript:
-  - [~06:00 min — Relationships by design, not desire]
-  - Romantic relationships need a shared purpose, vision, and governance structure, not just feelings. Couples who plan for their "devils" (what could go wrong under stress) instead of assuming their "angels" will carry the day last longer and suffer less. As Tatkin puts it: "Couples plan on their angel. That's a big mistake."
-  - [~10:00 min — Attachment is survival biology, not romance]
-
-### All-In — GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal
-- Date: 2026-09-04
-- Duration: 01:31:56
-- Tags: AI, Career, Markets, Politics, Startups, Business, Tech
-- Episode: https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300
-- AI summary (Hermes): ## Core arguments
-
-1. **(1:17) — GPT-6 Astra marks AGI era, but it's already a commodity**
-   Chamath: AGI has been here since the beginning of 2026 inside closed frontier labs. GPT-6's real significance isn't the benchmark scores — it's that frontier capability will be matched by alternatives within 3–4 months while the cost per unit of intelligence keeps plummeting. The market has split into two tiers: a frontier duopoly (OpenAI vs Anthropic) and commodity intelligence (everyone else competing on price).
-
-2. **(19:56) — The Dwarkesh/Hugging Face hack narrative was manufactured to trigger AI regulation**
-   Chamath calls out undisclosed conflicts of interest in the AI safety camp. Dwarkesh's "agent civilizations" story anthropomorphized models into Terminator-style threats, got debunked technically within days, but still reached national news and was cited by policy departments demandin
-  - **(1:17) — GPT-6 Astra marks AGI era, but it's already a commodity**
-  - Chamath: AGI has been here since the beginning of 2026 inside closed frontier labs. GPT-6's real significance isn't the benchmark scores — it's that frontier capability will be matched by alternatives within 3–4 months while the cost per unit of intelligence keeps plummeting. The market has split into two tiers: a frontier duopoly (OpenAI vs Anthropic) and commodity intelligence (everyone else competing on price).
-  - **(19:56) — The Dwarkesh/Hugging Face hack narrative was manufactured to trigger AI regulation**
-  - Chamath calls out undisclosed conflicts of interest in the AI safety camp. Dwarkesh's "agent civilizations" story anthropomorphized models into Terminator-style threats, got debunked technically within days, but still reached national news and was cited by policy departments demanding regulation. Pattern: create hysteria, amplify, weaponise for policy. Sacks: the language was designed to scare the public.
-
-### TWIST — Dr. Mark Hyman on Function Health & GLP-1 microdosing | E2334
-- Date: 2026-09-04
-- Duration: 58:29
-- Tags: AI, Startups, Business, Finance, Career, Health, Content, Cricket
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/dr-mark-hyman-on-function-health-glp-1-microdosing-e2334
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2334.mp3?dest-id=5500155
-- AI summary (Hermes): Here's the structured summary.
-
-**CORE ARGUMENTS**
-
-1. **[0:00 — Healthcare is a broken data-access system]**
-   You can't manage what you can't measure. Most people have no access to their own biology data — doctors gatekeep testing, insurance decides what's covered, and prices are completely opaque ($300 for vitamin D in one clinic, $10 down the street). Function Health's $365/year membership (160+ biomarkers twice a year) is a dollar-a-day shortcut around the whole dysfunctional system.
-
-2. **[6:43 — America's "sick care" system is failing, not treating]**
-   93% of Americans have measurable metabolic dysfunction; 75% are overweight/obese; 6 in 10 have a chronic illness. Yet the system only rewards acute intervention — there's no billing code for keeping someone healthy. Function isn't just cheaper labs; it's a different model: proactive, longitudinal, data-driven instead of episodic 
-  - Here's the structured summary.
-  - **[0:00 — Healthcare is a broken data-access system]**
-  - You can't manage what you can't measure. Most people have no access to their own biology data — doctors gatekeep testing, insurance decides what's covered, and prices are completely opaque ($300 for vitamin D in one clinic, $10 down the street). Function Health's $365/year membership (160+ biomarkers twice a year) is a dollar-a-day shortcut around the whole dysfunctional system.
-  - **[6:43 — America's "sick care" system is failing, not treating]**
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
