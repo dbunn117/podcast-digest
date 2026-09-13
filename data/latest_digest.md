@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-12
+# Podcast Digest - 2026-09-13
 
-Generated: 2026-09-12 07:39 PDT
+Generated: 2026-09-13 07:31 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,9 +13,9 @@ Generated: 2026-09-12 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
-### Modern Wisdom — Raccoon Wars, NFL Scammers & Past Crimes - Matt McCusker #1149
+### Modern Wisdom — Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker #1149
 - Date: 2026-09-11
-- Duration: 5884
+- Duration: 5868
 - Tags: AI, Parenting, Sport, Health, Psychology, Performance, Relationships
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8631430840.mp3
 - AI summary (Hermes): ## Core arguments
@@ -348,26 +348,6 @@ Generated: 2026-09-12 07:39 PDT
   - **00:05:30 — Falsely grieving faces leak the truth** — In ten Brinke's PhD research on TV pleas for missing loved ones, guilty parties couldn't fake genuine sadness: they produced the downturned mouth but not the inner-eyebrows-up-and-together combination, defaulting to a surprise-like expression instead. Four cues predicted guilt ~90% of the time, though replication found weaker effects — the verbal cues held up best.
   - **00:09:59 — The three real signs someone is lying** — Sparse or ambiguous information (liars give fewer, vaguer details — the "embedded lie" pattern of rich detail where truthful, thin detail where lying); unverifiable details; and visible cognitive effort (slow speech, ums, furrowed brows) from the load of improvising and tracking a false story. Liars also show raised cortisol. None is a "Pinocchio's nose" — they're red flags that warrant follow-up questions.
   - **00:13:46 — People are bad lie detectors; asking better questions beats reading better** — Average detection accuracy is ~54%, barely above chance, and training barely moves it. What works: open-ended, unanticipated questions and "tell me more about that" — a truth-teller can always add lived detail; a liar hits a cognitive ceiling and stays vague. Compare against someone's detail baseline (Jussie Smollett's tuna-sub specifics vs. his vague lies) to spot deviations.
-
-### Prof G Markets — Why Nobody Trusts the News — And How to Fix It
-- Date: 2026-09-06
-- Duration: 3505
-- Tags: AI, Startups, Markets, Finance, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7686377354.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **[~09:00] — The information paradox**
-   More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.
-
-2. **[~10:30] — Smart brevity as an architectural solution**
-   Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
-
-3. **[~16:00] — Information inequality is the real worry, not just income inequality**
-   Axios thrives because it serves powerful people who need high-end information
-  - **[~09:00] — The information paradox**
-  - More high-quality information is available to any individual now than ever before, but also more crap and misinformation. The burden on the average consumer to sort good from bad is too high for ~95% of the population. This is the defining tension of the modern media ecosystem.
-  - **[~10:30] — Smart brevity as an architectural solution**
-  - Axios's core innovation was reader-first format design: what's new, why it matters, bullets in hierarchical order. The same architecture that worked at Axios (almost 10 years old) is now the template Punchbowl, The Information, and others copied — a family tree of successful digital publications founded by former staff.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
