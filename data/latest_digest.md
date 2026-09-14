@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-13
+# Podcast Digest - 2026-09-14
 
-Generated: 2026-09-13 07:31 PDT
+Generated: 2026-09-14 07:42 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,59 @@ Generated: 2026-09-13 07:31 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — The Rate Hikes Are Coming
+- Date: 2026-09-14
+- Duration: 4371
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7034346823.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **["Forever inflation" — mid-episode]** — Ed Elson argues the US needs to reckon with 3-5% inflation being permanent, not transitory. 5+ years above the Fed's 2% target already — the longest stretch in 40 years. Leadership's response (spending their way out) makes the debt spiral worse, and there's no political incentive to change course.
+
+2. **["Oil as a regressive tax" — early macro segment]** — $100+ oil and record diesel prices are a massive wealth transfer from consumers to producers. 15-30% of grocery costs are diesel. 40% of school districts are consolidating bus routes. The winners: Exxon (+34%), Chevron (+37%), railroads (+21-34%), and Permian Basin landowners (+77% home values in Odessa). The losers: every household at the pump and grocery store.
+
+3. **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10
+  - **["Forever inflation" — mid-episode]** — Ed Elson argues the US needs to reckon with 3-5% inflation being permanent, not transitory. 5+ years above the Fed's 2% target already — the longest stretch in 40 years. Leadership's response (spending their way out) makes the debt spiral worse, and there's no political incentive to change course.
+  - **["Oil as a regressive tax" — early macro segment]** — $100+ oil and record diesel prices are a massive wealth transfer from consumers to producers. 15-30% of grocery costs are diesel. 40% of school districts are consolidating bus routes. The winners: Exxon (+34%), Chevron (+37%), railroads (+21-34%), and Permian Basin landowners (+77% home values in Odessa). The losers: every household at the pump and grocery store.
+  - **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10-year breached 4.9%, and Bessent's $6B bond buyback program failed to suppress yields. Rate-hike odds for September jumped from 15% in June to 65% currently. The market is pricing in fiscal reckoning that politicians refuse to have.
+  - **["No adult conversation on fiscal policy" — mid-episode]** — Scott's core critique: $40T national debt, $2T annual deficit, $1.25T in interest payments exceeding defense spending. The $5,000-per-adult "dividend" proposal ($1.35T) is emblematic — both parties cut taxes and spend more, with no candidate willing to show voters a pie chart and say "we take in $5T and spend $7T." Clinton/Gore proved it's possible (last surplus), but there's no constituency for fiscal discipline.
+
+### Modern Wisdom — “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman #1150
+- Date: 2026-09-13
+- Duration: 9161
+- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2661124861.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **(00:07 — Cortisol bookending)** The single highest-leverage health protocol is making the first hour of your day high-cortisol (bright light, hydration, caffeine, exercise) and the last hour low-cortisol (dim lights, no screens, no stimulants). This sets better sleep, stress resilience, focus, and mood for the entire day.
+
+2. **(07:43 — Willpower as a circuit, not a resource)** Top-down suppression of impulse (prefrontal cortex) can be trained through either deliberate hard things OR "micro-sucks" (Andy Stumpf's philosophy of picking the harder small option throughout the day, like picking up a piece of trash). Both build the same neural circuit — it's not about what you do, it's about getting reps in on impulse suppression.
+
+3. **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) →
+  - **(00:07 — Cortisol bookending)** The single highest-leverage health protocol is making the first hour of your day high-cortisol (bright light, hydration, caffeine, exercise) and the last hour low-cortisol (dim lights, no screens, no stimulants). This sets better sleep, stress resilience, focus, and mood for the entire day.
+  - **(07:43 — Willpower as a circuit, not a resource)** Top-down suppression of impulse (prefrontal cortex) can be trained through either deliberate hard things OR "micro-sucks" (Andy Stumpf's philosophy of picking the harder small option throughout the day, like picking up a piece of trash). Both build the same neural circuit — it's not about what you do, it's about getting reps in on impulse suppression.
+  - **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) → agitation from those errors (chemically tags synapses) → sleep (synaptic reorganization) → self-testing (consolidation). Exercise boosts catecholamines for 4-6 hours post-workout, making focus easier. The error signal is the key — if you can already do something, there's no reason for your brain to change.
+  - **(~58:47 — Most people never develop taste)** Huberman's skateboarding story: the same kids who mocked baggy shorts in spring were wearing them the next fall when hip-hop made it popular. Most people confuse social acceptability with genuine preference. True taste is discerning good from not-good independent of popularity. Running enough A/B tests to maximize engagement eventually produces a "porn website" — content that regresses to the most extreme, salacious version of itself.
+
+### DOAC — The Man Who Predicted The Iran War: The Next 9/11 Will Target Your Bank Account! | Professor Jiang
+- Date: 2026-09-13
+- Duration: 6499
+- Tags: AI, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **00:02:20 — The Innovation Equation is collapsing**
+   Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
+
+2. **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
+   The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
+
+3. **00:14:13 — This Middle East conflict is structurally diffe
+  - **00:02:20 — The Innovation Equation is collapsing**
+  - Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
+  - **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
+  - The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
+
 ### Modern Wisdom — Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker #1149
 - Date: 2026-09-11
 - Duration: 5868
@@ -197,11 +250,11 @@ Generated: 2026-09-13 07:31 PDT
   - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
   - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
 
-### DOAC — Likeability Expert: Stop Doing This, It’s Why People Quietly Avoid You! | Vanessa Van Edwards
+### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
 - Date: 2026-09-09
 - Duration: 8798
 - Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=o9ecuelizcpuj3mp1ciq09u3
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
 - Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
 - _Transcript: none available (not_ingested)_
 
@@ -316,38 +369,6 @@ Generated: 2026-09-13 07:31 PDT
   - Models ace benchmarks but don't perform in the real world. Each new model gets called a "quantum leap" for a few days until users find it doesn't work on their actual problems — code quality is still poor, files get deleted, agents can't be trusted.
   - **[3:30-7:00 — The AGI bait-and-switch]**
   - "AGI" was originally defined as doing any cognitive work a human can do. That definition has been quietly weakened for marketing. The strong version would mean wages go to zero and capitalism breaks — neither has happened. What we actually have is the "marketing version of AGI" — a label used to drive hype and stock prices, not a substantive milestone.
-
-### Modern Wisdom — The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani - #1147
-- Date: 2026-09-06
-- Duration: 5057
-- Tags: AI, Career, Parenting, Health, Psychology, Performance, Relationships
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7481904006.mp3
-- AI summary (Hermes): 1. **02:55 — RSD is a specific slice of a broader sensitivity spectrum**  
-   Highly sensitive people (HSP — not a clinical term) are sensitive to everything: emotions, sound, light, chaos. Rejection Sensitive Dysphoria (coined by Dr. William Dodson) is the narrower case — a profound emotional *and physical* response to perceived rejection or criticism, sitting at the far end of a sensitivity spectrum. Sensitive people feel things quickly, deeply, and for a long time, and burn real brainpower over-analyzing every interaction and pre-emptively masking to avoid disappointing people.
-
-2. **05:40 — Why rejection hurts so much: the brain is structurally wired for it**  
-   There's a hyperactive amygdala (threat receptor) plus an underactive frontal lobe (the part that should say "this isn't a big deal"), with a weak link between them — so you feel before you can think. Add dopamine dysregulat
-  - **02:55 — RSD is a specific slice of a broader sensitivity spectrum**
-  - **05:40 — Why rejection hurts so much: the brain is structurally wired for it**
-  - There's a hyperactive amygdala (threat receptor) plus an underactive frontal lobe (the part that should say "this isn't a big deal"), with a weak link between them — so you feel before you can think. Add dopamine dysregulation (not too little dopamine, but not enough at the right place and time to weather ups and downs) and a norepinephrine surge, and rejection produces genuine physical symptoms — chest pain, racing heart, sweating — so your body insists something is actually wrong.
-  - **13:46 — Hormones and genetics set your baseline sensitivity**
-
-### DOAC — Human Lie Detector: The #1 Sign They’re Lying To You, Catch Liars Instantly! | Dr Leanne ten Brinke
-- Date: 2026-09-06
-- Duration: 6263
-- Tags: AI, Parenting, Content, Health, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1M9A59AFBGJG3WGBMW30A0F.mp3
-- AI summary (Hermes): **Core arguments**
-
-1. **00:04:05 — Psychopathy is readable in five seconds** — Lilienfeld's research shows naive raters judge psychopathic traits from 5-second clips about as well as clinicians do after hours of interviewing. What they're picking up on: "Duchenne smiles" (crow's feet around the eyes) paired with hostile content, and heavy hand gestures — but personality plays out across time and context, so these are starting signals, not verdicts.
-
-2. **00:05:30 — Falsely grieving faces leak the truth** — In ten Brinke's PhD research on TV pleas for missing loved ones, guilty parties couldn't fake genuine sadness: they produced the downturned mouth but not the inner-eyebrows-up-and-together combination, defaulting to a surprise-like expression instead. Four cues predicted guilt ~90% of the time, though replication found weaker effects — the verbal cues held up best.
-
-3. **00:09:59 — Th
-  - **00:04:05 — Psychopathy is readable in five seconds** — Lilienfeld's research shows naive raters judge psychopathic traits from 5-second clips about as well as clinicians do after hours of interviewing. What they're picking up on: "Duchenne smiles" (crow's feet around the eyes) paired with hostile content, and heavy hand gestures — but personality plays out across time and context, so these are starting signals, not verdicts.
-  - **00:05:30 — Falsely grieving faces leak the truth** — In ten Brinke's PhD research on TV pleas for missing loved ones, guilty parties couldn't fake genuine sadness: they produced the downturned mouth but not the inner-eyebrows-up-and-together combination, defaulting to a surprise-like expression instead. Four cues predicted guilt ~90% of the time, though replication found weaker effects — the verbal cues held up best.
-  - **00:09:59 — The three real signs someone is lying** — Sparse or ambiguous information (liars give fewer, vaguer details — the "embedded lie" pattern of rich detail where truthful, thin detail where lying); unverifiable details; and visible cognitive effort (slow speech, ums, furrowed brows) from the load of improvising and tracking a false story. Liars also show raised cortisol. None is a "Pinocchio's nose" — they're red flags that warrant follow-up questions.
-  - **00:13:46 — People are bad lie detectors; asking better questions beats reading better** — Average detection accuracy is ~54%, barely above chance, and training barely moves it. What works: open-ended, unanticipated questions and "tell me more about that" — a truth-teller can always add lived detail; a liar hits a cognitive ceiling and stays vague. Compare against someone's detail baseline (Jussie Smollett's tuna-sub specifics vs. his vague lies) to spot deviations.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
