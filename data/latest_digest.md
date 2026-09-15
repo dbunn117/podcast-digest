@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-14
+# Podcast Digest - 2026-09-15
 
-Generated: 2026-09-14 07:42 PDT
+Generated: 2026-09-15 07:42 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,103 @@ Generated: 2026-09-14 07:42 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — The X Factor: Why Dolly Parton Was Impossible to Ignore | Ep 999
+- Date: 2026-09-15
+- Duration: 828
+- Tags: Business, Content, Entrepreneurship, Sales, Offers, Pricing, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M2H5R1YRJP8GFQPZZPKC0AS9.mp3
+- AI summary (Hermes): Here it is:
+
+**Core arguments**
+
+1. **00:00 — The X Factor is rare + contradictory traits combined**
+   X Factor = when someone demonstrates multiple rare skills/traits that don't typically coexist. The more rarities they combine, the more interest multiplies. It's not any single attribute — it's the full package.
+
+2. **00:00 — Messenger and message are two sides of quality**
+   In an infinite-content/AI world, quality splits into message and messenger, inextricably linked. A star (messenger-driven) can say boring things and get millions of views. A no-name (message-driven) can go viral on content alone. Most tactical advice focuses on message; almost none on the messenger.
+
+3. **04:58 — Break the pattern to be interesting**
+   People judge by covers — that's pattern recognition, not prejudice, and it won't stop. To be interesting, you must violate the pattern. The guy in a flannel who d
+  - **00:00 — The X Factor is rare + contradictory traits combined**
+  - X Factor = when someone demonstrates multiple rare skills/traits that don't typically coexist. The more rarities they combine, the more interest multiplies. It's not any single attribute — it's the full package.
+  - **00:00 — Messenger and message are two sides of quality**
+  - In an infinite-content/AI world, quality splits into message and messenger, inextricably linked. A star (messenger-driven) can say boring things and get millions of views. A no-name (message-driven) can go viral on content alone. Most tactical advice focuses on message; almost none on the messenger.
+
+### Prof G Markets — Why OpenAI And Anthropic Are Pumping The Brakes
+- Date: 2026-09-15
+- Duration: 1706
+- Tags: AI, Finance, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7973812142.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **[Opening segment — "Pacing the frontier" is a compute reallocation, not a capabilities pause]**
+   When Dario Amodei and Sam Altman call for slowing down, they mean allocating *more* compute to safety and monitoring (OpenAI reportedly committing up to 20% of internal compute), not halting model development. Capability roadmaps stay the same — the compute budget just grows on top. This could actually *increase* total compute demand, not reduce it.
+
+2. **[Mid-interview — The boring interpretation is usually right]**
+   The most likely outcome isn't rogue AI killing humans — it's swarms of AI agents doing "very, very annoying things" to the internet. Open-source models will hit frontier capability levels within 3-9 months, and the world needs to integrate intelligence at a pace it can absorb. No conspiracy, no regulatory capture plot: just models getting good fast.
+
+
+  - **[Opening segment — "Pacing the frontier" is a compute reallocation, not a capabilities pause]**
+  - When Dario Amodei and Sam Altman call for slowing down, they mean allocating *more* compute to safety and monitoring (OpenAI reportedly committing up to 20% of internal compute), not halting model development. Capability roadmaps stay the same — the compute budget just grows on top. This could actually *increase* total compute demand, not reduce it.
+  - **[Mid-interview — The boring interpretation is usually right]**
+  - The most likely outcome isn't rogue AI killing humans — it's swarms of AI agents doing "very, very annoying things" to the internet. Open-source models will hit frontier capability levels within 3-9 months, and the world needs to integrate intelligence at a pace it can absorb. No conspiracy, no regulatory capture plot: just models getting good fast.
+
+### Grade Cricketer — Private bunce, Razaullah jawline, Zimbabwe favourites, with Alex Malcolm
+- Date: 2026-09-14
+- Duration: 4972
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/private-bunce-razaullah-jawline-zimbabwe-favourites-with-alex-malcolm
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/773862a9-0a01-4ccd-9869-b4c60057c97f/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- AI summary (Hermes): **Core arguments:**
+
+1. **[~17:00] — BBL privatisation is headed for arbitration over the revenue definition**
+   The ACA (players) argues franchise sale proceeds fall under "Australian cricket revenue" — meaning players are entitled to 27.5%. CA says sales proceeds are a separate bucket outside that MOU. Both sides have legal advice backing them and are "miles apart." Independent arbitration is expected.
+
+2. **[~19:00] — ACA's negotiating play: forgo the lump sum, raise the ongoing share instead**
+   The ACA is willing to waive their cut of the sale proceeds in exchange for raising the player revenue share from 27.5% to ~33%. CA and the states are "steadfast" that 27.5% can't move higher — they say the game can't afford it. This is the central tension.
+
+3. **[~22:00] — CA has failed to sell the public on what privatisation is actually for**
+   Malcolm's view: CA has been "broad rather t
+  - **[~17:00] — BBL privatisation is headed for arbitration over the revenue definition**
+  - The ACA (players) argues franchise sale proceeds fall under "Australian cricket revenue" — meaning players are entitled to 27.5%. CA says sales proceeds are a separate bucket outside that MOU. Both sides have legal advice backing them and are "miles apart." Independent arbitration is expected.
+  - **[~19:00] — ACA's negotiating play: forgo the lump sum, raise the ongoing share instead**
+  - The ACA is willing to waive their cut of the sale proceeds in exchange for raising the player revenue share from 27.5% to ~33%. CA and the states are "steadfast" that 27.5% can't move higher — they say the game can't afford it. This is the central tension.
+
+### All-In — Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger
+- Date: 2026-09-14
+- Duration: 01:04:25
+- Tags: AI, Startups, Business, Finance, Career, Parenting, Markets
+- Episode: https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) SpaceX's Gwynne Shotwell joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
+- _Transcript: none available (not_ingested)_
+
+### All-In — Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)
+- Date: 2026-09-14
+- Duration: 46:47
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Jensen Huang joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
+- _Transcript: none available (not_ingested)_
+
+### TWIST — Ask Jason: AI Extinction, Grok's Rogue Meme Coin & Weed Farms as Data Centers | E2337
+- Date: 2026-09-14
+- Duration: 01:11:15
+- Tags: AI, Career, Content, Startups, Venture, Tech, Saas
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/ask-jason-ai-extinction-groks-rogue-meme-coin-weed-farms-as-data-centers-e2337
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/EP_2337_Audio.mp3?dest-id=5500155
+- Summary from show notes: A 27-year-old Anthropic researcher quit last week warning that AI could cause human extinction, and by Friday, a caller's 76-year-old mother was texting her in a panic. Jason's answer: the labs are already shipping the safeguards Doomers say don't exist. On an all live calls episode of TWiST, learn about the AI implications Jason is actually scared of, and why it involves a terrorist cell and a thousand cheap drones.
+- _Transcript: none available (not_ingested)_
+
+### Startup Ideas — Building a Software Factory that actually works (Full Course)
+- Date: 2026-09-14
+- Duration: 1889
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M2GC48TEYSXYAE7F98WCXJZ1.mp3
+- Summary from show notes: Get Your Complete Financial OS at I welcome Ras Mic back to the pod to explain the phrase "software factory." Mic shares his screen and walks through the exact system that he runs today. His factory has four steps: isolate, build, prove, and ship. He keeps the whole system in five or six markdown files, so it works with any model and any harness.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — The Rate Hikes Are Coming
 - Date: 2026-09-14
 - Duration: 4371
@@ -32,7 +129,7 @@ Generated: 2026-09-14 07:42 PDT
 
 ### Modern Wisdom — “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman #1150
 - Date: 2026-09-13
-- Duration: 9161
+- Duration: 9162
 - Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
 - Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2661124861.mp3
 - AI summary (Hermes): **Core arguments:**
@@ -47,24 +144,13 @@ Generated: 2026-09-14 07:42 PDT
   - **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) → agitation from those errors (chemically tags synapses) → sleep (synaptic reorganization) → self-testing (consolidation). Exercise boosts catecholamines for 4-6 hours post-workout, making focus easier. The error signal is the key — if you can already do something, there's no reason for your brain to change.
   - **(~58:47 — Most people never develop taste)** Huberman's skateboarding story: the same kids who mocked baggy shorts in spring were wearing them the next fall when hip-hop made it popular. Most people confuse social acceptability with genuine preference. True taste is discerning good from not-good independent of popularity. Running enough A/B tests to maximize engagement eventually produces a "porn website" — content that regresses to the most extreme, salacious version of itself.
 
-### DOAC — The Man Who Predicted The Iran War: The Next 9/11 Will Target Your Bank Account! | Professor Jiang
+### DOAC — The Man Who Predicted The Iran War: Iran’s Next Move Will Break Everything! | Professor Jiang
 - Date: 2026-09-13
 - Duration: 6499
 - Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **00:02:20 — The Innovation Equation is collapsing**
-   Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
-
-2. **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
-   The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
-
-3. **00:14:13 — This Middle East conflict is structurally diffe
-  - **00:02:20 — The Innovation Equation is collapsing**
-  - Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
-  - **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
-  - The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3?fcv=ooi5hir67leh43c0jy8gt61f
+- Summary from show notes: he explains: ■ The Innovation Equation: Why technological progress is strictly dictated by specialization multiplied by globalization. ■ The Petrodollar Collapse: How the entire global economy relies on US military hegemony and the Middle East. ■ The Next Geopolitical Flashpoints: How severe water scarcity and shifting demographics in the Global South will trigger mass migration, intense polarization, and potential civil wars across Western societies.
+- _Transcript: none available (not_ingested)_
 
 ### Modern Wisdom — Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker #1149
 - Date: 2026-09-11
@@ -250,11 +336,11 @@ Generated: 2026-09-14 07:42 PDT
   - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
   - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
 
-### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
+### DOAC — Likability Expert: The Toxic Conversation Habit You Don't Realize You Have! | Vanessa Van Edwards
 - Date: 2026-09-09
 - Duration: 8798
 - Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=lfldkshqegx38266ljbzoxhv
 - Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
 - _Transcript: none available (not_ingested)_
 
@@ -329,46 +415,6 @@ Generated: 2026-09-14 07:42 PDT
   - **01:35 — The real question is "good enough for the job," not "smarter than the cloud"**
   - Most people ask whether a local model beats frontier cloud models. The useful reframe: is the model good enough for the specific job, and does running it locally make the product better? Private files, field work, low latency, and repeated internal workflows are where local AI wins.
   - **03:09 — Four pieces of the local AI landscape**
-
-### The Game — 3 Signs You’re Going to Be a Successful Entrepreneur | Ep 997
-- Date: 2026-09-08
-- Duration: 635
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M1Z8RFS2XFF7JTAVPG30P2D9.mp3
-- AI summary (Hermes): ## Core Arguments
-
-1. **00:00 — The bottleneck is character, not tactics**
-   Entrepreneurs at $1M–$50M always ask for tactics, but the real ceiling is three behavioral traits: focus (doing one thing, not chasing novelty), patience (doing it for a long time), and frustration tolerance (enduring failure without quitting). These are "anti-human" because humans want new, now, and easy — the exact opposite of what scaling requires.
-
-2. **03:22 — The third-person perspective (solvent paradox)**
-   You give better advice to others than you follow yourself because you lack emotional attachment to their situation. The hack: ask "what would my most dangerous competitor do in my position?" — then do that. The goal is to make the logical decision independent of how you feel, even when it's emotionally uncomfortable.
-
-3. **06:31 — Surface area thinking (multiple coats of paint)**
-   Great solutions 
-  - **00:00 — The bottleneck is character, not tactics**
-  - Entrepreneurs at $1M–$50M always ask for tactics, but the real ceiling is three behavioral traits: focus (doing one thing, not chasing novelty), patience (doing it for a long time), and frustration tolerance (enduring failure without quitting). These are "anti-human" because humans want new, now, and easy — the exact opposite of what scaling requires.
-  - **03:22 — The third-person perspective (solvent paradox)**
-  - You give better advice to others than you follow yourself because you lack emotional attachment to their situation. The hack: ask "what would my most dangerous competitor do in my position?" — then do that. The goal is to make the logical decision independent of how you feel, even when it's emotionally uncomfortable.
-
-### Prof G Markets — OpenAI Says “AGI” Is Here — What Does That Actually Mean?
-- Date: 2026-09-08
-- Duration: 2291
-- Tags: AI, Business, Finance, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7608417631.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **[Start-3:30 — The benchmark gap]**
-   Models ace benchmarks but don't perform in the real world. Each new model gets called a "quantum leap" for a few days until users find it doesn't work on their actual problems — code quality is still poor, files get deleted, agents can't be trusted.
-
-2. **[3:30-7:00 — The AGI bait-and-switch]**
-   "AGI" was originally defined as doing any cognitive work a human can do. That definition has been quietly weakened for marketing. The strong version would mean wages go to zero and capitalism breaks — neither has happened. What we actually have is the "marketing version of AGI" — a label used to drive hype and stock prices, not a substantive milestone.
-
-3. **[7:00-9:00 — Sam Altman's evasion]**
-   When pressed, Altman dodges: first says AGI "can't be defined," then says maybe it's been met, then invents the meaningless term "AGI-li
-  - **[Start-3:30 — The benchmark gap]**
-  - Models ace benchmarks but don't perform in the real world. Each new model gets called a "quantum leap" for a few days until users find it doesn't work on their actual problems — code quality is still poor, files get deleted, agents can't be trusted.
-  - **[3:30-7:00 — The AGI bait-and-switch]**
-  - "AGI" was originally defined as doing any cognitive work a human can do. That definition has been quietly weakened for marketing. The strong version would mean wages go to zero and capitalism breaks — neither has happened. What we actually have is the "marketing version of AGI" — a label used to drive hype and stock prices, not a substantive milestone.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
