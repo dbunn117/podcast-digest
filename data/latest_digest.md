@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-15
+# Podcast Digest - 2026-09-16
 
-Generated: 2026-09-15 07:42 PDT
+Generated: 2026-09-16 07:41 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,84 @@ Generated: 2026-09-15 07:42 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — AI Insiders Keep Saying We’re In Danger — Where’s The Evidence?
+- Date: 2026-09-16
+- Duration: 2311
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4954908572.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **The AI safety debate has no substance — nobody can articulate what they're actually scared of**
+   Despite over a dozen safety researchers publicly warning about existential risk, none of them have provided specific evidence or described what a "slowdown" would look like in practice. Zitron's challenge: "Can you point to a thing?" goes unanswered. The safety narrative is built entirely on vibes and credentialism, not on demonstrated harms.
+
+2. **The rationalist/EA movement behind AI safety is functionally a religious cult**
+   Zitron frames the effective altruist researchers as true believers in a dogma — they take any vague signal (like "we might be near recursive self-improvement") as confirmation of a pre-ordained conclusion that AI will kill everyone. The only policy they ever arrive at is "give the organization I like more money and power."
+
+3. **There's a cy
+  - **The AI safety debate has no substance — nobody can articulate what they're actually scared of**
+  - Despite over a dozen safety researchers publicly warning about existential risk, none of them have provided specific evidence or described what a "slowdown" would look like in practice. Zitron's challenge: "Can you point to a thing?" goes unanswered. The safety narrative is built entirely on vibes and credentialism, not on demonstrated harms.
+  - **The rationalist/EA movement behind AI safety is functionally a religious cult**
+  - Zitron frames the effective altruist researchers as true believers in a dogma — they take any vague signal (like "we might be near recursive self-improvement") as confirmation of a pre-ordained conclusion that AI will kill everyone. The only policy they ever arrive at is "give the organization I like more money and power."
+
+### TWIST — 90% of AI prototypes never reach production (w/ Temporal's Samar Abbas) | AI Basics
+- Date: 2026-09-15
+- Duration: 19:23
+- Tags: AI, Startups, Business, Finance, Career, Venture, Tech
+- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/90-of-ai-prototypes-never-reach-production-w-temporals-samar-abbas-ai-basics
+- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Temporat_FULL.mp4?dest-id=5500155
+- AI summary (Hermes): ## Core arguments
+
+1. **0:00 — The 90% prototype die-off**
+   Most AI projects die at the POC stage because they're brittle, unstable, and unreplicable. The gap between "it works on my laptop" and "it survives real users" is where the value disappears — and it's not a model problem.
+
+2. **2:12 — Durable execution is the missing layer**
+   When an agent crashes mid-task (processing a refund, running research), it loses all state and has no memory of where it stopped. Temporal solves this by remembering execution state across failures without the developer writing recovery code — "durable execution" is table stakes for production AI.
+
+3. **13:02 — The harness, not the model, is what's missing**
+   As agents move from laptops to distributed environments, you need to separate the "brain" (orchestration/harness layer) from the agent loop. The harness coordinates tool calls, handles failures, 
+  - **0:00 — The 90% prototype die-off**
+  - Most AI projects die at the POC stage because they're brittle, unstable, and unreplicable. The gap between "it works on my laptop" and "it survives real users" is where the value disappears — and it's not a model problem.
+  - **2:12 — Durable execution is the missing layer**
+  - When an agent crashes mid-task (processing a refund, running research), it loses all state and has no memory of where it stopped. Temporal solves this by remembering execution state across failures without the developer writing recovery code — "durable execution" is table stakes for production AI.
+
+### All-In — JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms
+- Date: 2026-09-15
+- Duration: 27:32
+- Tags: AI, Startups, Business, Finance, Career, Parenting, Markets
+- Episode: https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300
+- AI summary (Hermes): ## Core arguments
+
+**1. (1:40) — Border reversal as a historical first**
+Vance claims Trump is the first president in his lifetime to actually *reverse* illegal immigration flow, not just slow it. Roughly 3M lower than when they came in. The framing: Western governments post-WW2 open borders but never reverse them; Trump did.
+
+**2. (1:40) — Re-industrialization as the signature achievement**
+The bipartisan globalization consensus (build economy on services/tech/finance alone) was wrong — you still have to make stuff. Trillions in new manufacturing investment, reversing a 40-year decline. Vance explicitly ranks this above the border as what Trump will be remembered for. "Rome wasn't built in a day" is the recurring caveat.
+
+**3. (9:28) — AI doomerism is a self-serving contradiction for frontier labs**
+Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't come to 
+  - **1. (1:40) — Border reversal as a historical first**
+  - Vance claims Trump is the first president in his lifetime to actually *reverse* illegal immigration flow, not just slow it. Roughly 3M lower than when they came in. The framing: Western governments post-WW2 open borders but never reverse them; Trump did.
+  - **2. (1:40) — Re-industrialization as the signature achievement**
+  - The bipartisan globalization consensus (build economy on services/tech/finance alone) was wrong — you still have to make stuff. Trillions in new manufacturing investment, reversing a 40-year decline. Vance explicitly ranks this above the border as what Trump will be remembered for. "Rome wasn't built in a day" is the recurring caveat.
+
+### Startup Ideas — Instinct AI: The AI Assistant for normal people
+- Date: 2026-09-15
+- Duration: 1650
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M2K2X1JQ8H03GC1CNGN2695V.mp3
+- Summary from show notes: I sit down with Remy to go through Instinct, the new invite-only personal agent that runs inside iMessage. Remy shares his raw chat history on screen: a haircut booking in Copenhagen, a restaurant reservation, a Bali visa on arrival, and an Emirates Skywards sign-up. We cover the parts that impress us, the points where the agent hits a wall, and the privacy questions that stay open.
+- _Transcript: none available (not_ingested)_
+
+### All-In — Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI
+- Date: 2026-09-15
+- Duration: 36:33
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, "pacing the frontier," common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new AI products? (14:22) Economic incentives for frontier lab doomerism, where the AI profits are (22:45) Microsoft's master plan for AI, how they are allocating capital (31:00) China's slow down, changing AI perception, data center benefits Thanks to our partners for making this possible!
+- _Transcript: none available (not_ingested)_
+
 ### The Game — The X Factor: Why Dolly Parton Was Impossible to Ignore | Ep 999
 - Date: 2026-09-15
 - Duration: 828
@@ -127,7 +205,7 @@ Generated: 2026-09-15 07:42 PDT
   - **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10-year breached 4.9%, and Bessent's $6B bond buyback program failed to suppress yields. Rate-hike odds for September jumped from 15% in June to 65% currently. The market is pricing in fiscal reckoning that politicians refuse to have.
   - **["No adult conversation on fiscal policy" — mid-episode]** — Scott's core critique: $40T national debt, $2T annual deficit, $1.25T in interest payments exceeding defense spending. The $5,000-per-adult "dividend" proposal ($1.35T) is emblematic — both parties cut taxes and spend more, with no candidate willing to show voters a pie chart and say "we take in $5T and spend $7T." Clinton/Gore proved it's possible (last surplus), but there's no constituency for fiscal discipline.
 
-### Modern Wisdom — “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman #1150
+### Modern Wisdom — Why You’re Tired, Stressed & Unfocussed (and how to fix it) - Dr Andrew Huberman #1150
 - Date: 2026-09-13
 - Duration: 9162
 - Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
@@ -144,13 +222,24 @@ Generated: 2026-09-15 07:42 PDT
   - **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) → agitation from those errors (chemically tags synapses) → sleep (synaptic reorganization) → self-testing (consolidation). Exercise boosts catecholamines for 4-6 hours post-workout, making focus easier. The error signal is the key — if you can already do something, there's no reason for your brain to change.
   - **(~58:47 — Most people never develop taste)** Huberman's skateboarding story: the same kids who mocked baggy shorts in spring were wearing them the next fall when hip-hop made it popular. Most people confuse social acceptability with genuine preference. True taste is discerning good from not-good independent of popularity. Running enough A/B tests to maximize engagement eventually produces a "porn website" — content that regresses to the most extreme, salacious version of itself.
 
-### DOAC — The Man Who Predicted The Iran War: Iran’s Next Move Will Break Everything! | Professor Jiang
+### DOAC — Professor Jiang: Three Predictions On the Collapse of the World Order
 - Date: 2026-09-13
 - Duration: 6499
 - Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3?fcv=ooi5hir67leh43c0jy8gt61f
-- Summary from show notes: he explains: ■ The Innovation Equation: Why technological progress is strictly dictated by specialization multiplied by globalization. ■ The Petrodollar Collapse: How the entire global economy relies on US military hegemony and the Middle East. ■ The Next Geopolitical Flashpoints: How severe water scarcity and shifting demographics in the Global South will trigger mass migration, intense polarization, and potential civil wars across Western societies.
-- _Transcript: none available (not_ingested)_
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **00:02:20 — The Innovation Equation is collapsing**
+   Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
+
+2. **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
+   The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
+
+3. **00:14:13 — This Middle East conflict is structurally diffe
+  - **00:02:20 — The Innovation Equation is collapsing**
+  - Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
+  - **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
+  - The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
 
 ### Modern Wisdom — Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker #1149
 - Date: 2026-09-11
@@ -336,11 +425,11 @@ Generated: 2026-09-15 07:42 PDT
   - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
   - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
 
-### DOAC — Likability Expert: The Toxic Conversation Habit You Don't Realize You Have! | Vanessa Van Edwards
+### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
 - Date: 2026-09-09
 - Duration: 8798
 - Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=lfldkshqegx38266ljbzoxhv
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
 - Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
 - _Transcript: none available (not_ingested)_
 
@@ -352,69 +441,6 @@ Generated: 2026-09-15 07:42 PDT
 - Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Audio_EP_2335.mp3?dest-id=5500155
 - Summary from show notes: An Anthropic researcher quit this week, saying both leading labs are gambling with everyone's lives. His coworker chimed in and predicts there is a greater than 10% chance that AI will end humanity IN THE NEXT 10 YEARS. Jason and Lon take it to Yohei Nakajima of Untapped Capital, Ben Lerer of Lerer Hippeau, and Rebecca Lynn of Canvas Prime, who cannot decide whether it is the greatest PR strategy in history or some kind of mass psychosis.
 - _Transcript: none available (not_ingested)_
-
-### Prof G Markets — Canadian Economist: Trump’s Tariffs Are A Gift To Mark Carney
-- Date: 2026-09-09
-- Duration: 2242
-- Tags: Finance, Parenting, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1589631054.mp3
-- AI summary (Hermes): **Prof G Markets — Sept 9, 2026**
-*Ed Elson; guests Mike Moffatt (Canadian economist) & John Burn-Murdoch (FT)*
-
-**Core arguments**
-
-1. [Canada tariff segment — ~mid-section] **Canada matched Trump's tariffs dollar-for-dollar, but targeted US swing states and goods Canada can source elsewhere**
-   Canada's retaliation is designed to minimize domestic price impact by targeting goods Canada can buy from Japan or the EU instead, while politically pressuring US states that matter in the next election cycle. Moffatt estimates the full tariff regime costs Canada ~0.3–0.4% of GDP over a year — significant but survivable, and Carney benefits from oil prices rising in parallel ($50 to $80/barrel for Western Canadian Select).
-
-2. [Canada tariff segment] **Trump's bullying tactics (AI-generated video, name-calling) backfire and make Carney more popular**
-   Each escalation — the AI hockey video, re
-  - **Prof G Markets — Sept 9, 2026**
-  - *Ed Elson; guests Mike Moffatt (Canadian economist) & John Burn-Murdoch (FT)*
-  - [Canada tariff segment — ~mid-section] **Canada matched Trump's tariffs dollar-for-dollar, but targeted US swing states and goods Canada can source elsewhere**
-  - Canada's retaliation is designed to minimize domestic price impact by targeting goods Canada can buy from Japan or the EU instead, while politically pressuring US states that matter in the next election cycle. Moffatt estimates the full tariff regime costs Canada ~0.3–0.4% of GDP over a year — significant but survivable, and Carney benefits from oil prices rising in parallel ($50 to $80/barrel for Western Canadian Select).
-
-### Grade Cricketer — Greenberg greenlights Knight Rider bunce
-- Date: 2026-09-08
-- Duration: 5175
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/greenberg-greenlights-knight-rider-bunce
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/e2a87e8d-7689-405d-9674-b4c000522162/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **Opening — Privatisation has been greenlit, but the process reeks of panic**
-   Gideon Haigh opens by dismissing Greenberg's framing of "the most important strategic decision in a generation." He calls the press conference "disturbing" — the word "opportunity" was used 47 times, always next to "billion dollars," with an undertone of "take the money now or be poor forever." His read: a game lacking confidence in its future, panic-stricken, rushing toward the danger.
-
-2. **No public mandate exists**
-   Haigh can't recall a single conversation in 18 months where a regular cricket fan said privatisation was a good idea. Two state associations representing 55% of Australia's population appear opposed. His line: "The argument should be compelling, the counter-arguments ventilated, concerns swaged. Instead we got a ragged traipsing toward a far-off objective."
-
-3. **The 
-  - **Opening — Privatisation has been greenlit, but the process reeks of panic**
-  - Gideon Haigh opens by dismissing Greenberg's framing of "the most important strategic decision in a generation." He calls the press conference "disturbing" — the word "opportunity" was used 47 times, always next to "billion dollars," with an undertone of "take the money now or be poor forever." His read: a game lacking confidence in its future, panic-stricken, rushing toward the danger.
-  - Haigh can't recall a single conversation in 18 months where a regular cricket fan said privatisation was a good idea. Two state associations representing 55% of Australia's population appear opposed. His line: "The argument should be compelling, the counter-arguments ventilated, concerns swaged. Instead we got a ragged traipsing toward a far-off objective."
-  - **The real driver is global T20 capital, not the health of Australian cricket**
-
-### Startup Ideas — Local AI Clearly Explained
-- Date: 2026-09-08
-- Duration: 2326
-- Tags: AI, Startups, Business, Career, Health, Content, Business Ideas
-- Audio: https://episode.flightcast.com/01M20SQKPT51D8AY5MJ8971PAF.mp3
-- AI summary (Hermes): Here's the structured summary for the dashboard:
-
----
-
-**Core arguments:**
-
-1. **01:35 — The real question is "good enough for the job," not "smarter than the cloud"**
-   Most people ask whether a local model beats frontier cloud models. The useful reframe: is the model good enough for the specific job, and does running it locally make the product better? Private files, field work, low latency, and repeated internal workflows are where local AI wins.
-
-2. **03:09 — Four pieces of the local AI landscape**
-   The model (brain file — Gemma, Llama, Mistral), the warehouse (Hugging Face, $13B valuation, acquisition target), the software (LM Studio for non-technical users, Ollama for builders), and the workflow (the product you build around all three). Understanding which layer you're operating at is the prerequisite for building anything.
-
-3. **06:48 — Gemma 4 E4B is the practical starting poi
-  - Here's the structured summary for the dashboard:
-  - **01:35 — The real question is "good enough for the job," not "smarter than the cloud"**
-  - Most people ask whether a local model beats frontier cloud models. The useful reframe: is the model good enough for the specific job, and does running it locally make the product better? Private files, field work, low latency, and repeated internal workflows are where local AI wins.
-  - **03:09 — Four pieces of the local AI landscape**
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
