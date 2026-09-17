@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-16
+# Podcast Digest - 2026-09-17
 
-Generated: 2026-09-16 07:41 PDT
+Generated: 2026-09-17 07:41 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,83 @@ Generated: 2026-09-16 07:41 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — How I'd Turn One Event Into $2.5 Million
+- Date: 2026-09-17
+- Duration: 1566
+- Tags: Business, Content, Entrepreneurship, Sales, Offers, Pricing, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M2PCGRZD2G0FCK2EPR84DKE0.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **06:10 — The referral offer must be social-capital-positive**
+   Small cash incentives ($500 credit) don't move the needle for high-value clients who'd refer anyway. Instead, give existing members a valuable treatment ($1,000-$2,000 tier) they can share with a friend — it's a perk that makes telling someone about you a favor, not a transaction.
+
+2. **08:21 — Every touchpoint is a referral opportunity (the "bam-femme" method)**
+   Don't ask for referrals — frame bringing a friend as a built-in membership benefit. At every appointment: "Who do you want to bring with you? Doing this together gets 5x better results." This turns every patient interaction into a lead-generation event without feeling like a pitch.
+
+3. **13:11 — Event-based marketing over ads for high-trust sales**
+   Rather than a Meta ads → call funnel (which works but requires a cold process), go to o
+  - **06:10 — The referral offer must be social-capital-positive**
+  - Small cash incentives ($500 credit) don't move the needle for high-value clients who'd refer anyway. Instead, give existing members a valuable treatment ($1,000-$2,000 tier) they can share with a friend — it's a perk that makes telling someone about you a favor, not a transaction.
+  - **08:21 — Every touchpoint is a referral opportunity (the "bam-femme" method)**
+  - Don't ask for referrals — frame bringing a friend as a built-in membership benefit. At every appointment: "Who do you want to bring with you? Doing this together gets 5x better results." This turns every patient interaction into a lead-generation event without feeling like a pitch.
+
+### Prof G Markets — Fed Hikes Rates For First Time In 3 Years — Here’s Why It Matters
+- Date: 2026-09-17
+- Duration: 2155
+- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2370474086.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+**1. [~1:00] — The hike proves Fed independence from Trump**
+Kevin Walsh raised rates despite the president's threats, putting to bed the "sock puppet" theory. The unanimous vote amplifies this: the committee is signaling that attacking one of them is attacking all of them.
+
+**2. [~2:30] — Walsh's new "mantra" defines the Fed's reaction function**
+"We must be confident that underlying inflation is moving toward our objective clearly and at sufficient speed" is now the test. It's deliberately a bit vague on "sufficient speed," but giving markets a clear framework for when the Fed acts is itself valuable — markets can now price around it.
+
+**3. [~5:15] — The supply-shock objection, and the Fed's answer**
+Critics say hiking into an Iran-driven oil shock is crazy — you can't fix atom supply with interest rates. The Fed's counter: we can't control oil, but we can stop pric
+  - **1. [~1:00] — The hike proves Fed independence from Trump**
+  - Kevin Walsh raised rates despite the president's threats, putting to bed the "sock puppet" theory. The unanimous vote amplifies this: the committee is signaling that attacking one of them is attacking all of them.
+  - **2. [~2:30] — Walsh's new "mantra" defines the Fed's reaction function**
+  - "We must be confident that underlying inflation is moving toward our objective clearly and at sufficient speed" is now the test. It's deliberately a bit vague on "sufficient speed," but giving markets a clear framework for when the Fed acts is itself valuable — markets can now price around it.
+
+### Modern Wisdom — The Brutal Reality For Most Men Today (& how to fix it) - Dr K HealthyGamer - #1151
+- Date: 2026-09-16
+- Duration: 11053
+- Tags: AI, Startups, Business, Finance, Health, Psychology, Performance
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7195524698.mp3
+- AI summary (Hermes): ## Core arguments
+
+**1. [00:00 — Addiction is about pain removal, not just pleasure]**
+The three vices (porn, gambling, video games) share a common mechanism: they give pleasure *and* take away pain. As addiction progresses, tolerance kills the pleasure side — the user keeps going to suppress negative emotion, not to feel good. Treating these as "dopamine problems" misses the real drivers.
+
+**2. [04:55 — Video games are a substitute for life, not just entertainment]**
+Play evolved to train survival skills. Video games hijack that circuit by providing artificial agency, community, and progress — the exact things young men are missing in real life. The result is "fast-forwarding": life passes by while the player stays still developmentally. 66% of men play video games daily, often in combination with other vices.
+
+**3. [04:55 — Pornography's root cause is directionlessness, not libido]**
+W
+  - **1. [00:00 — Addiction is about pain removal, not just pleasure]**
+  - The three vices (porn, gambling, video games) share a common mechanism: they give pleasure *and* take away pain. As addiction progresses, tolerance kills the pleasure side — the user keeps going to suppress negative emotion, not to feel good. Treating these as "dopamine problems" misses the real drivers.
+  - **2. [04:55 — Video games are a substitute for life, not just entertainment]**
+  - Play evolved to train survival skills. Video games hijack that circuit by providing artificial agency, community, and progress — the exact things young men are missing in real life. The result is "fast-forwarding": life passes by while the player stays still developmentally. 66% of men play video games daily, often in combination with other vices.
+
+### DOAC — AI Debate Ed Zitron, Andrew McAfee, Nate Soares, Roman Yampolskiy
+- Date: 2026-09-16
+- Duration: 8675
+- Tags: AI, Career, Content, Health, Psychology, Business, Relationships
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2GNJS32R11MFGEF3FZ4MFGV.mp3
+- Summary from show notes: Are tech giants racing toward human extinction by building uncontrollable superintelligence? ■ Recursive Self-Improvement: The structural mechanics behind the "fast takeoff" theory, detailing how an AI capable of automated research could exponentially upgrade its own intelligence and architectures in a matter of days. ■ The Illusion of Control: Why attempting to contain an artificial superintelligence is comparable to placing a digital Einstein in a jail cell with an internet connection.
+- _Transcript: none available (not_ingested)_
+
+### All-In — Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem
+- Date: 2026-09-16
+- Duration: 18:10
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
+- Summary from show notes: (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — AI Insiders Keep Saying We’re In Danger — Where’s The Evidence?
 - Date: 2026-09-16
 - Duration: 2311
@@ -205,7 +282,7 @@ Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't 
   - **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10-year breached 4.9%, and Bessent's $6B bond buyback program failed to suppress yields. Rate-hike odds for September jumped from 15% in June to 65% currently. The market is pricing in fiscal reckoning that politicians refuse to have.
   - **["No adult conversation on fiscal policy" — mid-episode]** — Scott's core critique: $40T national debt, $2T annual deficit, $1.25T in interest payments exceeding defense spending. The $5,000-per-adult "dividend" proposal ($1.35T) is emblematic — both parties cut taxes and spend more, with no candidate willing to show voters a pie chart and say "we take in $5T and spend $7T." Clinton/Gore proved it's possible (last surplus), but there's no constituency for fiscal discipline.
 
-### Modern Wisdom — Why You’re Tired, Stressed & Unfocussed (and how to fix it) - Dr Andrew Huberman #1150
+### Modern Wisdom — “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman #1150
 - Date: 2026-09-13
 - Duration: 9162
 - Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
@@ -367,79 +444,6 @@ Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't 
 - Tags: AI, Startups, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M262A87SZCDMR1D5W0W1RSQV.mp3
 - Summary from show notes: I talk with Ras Mic about GPT-6 Astra. We skip the game demos and the 3D toys, and we focus on use cases to earn money or improve products. I share 9 Astra prompts that I posted publicly, and Greg Brockman reposted.
-- _Transcript: none available (not_ingested)_
-
-### The Game — If You Hate Selling, Watch This | Ep 998
-- Date: 2026-09-10
-- Duration: 1806
-- Tags: AI, Business, Content, Entrepreneurship, Sales, Offers, Pricing
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M240HRWHVF97RP18GWY86M9B.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **04:55 — The back-to-front scaling framework**
-   Fix the offer first, then the conversion process, then traffic—in that order. Most founders chase traffic before the offer and delivery can scale, which amplifies their bottlenecks instead of solving them.
-
-2. **09:02 — Structured webinar replaces marathon sessions**
-   Shrink a 3-4 hour free-form Q&A into a structured 45-minute webinar (big promise → origin story → old way/new way → 3 biggest objections → offer → FAQ). Tina was converting ~9% of live attendees; a tighter format aims to double that and makes the content reproducible for cold audiences.
-
-3. **11:03 — Two-tier pricing to unbundle founder time**
-   Charge $2,500 via checkout (self-serve) and $3,000 for one-on-one. The $500 premium prices the founder's scarcity and incentivizes checkout—anyone currently getting free one-on-ones now self-selects into t
-  - **04:55 — The back-to-front scaling framework**
-  - Fix the offer first, then the conversion process, then traffic—in that order. Most founders chase traffic before the offer and delivery can scale, which amplifies their bottlenecks instead of solving them.
-  - **09:02 — Structured webinar replaces marathon sessions**
-  - Shrink a 3-4 hour free-form Q&A into a structured 45-minute webinar (big promise → origin story → old way/new way → 3 biggest objections → offer → FAQ). Tina was converting ~9% of live attendees; a tighter format aims to double that and makes the content reproducible for cold audiences.
-
-### Prof G Markets — Anthropic Whistleblower Says AI Could “Kill Us All”
-- Date: 2026-09-10
-- Duration: 1981
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8433274388.mp3
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **[~0:00-3:00 — AI extinction risk is overstated]**
-   Kantrowitz argues the Anthropic/OpenAI extinction warnings are credible on safety broadly but wrong on the "kill all humans" conclusion. AI needs human economic activity (data centers, power, compute) to function — wiping us out would be self-defeating. He sees the 10%+ extinction probability as a logical hole from insiders who correctly predicted AI's earlier capability leaps but extrapolated to an apocalyptic conclusion.
-
-2. **[~3:00-6:00 — AI regulation will become a major political wedge]**
-   Kantrowitz expects AI moratoriums to be a genuine 2026/2028 election issue. The key point: AI's political enemies are becoming more bipartisan — even Texas Republicans have turned hostile. But regulation stays local (municipal/state level), not federal — AI companies can route around it by choosing permissive jurisdic
-  - **[~0:00-3:00 — AI extinction risk is overstated]**
-  - Kantrowitz argues the Anthropic/OpenAI extinction warnings are credible on safety broadly but wrong on the "kill all humans" conclusion. AI needs human economic activity (data centers, power, compute) to function — wiping us out would be self-defeating. He sees the 10%+ extinction probability as a logical hole from insiders who correctly predicted AI's earlier capability leaps but extrapolated to an apocalyptic conclusion.
-  - **[~3:00-6:00 — AI regulation will become a major political wedge]**
-  - Kantrowitz expects AI moratoriums to be a genuine 2026/2028 election issue. The key point: AI's political enemies are becoming more bipartisan — even Texas Republicans have turned hostile. But regulation stays local (municipal/state level), not federal — AI companies can route around it by choosing permissive jurisdictions, so no national pause is coming.
-
-### Modern Wisdom — Best Peptides, Stem Cells, Testosterone & Exercise Hacks - Biohacking Roundtable - #1148
-- Date: 2026-09-09
-- Duration: 10243
-- Tags: AI, Startups, Career, Health, Psychology, Performance, Relationships
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7146648512.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **(0:00-6:47) — Peptides are targeted tools, not daily protocols**
-   The panel runs a modular peptide stack: thymus alpha-1 for immune (travel), BPC-157/TB-500 for injury repair, tesamorelin/ipa/cjc for GH cycles, IGF-1 LR3 as a safer GH alternative. Core principle: diet, lifestyle, and training come first — peptides are additives, not answers.
-
-2. **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
-   All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
-
-3. **(45:23-54:12) — The sarcopenia trap: GLP-1s are trading obesity for muscle 
-  - **(0:00-6:47) — Peptides are targeted tools, not daily protocols**
-  - The panel runs a modular peptide stack: thymus alpha-1 for immune (travel), BPC-157/TB-500 for injury repair, tesamorelin/ipa/cjc for GH cycles, IGF-1 LR3 as a safer GH alternative. Core principle: diet, lifestyle, and training come first — peptides are additives, not answers.
-  - **(36:23-45:23) — GLP-1 microdosing for inflammation, not weight loss**
-  - All three panelists microdose GLP-1s (as low as 0.25mg vs standard 10-12mg) for inflammation, travel focus, and "quieting food noise." The Arne Astrup connection: the discoverer of GLP-1's appetite effect is now exploring low-dose anti-cancer potential, possibly through inflammation reduction. Big caveat acknowledged: it might just be eating less carcinogenic food.
-
-### DOAC — Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable
-- Date: 2026-09-09
-- Duration: 8798
-- Tags: Career, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M23VE3XS205C0HMNRE4ENR58.mp3?fcv=w85o8u86fodbxb2n7rdfkj2q
-- Summary from show notes: she explains: ■ The Conversation Blueprint: How to navigate the three distinct psychological levels of interaction ■ The Autopilot Trap: Why socially scripted questions like "How are you?" or "What do you do?" actually destroy connection. ■ The Mechanics of Rizz: The exact science behind conversational turn taking, why speaking for more than 45 seconds creates friction. ■ Command with Body Language: How to instantly project warmth and competence by finding your maximum resonance point.
-- _Transcript: none available (not_ingested)_
-
-### TWIST — Did OpenAI Steal the Navier-Stokes Solution? | E2335
-- Date: 2026-09-09
-- Duration: 01:21:25
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/did-openai-steal-the-navier-stokes-solution-e2335
-- Audio: https://pscrb.fm/rss/p/traffic.libsyn.com/secure/4a885955-6823-4b22-a3e1-a526c25516a5/Audio_EP_2335.mp3?dest-id=5500155
-- Summary from show notes: An Anthropic researcher quit this week, saying both leading labs are gambling with everyone's lives. His coworker chimed in and predicts there is a greater than 10% chance that AI will end humanity IN THE NEXT 10 YEARS. Jason and Lon take it to Yohei Nakajima of Untapped Capital, Ben Lerer of Lerer Hippeau, and Rebecca Lynn of Canvas Prime, who cannot decide whether it is the greatest PR strategy in history or some kind of mass psychosis.
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
