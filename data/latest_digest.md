@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-18
+# Podcast Digest - 2026-09-19
 
-Generated: 2026-09-18 07:41 PDT
+Generated: 2026-09-19 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,68 @@ Generated: 2026-09-18 07:41 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Modern Wisdom — Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello - #1152
+- Date: 2026-09-18
+- Duration: 4091
+- Tags: AI, Sport, Health, Psychology, Performance, Relationships, Self-Improvement
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8947756285.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **11:36 — The backlash is a double standard, not genuine concern**
+   The same commentators who championed ESPN's nude athlete covers, sex work as empowerment, and female pop stars' sexualisation are now condemning Sweeney for the same behaviour. The outrage is tribal: it's acceptable when the woman signals the right ideology, condemned when she doesn't.
+
+2. **23:12 — Sweeney violates the unwritten rules of female competition**
+   Women evolved to compete *indirectly* — covertly, behind the scenes, with feigned concern — because direct confrontation was too costly when offspring survival depended on female safety. Sweeney's aggressive self-sexualisation "for the boys," without first assuring other women she's not a threat, marks her as prioritising male approval over the female ingroup. Women punish that with coordinated condemnation (she'd "steal your boyfriend")
+  - **11:36 — The backlash is a double standard, not genuine concern**
+  - The same commentators who championed ESPN's nude athlete covers, sex work as empowerment, and female pop stars' sexualisation are now condemning Sweeney for the same behaviour. The outrage is tribal: it's acceptable when the woman signals the right ideology, condemned when she doesn't.
+  - **23:12 — Sweeney violates the unwritten rules of female competition**
+  - Women evolved to compete *indirectly* — covertly, behind the scenes, with feigned concern — because direct confrontation was too costly when offspring survival depended on female safety. Sweeney's aggressive self-sexualisation "for the boys," without first assuring other women she's not a threat, marks her as prioritising male approval over the female ingroup. Women punish that with coordinated condemnation (she'd "steal your boyfriend").
+
+### All-In — Bill Gurley: Searching for Feynman
+- Date: 2026-09-18
+- Duration: 38:29
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300
+- AI summary (Hermes): Great talk from Gurley — the "searchers and blockers" framework is his best work since the regulatory capture talk. Here's the structured summary:
+
+---
+
+**Core arguments**
+
+1. **(~10:00) The "searchers and blockers" pattern** — Every major catastrophe (Champlain Towers, 737 Max, Katrina, Fukushima, Challenger) follows the same structure: a technical failure combined with an institutional failure, producing "searchers" (investigators, journalists, whistleblowers) who try to find root cause, and "blockers" (institutions, regulators, captured insiders) who circle the wagons. Real accountability only happens when multiple independent investigations run in parallel — press, government, science, and victims' families all pulling at the same thread.
+
+2. **(~18:00) Feynman is the archetypal searcher** — Added to the Challenger commission as a stamp of approval, he turned out to be fiercely indep
+  - Great talk from Gurley — the "searchers and blockers" framework is his best work since the regulatory capture talk. Here's the structured summary:
+  - **(~18:00) Feynman is the archetypal searcher** — Added to the Challenger commission as a stamp of approval, he turned out to be fiercely independent and truth-seeking. Cleared his schedule for 6 months (no one else did). Investigated on his own before Washington convened. Staged a live TV demo dunking O-ring material in ice water and cracking it. Threatened to take his name off the whitewashed final report; they caved and appended his full notes as an appendix.
+  - **(~40:00) The prevention gap** — In every previous case, root-cause investigations led to real change: 90 recommendations from Katrina, new coastal building codes from Champlain Towers, MCAS retraining requirements from 737 Max. Without root cause, prevention is impossible — and the entire scientific CAPA (Corrective and Preventive Action) framework requires root cause as a non-skippable step. We skipped it on COVID.
+  - **Institutional failure always masks as technical failure — useful diagnostic for consulting clients.** Every catastrophe had both. When a client's ops overhaul or AI deployment fails, ask: is the "data pipeline broke" story really covering for "the relevant decision-maker didn't want the answer"? David's CPA/finance background makes this a natural wedge for explaining why technical solutions fail in regulated orgs.
+
+### TWIST — Hugging Face Co-Founder on Open-Source, Microduck, and NVIDIA | E2339
+- Date: 2026-09-18
+- Duration: 5619
+- Tags: AI, Startups, Business, Career, Venture, Tech, Saas
+- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT9908320817.mp3
+- Summary from show notes: Hugging Face built a $399 open-source robot duck as a side quest, and sold 16,000 units off a single tweet. Co-founder Thomas Wolf joins Jason and Lon to explain Microduck happened, why storage is the company's real business, and what it felt like to get hacked by OpenAI's agents. Jason takes apart Gavin Newsom's new AI "kill switch" executive order: if these models are so dangerous, why not start with the same KYC every bank already requires?
+- _Transcript: none available (error: CalledProcessError: Command '['ffmpeg', '-nostdin', '-hide_banner', '-loglevel', 'error', '-y', '-i', 'https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT9908320817.mp3', '-t', '1500', '-vn', '-ac', '1', '-ar', '16000', '/tmp/podcast-transcript-iutaw98h/audio.wav']' returned non-zero exit status 8.)_
+
+### Startup Ideas — Jev is HERE. How to use it
+- Date: 2026-09-18
+- Duration: 1704
+- Tags: AI, Startups, Business, Career, Cricket, Content, Business Ideas
+- Audio: https://episode.flightcast.com/01M2TVPD7JF23WA30637M194AD.mp3
+- Summary from show notes: I talk with Ryan Vogel about Jev, a new type of AI built for classification. Ryan shows how Jev takes an input plus an output schema and returns a probability for each choice in about 200 milliseconds. He demos Jev sorting 1,700 emails for 18 cents total, then covers lead scoring, support routing, video clipping, and browser control.
+- _Transcript: none available (not_ingested)_
+
+### All-In — Jared Isaacman: A New Era for NASA and American Space Exploration
+- Date: 2026-09-18
+- Duration: 38:34
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300
+- Summary from show notes: IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap. Meta believes the future is for everyone.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — He Warned AI Could Destroy Us. Now The Industry Is Listening — ft. Nick Bostrom
 - Date: 2026-09-18
 - Duration: 3987
@@ -141,9 +203,9 @@ W
   - **2. [04:55 — Video games are a substitute for life, not just entertainment]**
   - Play evolved to train survival skills. Video games hijack that circuit by providing artificial agency, community, and progress — the exact things young men are missing in real life. The result is "fast-forwarding": life passes by while the player stays still developmentally. 66% of men play video games daily, often in combination with other vices.
 
-### DOAC — The Great AI Debate: Is Artificial Intelligence an Extinction Threat Debating the True Risks of Advanced Models
+### DOAC — The Great AI Debate: Is Artificial Intelligence an Extinction Threat? Debating the True Risks of Advanced Models
 - Date: 2026-09-16
-- Duration: 8675
+- Duration: 8797
 - Tags: AI, Career, Content, Health, Psychology, Business, Relationships
 - Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2GNJS32R11MFGEF3FZ4MFGV.mp3
 - Summary from show notes: Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. ■ Recursive Self-Improvement: The structural mechanics behind the "fast takeoff" theory, detailing how an AI capable of automated research could exponentially upgrade its own intelligence and architectures in a matter of days. ■ The Illusion of Control: Why attempting to contain an artificial superintelligence is comparable to placing a digital Einstein in a jail cell with an internet connection.
@@ -373,53 +435,6 @@ Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't 
   - Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
   - **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
   - The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
-
-### Modern Wisdom — Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker #1149
-- Date: 2026-09-11
-- Duration: 5868
-- Tags: AI, Parenting, Sport, Health, Psychology, Performance, Relationships
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8631430840.mp3
-- AI summary (Hermes): ## Core arguments
-
-1. **29:05 — Bull riding is a deeper sport than it looks**
-   McCusker attended PBR and discovered it has team structure (city-based squads), draft-style bull-rider matching (knowing which way a bull turns vs a rider's strong side), walkout music, and fierce pride in unridden bulls. The surface impression is "guy holding onto bull" — underneath it's a tactical sport with real athletic hierarchy.
-
-2. **32:15 — The Lindsay Clancy tragedy is about what happens when postpartum support fails**
-   The case of a mother who killed her children while in postpartum psychosis divided public opinion between horror at the act and recognition that severe postpartum mental health support is still inadequate. The discussion implicitly argues that the system sets mothers up to fail, then punishes them for the result.
-
-3. **41:00 — Having kids reframes what's worth enduring**
-   The "ge
-  - **29:05 — Bull riding is a deeper sport than it looks**
-  - McCusker attended PBR and discovered it has team structure (city-based squads), draft-style bull-rider matching (knowing which way a bull turns vs a rider's strong side), walkout music, and fierce pride in unridden bulls. The surface impression is "guy holding onto bull" — underneath it's a tactical sport with real athletic hierarchy.
-  - **32:15 — The Lindsay Clancy tragedy is about what happens when postpartum support fails**
-  - The case of a mother who killed her children while in postpartum psychosis divided public opinion between horror at the act and recognition that severe postpartum mental health support is still inadequate. The discussion implicitly argues that the system sets mothers up to fail, then punishes them for the result.
-
-### TWIST — The Pentagon Wants Equity in AI Startups | E2336
-- Date: 2026-09-11
-- Duration: 4357
-- Tags: AI, Startups, Business, Finance, Career, Content, Venture
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/the-pentagon-wants-equity-in-ai-startups-e2336
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT4173486109.mp3
-- Summary from show notes: The Pentagon is reportedly in talks to lend AI cloud startup Fluidstack $5. billion, and Jason thinks the real story isn't the loan itself. It's the US government owning equity in private AI companies, and competing directly with venture capital.
-- _Transcript: none available (not_ingested)_
-
-### All-In — AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse
-- Date: 2026-09-11
-- Duration: 01:35:57
-- Tags: AI, Finance, Career, Markets, Politics, Startups, Business
-- Episode: https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300
-- AI summary (Hermes): **CORE ARGUMENTS:**
-
-1. **[~4:00] — The Jacob Coxon resignation was an orchestrated doomer op, not a spontaneous whistleblower**
-   The hosts walk through evidence: Coxon's account had near-zero followers and scrubbed history yet hit 150M views in a day; three EA-funded groups (Encode AI, AI Policy Network, AI Futures Project) amplified it within 15 minutes; the WSJ story was published minutes before the tweet went live, meaning it was pre-briefed under embargo. Sacks calls it a coordinated regulatory-capture campaign, not an employee acting alone.
-
-2. **[~20:00] — Anthropic faces an unresolvable IPO contradiction**
-   If Anthropic's own safety lead (Evan Hubinger) cosigns a >10% extinction risk, the company is simultaneously telling public market investors "we're worth trillions" and "our product is potentially civilization-ending." Sacks argues this creates product liability exposure t
-  - **[~4:00] — The Jacob Coxon resignation was an orchestrated doomer op, not a spontaneous whistleblower**
-  - The hosts walk through evidence: Coxon's account had near-zero followers and scrubbed history yet hit 150M views in a day; three EA-funded groups (Encode AI, AI Policy Network, AI Futures Project) amplified it within 15 minutes; the WSJ story was published minutes before the tweet went live, meaning it was pre-briefed under embargo. Sacks calls it a coordinated regulatory-capture campaign, not an employee acting alone.
-  - **[~20:00] — Anthropic faces an unresolvable IPO contradiction**
-  - **[~30:00] — The endgame is a federal AI regulator, not safety**
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
