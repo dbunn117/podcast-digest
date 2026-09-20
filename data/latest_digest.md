@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-19
+# Podcast Digest - 2026-09-20
 
-Generated: 2026-09-19 07:38 PDT
+Generated: 2026-09-20 07:31 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
