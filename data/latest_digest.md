@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-20
+# Podcast Digest - 2026-09-21
 
-Generated: 2026-09-20 07:31 PDT
+Generated: 2026-09-21 07:42 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,74 @@ Generated: 2026-09-20 07:31 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — How Meta Could Quietly Win The AI Race
+- Date: 2026-09-21
+- Duration: 3810
+- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4094677411.mp3
+- AI summary (Hermes): Here you go.
+
+**Core arguments**
+
+1. **[~28:00 — Rate hike was the right call, demonstrates Fed independence]**
+   Scott argues Kevin Warsh's quarter-point hike was justified: inflation is the real threat (not unemployment), job growth is stable, and the Fed's only tool against runaway inflation is rate policy. More importantly, the hike signals institutional independence from a president who doesn't understand economics — resisting Trump's pressure *is* the point of an independent Fed.
+
+2. **[~30:00 — The credible counterargument: this is a supply shock, not demand-driven inflation]**
+   Ed presents the economist case against: the inflation spike comes from the Iran war cutting oil access (Brent >$100/barrel), not overheated demand. Raising rates slows the economy and increases mortgage costs (30yr >7%) while doing nothing to unblock the Strait of Hormuz. If inflation doesn't fall, we g
+  - **[~28:00 — Rate hike was the right call, demonstrates Fed independence]**
+  - Scott argues Kevin Warsh's quarter-point hike was justified: inflation is the real threat (not unemployment), job growth is stable, and the Fed's only tool against runaway inflation is rate policy. More importantly, the hike signals institutional independence from a president who doesn't understand economics — resisting Trump's pressure *is* the point of an independent Fed.
+  - **[~30:00 — The credible counterargument: this is a supply shock, not demand-driven inflation]**
+  - Ed presents the economist case against: the inflation spike comes from the Iran war cutting oil access (Brent >$100/barrel), not overheated demand. Raising rates slows the economy and increases mortgage costs (30yr >7%) while doing nothing to unblock the Strait of Hormuz. If inflation doesn't fall, we get both higher rates and persistent prices — worst of both worlds.
+
+### Modern Wisdom — The New Way For Ordinary People To Build Wealth - Tony Robbins - #1153
+- Date: 2026-09-20
+- Duration: 5423
+- Tags: AI, Startups, Business, Finance, Health, Psychology, Performance
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9362285978.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **[04:30 — The Holy Grail: 8-12 non-correlated investments]**
+   Ray Dalio's core principle: owning 8–12 uncorrelated asset classes reduces risk by 80% while increasing upside. But stocks and bonds have become 82% correlated (up from 15% in 2005) due to globalization and ETF indexation, so true diversification now requires private equity and private real estate.
+
+2. **[06:50 — Asymmetric risk-reward is how the best actually win]**
+   Paul Tudor Jones aims to risk $1 to make $5. Being wrong 4 out of 5 times still works. Most people don't internalise that losing 50% requires a 100% gain to break even. The nickel analogy: if you can buy something worth $0.09 for $0.05, you have a riskless 36% upside — the shape of the bet matters more than the odds of any single bet.
+
+3. **[12:30 — Private equity has crushed public markets for 39 years]**
+   Average PE returns: 15.7%
+  - **[04:30 — The Holy Grail: 8-12 non-correlated investments]**
+  - Ray Dalio's core principle: owning 8–12 uncorrelated asset classes reduces risk by 80% while increasing upside. But stocks and bonds have become 82% correlated (up from 15% in 2005) due to globalization and ETF indexation, so true diversification now requires private equity and private real estate.
+  - **[06:50 — Asymmetric risk-reward is how the best actually win]**
+  - Paul Tudor Jones aims to risk $1 to make $5. Being wrong 4 out of 5 times still works. Most people don't internalise that losing 50% requires a 100% gain to break even. The nickel analogy: if you can buy something worth $0.09 for $0.05, you have a riskless 36% upside — the shape of the bet matters more than the odds of any single bet.
+
+### DOAC — Rick Rubin: What Jay-Z Did in 30 Minutes Left Me Speechless!
+- Date: 2026-09-20
+- Duration: 9985
+- Tags: AI, Startups, Business, Career, Content, Health, Psychology
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2RHNG0S1MZ1VD7AG18AGCZ7.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+**1. [02:38 — The "Indefensible" Rule]**
+The best creative work—whether music, products, or business decisions—cannot be rationally defended. If you can logically explain why something will work, it's probably too safe. Rubin says indefensible is "not only a good thing, but a necessary thing" because true breakthroughs come from beyond reason.
+
+**2. [05:24 — Answering the invitation, not the business card]**
+When the universe sends the same signal from multiple directions (the vibe coding meme being sent to him hundreds of times), it's an invitation worth answering — even if it makes no sense for your brand. Rubin wrote an entire book on vibe coding without knowing what it was, following energy rather than identity. "The more successful we become, the more narrow we become."
+
+**3. [10:34 / 16:43 — Risk over "more of the same"]**
+Jay-Z's "99 Problems" was dismissed by 
+  - **1. [02:38 — The "Indefensible" Rule]**
+  - The best creative work—whether music, products, or business decisions—cannot be rationally defended. If you can logically explain why something will work, it's probably too safe. Rubin says indefensible is "not only a good thing, but a necessary thing" because true breakthroughs come from beyond reason.
+  - **2. [05:24 — Answering the invitation, not the business card]**
+  - When the universe sends the same signal from multiple directions (the vibe coding meme being sent to him hundreds of times), it's an invitation worth answering — even if it makes no sense for your brand. Rubin wrote an entire book on vibe coding without knowing what it was, following energy rather than identity. "The more successful we become, the more narrow we become."
+
+### All-In — Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market
+- Date: 2026-09-20
+- Duration: 23:52
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China Thanks to our partners for making this possible!
+- _Transcript: none available (not_ingested)_
+
 ### Modern Wisdom — Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello - #1152
 - Date: 2026-09-18
 - Duration: 4091
@@ -382,59 +450,6 @@ Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't 
 - Audio: https://episode.flightcast.com/01M2GC48TEYSXYAE7F98WCXJZ1.mp3
 - Summary from show notes: Get Your Complete Financial OS at I welcome Ras Mic back to the pod to explain the phrase "software factory." Mic shares his screen and walks through the exact system that he runs today. His factory has four steps: isolate, build, prove, and ship. He keeps the whole system in five or six markdown files, so it works with any model and any harness.
 - _Transcript: none available (not_ingested)_
-
-### Prof G Markets — The Rate Hikes Are Coming
-- Date: 2026-09-14
-- Duration: 4371
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7034346823.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **["Forever inflation" — mid-episode]** — Ed Elson argues the US needs to reckon with 3-5% inflation being permanent, not transitory. 5+ years above the Fed's 2% target already — the longest stretch in 40 years. Leadership's response (spending their way out) makes the debt spiral worse, and there's no political incentive to change course.
-
-2. **["Oil as a regressive tax" — early macro segment]** — $100+ oil and record diesel prices are a massive wealth transfer from consumers to producers. 15-30% of grocery costs are diesel. 40% of school districts are consolidating bus routes. The winners: Exxon (+34%), Chevron (+37%), railroads (+21-34%), and Permian Basin landowners (+77% home values in Odessa). The losers: every household at the pump and grocery store.
-
-3. **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10
-  - **["Forever inflation" — mid-episode]** — Ed Elson argues the US needs to reckon with 3-5% inflation being permanent, not transitory. 5+ years above the Fed's 2% target already — the longest stretch in 40 years. Leadership's response (spending their way out) makes the debt spiral worse, and there's no political incentive to change course.
-  - **["Oil as a regressive tax" — early macro segment]** — $100+ oil and record diesel prices are a massive wealth transfer from consumers to producers. 15-30% of grocery costs are diesel. 40% of school districts are consolidating bus routes. The winners: Exxon (+34%), Chevron (+37%), railroads (+21-34%), and Permian Basin landowners (+77% home values in Odessa). The losers: every household at the pump and grocery store.
-  - **["The bond market is screaming" — mid-episode]** — The 30-year yield hit 5.35% (highest since 2007), 10-year breached 4.9%, and Bessent's $6B bond buyback program failed to suppress yields. Rate-hike odds for September jumped from 15% in June to 65% currently. The market is pricing in fiscal reckoning that politicians refuse to have.
-  - **["No adult conversation on fiscal policy" — mid-episode]** — Scott's core critique: $40T national debt, $2T annual deficit, $1.25T in interest payments exceeding defense spending. The $5,000-per-adult "dividend" proposal ($1.35T) is emblematic — both parties cut taxes and spend more, with no candidate willing to show voters a pie chart and say "we take in $5T and spend $7T." Clinton/Gore proved it's possible (last surplus), but there's no constituency for fiscal discipline.
-
-### Modern Wisdom — “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman #1150
-- Date: 2026-09-13
-- Duration: 9162
-- Tags: AI, Career, Health, Psychology, Performance, Relationships, Self-Improvement
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB2661124861.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **(00:07 — Cortisol bookending)** The single highest-leverage health protocol is making the first hour of your day high-cortisol (bright light, hydration, caffeine, exercise) and the last hour low-cortisol (dim lights, no screens, no stimulants). This sets better sleep, stress resilience, focus, and mood for the entire day.
-
-2. **(07:43 — Willpower as a circuit, not a resource)** Top-down suppression of impulse (prefrontal cortex) can be trained through either deliberate hard things OR "micro-sucks" (Andy Stumpf's philosophy of picking the harder small option throughout the day, like picking up a piece of trash). Both build the same neural circuit — it's not about what you do, it's about getting reps in on impulse suppression.
-
-3. **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) →
-  - **(00:07 — Cortisol bookending)** The single highest-leverage health protocol is making the first hour of your day high-cortisol (bright light, hydration, caffeine, exercise) and the last hour low-cortisol (dim lights, no screens, no stimulants). This sets better sleep, stress resilience, focus, and mood for the entire day.
-  - **(07:43 — Willpower as a circuit, not a resource)** Top-down suppression of impulse (prefrontal cortex) can be trained through either deliberate hard things OR "micro-sucks" (Andy Stumpf's philosophy of picking the harder small option throughout the day, like picking up a piece of trash). Both build the same neural circuit — it's not about what you do, it's about getting reps in on impulse suppression.
-  - **(18:48 — The learning equation)** Learning requires: alertness → focus → making errors (the gap between current and target ability) → agitation from those errors (chemically tags synapses) → sleep (synaptic reorganization) → self-testing (consolidation). Exercise boosts catecholamines for 4-6 hours post-workout, making focus easier. The error signal is the key — if you can already do something, there's no reason for your brain to change.
-  - **(~58:47 — Most people never develop taste)** Huberman's skateboarding story: the same kids who mocked baggy shorts in spring were wearing them the next fall when hip-hop made it popular. Most people confuse social acceptability with genuine preference. True taste is discerning good from not-good independent of popularity. Running enough A/B tests to maximize engagement eventually produces a "porn website" — content that regresses to the most extreme, salacious version of itself.
-
-### DOAC — Professor Jiang: Three Predictions On the Collapse of the World Order
-- Date: 2026-09-13
-- Duration: 6499
-- Tags: AI, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M243XAN33DBKT1N5844WSMAV.mp3
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **00:02:20 — The Innovation Equation is collapsing**
-   Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
-
-2. **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
-   The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
-
-3. **00:14:13 — This Middle East conflict is structurally diffe
-  - **00:02:20 — The Innovation Equation is collapsing**
-  - Jiang's central thesis: technological progress = specialization × globalization. As the world deglobalizes and nations retreat into self-sufficiency, specialization declines, and civilization-level technological regression becomes inevitable. We've already hit the apex.
-  - **00:10:26 — The petrodollar system is an interlocking set of fragile promises**
-  - The entire global economy runs on: Saudi oil sold only in USD → East Asia manufactures with that energy → Japan/GCC/China reinvest savings into US Treasuries → America funds innovation. The Middle East war threatens the first domino (oil transit through Bab el-Mandeb), which cascades through every other link. If oil stops flowing, the three biggest buyers of US debt are simultaneously crippled.
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
