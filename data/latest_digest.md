@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-21
+# Podcast Digest - 2026-09-22
 
-Generated: 2026-09-21 07:42 PDT
+Generated: 2026-09-22 07:39 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,87 @@ Generated: 2026-09-21 07:42 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### All-In — Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine
+- Date: 2026-09-22
+- Duration: 17:40
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Blake_Scholl_AIS26_AUDIO_v99.mp3?dest-id=1928300
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **~12:00 — Sonic boom is solved; the ban is ending**
+   Boom's XB1 used "Mach cutoff" — the atmosphere's natural refractive power redirects the boom upward so it never reaches the ground. The 1973 supersonic ban ended via executive order June 6, 2025, and the Supersonic Legalization Act passed the House unanimously. Scholl: "If there's no boom at all, there's nothing to argue about."
+
+2. **~16:00 — Building the engine in-house was the right call, not a desperation move**
+   After a very public breakup with Rolls Royce, Boom decided to design and manufacture its own engine core from scratch — down to the turbine blades — using modern digital design and manufacturing tools. What looked like a startup's fatal overreach became the financial moat: the first engine application is data-center power generation, not flight.
+
+3. **~19:00 — The supersonic engine doubles as a 
+  - **~12:00 — Sonic boom is solved; the ban is ending**
+  - Boom's XB1 used "Mach cutoff" — the atmosphere's natural refractive power redirects the boom upward so it never reaches the ground. The 1973 supersonic ban ended via executive order June 6, 2025, and the Supersonic Legalization Act passed the House unanimously. Scholl: "If there's no boom at all, there's nothing to argue about."
+  - **~16:00 — Building the engine in-house was the right call, not a desperation move**
+  - After a very public breakup with Rolls Royce, Boom decided to design and manufacture its own engine core from scratch — down to the turbine blades — using modern digital design and manufacturing tools. What looked like a startup's fatal overreach became the financial moat: the first engine application is data-center power generation, not flight.
+
+### The Game — Get Rich While You Are Young | Ep 1001
+- Date: 2026-09-22
+- Duration: 567
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M32XXJ3MVJ37YBZMWSAH0CZR.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **00:00 — The math of compounding favors early money aggressively**
+   $1 invested at 25 grows to ~$90 by 70; at 35, it's a third of that; at 45, a ninth. The dollars you earn early — even if smaller — get disproportionate returns from time, not rate of return. The argument isn't 100% into the S&P 500, but that any investment dollars you deploy early out-earn later dollars by a wide margin.
+
+2. **01:20 — Skills, reputation, and network compound faster when you're young, and the multiplier decays around 30**
+   Youth is a hidden multiplier on every win — press coverage, mentors, capital access, and "reputational gravitas" all count for more when you're under 30. After 30 you're no longer a "young X," just an X. Alex cites an 18-year-old doing $30M in e-commerce getting a $500K check from him partly *because* of his age. The multiplier on wins falls off sharply after 
+  - **00:00 — The math of compounding favors early money aggressively**
+  - $1 invested at 25 grows to ~$90 by 70; at 35, it's a third of that; at 45, a ninth. The dollars you earn early — even if smaller — get disproportionate returns from time, not rate of return. The argument isn't 100% into the S&P 500, but that any investment dollars you deploy early out-earn later dollars by a wide margin.
+  - **01:20 — Skills, reputation, and network compound faster when you're young, and the multiplier decays around 30**
+  - Youth is a hidden multiplier on every win — press coverage, mentors, capital access, and "reputational gravitas" all count for more when you're under 30. After 30 you're no longer a "young X," just an X. Alex cites an 18-year-old doing $30M in e-commerce getting a $500K check from him partly *because* of his age. The multiplier on wins falls off sharply after ~30.
+
+### Prof G Markets — David Ellison’s Media Takeover Just Got Greenlit
+- Date: 2026-09-22
+- Duration: 1793
+- Tags: AI, Startups, Business, Finance, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2175055970.mp3
+- AI summary (Hermes): **Core arguments**
+
+1. **[~0:00 — Paramount/WBD saga ends as a total win for Ellison]**
+   The settlement exceeded expectations — no structural concessions despite the AG lawsuit. Paramount only agreed to keep studio lots in CA, $1.5B in local production, and independent editorial boards for news properties. Ellison got the deal he wanted, unmitigated. Paramount stock was down 3% on the news (settlement took some synergy value off the table) but Discovery shot up 11%.
+
+2. **[~0:00 — The threat to leave California was the real lever]**
+   Rohan's own reporting that Paramount was serious about leaving LA forced Newsom, Becerra, and Bass to intervene and pressure AG Bonta to settle. The economic reality — Paramount and WBD are too big for California to risk losing — outweighed the political posturing. The ticking fee clock ($0.25/share/quarter from Oct 1) added urgency.
+
+3. **[~0:00 — Edito
+  - **[~0:00 — Paramount/WBD saga ends as a total win for Ellison]**
+  - The settlement exceeded expectations — no structural concessions despite the AG lawsuit. Paramount only agreed to keep studio lots in CA, $1.5B in local production, and independent editorial boards for news properties. Ellison got the deal he wanted, unmitigated. Paramount stock was down 3% on the news (settlement took some synergy value off the table) but Discovery shot up 11%.
+  - **[~0:00 — The threat to leave California was the real lever]**
+  - Rohan's own reporting that Paramount was serious about leaving LA forced Newsom, Becerra, and Bass to intervene and pressure AG Bonta to settle. The economic reality — Paramount and WBD are too big for California to risk losing — outweighed the political posturing. The ticking fee clock ($0.25/share/quarter from Oct 1) added urgency.
+
+### TWIST — Elon's New Hyperloop, Trump's AI Rename, and a Model That Won't Talk | E2340
+- Date: 2026-09-21
+- Duration: 4179
+- Tags: AI, Startups, Career, Content, Venture, Tech, Saas
+- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT8288358917.mp3
+- Summary from show notes: Elon revives the Hyperloop, promising a 30-minute commute between Austin and San Antonio. It's the kind of project that could reshape how Texans think about getting between two major cities entirely. Then, Jason and Lon explain why this pitch is different from the other Boring Company tunnels.
+- _Transcript: none available (not_ingested)_
+
+### All-In — Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology
+- Date: 2026-09-21
+- Duration: 22:35
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference.
+- _Transcript: none available (not_ingested)_
+
+### Startup Ideas — The Right Way To Write With AI
+- Date: 2026-09-21
+- Duration: 4174
+- Tags: AI, Startups, Career, Content, Business Ideas, Saas
+- Audio: https://episode.flightcast.com/01M32M8M0JWK41EBZ6XYJTK5ZW.mp3
+- Summary from show notes: Get Your Complete Financial OS at In this episode I speak with Nicholas Cole about the real value of everything you write on the internet. Cole has 15 years of experience as a nonfiction writer and ghostwriter, and he runs the SaaS platform Typeshare. He gives me a simple model with three tiers of content: commodity, personality, and original.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — How Meta Could Quietly Win The AI Race
 - Date: 2026-09-21
 - Duration: 3810
@@ -122,9 +203,9 @@ Jay-Z's "99 Problems" was dismissed by
 - Date: 2026-09-18
 - Duration: 5619
 - Tags: AI, Startups, Business, Career, Venture, Tech, Saas
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT9908320817.mp3
+- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT8230747415.mp3
 - Summary from show notes: Hugging Face built a $399 open-source robot duck as a side quest, and sold 16,000 units off a single tweet. Co-founder Thomas Wolf joins Jason and Lon to explain Microduck happened, why storage is the company's real business, and what it felt like to get hacked by OpenAI's agents. Jason takes apart Gavin Newsom's new AI "kill switch" executive order: if these models are so dangerous, why not start with the same KYC every bank already requires?
-- _Transcript: none available (error: CalledProcessError: Command '['ffmpeg', '-nostdin', '-hide_banner', '-loglevel', 'error', '-y', '-i', 'https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT9908320817.mp3', '-t', '1500', '-vn', '-ac', '1', '-ar', '16000', '/tmp/podcast-transcript-iutaw98h/audio.wav']' returned non-zero exit status 8.)_
+- _Transcript: none available (not_ingested)_
 
 ### Startup Ideas — Jev is HERE. How to use it
 - Date: 2026-09-18
@@ -352,103 +433,6 @@ Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't 
 - Episode: https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, "pacing the frontier," common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new AI products? (14:22) Economic incentives for frontier lab doomerism, where the AI profits are (22:45) Microsoft's master plan for AI, how they are allocating capital (31:00) China's slow down, changing AI perception, data center benefits Thanks to our partners for making this possible!
-- _Transcript: none available (not_ingested)_
-
-### The Game — The X Factor: Why Dolly Parton Was Impossible to Ignore | Ep 999
-- Date: 2026-09-15
-- Duration: 828
-- Tags: Business, Content, Entrepreneurship, Sales, Offers, Pricing, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M2H5R1YRJP8GFQPZZPKC0AS9.mp3
-- AI summary (Hermes): Here it is:
-
-**Core arguments**
-
-1. **00:00 — The X Factor is rare + contradictory traits combined**
-   X Factor = when someone demonstrates multiple rare skills/traits that don't typically coexist. The more rarities they combine, the more interest multiplies. It's not any single attribute — it's the full package.
-
-2. **00:00 — Messenger and message are two sides of quality**
-   In an infinite-content/AI world, quality splits into message and messenger, inextricably linked. A star (messenger-driven) can say boring things and get millions of views. A no-name (message-driven) can go viral on content alone. Most tactical advice focuses on message; almost none on the messenger.
-
-3. **04:58 — Break the pattern to be interesting**
-   People judge by covers — that's pattern recognition, not prejudice, and it won't stop. To be interesting, you must violate the pattern. The guy in a flannel who d
-  - **00:00 — The X Factor is rare + contradictory traits combined**
-  - X Factor = when someone demonstrates multiple rare skills/traits that don't typically coexist. The more rarities they combine, the more interest multiplies. It's not any single attribute — it's the full package.
-  - **00:00 — Messenger and message are two sides of quality**
-  - In an infinite-content/AI world, quality splits into message and messenger, inextricably linked. A star (messenger-driven) can say boring things and get millions of views. A no-name (message-driven) can go viral on content alone. Most tactical advice focuses on message; almost none on the messenger.
-
-### Prof G Markets — Why OpenAI And Anthropic Are Pumping The Brakes
-- Date: 2026-09-15
-- Duration: 1706
-- Tags: AI, Finance, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7973812142.mp3
-- AI summary (Hermes): ## Core arguments
-
-1. **[Opening segment — "Pacing the frontier" is a compute reallocation, not a capabilities pause]**
-   When Dario Amodei and Sam Altman call for slowing down, they mean allocating *more* compute to safety and monitoring (OpenAI reportedly committing up to 20% of internal compute), not halting model development. Capability roadmaps stay the same — the compute budget just grows on top. This could actually *increase* total compute demand, not reduce it.
-
-2. **[Mid-interview — The boring interpretation is usually right]**
-   The most likely outcome isn't rogue AI killing humans — it's swarms of AI agents doing "very, very annoying things" to the internet. Open-source models will hit frontier capability levels within 3-9 months, and the world needs to integrate intelligence at a pace it can absorb. No conspiracy, no regulatory capture plot: just models getting good fast.
-
-
-  - **[Opening segment — "Pacing the frontier" is a compute reallocation, not a capabilities pause]**
-  - When Dario Amodei and Sam Altman call for slowing down, they mean allocating *more* compute to safety and monitoring (OpenAI reportedly committing up to 20% of internal compute), not halting model development. Capability roadmaps stay the same — the compute budget just grows on top. This could actually *increase* total compute demand, not reduce it.
-  - **[Mid-interview — The boring interpretation is usually right]**
-  - The most likely outcome isn't rogue AI killing humans — it's swarms of AI agents doing "very, very annoying things" to the internet. Open-source models will hit frontier capability levels within 3-9 months, and the world needs to integrate intelligence at a pace it can absorb. No conspiracy, no regulatory capture plot: just models getting good fast.
-
-### Grade Cricketer — Private bunce, Razaullah jawline, Zimbabwe favourites, with Alex Malcolm
-- Date: 2026-09-14
-- Duration: 4972
-- Tags: Cricket, Australia, South Africa, Sport, Culture
-- Episode: https://omny.fm/shows/the-grade-cricketer/private-bunce-razaullah-jawline-zimbabwe-favourites-with-alex-malcolm
-- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/773862a9-0a01-4ccd-9869-b4c60057c97f/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
-- AI summary (Hermes): **Core arguments:**
-
-1. **[~17:00] — BBL privatisation is headed for arbitration over the revenue definition**
-   The ACA (players) argues franchise sale proceeds fall under "Australian cricket revenue" — meaning players are entitled to 27.5%. CA says sales proceeds are a separate bucket outside that MOU. Both sides have legal advice backing them and are "miles apart." Independent arbitration is expected.
-
-2. **[~19:00] — ACA's negotiating play: forgo the lump sum, raise the ongoing share instead**
-   The ACA is willing to waive their cut of the sale proceeds in exchange for raising the player revenue share from 27.5% to ~33%. CA and the states are "steadfast" that 27.5% can't move higher — they say the game can't afford it. This is the central tension.
-
-3. **[~22:00] — CA has failed to sell the public on what privatisation is actually for**
-   Malcolm's view: CA has been "broad rather t
-  - **[~17:00] — BBL privatisation is headed for arbitration over the revenue definition**
-  - The ACA (players) argues franchise sale proceeds fall under "Australian cricket revenue" — meaning players are entitled to 27.5%. CA says sales proceeds are a separate bucket outside that MOU. Both sides have legal advice backing them and are "miles apart." Independent arbitration is expected.
-  - **[~19:00] — ACA's negotiating play: forgo the lump sum, raise the ongoing share instead**
-  - The ACA is willing to waive their cut of the sale proceeds in exchange for raising the player revenue share from 27.5% to ~33%. CA and the states are "steadfast" that 27.5% can't move higher — they say the game can't afford it. This is the central tension.
-
-### All-In — Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger
-- Date: 2026-09-14
-- Duration: 01:04:25
-- Tags: AI, Startups, Business, Finance, Career, Parenting, Markets
-- Episode: https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) SpaceX's Gwynne Shotwell joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
-- _Transcript: none available (not_ingested)_
-
-### All-In — Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)
-- Date: 2026-09-14
-- Duration: 46:47
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Jensen Huang joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
-- _Transcript: none available (not_ingested)_
-
-### TWIST — Ask Jason: AI Extinction, Grok's Rogue Meme Coin & Weed Farms as Data Centers | E2337
-- Date: 2026-09-14
-- Duration: 4274
-- Tags: AI, Career, Content, Startups, Venture, Tech, Saas
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/ask-jason-ai-extinction-groks-rogue-meme-coin-weed-farms-as-data-centers-e2337
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT2982659402.mp3
-- Summary from show notes: A 27-year-old Anthropic researcher quit last week warning that AI could cause human extinction, and by Friday, a caller's 76-year-old mother was texting her in a panic. Jason's answer: the labs are already shipping the safeguards Doomers say don't exist. On an all live calls episode of TWiST, learn about the AI implications Jason is actually scared of, and why it involves a terrorist cell and a thousand cheap drones.
-- _Transcript: none available (not_ingested)_
-
-### Startup Ideas — Building a Software Factory that actually works (Full Course)
-- Date: 2026-09-14
-- Duration: 1889
-- Tags: AI, Startups, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M2GC48TEYSXYAE7F98WCXJZ1.mp3
-- Summary from show notes: Get Your Complete Financial OS at I welcome Ras Mic back to the pod to explain the phrase "software factory." Mic shares his screen and walks through the exact system that he runs today. His factory has four steps: isolate, build, prove, and ship. He keeps the whole system in five or six markdown files, so it works with any model and any harness.
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
