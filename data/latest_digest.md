@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-22
+# Podcast Digest - 2026-09-23
 
-Generated: 2026-09-22 07:39 PDT
+Generated: 2026-09-23 07:37 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,45 @@ Generated: 2026-09-22 07:39 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Oil Expert: We Can’t Predict Iran Anymore
+- Date: 2026-09-23
+- Duration: 1910
+- Tags: AI, Business, Finance, Sport, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7642888905.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **[~2:00-4:00] — Oil markets are in a genuine holding pattern, nobody can model the endgame**
+   JP Morgan abandoned their baseline oil forecast, admitting "we simply don't know how to model the end game." Matt Smith agrees — even as volumes through the Strait of Hormuz have increased, the risk premium remains because Iran's main leverage is the credible threat of disruption, not actual disruption.
+
+2. **[~4:30-6:30] — A US diesel export ban would be catastrophic for global markets**
+   US accounts for ~20% of global waterborne diesel exports. Russia's (~10%) are already off the market from drone strikes on refineries, and the Middle East (~10%) is constrained. If the US bans exports, 40% of global diesel supply disappears — the only "resolution" is demand destruction via prices high enough that nobody can afford to buy.
+
+3. **[~17:00-19:00] — DraftKings built AI 
+  - **[~2:00-4:00] — Oil markets are in a genuine holding pattern, nobody can model the endgame**
+  - JP Morgan abandoned their baseline oil forecast, admitting "we simply don't know how to model the end game." Matt Smith agrees — even as volumes through the Strait of Hormuz have increased, the risk premium remains because Iran's main leverage is the credible threat of disruption, not actual disruption.
+  - **[~4:30-6:30] — A US diesel export ban would be catastrophic for global markets**
+  - US accounts for ~20% of global waterborne diesel exports. Russia's (~10%) are already off the market from drone strikes on refineries, and the Middle East (~10%) is constrained. If the US bans exports, 40% of global diesel supply disappears — the only "resolution" is demand destruction via prices high enough that nobody can afford to buy.
+
+### All-In — Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans
+- Date: 2026-09-22
+- Duration: 55:44
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300
+- AI summary (Hermes): ## Core Arguments
+
+1. **3:53 — One-party rule created a self-serving regulatory machine**
+   16 years of Democratic control has produced 420,000+ regulations and 1,118 bills passed in a single session (stacked twice Hilton's height). Rules written for unions, trial lawyers, and donor interest groups — not residents or businesses. The bloat is the feature, not a bug.
+
+2. **12:09 — The path to victory is the cost-of-living pitch to non-college working voters**
+   26% of CA voters are up for grabs — non-college, financially breaking point, previously Democrat but not committed. Hilton's platform targets them directly: first $150K income tax-free, $3 gas (cut hidden taxes/cap-and-invest), DMV abolished, vehicle registration capped at $73. The persuasion target isn't Republicans or partisans — it's people who can't afford to stay.
+
+3. **12:09 — Becerra is the foil: a "bitch ass idiot" by Susa
+  - **3:53 — One-party rule created a self-serving regulatory machine**
+  - 16 years of Democratic control has produced 420,000+ regulations and 1,118 bills passed in a single session (stacked twice Hilton's height). Rules written for unions, trial lawyers, and donor interest groups — not residents or businesses. The bloat is the feature, not a bug.
+  - **12:09 — The path to victory is the cost-of-living pitch to non-college working voters**
+  - 26% of CA voters are up for grabs — non-college, financially breaking point, previously Democrat but not committed. Hilton's platform targets them directly: first $150K income tax-free, $3 gas (cut hidden taxes/cap-and-invest), DMV abolished, vehicle registration capped at $73. The persuasion target isn't Republicans or partisans — it's people who can't afford to stay.
+
 ### All-In — Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine
 - Date: 2026-09-22
 - Duration: 17:40
@@ -367,72 +406,6 @@ W
 - Episode: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
 - Summary from show notes: (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference.
-- _Transcript: none available (not_ingested)_
-
-### Prof G Markets — AI Insiders Keep Saying We’re In Danger — Where’s The Evidence?
-- Date: 2026-09-16
-- Duration: 2311
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4954908572.mp3
-- AI summary (Hermes): ## Core arguments
-
-1. **The AI safety debate has no substance — nobody can articulate what they're actually scared of**
-   Despite over a dozen safety researchers publicly warning about existential risk, none of them have provided specific evidence or described what a "slowdown" would look like in practice. Zitron's challenge: "Can you point to a thing?" goes unanswered. The safety narrative is built entirely on vibes and credentialism, not on demonstrated harms.
-
-2. **The rationalist/EA movement behind AI safety is functionally a religious cult**
-   Zitron frames the effective altruist researchers as true believers in a dogma — they take any vague signal (like "we might be near recursive self-improvement") as confirmation of a pre-ordained conclusion that AI will kill everyone. The only policy they ever arrive at is "give the organization I like more money and power."
-
-3. **There's a cy
-  - **The AI safety debate has no substance — nobody can articulate what they're actually scared of**
-  - Despite over a dozen safety researchers publicly warning about existential risk, none of them have provided specific evidence or described what a "slowdown" would look like in practice. Zitron's challenge: "Can you point to a thing?" goes unanswered. The safety narrative is built entirely on vibes and credentialism, not on demonstrated harms.
-  - **The rationalist/EA movement behind AI safety is functionally a religious cult**
-  - Zitron frames the effective altruist researchers as true believers in a dogma — they take any vague signal (like "we might be near recursive self-improvement") as confirmation of a pre-ordained conclusion that AI will kill everyone. The only policy they ever arrive at is "give the organization I like more money and power."
-
-### TWIST — 90% of AI prototypes never reach production (w/ Temporal's Samar Abbas) | AI Basics
-- Date: 2026-09-15
-- Duration: 1162
-- Tags: AI, Startups, Business, Finance, Career, Venture, Tech
-- Episode: https://4a885955-6823-4b22-a3e1-a526c25516a5.libsyn.com/90-of-ai-prototypes-never-reach-production-w-temporals-samar-abbas-ai-basics
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT7419234216.mp3
-- Summary from show notes: The demo works, the vibes are immaculate, but then the app falls apart the second real users touch it. On today's AI Basics, Temporal co-founder and CEO Samar Abbas says the problem isn't with the model at all. You're missing a harness, the layer that keeps an AI agent's work durable, secure, and recoverable if/when something breaks.
-- _Transcript: none available (not_ingested)_
-
-### All-In — JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms
-- Date: 2026-09-15
-- Duration: 27:32
-- Tags: AI, Startups, Business, Finance, Career, Parenting, Markets
-- Episode: https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300
-- AI summary (Hermes): ## Core arguments
-
-**1. (1:40) — Border reversal as a historical first**
-Vance claims Trump is the first president in his lifetime to actually *reverse* illegal immigration flow, not just slow it. Roughly 3M lower than when they came in. The framing: Western governments post-WW2 open borders but never reverse them; Trump did.
-
-**2. (1:40) — Re-industrialization as the signature achievement**
-The bipartisan globalization consensus (build economy on services/tech/finance alone) was wrong — you still have to make stuff. Trillions in new manufacturing investment, reversing a 40-year decline. Vance explicitly ranks this above the border as what Trump will be remembered for. "Rome wasn't built in a day" is the recurring caveat.
-
-**3. (9:28) — AI doomerism is a self-serving contradiction for frontier labs**
-Vance's sharpest critique: companies that say "we built Frankenstein" shouldn't come to 
-  - **1. (1:40) — Border reversal as a historical first**
-  - Vance claims Trump is the first president in his lifetime to actually *reverse* illegal immigration flow, not just slow it. Roughly 3M lower than when they came in. The framing: Western governments post-WW2 open borders but never reverse them; Trump did.
-  - **2. (1:40) — Re-industrialization as the signature achievement**
-  - The bipartisan globalization consensus (build economy on services/tech/finance alone) was wrong — you still have to make stuff. Trillions in new manufacturing investment, reversing a 40-year decline. Vance explicitly ranks this above the border as what Trump will be remembered for. "Rome wasn't built in a day" is the recurring caveat.
-
-### Startup Ideas — Instinct AI: The AI Assistant for normal people
-- Date: 2026-09-15
-- Duration: 1650
-- Tags: AI, Startups, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M2K2X1JQ8H03GC1CNGN2695V.mp3
-- Summary from show notes: I sit down with Remy to go through Instinct, the new invite-only personal agent that runs inside iMessage. Remy shares his raw chat history on screen: a haircut booking in Copenhagen, a restaurant reservation, a Bali visa on arrival, and an Emirates Skywards sign-up. We cover the parts that impress us, the points where the agent hits a wall, and the privacy questions that stay open.
-- _Transcript: none available (not_ingested)_
-
-### All-In — Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI
-- Date: 2026-09-15
-- Duration: 36:33
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, "pacing the frontier," common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new AI products? (14:22) Economic incentives for frontier lab doomerism, where the AI profits are (22:45) Microsoft's master plan for AI, how they are allocating capital (31:00) China's slow down, changing AI perception, data center benefits Thanks to our partners for making this possible!
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
