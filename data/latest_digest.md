@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-23
+# Podcast Digest - 2026-09-24
 
-Generated: 2026-09-23 07:37 PDT
+Generated: 2026-09-24 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,84 @@ Generated: 2026-09-23 07:37 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Bonds Are Going Haywire Again — Howard Marks Explains Why
+- Date: 2026-09-24
+- Duration: 1963
+- Tags: AI, Startups, Business, Finance, Parenting, Markets, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8817537070.mp3
+- AI summary (Hermes): **CORE ARGUMENTS**
+
+1. **Three drivers behind rising yields** — Marks identifies three forces pushing long-term rates up: (a) stubborn inflation stuck above 2%, now pushed higher by the Ukraine war's oil impact; (b) fiscal profligacy — a ~$2T deficit during peacetime prosperity, with no political will to balance the budget; (c) surging demand for capital, notably from AI infrastructure spending competing with Treasury for the same debt-market dollars.
+
+2. **Today's rates are low by history, not high** — The zero-rate era (2009-2021) was the aberration, not today's 3.75% Fed funds / 5.3% 30-year. Marks has been in markets since the 1960s and says current rates look low to him. This directly contradicts the media narrative that yields are "skyrocketing."
+
+3. **The one prediction Marks will make: rates aren't going down** — He says the most confident statement he can offer is that interest 
+  - **Three drivers behind rising yields** — Marks identifies three forces pushing long-term rates up: (a) stubborn inflation stuck above 2%, now pushed higher by the Ukraine war's oil impact; (b) fiscal profligacy — a ~$2T deficit during peacetime prosperity, with no political will to balance the budget; (c) surging demand for capital, notably from AI infrastructure spending competing with Treasury for the same debt-market dollars.
+  - **Today's rates are low by history, not high** — The zero-rate era (2009-2021) was the aberration, not today's 3.75% Fed funds / 5.3% 30-year. Marks has been in markets since the 1960s and says current rates look low to him. This directly contradicts the media narrative that yields are "skyrocketing."
+  - **The one prediction Marks will make: rates aren't going down** — He says the most confident statement he can offer is that interest rates probably won't decline much, if at all, over the next 1-2 years. That's significant for anyone holding assets priced for a lower-rate environment.
+  - **Don't sell stocks because of the deficit — it's a currency problem, not a company problem** — Marks argues the U.S. fiscal situation is a dollar-deterioration issue, not a corporate earnings issue. Shifting out of dollar-denominated assets makes conceptual sense, but the U.S. is still the best-functioning developed economy, so he advises at most a modest tilt, not a wholesale exit.
+
+### Modern Wisdom — Democrats vs Republicans: Who Is Actually More Violent? - Robert Pape #1154
+- Date: 2026-09-23
+- Duration: 6207
+- Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8843245134.mp3
+- AI summary (Hermes): Here's the structured episode summary:
+
+---
+
+**#1154 — Robert Pape: Democrats vs Republicans — Who Is Actually More Violent?**
+
+---
+
+**CORE ARGUMENTS:**
+
+1. **[07:15] — Political violence is mainstream, not fringe**
+   25% of American adults (65 million) now support the use of force to prevent Trump from being president — up from 6% a few years ago. That's 44% of all self-identified Democrats. On the other side, 16% of Americans (40 million) support Trump using the military to suppress Democratic protesters. Combined: ~100 million Americans across both sides now endorse political violence heading into the midterms.
+
+2. **[07:15] — The "use of force" language is literal**
+   In follow-up focus groups and survey experiments, 55% of those who said "use of force is justified" meant assassination — specifically, shooting Trump with a rifle, as in the Butler attempt. Pape is unambiguous: this 
+  - Here's the structured episode summary:
+  - **#1154 — Robert Pape: Democrats vs Republicans — Who Is Actually More Violent?**
+  - **[07:15] — Political violence is mainstream, not fringe**
+  - 25% of American adults (65 million) now support the use of force to prevent Trump from being president — up from 6% a few years ago. That's 44% of all self-identified Democrats. On the other side, 16% of Americans (40 million) support Trump using the military to suppress Democratic protesters. Combined: ~100 million Americans across both sides now endorse political violence heading into the midterms.
+
+### DOAC — Druski: They're Lying To You About Overnight Success!
+- Date: 2026-09-23
+- Duration: 6538
+- Tags: Business, Health, Parenting, Content, Psychology, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M26CBRW55X2EMED8438W3PW7.mp3?fcv=mec4wu1xvz2kl3c9ban7b8kj
+- AI summary (Hermes): **Core arguments:**
+
+1. **[00:02:24–00:09:25] — Comedy as a trauma-born survival tool**
+   Growing up in a physically abusive household (choking, beatings for wetting the bed, rhetorical-question beatings with screwdrivers), Druski learned to use humor to read the room, defuse tension, and comfort his brother and mother after violent episodes. His hypervigilance — the ability to sense danger, happiness, or sadness in any room — is a direct adaptation, not a natural gift.
+
+2. **[00:22:49–00:38:50] — The "No Plan B" commit-or-die trigger**
+   Being held at gunpoint during an armed robbery created the mental shift: "if I survived this, I'm going to become a comedian or die trying." He dropped out of college, wrote goals on paper, moved into a room with no mattress and repossessed furniture, and treated the absence of an escape route as his competitive advantage.
+
+3. **[00:12:23–00:18:41] — 
+  - **[00:02:24–00:09:25] — Comedy as a trauma-born survival tool**
+  - Growing up in a physically abusive household (choking, beatings for wetting the bed, rhetorical-question beatings with screwdrivers), Druski learned to use humor to read the room, defuse tension, and comfort his brother and mother after violent episodes. His hypervigilance — the ability to sense danger, happiness, or sadness in any room — is a direct adaptation, not a natural gift.
+  - **[00:22:49–00:38:50] — The "No Plan B" commit-or-die trigger**
+  - Being held at gunpoint during an armed robbery created the mental shift: "if I survived this, I'm going to become a comedian or die trying." He dropped out of college, wrote goals on paper, moved into a room with no mattress and repossessed furniture, and treated the absence of an escape route as his competitive advantage.
+
+### All-In — Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete
+- Date: 2026-09-23
+- Duration: 25:30
+- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
+- Episode: https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Luca Ferrari joins the Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
+- _Transcript: none available (not_ingested)_
+
+### TWIST — VCs Would Bet on Open-Source AI Over OpenAI and Anthropic | E2341
+- Date: 2026-09-23
+- Duration: 5222
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT5761899408.mp3
+- Summary from show notes: Anthropic and OpenAI released cheaper models on the same day with Claude Opus 5.5 and GPT-6, and these VCs would still bet on open source. Jason brings on Dave McClure of Practical Venture Capital, Jeff Clavier of Uncork Capital, and Jenny Fielding of Everywhere Ventures to discuss the argument for open-weight models over the frontier labs. Learn why median seed valuations have more than tripled since 2017.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — Oil Expert: We Can’t Predict Iran Anymore
 - Date: 2026-09-23
 - Duration: 1910
@@ -112,7 +190,7 @@ Generated: 2026-09-23 07:37 PDT
 - Date: 2026-09-21
 - Duration: 4179
 - Tags: AI, Startups, Career, Content, Venture, Tech, Saas
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT8288358917.mp3
+- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT8288358917.mp3
 - Summary from show notes: Elon revives the Hyperloop, promising a 30-minute commute between Austin and San Antonio. It's the kind of project that could reshape how Texans think about getting between two major cities entirely. Then, Jason and Lon explain why this pitch is different from the other Boring Company tunnels.
 - _Transcript: none available (not_ingested)_
 
@@ -242,7 +320,7 @@ Jay-Z's "99 Problems" was dismissed by
 - Date: 2026-09-18
 - Duration: 5619
 - Tags: AI, Startups, Business, Career, Venture, Tech, Saas
-- Audio: https://rss.podscribe.ai/p/traffic.megaphone.fm/LTANT8230747415.mp3
+- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT8230747415.mp3
 - Summary from show notes: Hugging Face built a $399 open-source robot duck as a side quest, and sold 16,000 units off a single tweet. Co-founder Thomas Wolf joins Jason and Lon to explain Microduck happened, why storage is the company's real business, and what it felt like to get hacked by OpenAI's agents. Jason takes apart Gavin Newsom's new AI "kill switch" executive order: if these models are so dangerous, why not start with the same KYC every bank already requires?
 - _Transcript: none available (not_ingested)_
 
@@ -329,83 +407,6 @@ Jay-Z's "99 Problems" was dismissed by
 - Episode: https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300
 - Summary from show notes: (0:00) Dina Powell McCormick joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
-- _Transcript: none available (not_ingested)_
-
-### The Game — How I'd Turn One Event Into $2.5 Million | Ep 1000
-- Date: 2026-09-17
-- Duration: 1566
-- Tags: Business, Content, Entrepreneurship, Sales, Offers, Pricing, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M2PCGRZD2G0FCK2EPR84DKE0.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **06:10 — The referral offer must be social-capital-positive**
-   Small cash incentives ($500 credit) don't move the needle for high-value clients who'd refer anyway. Instead, give existing members a valuable treatment ($1,000-$2,000 tier) they can share with a friend — it's a perk that makes telling someone about you a favor, not a transaction.
-
-2. **08:21 — Every touchpoint is a referral opportunity (the "bam-femme" method)**
-   Don't ask for referrals — frame bringing a friend as a built-in membership benefit. At every appointment: "Who do you want to bring with you? Doing this together gets 5x better results." This turns every patient interaction into a lead-generation event without feeling like a pitch.
-
-3. **13:11 — Event-based marketing over ads for high-trust sales**
-   Rather than a Meta ads → call funnel (which works but requires a cold process), go to o
-  - **06:10 — The referral offer must be social-capital-positive**
-  - Small cash incentives ($500 credit) don't move the needle for high-value clients who'd refer anyway. Instead, give existing members a valuable treatment ($1,000-$2,000 tier) they can share with a friend — it's a perk that makes telling someone about you a favor, not a transaction.
-  - **08:21 — Every touchpoint is a referral opportunity (the "bam-femme" method)**
-  - Don't ask for referrals — frame bringing a friend as a built-in membership benefit. At every appointment: "Who do you want to bring with you? Doing this together gets 5x better results." This turns every patient interaction into a lead-generation event without feeling like a pitch.
-
-### Prof G Markets — Fed Hikes Rates For First Time In 3 Years — Here’s Why It Matters
-- Date: 2026-09-17
-- Duration: 2155
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2370474086.mp3
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-**1. [~1:00] — The hike proves Fed independence from Trump**
-Kevin Walsh raised rates despite the president's threats, putting to bed the "sock puppet" theory. The unanimous vote amplifies this: the committee is signaling that attacking one of them is attacking all of them.
-
-**2. [~2:30] — Walsh's new "mantra" defines the Fed's reaction function**
-"We must be confident that underlying inflation is moving toward our objective clearly and at sufficient speed" is now the test. It's deliberately a bit vague on "sufficient speed," but giving markets a clear framework for when the Fed acts is itself valuable — markets can now price around it.
-
-**3. [~5:15] — The supply-shock objection, and the Fed's answer**
-Critics say hiking into an Iran-driven oil shock is crazy — you can't fix atom supply with interest rates. The Fed's counter: we can't control oil, but we can stop pric
-  - **1. [~1:00] — The hike proves Fed independence from Trump**
-  - Kevin Walsh raised rates despite the president's threats, putting to bed the "sock puppet" theory. The unanimous vote amplifies this: the committee is signaling that attacking one of them is attacking all of them.
-  - **2. [~2:30] — Walsh's new "mantra" defines the Fed's reaction function**
-  - "We must be confident that underlying inflation is moving toward our objective clearly and at sufficient speed" is now the test. It's deliberately a bit vague on "sufficient speed," but giving markets a clear framework for when the Fed acts is itself valuable — markets can now price around it.
-
-### Modern Wisdom — The Brutal Reality For Most Men Today (& how to fix it) - Dr K HealthyGamer - #1151
-- Date: 2026-09-16
-- Duration: 11053
-- Tags: AI, Startups, Business, Finance, Health, Psychology, Performance
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB7195524698.mp3
-- AI summary (Hermes): ## Core arguments
-
-**1. [00:00 — Addiction is about pain removal, not just pleasure]**
-The three vices (porn, gambling, video games) share a common mechanism: they give pleasure *and* take away pain. As addiction progresses, tolerance kills the pleasure side — the user keeps going to suppress negative emotion, not to feel good. Treating these as "dopamine problems" misses the real drivers.
-
-**2. [04:55 — Video games are a substitute for life, not just entertainment]**
-Play evolved to train survival skills. Video games hijack that circuit by providing artificial agency, community, and progress — the exact things young men are missing in real life. The result is "fast-forwarding": life passes by while the player stays still developmentally. 66% of men play video games daily, often in combination with other vices.
-
-**3. [04:55 — Pornography's root cause is directionlessness, not libido]**
-W
-  - **1. [00:00 — Addiction is about pain removal, not just pleasure]**
-  - The three vices (porn, gambling, video games) share a common mechanism: they give pleasure *and* take away pain. As addiction progresses, tolerance kills the pleasure side — the user keeps going to suppress negative emotion, not to feel good. Treating these as "dopamine problems" misses the real drivers.
-  - **2. [04:55 — Video games are a substitute for life, not just entertainment]**
-  - Play evolved to train survival skills. Video games hijack that circuit by providing artificial agency, community, and progress — the exact things young men are missing in real life. The result is "fast-forwarding": life passes by while the player stays still developmentally. 66% of men play video games daily, often in combination with other vices.
-
-### DOAC — The Great AI Debate: Is Artificial Intelligence an Extinction Threat? Debating the True Risks of Advanced Models
-- Date: 2026-09-16
-- Duration: 8797
-- Tags: AI, Career, Content, Health, Psychology, Business, Relationships
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2GNJS32R11MFGEF3FZ4MFGV.mp3
-- Summary from show notes: Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. ■ Recursive Self-Improvement: The structural mechanics behind the "fast takeoff" theory, detailing how an AI capable of automated research could exponentially upgrade its own intelligence and architectures in a matter of days. ■ The Illusion of Control: Why attempting to contain an artificial superintelligence is comparable to placing a digital Einstein in a jail cell with an internet connection.
-- _Transcript: none available (not_ingested)_
-
-### All-In — Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem
-- Date: 2026-09-16
-- Duration: 18:10
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
-- Summary from show notes: (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference.
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
