@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-24
+# Podcast Digest - 2026-09-25
 
-Generated: 2026-09-24 07:40 PDT
+Generated: 2026-09-25 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,9 +13,70 @@ Generated: 2026-09-24 07:40 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — How to Price a Service Business So It Actually Makes Money | Ep 1002
+- Date: 2026-09-25
+- Duration: 1767
+- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M38B2SKDS9BE9R3GK063XE22.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **Fix the offer before fixing the price** — Joey's prices are made up line by line with thin margins. Alex's sequence is: cost out true delivery (fixed vs variable costs, headcount-driven), then set price at 5–10x cost. Build a dynamic quote generator (AI or Excel IF/AND) that pops out a price based on event variables. The 5x floor absorbs overruns; the 10x ceiling captures willingness to pay. No showing the client the cost sheet.
+
+2. **Price-lock guarantee + cash pull-forward** — Lock the price as long as headcount stays within 20%, venue and date don't change. Offer 10–20% off for full prepayment. Rationale: pulls cash forward for better reinvestment ROI than the stock market, avoids non-payment lawsuits ("it's not your account, get the money"). Multi-year deals: ask "how many events a year?" then offer a discount on all three plus another discount for pre-paying 
+  - **Fix the offer before fixing the price** — Joey's prices are made up line by line with thin margins. Alex's sequence is: cost out true delivery (fixed vs variable costs, headcount-driven), then set price at 5–10x cost. Build a dynamic quote generator (AI or Excel IF/AND) that pops out a price based on event variables. The 5x floor absorbs overruns; the 10x ceiling captures willingness to pay. No showing the client the cost sheet.
+  - **Turn B2B events into lead gen engines** — When a client's event has an audience that matches your ICP, the client is fronting the cost to put them in a room. Get a booth, negotiate a speaking slot ("20 mistakes event planners make"), give away slides with a CTA that captures leads ("text me for the slides"). Even 1% conversion from 500–1000 attendees = 15–50% business growth from a single event. Use the high quote as leverage: "I'll knock off booth fees if you let me speak 10 minutes."
+  - **Video sales letter before every conversation (3 VSLs)** — One VSL before the first call, one before the second (proposal/closing), one before the post-event renewal call. Include a CTA ("text me your headcount") so you confirm they watched. If they didn't, play it on the call: "This saves us 30 minutes — grab a coffee while it runs." Moves information transfer out of the conversation so the call is pure closing. Same structure for the renewal VSL but addressing post-event FAQs instead.
+  - **Restructure sales: founder closes, team sets** — Joey converts 10x better than his two full-time salespeople. Fix: turn them into SDRs booking appointments for the founder (still earning commission). Daily check-ins (morning: plan outreach volume; evening: pipeline review). Weekly 1:1s with a human-first personal check then short-term KPI issues then long-term growth opportunities. Role-play every new script element — just telling them the fix changes nothing.
+
+### Prof G Markets — How To Actually Regulate AI — ft. Alex Bores
+- Date: 2026-09-25
+- Duration: 3717
+- Tags: AI, Startups, Finance, Content, Markets, Business, Investing
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6629148034.mp3
+- AI summary (Hermes): ---
+
+**Note:** Show notes didn't include chapter timestamps, so points are untimestamped.
+
+### Core arguments
+
+1. **The super PAC campaign was a deterrence signal, not just a hit on one candidate.** Leading the Future (backed by a16z and Greg Brockman) announced their $8M+ anti-Bores campaign 8 months ahead with the stated reason being AI regulation — an abnormally early and transparent move for a super PAC. Bores argues the real goal was messaging: *any* legislator who actually passes AI safety bills will be buried.
+
+2. **The sudden push for federal AI regulation is about pre-empting state action.** After spending millions to block regulation, some of the same groups are now retweeting lawmakers who want to "pass something" this year. Bores' read: the federal bills with a chance of passing this year would also pre-empt stronger state-level laws next year. It's regulatory capture dressed
+  - **Note:** Show notes didn't include chapter timestamps, so points are untimestamped.
+  - **The super PAC campaign was a deterrence signal, not just a hit on one candidate.** Leading the Future (backed by a16z and Greg Brockman) announced their $8M+ anti-Bores campaign 8 months ahead with the stated reason being AI regulation — an abnormally early and transparent move for a super PAC. Bores argues the real goal was messaging: *any* legislator who actually passes AI safety bills will be buried.
+  - **The sudden push for federal AI regulation is about pre-empting state action.** After spending millions to block regulation, some of the same groups are now retweeting lawmakers who want to "pass something" this year. Bores' read: the federal bills with a chance of passing this year would also pre-empt stronger state-level laws next year. It's regulatory capture dressed as concern.
+  - **The race dynamic was created by the labs themselves, despite knowing the risks.** DeepMind was set up to prevent a big-company rush, then sold to Google. OpenAI was founded because founders didn't trust Google. Anthropic was founded because they didn't trust OpenAI. Every lab has decade-old writings warning about losing control of AI and the danger of racing, yet the competitive structure they built is exactly the race they warned about.
+
+### DOAC — Most Replayed Moment: A Guilt-Free Way to Handle Work and Life
+- Date: 2026-09-24
+- Duration: 1943
+- Tags: Startups, Career, Health, Psychology, Business, Relationships, Performance
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M379SMDZT80QS0EF25QEDAHM.mp3
+- AI summary (Hermes): Note: the show notes for this clip carry no numeric chapter timestamps, so argument cards are untitled-by-time — keep the structure and it will render fine.
+
+**Core arguments**
+
+1. **A few years in corporate beats university — and "launch and love" is the real skill**
+   She'd recommend anyone do a stint in a big company first: you learn what big organizations do well and where their size is a drawback. Her buying-manager role at Boots taught her relationships, cross-functional working (supply chain, finance, legal), and the principle that a listing is only step one — you have to actually drive consumers to pick the product off the shelf.
+
+2. **"Focus is overrated" — ten brands at once was a deliberate economic bet**
+   DECIEM's wall slogan was a pointed rebuttal to every business book: since you can't know what will sell until it sells, multi-bet lets you fail cheaply and iterate. In-ho
+  - Note: the show notes for this clip carry no numeric chapter timestamps, so argument cards are untitled-by-time — keep the structure and it will render fine.
+  - **A few years in corporate beats university — and "launch and love" is the real skill**
+  - She'd recommend anyone do a stint in a big company first: you learn what big organizations do well and where their size is a drawback. Her buying-manager role at Boots taught her relationships, cross-functional working (supply chain, finance, legal), and the principle that a listing is only step one — you have to actually drive consumers to pick the product off the shelf.
+  - **"Focus is overrated" — ten brands at once was a deliberate economic bet**
+
+### Startup Ideas — Muse AI Connectors: The Next App Store Moment?
+- Date: 2026-09-24
+- Duration: 1575
+- Tags: AI, Startups, Business, Career, Parenting, Content, Cricket
+- Audio: https://episode.flightcast.com/01M3A8MAC6C2KX8AH816V14RJ9.mp3
+- Summary from show notes: In this solo episode, I break down the huge business opportunity because Meta has opened Muse, its personal AI agent, to developers. You can now submit a connector, which lets Muse use your service when someone asks it for help, and I think this could be the app store moment for AI. I explain how a connector works, share four startup ideas you can build on one, and cover how to get customers beyond Meta's directory.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — Bonds Are Going Haywire Again — Howard Marks Explains Why
 - Date: 2026-09-24
-- Duration: 1963
+- Duration: 1962
 - Tags: AI, Startups, Business, Finance, Parenting, Markets, Investing
 - Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8817537070.mp3
 - AI summary (Hermes): **CORE ARGUMENTS**
@@ -30,7 +91,7 @@ Generated: 2026-09-24 07:40 PDT
   - **The one prediction Marks will make: rates aren't going down** — He says the most confident statement he can offer is that interest rates probably won't decline much, if at all, over the next 1-2 years. That's significant for anyone holding assets priced for a lower-rate environment.
   - **Don't sell stocks because of the deficit — it's a currency problem, not a company problem** — Marks argues the U.S. fiscal situation is a dollar-deterioration issue, not a corporate earnings issue. Shifting out of dollar-denominated assets makes conceptual sense, but the U.S. is still the best-functioning developed economy, so he advises at most a modest tilt, not a wholesale exit.
 
-### Modern Wisdom — Democrats vs Republicans: Who Is Actually More Violent? - Robert Pape #1154
+### Modern Wisdom — “This Will Be The Most Violent Election Of Our Lifetime” - Robert Pape #1154
 - Date: 2026-09-23
 - Duration: 6207
 - Tags: AI, Health, Psychology, Performance, Relationships, Self-Improvement, Business
@@ -59,20 +120,9 @@ Generated: 2026-09-24 07:40 PDT
 - Date: 2026-09-23
 - Duration: 6538
 - Tags: Business, Health, Parenting, Content, Psychology, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M26CBRW55X2EMED8438W3PW7.mp3?fcv=mec4wu1xvz2kl3c9ban7b8kj
-- AI summary (Hermes): **Core arguments:**
-
-1. **[00:02:24–00:09:25] — Comedy as a trauma-born survival tool**
-   Growing up in a physically abusive household (choking, beatings for wetting the bed, rhetorical-question beatings with screwdrivers), Druski learned to use humor to read the room, defuse tension, and comfort his brother and mother after violent episodes. His hypervigilance — the ability to sense danger, happiness, or sadness in any room — is a direct adaptation, not a natural gift.
-
-2. **[00:22:49–00:38:50] — The "No Plan B" commit-or-die trigger**
-   Being held at gunpoint during an armed robbery created the mental shift: "if I survived this, I'm going to become a comedian or die trying." He dropped out of college, wrote goals on paper, moved into a room with no mattress and repossessed furniture, and treated the absence of an escape route as his competitive advantage.
-
-3. **[00:12:23–00:18:41] — 
-  - **[00:02:24–00:09:25] — Comedy as a trauma-born survival tool**
-  - Growing up in a physically abusive household (choking, beatings for wetting the bed, rhetorical-question beatings with screwdrivers), Druski learned to use humor to read the room, defuse tension, and comfort his brother and mother after violent episodes. His hypervigilance — the ability to sense danger, happiness, or sadness in any room — is a direct adaptation, not a natural gift.
-  - **[00:22:49–00:38:50] — The "No Plan B" commit-or-die trigger**
-  - Being held at gunpoint during an armed robbery created the mental shift: "if I survived this, I'm going to become a comedian or die trying." He dropped out of college, wrote goals on paper, moved into a room with no mattress and repossessed furniture, and treated the absence of an escape route as his competitive advantage.
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M26CBRW55X2EMED8438W3PW7.mp3
+- Summary from show notes: he explains: ■ The Trauma of Humor: How growing up in a high stress, physically abusive household forced him to use comedy as a tool to read the room and defuse tension. ■ The "No Plan B" Strategy: Why facing the barrel of a gun during a street scam triggered a radical mental shift, empowering him to commit entirely to his vision. ■ The Avoidant Attachment Trap: The reasons why successful individuals often struggle with romantic trust, and how a lack of a healthy parental relationship creates deep rooted intimacy fears.
+- _Transcript: none available (not_ingested)_
 
 ### All-In — Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete
 - Date: 2026-09-23
@@ -339,74 +389,6 @@ Jay-Z's "99 Problems" was dismissed by
 - Episode: https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration
 - Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300
 - Summary from show notes: IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap. Meta believes the future is for everyone.
-- _Transcript: none available (not_ingested)_
-
-### Prof G Markets — He Warned AI Could Destroy Us. Now The Industry Is Listening — ft. Nick Bostrom
-- Date: 2026-09-18
-- Duration: 3987
-- Tags: AI, Finance, Content, Markets, Business, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2138056132.mp3
-- AI summary (Hermes): Here's the structured summary.
-
----
-
-## Core arguments
-
-1. **The existential risk concerns are genuine, not a marketing stunt**
-   Bostrom says the viral tweet from the former Anthropic researcher reflects a sincere view widely held inside frontier labs, not a fundraising play. The competitive dynamics mean any lab that slows down for safety risks being overtaken, so coordinated safety standards are needed — not unilateral pauses.
-
-2. **A 10% probability of catastrophe is "quite reasonable"**
-   Bostrom won't give his own P(doom) but says the 10% figure is in the ballpark, and some researchers place it higher. He adds nuance: many scenarios are neither obviously good nor obviously bad but "strange" — radical transformation where gains and losses are hard to tally.
-
-3. **A long pause could backfire — the "compute overhang" problem**
-   If we stockpile hardware during a moratorium, lifting
-  - Here's the structured summary.
-  - **The existential risk concerns are genuine, not a marketing stunt**
-  - Bostrom says the viral tweet from the former Anthropic researcher reflects a sincere view widely held inside frontier labs, not a fundraising play. The competitive dynamics mean any lab that slows down for safety risks being overtaken, so coordinated safety standards are needed — not unilateral pauses.
-  - **A 10% probability of catastrophe is "quite reasonable"**
-
-### DOAC — Most Replayed Moment: Is Renting Keeping You Poor? What's The Actual Cost Of Home Ownership? David Bach
-- Date: 2026-09-17
-- Duration: 1128
-- Tags: Finance, Content, Health, Psychology, Business, Relationships, Performance
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M1KRZJXFDY091DTC2XYYRW7A.mp3
-- AI summary (Hermes): ## CORE ARGUMENTS
-
-1. **["When you look at people who own a home versus people who rent..." — mid-section] — The 40x wealth gap between owners and renters is real, not just correlation**
-   Average US homeowner is worth $400K vs. $10K for renters. $34 trillion in home equity in America — up 90% since before COVID. Home equity + retirement accounts ($45T) equal $80T in total. Bach argues the causation runs through ownership: the forced-savings mechanism and leveraged appreciation build wealth that renting doesn't.
-
-2. **["People don't typically pay cash for their first house..." — mid-section] — Leveraged returns make housing outperform stocks, not apples-to-apples**
-   A $200K house with $40K down that doubles delivers a 5x return on down payment. Stock market's 10% annually is on the full principal, not a leveraged base. Plus married couples get $500K in capital gains exclusion; mortgag
-  - **["When you look at people who own a home versus people who rent..." — mid-section] — The 40x wealth gap between owners and renters is real, not just correlation**
-  - Average US homeowner is worth $400K vs. $10K for renters. $34 trillion in home equity in America — up 90% since before COVID. Home equity + retirement accounts ($45T) equal $80T in total. Bach argues the causation runs through ownership: the forced-savings mechanism and leveraged appreciation build wealth that renting doesn't.
-  - **["People don't typically pay cash for their first house..." — mid-section] — Leveraged returns make housing outperform stocks, not apples-to-apples**
-  - A $200K house with $40K down that doubles delivers a 5x return on down payment. Stock market's 10% annually is on the full principal, not a leveraged base. Plus married couples get $500K in capital gains exclusion; mortgage interest remains deductible. The "stocks return more" argument ignores the leverage and tax advantages baked into home ownership.
-
-### All-In — Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media
-- Date: 2026-09-17
-- Duration: 32:32
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_NickShirley_Ch.mp3?dest-id=1928300
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **(0:00–11:42) — California High-Speed Rail is a $15B fraud with nothing operational to show**
-   Started 2008 as a $33B SF–LA connector. After 18 years, the only "track" is concrete and rebar in the Central Valley. Latest estimate: $236B. Route was quietly abandoned to SF–LA and now targets Merced–Bakersfield. The state hasn't even bought the trains because, in Nick's view, they know it'll never run. One-third of costs went to "change order delays" — contractors owed $170K/day while waiting to work, with a recent half-billion-dollar settlement over idle time alone.
-
-2. **(~17:03) — California passed the "Stop Nick Shirley Act" (AB2624) to block his investigations**
-   The law targets anyone recording immigration support service providers (NGOs, healthcare, daycares receiving state funds). If a provider sends a demand letter, you can't publish the video without fac
-  - **(0:00–11:42) — California High-Speed Rail is a $15B fraud with nothing operational to show**
-  - Started 2008 as a $33B SF–LA connector. After 18 years, the only "track" is concrete and rebar in the Central Valley. Latest estimate: $236B. Route was quietly abandoned to SF–LA and now targets Merced–Bakersfield. The state hasn't even bought the trains because, in Nick's view, they know it'll never run. One-third of costs went to "change order delays" — contractors owed $170K/day while waiting to work, with a recent half-billion-dollar settlement over idle time alone.
-  - **(~17:03) — California passed the "Stop Nick Shirley Act" (AB2624) to block his investigations**
-  - The law targets anyone recording immigration support service providers (NGOs, healthcare, daycares receiving state funds). If a provider sends a demand letter, you can't publish the video without facing $4,000+ fines. Nick is suing the state under the First Amendment. The bill's co-sponsor: CHIRLA, which received $80M in state funding. Its author: Mia Bonta, wife of California's Attorney General — who's supposed to be prosecuting this fraud.
-
-### All-In — Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future
-- Date: 2026-09-17
-- Duration: 43:52
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Dina Powell McCormick joins The Besties! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. EY helps tech innovators scale from startup to exit to megacap.
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
