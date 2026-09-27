@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:39:23.734694-07:00",
+  "generated_at": "2026-09-27T07:31:34.380063-07:00",
   "since": "2026-01-01",
   "user_interests": [
     "AI consulting",
@@ -31489,42 +31489,6 @@
       "transcript_status": "not_ingested"
     },
     {
-      "id": "28b09b8ee0daa735",
-      "podcast": "The Game with Alex Hormozi",
-      "short_name": "The Game",
-      "podcast_image": "https://files.flightcast.com/workspaces/nb70npdrh8ux1i431tcvbz44/podcasts/zz5nwp81tktx53wb8fw6qq7j/cgn395ohauyt6r8q4kliieoi.jpg",
-      "image": "https://files.flightcast.com/v3-imports/images/zz5nwp81tktx53wb8fw6qq7j/uwlp6eky7bsc7q4w66owdf2o-cover.jpg",
-      "accent": "#f59e0b",
-      "emoji": "\ud83d\udcb0",
-      "title": "How To Find Meaning When Success Feels Empty with Tony Robbins | Ep 936",
-      "url": "",
-      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/esope35xa4ksmkwo103ndie6.mp3",
-      "guid": "e559bb92-412c-4120-9728-ba0358d802e1",
-      "published_at": "2026-01-21T09:00:00+00:00",
-      "published_date": "2026-01-21",
-      "published_month": "2026-01",
-      "duration": "4161",
-      "summary": "Join Tony Robbins Live for a Free Virtual Event: Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast, you\u2019ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned and will learn on his path from $100M to $1B in net worth. \u2060\u2060Click here.\u2060\u2060 Follow Alex Hormozi\u2019s Socials: \u2060\u2060LinkedIn \u2060\u2060 | \u2060\u2060Instagram\u2060\u2060 | \u2060\u2060Facebook\u2060\u2060 | \u2060\u2060YouTube \u2060\u2060 | \u2060\u2060Twitter\u2060\u2060 | \u2060\u2060Acquisition \u2060",
-      "content_summary": "Join Tony Robbins Live for a Free Virtual Event: Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast, you\u2019ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned and will learn on his path from $100M to $1B in net worth. \u2060\u2060Click here.\u2060\u2060 Follow Alex Hormozi\u2019s Socials: \u2060\u2060LinkedIn \u2060\u2060 | \u2060\u2060Instagram\u2060\u2060 | \u2060\u2060Facebook\u2060\u2060 | \u2060\u2060YouTube \u2060\u2060 | \u2060\u2060Twitter\u2060\u2060 | \u2060\u2060Acquisition \u2060",
-      "content_takeaways": [
-        "On this podcast, you\u2019ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned and will learn on his path from $100M to $1B in net worth.",
-        "Join Tony Robbins Live for a Free Virtual Event: Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi.",
-        "\u2060\u2060Click here.\u2060\u2060 Follow Alex Hormozi\u2019s Socials: \u2060\u2060LinkedIn \u2060\u2060 | \u2060\u2060Instagram\u2060\u2060 | \u2060\u2060Facebook\u2060\u2060 | \u2060\u2060YouTube \u2060\u2060 | \u2060\u2060Twitter\u2060\u2060 | \u2060\u2060Acquisition \u2060"
-      ],
-      "show_notes": "Join Tony Robbins Live for a Free Virtual Event: https://timetorisesummit.com/join-now Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast, you\u2019ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned and will learn on his path from $100M to $1B in net worth. Wanna scale your business? \u2060\u2060Click here.\u2060\u2060 Follow Alex Hormozi\u2019s Socials: \u2060\u2060LinkedIn \u2060\u2060 | \u2060\u2060Instagram\u2060\u2060 | \u2060\u2060Facebook\u2060\u2060 | \u2060\u2060YouTube \u2060\u2060 | \u2060\u2060Twitter\u2060\u2060 | \u2060\u2060Acquisition \u2060",
-      "tags": [
-        "Startups",
-        "Business",
-        "Career",
-        "Content",
-        "Entrepreneurship",
-        "Sales",
-        "Offers"
-      ],
-      "source": "favorite_feed",
-      "transcript_status": "not_ingested"
-    },
-    {
       "id": "ec7d8394313c496e",
       "podcast": "The Grade Cricketer",
       "short_name": "Grade Cricketer",
@@ -35078,8 +35042,8 @@
     }
   ],
   "stats": {
-    "total_available": 6540,
-    "ytd_count": 879,
+    "total_available": 6539,
+    "ytd_count": 878,
     "recent_count": 24,
     "podcast_count": 8,
     "link_inbox_count": 0,
@@ -35087,18 +35051,18 @@
       "Modern Wisdom": 115,
       "All-In": 97,
       "TWIST": 122,
-      "The Game": 84,
+      "The Game": 83,
       "Prof G Markets": 182,
       "DOAC": 115,
       "Startup Ideas": 82,
       "Grade Cricketer": 82
     },
     "by_tag": {
-      "Business": 688,
+      "Business": 687,
       "AI": 562,
-      "Content": 498,
-      "Career": 476,
-      "Startups": 415,
+      "Content": 497,
+      "Career": 475,
+      "Startups": 414,
       "Finance": 338,
       "Markets": 279,
       "Health": 262,
@@ -35114,7 +35078,7 @@
       "Politics": 91
     },
     "by_month": {
-      "2026-01": 106,
+      "2026-01": 105,
       "2026-02": 105,
       "2026-03": 110,
       "2026-04": 96,
