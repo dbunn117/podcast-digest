@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-27
+# Podcast Digest - 2026-09-28
 
-Generated: 2026-09-27 07:31 PDT
+Generated: 2026-09-28 07:40 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,59 @@ Generated: 2026-09-27 07:31 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### Prof G Markets — Investors Are Turning Against Data Centers (Here's Why)
+- Date: 2026-09-28
+- Duration: 4214
+- Tags: Business, Finance, Content, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9244164661.mp3
+- AI summary (Hermes): ## Core Arguments
+
+1. **SP Energy's failed IPO is the bubble's canary** — a company with $214M in declining revenue, zero operating data centers, and only 9% of contracted capacity under construction tried to go public at a $50B valuation (234x sales). The market said no. Scott: "private markets lie and public markets don't." Ed calls it the perfect example of "BS" that investors are finally rejecting.
+
+2. **Oracle's force majeure notice at Project Jupiter signals real uncertainty** — Oracle told its data center developer it wants an out if the project isn't operational by 2028. Scott argues the real "force of God" here isn't an earthquake or war — it's the credit markets tightening. Oracle stock fell 5%, Blue Owl (the financier) fell 7%. The move reads as "you're out over your skis" from a hyperscaler.
+
+3. **Three structural risks are converging:** (a) construction and financing complex
+  - **SP Energy's failed IPO is the bubble's canary** — a company with $214M in declining revenue, zero operating data centers, and only 9% of contracted capacity under construction tried to go public at a $50B valuation (234x sales). The market said no. Scott: "private markets lie and public markets don't." Ed calls it the perfect example of "BS" that investors are finally rejecting.
+  - **Oracle's force majeure notice at Project Jupiter signals real uncertainty** — Oracle told its data center developer it wants an out if the project isn't operational by 2028. Scott argues the real "force of God" here isn't an earthquake or war — it's the credit markets tightening. Oracle stock fell 5%, Blue Owl (the financier) fell 7%. The move reads as "you're out over your skis" from a hyperscaler.
+  - **This looks like the "dark fiber" moment of the AI cycle** — Scott draws the parallel to the dot-com buildout: B2C didn't work, B2B didn't work, so capital piled into infrastructure (Global Crossing, Cisco). That infrastructure wasn't *wrong*, it was early — which on a balance sheet is the same as wrong. Telecom fibers lost 90%+ of their value. The pattern: hyper-scale infrastructure gets built before real demand shows up.
+  - **Nvidia at 17x forward earnings is both cheap and a warning** — its lowest multiple in a decade, down from 32x in 2025. Scott: the real risk is *certainty around those earnings* — if CapEx expectations don't keep doubling, Nvidia feels the pullback first. But it's also the "Malibu beachfront real estate" of the AI trade — safer than the garbage in the basket. If you had to pick between Nvidia here vs an OpenAI or Anthropic IPO at some massive valuation, this is the pick hands-down.
+
+### Modern Wisdom — James Sexton, Rick Glassman, Matt McCusker - Mostly Wise #4 - #1156
+- Date: 2026-09-27
+- Duration: 10906
+- Tags: AI, Career, Health, Parenting, Psychology, Performance, Relationships
+- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5394683966.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **[00:00–05:00 — The granola/blowjob symmetry]**
+   James Sexton's client realized her marriage was ending not through a fight, but because two unprompted, unsolicited acts of care died — her husband stopped refilling her granola; she stopped giving spontaneous blowjobs. The argument: relationships often signal decline through the *withdrawal of unasked-for generosity* long before anyone admits anything is wrong.
+
+2. **[20:29 — Good lawyers know the law; great lawyers know the judge]**
+   Sexton tailors every case to the specific judge on the bench — sports metaphors for sports fans, showmanship for performance-oriented judges, deference for formalists. He also notes female judges can be *harsher* on female litigants, contrary to the common assumption (disputed by Glassman on the panel). The underlying claim: in bench trials, one-person persuasion matters more than 
+  - **[00:00–05:00 — The granola/blowjob symmetry]**
+  - James Sexton's client realized her marriage was ending not through a fight, but because two unprompted, unsolicited acts of care died — her husband stopped refilling her granola; she stopped giving spontaneous blowjobs. The argument: relationships often signal decline through the *withdrawal of unasked-for generosity* long before anyone admits anything is wrong.
+  - **[20:29 — Good lawyers know the law; great lawyers know the judge]**
+  - Sexton tailors every case to the specific judge on the bench — sports metaphors for sports fans, showmanship for performance-oriented judges, deference for formalists. He also notes female judges can be *harsher* on female litigants, contrary to the common assumption (disputed by Glassman on the panel). The underlying claim: in bench trials, one-person persuasion matters more than legal acumen.
+
+### DOAC — Adam Neumann: The Real Story Behind WeWork, A $4 Billion Cab Ride, And Surviving A $460 Million Debt
+- Date: 2026-09-27
+- Duration: 8113
+- Tags: AI, Startups, Business, Finance, Career, Health, Psychology
+- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M32K500669XNSP3RQZSWNC4M.mp3
+- AI summary (Hermes): ## Core arguments
+
+1. **00:13:46 — Childhood trauma as forge, not curse**
+   Neumann argues that severe childhood adversity (bipolar mother, suicide threats, sexual abuse) is the exact mechanism that builds unbreakable resilience. When WeWork collapsed, it "was nothing compared to what I had to deal with as a child." The framing: you don't get that kind of fortitude without going through genuinely difficult things.
+
+2. **00:15:35 — Chasing money is like chasing a girl — it runs away**
+   His wife Rebecca taught him that pursuing wealth directly is self-defeating. Her formula: identify your superpower, connect it to something meaningful for the world, focus only on making that real. "The rest will follow you... more than you can ever imagine." He proposed three months later. This directly reframes business success as a byproduct, not a target.
+
+3. **00:54:55 — The $4.2B offer that deraile
+  - **00:13:46 — Childhood trauma as forge, not curse**
+  - Neumann argues that severe childhood adversity (bipolar mother, suicide threats, sexual abuse) is the exact mechanism that builds unbreakable resilience. When WeWork collapsed, it "was nothing compared to what I had to deal with as a child." The framing: you don't get that kind of fortitude without going through genuinely difficult things.
+  - **00:15:35 — Chasing money is like chasing a girl — it runs away**
+  - His wife Rebecca taught him that pursuing wealth directly is self-defeating. Her formula: identify your superpower, connect it to something meaningful for the world, focus only on making that real. "The rest will follow you... more than you can ever imagine." He proposed three months later. This directly reframes business success as a byproduct, not a target.
+
 ### Modern Wisdom — How To Make Your Creativity Beat The Algorithm (Live Performance) - Dylan Gossett - #1155
 - Date: 2026-09-25
 - Duration: 5359
@@ -315,74 +368,6 @@ Generated: 2026-09-27 07:31 PDT
 - Tags: AI, Startups, Career, Content, Business Ideas, Saas
 - Audio: https://episode.flightcast.com/01M32M8M0JWK41EBZ6XYJTK5ZW.mp3
 - Summary from show notes: Get Your Complete Financial OS at In this episode I speak with Nicholas Cole about the real value of everything you write on the internet. Cole has 15 years of experience as a nonfiction writer and ghostwriter, and he runs the SaaS platform Typeshare. He gives me a simple model with three tiers of content: commodity, personality, and original.
-- _Transcript: none available (not_ingested)_
-
-### Prof G Markets — How Meta Could Quietly Win The AI Race
-- Date: 2026-09-21
-- Duration: 3810
-- Tags: AI, Business, Finance, Content, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4094677411.mp3
-- AI summary (Hermes): Here you go.
-
-**Core arguments**
-
-1. **[~28:00 — Rate hike was the right call, demonstrates Fed independence]**
-   Scott argues Kevin Warsh's quarter-point hike was justified: inflation is the real threat (not unemployment), job growth is stable, and the Fed's only tool against runaway inflation is rate policy. More importantly, the hike signals institutional independence from a president who doesn't understand economics — resisting Trump's pressure *is* the point of an independent Fed.
-
-2. **[~30:00 — The credible counterargument: this is a supply shock, not demand-driven inflation]**
-   Ed presents the economist case against: the inflation spike comes from the Iran war cutting oil access (Brent >$100/barrel), not overheated demand. Raising rates slows the economy and increases mortgage costs (30yr >7%) while doing nothing to unblock the Strait of Hormuz. If inflation doesn't fall, we g
-  - **[~28:00 — Rate hike was the right call, demonstrates Fed independence]**
-  - Scott argues Kevin Warsh's quarter-point hike was justified: inflation is the real threat (not unemployment), job growth is stable, and the Fed's only tool against runaway inflation is rate policy. More importantly, the hike signals institutional independence from a president who doesn't understand economics — resisting Trump's pressure *is* the point of an independent Fed.
-  - **[~30:00 — The credible counterargument: this is a supply shock, not demand-driven inflation]**
-  - Ed presents the economist case against: the inflation spike comes from the Iran war cutting oil access (Brent >$100/barrel), not overheated demand. Raising rates slows the economy and increases mortgage costs (30yr >7%) while doing nothing to unblock the Strait of Hormuz. If inflation doesn't fall, we get both higher rates and persistent prices — worst of both worlds.
-
-### Modern Wisdom — The New Way For Ordinary People To Build Wealth - Tony Robbins - #1153
-- Date: 2026-09-20
-- Duration: 5423
-- Tags: AI, Startups, Business, Finance, Health, Psychology, Performance
-- Audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB9362285978.mp3
-- AI summary (Hermes): **Core arguments:**
-
-1. **[04:30 — The Holy Grail: 8-12 non-correlated investments]**
-   Ray Dalio's core principle: owning 8–12 uncorrelated asset classes reduces risk by 80% while increasing upside. But stocks and bonds have become 82% correlated (up from 15% in 2005) due to globalization and ETF indexation, so true diversification now requires private equity and private real estate.
-
-2. **[06:50 — Asymmetric risk-reward is how the best actually win]**
-   Paul Tudor Jones aims to risk $1 to make $5. Being wrong 4 out of 5 times still works. Most people don't internalise that losing 50% requires a 100% gain to break even. The nickel analogy: if you can buy something worth $0.09 for $0.05, you have a riskless 36% upside — the shape of the bet matters more than the odds of any single bet.
-
-3. **[12:30 — Private equity has crushed public markets for 39 years]**
-   Average PE returns: 15.7%
-  - **[04:30 — The Holy Grail: 8-12 non-correlated investments]**
-  - Ray Dalio's core principle: owning 8–12 uncorrelated asset classes reduces risk by 80% while increasing upside. But stocks and bonds have become 82% correlated (up from 15% in 2005) due to globalization and ETF indexation, so true diversification now requires private equity and private real estate.
-  - **[06:50 — Asymmetric risk-reward is how the best actually win]**
-  - Paul Tudor Jones aims to risk $1 to make $5. Being wrong 4 out of 5 times still works. Most people don't internalise that losing 50% requires a 100% gain to break even. The nickel analogy: if you can buy something worth $0.09 for $0.05, you have a riskless 36% upside — the shape of the bet matters more than the odds of any single bet.
-
-### DOAC — Rick Rubin: What Jay-Z Did in 30 Minutes Left Me Speechless!
-- Date: 2026-09-20
-- Duration: 9985
-- Tags: AI, Startups, Business, Career, Content, Health, Psychology
-- Audio: https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2RHNG0S1MZ1VD7AG18AGCZ7.mp3
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-**1. [02:38 — The "Indefensible" Rule]**
-The best creative work—whether music, products, or business decisions—cannot be rationally defended. If you can logically explain why something will work, it's probably too safe. Rubin says indefensible is "not only a good thing, but a necessary thing" because true breakthroughs come from beyond reason.
-
-**2. [05:24 — Answering the invitation, not the business card]**
-When the universe sends the same signal from multiple directions (the vibe coding meme being sent to him hundreds of times), it's an invitation worth answering — even if it makes no sense for your brand. Rubin wrote an entire book on vibe coding without knowing what it was, following energy rather than identity. "The more successful we become, the more narrow we become."
-
-**3. [10:34 / 16:43 — Risk over "more of the same"]**
-Jay-Z's "99 Problems" was dismissed by 
-  - **1. [02:38 — The "Indefensible" Rule]**
-  - The best creative work—whether music, products, or business decisions—cannot be rationally defended. If you can logically explain why something will work, it's probably too safe. Rubin says indefensible is "not only a good thing, but a necessary thing" because true breakthroughs come from beyond reason.
-  - **2. [05:24 — Answering the invitation, not the business card]**
-  - When the universe sends the same signal from multiple directions (the vibe coding meme being sent to him hundreds of times), it's an invitation worth answering — even if it makes no sense for your brand. Rubin wrote an entire book on vibe coding without knowing what it was, following energy rather than identity. "The more successful we become, the more narrow we become."
-
-### All-In — Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market
-- Date: 2026-09-20
-- Duration: 23:52
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China Thanks to our partners for making this possible!
 - _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
