@@ -1,6 +1,6 @@
-# Podcast Digest - 2026-09-28
+# Podcast Digest - 2026-09-29
 
-Generated: 2026-09-28 07:40 PDT
+Generated: 2026-09-29 07:38 PDT
 
 ## What this watches
 - All-In with Chamath, Jason, Sacks & Friedberg
@@ -13,6 +13,99 @@ Generated: 2026-09-28 07:40 PDT
 - The Diary Of A CEO with Steven Bartlett
 
 ## Recent episodes / links
+### The Game — A Video to Watch if You're Ambitious and in Your 20s or 30s | Ep 1003
+- Date: 2026-09-29
+- Duration: 523
+- Tags: Business, Career, Entrepreneurship, Sales, Offers, Pricing, Content
+- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M3MXHSRVCKTRG7Y2K32ZWYT9.mp3
+- AI summary (Hermes): Here's the structured summary:
+
+---
+
+**Core arguments**
+
+1. [Opening — Play dumb games, win dumb prizes]
+   The most tragic human pattern: working hard, reaching the top, and realising the prize was never worth winning — because you were playing a game someone else designed. If you didn't define the game, you may not actually want what comes with winning it.
+
+2. [Fitness competition allegory — The cost of winning isn't always worth it]
+   A woman competing in a fitness show looked at the winner and realised she didn't want to look that way or make those sacrifices just to win that particular trophy. The allegory: locally you can win a game, but globally it might cost your life (health, relationships, time). Don't let a local win come at the cost of a global loss.
+
+3. [Three diagnostic questions for any game you're playing]
+   (i) Am I the one who designed this game? (ii) If I didn't desi
+  - Here's the structured summary:
+  - [Opening — Play dumb games, win dumb prizes]
+  - The most tragic human pattern: working hard, reaching the top, and realising the prize was never worth winning — because you were playing a game someone else designed. If you didn't define the game, you may not actually want what comes with winning it.
+  - [Fitness competition allegory — The cost of winning isn't always worth it]
+
+### Prof G Markets — Wall Street Veteran: The Bond Sell-Off Is A Buying Opportunity
+- Date: 2026-09-29
+- Duration: 2164
+- Tags: AI, Business, Finance, Markets, Investing, Strategy
+- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5495534068.mp3
+- AI summary (Hermes): **Core arguments:**
+
+1. **[~1:30-3:00] — The bond sell-off is mechanical, not fundamental**
+   The move is a byproduct of passive investing against improperly constructed bond indices, not a signal about inflation or US fiscal health. Evidence: CDS on US credit is tightening (not widening), the dollar is strengthening (not weakening), and countries with low debt-to-GDP (Australia, Switzerland) are experiencing the same sell-off. The narrative that "the US deserves higher yields for profligacy" is morality, not math.
+
+2. **[~4:30-6:00] — The Fed is amplifying the problem by taking pricing signals from a broken market**
+   Chairman Warsh has told the bond market "you set the price" — the same as walking into a grocery store and saying "I'll pay whatever you ask for milk." The market's response is always "more interest." The Fed is playing into the mechanical loop by relying on a market tha
+  - **[~1:30-3:00] — The bond sell-off is mechanical, not fundamental**
+  - The move is a byproduct of passive investing against improperly constructed bond indices, not a signal about inflation or US fiscal health. Evidence: CDS on US credit is tightening (not widening), the dollar is strengthening (not weakening), and countries with low debt-to-GDP (Australia, Switzerland) are experiencing the same sell-off. The narrative that "the US deserves higher yields for profligacy" is morality, not math.
+  - **[~4:30-6:00] — The Fed is amplifying the problem by taking pricing signals from a broken market**
+  - Chairman Warsh has told the bond market "you set the price" — the same as walking into a grocery store and saying "I'll pay whatever you ask for milk." The market's response is always "more interest." The Fed is playing into the mechanical loop by relying on a market that isn't pricing fundamentals.
+
+### Grade Cricketer — Baird out, Saffas win and Japanese wides
+- Date: 2026-09-29
+- Duration: 7403
+- Tags: Cricket, Australia, South Africa, Sport, Culture
+- Episode: https://omny.fm/shows/the-grade-cricketer/baird-out-saffas-win-and-japanese-wides
+- Audio: https://enrichment.soundstack.com/4vjqq8/traffic.omny.fm/d/clips/d3d56d8d-11c9-411a-aade-af8f001be4a7/f9ddc13f-8a37-4937-81c7-b081006fa5c2/823d637e-ea5a-4c16-ade3-b4d4007a32f0/audio.mp3?utm_source=Podcast&in_playlist=ebea9171-5a2f-4a13-96e0-b081006fa5e8
+- AI summary (Hermes): Here's the structured summary:
+
+**Core arguments**
+
+1. **[0:00-15:00] — CA governance is in a "sorry mess" after Baird's departure**
+   Pete Lalor argues Mike Baird lost the NSW board's backing because he tried to force through privatisation without unanimous state support. Cricket Australia's governance structure requires unanimity, not just a majority — and Baird's "bloody-minded" push alienated NSW, who withdrew his nomination. David Boone takes over as interim chair, but it's the third CA chair lost in eight years, pointing to systemic dysfunction.
+
+2. **[0:00-15:00] — Privatisation is CA's answer to two existential pressures: global franchise competition and financial strain**
+   Lalor's interview with Baird revealed the logic: Australian cricket needs a seat at the table with IPL owners and private equity-backed leagues (SA20, ILT20), or it gets carved up from outside. Simultaneous
+  - Here's the structured summary:
+  - **[0:00-15:00] — CA governance is in a "sorry mess" after Baird's departure**
+  - Pete Lalor argues Mike Baird lost the NSW board's backing because he tried to force through privatisation without unanimous state support. Cricket Australia's governance structure requires unanimity, not just a majority — and Baird's "bloody-minded" push alienated NSW, who withdrew his nomination. David Boone takes over as interim chair, but it's the third CA chair lost in eight years, pointing to systemic dysfunction.
+  - **[0:00-15:00] — Privatisation is CA's answer to two existential pressures: global franchise competition and financial strain**
+
+### All-In — Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential
+- Date: 2026-09-28
+- Duration: 51:16
+- Tags: AI, Business, Career, Health, Markets, Politics, Startups
+- Episode: https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential
+- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300
+- Summary from show notes: (0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the Stardoll origin story Thanks to our partners for making this possible!
+- _Transcript: none available (not_ingested)_
+
+### TWIST — Jason’s Put a $5K Bounty on His Dream Chrome Extension | E2338
+- Date: 2026-09-28
+- Duration: 2446
+- Tags: AI, Startups, Business, Finance, Career, Content, Venture
+- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT5475492100.mp3
+- Summary from show notes: A product that would have cost $500,000 to build in 2006 now costs less than a used car. Jason put up $5,000 on an idea he'd been sitting on for 20 years, and so far, we’ve received dozens of amazing submissions from vibecode experts. See how well the Top 3 demos fare, and which app was so good, Jason’s already thinking about spinning it off into a startup.
+- _Transcript: none available (not_ingested)_
+
+### TWIST — The 5 Companies Apple Must Buy
+- Date: 2026-09-28
+- Duration: 3020
+- Tags: AI, Startups, Business, Career, Content, Venture, Tech
+- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT2688689635.mp3
+- _Transcript: none available (not_ingested)_
+
+### Startup Ideas — $5T opportunity: AI Roll Ups
+- Date: 2026-09-28
+- Duration: 1789
+- Tags: AI, Startups, Business, Finance, Career, Content, Business Ideas
+- Audio: https://episode.flightcast.com/01M3MERGBH33C2DZXTMAAFRZ9G.mp3
+- Summary from show notes: In this solo episode, I break down the $5 trillion wave of small businesses set to change hands as their owners retire, and why AI agents make this wave a real opening for solo founders. I walk through how Thrive Holdings and General Catalyst buy accounting firms, property managers, and support centers, then run AI agents inside them to lift margins. Then I show how I'd run a one-person holding company: the folder structure, the agent files, the human approval rule, and my average week.
+- _Transcript: none available (not_ingested)_
+
 ### Prof G Markets — Investors Are Turning Against Data Centers (Here's Why)
 - Date: 2026-09-28
 - Duration: 4214
@@ -30,7 +123,7 @@ Generated: 2026-09-28 07:40 PDT
   - **This looks like the "dark fiber" moment of the AI cycle** — Scott draws the parallel to the dot-com buildout: B2C didn't work, B2B didn't work, so capital piled into infrastructure (Global Crossing, Cisco). That infrastructure wasn't *wrong*, it was early — which on a balance sheet is the same as wrong. Telecom fibers lost 90%+ of their value. The pattern: hyper-scale infrastructure gets built before real demand shows up.
   - **Nvidia at 17x forward earnings is both cheap and a warning** — its lowest multiple in a decade, down from 32x in 2025. Scott: the real risk is *certainty around those earnings* — if CapEx expectations don't keep doubling, Nvidia feels the pullback first. But it's also the "Malibu beachfront real estate" of the AI trade — safer than the garbage in the basket. If you had to pick between Nvidia here vs an OpenAI or Anthropic IPO at some massive valuation, this is the pick hands-down.
 
-### Modern Wisdom — James Sexton, Rick Glassman, Matt McCusker - Mostly Wise #4 - #1156
+### Modern Wisdom — James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4 - #1156
 - Date: 2026-09-27
 - Duration: 10906
 - Tags: AI, Career, Health, Parenting, Psychology, Performance, Relationships
@@ -288,87 +381,6 @@ Generated: 2026-09-28 07:40 PDT
   - 16 years of Democratic control has produced 420,000+ regulations and 1,118 bills passed in a single session (stacked twice Hilton's height). Rules written for unions, trial lawyers, and donor interest groups — not residents or businesses. The bloat is the feature, not a bug.
   - **12:09 — The path to victory is the cost-of-living pitch to non-college working voters**
   - 26% of CA voters are up for grabs — non-college, financially breaking point, previously Democrat but not committed. Hilton's platform targets them directly: first $150K income tax-free, $3 gas (cut hidden taxes/cap-and-invest), DMV abolished, vehicle registration capped at $73. The persuasion target isn't Republicans or partisans — it's people who can't afford to stay.
-
-### All-In — Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine
-- Date: 2026-09-22
-- Duration: 17:40
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Blake_Scholl_AIS26_AUDIO_v99.mp3?dest-id=1928300
-- AI summary (Hermes): **CORE ARGUMENTS**
-
-1. **~12:00 — Sonic boom is solved; the ban is ending**
-   Boom's XB1 used "Mach cutoff" — the atmosphere's natural refractive power redirects the boom upward so it never reaches the ground. The 1973 supersonic ban ended via executive order June 6, 2025, and the Supersonic Legalization Act passed the House unanimously. Scholl: "If there's no boom at all, there's nothing to argue about."
-
-2. **~16:00 — Building the engine in-house was the right call, not a desperation move**
-   After a very public breakup with Rolls Royce, Boom decided to design and manufacture its own engine core from scratch — down to the turbine blades — using modern digital design and manufacturing tools. What looked like a startup's fatal overreach became the financial moat: the first engine application is data-center power generation, not flight.
-
-3. **~19:00 — The supersonic engine doubles as a 
-  - **~12:00 — Sonic boom is solved; the ban is ending**
-  - Boom's XB1 used "Mach cutoff" — the atmosphere's natural refractive power redirects the boom upward so it never reaches the ground. The 1973 supersonic ban ended via executive order June 6, 2025, and the Supersonic Legalization Act passed the House unanimously. Scholl: "If there's no boom at all, there's nothing to argue about."
-  - **~16:00 — Building the engine in-house was the right call, not a desperation move**
-  - After a very public breakup with Rolls Royce, Boom decided to design and manufacture its own engine core from scratch — down to the turbine blades — using modern digital design and manufacturing tools. What looked like a startup's fatal overreach became the financial moat: the first engine application is data-center power generation, not flight.
-
-### The Game — Get Rich While You Are Young | Ep 1001
-- Date: 2026-09-22
-- Duration: 567
-- Tags: Business, Entrepreneurship, Sales, Offers, Pricing, Content, Growth
-- Audio: https://pscrb.fm/rss/p/episode.flightcast.com/01M32XXJ3MVJ37YBZMWSAH0CZR.mp3
-- AI summary (Hermes): ## Core arguments
-
-1. **00:00 — The math of compounding favors early money aggressively**
-   $1 invested at 25 grows to ~$90 by 70; at 35, it's a third of that; at 45, a ninth. The dollars you earn early — even if smaller — get disproportionate returns from time, not rate of return. The argument isn't 100% into the S&P 500, but that any investment dollars you deploy early out-earn later dollars by a wide margin.
-
-2. **01:20 — Skills, reputation, and network compound faster when you're young, and the multiplier decays around 30**
-   Youth is a hidden multiplier on every win — press coverage, mentors, capital access, and "reputational gravitas" all count for more when you're under 30. After 30 you're no longer a "young X," just an X. Alex cites an 18-year-old doing $30M in e-commerce getting a $500K check from him partly *because* of his age. The multiplier on wins falls off sharply after 
-  - **00:00 — The math of compounding favors early money aggressively**
-  - $1 invested at 25 grows to ~$90 by 70; at 35, it's a third of that; at 45, a ninth. The dollars you earn early — even if smaller — get disproportionate returns from time, not rate of return. The argument isn't 100% into the S&P 500, but that any investment dollars you deploy early out-earn later dollars by a wide margin.
-  - **01:20 — Skills, reputation, and network compound faster when you're young, and the multiplier decays around 30**
-  - Youth is a hidden multiplier on every win — press coverage, mentors, capital access, and "reputational gravitas" all count for more when you're under 30. After 30 you're no longer a "young X," just an X. Alex cites an 18-year-old doing $30M in e-commerce getting a $500K check from him partly *because* of his age. The multiplier on wins falls off sharply after ~30.
-
-### Prof G Markets — David Ellison’s Media Takeover Just Got Greenlit
-- Date: 2026-09-22
-- Duration: 1793
-- Tags: AI, Startups, Business, Finance, Markets, Investing, Strategy
-- Audio: https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2175055970.mp3
-- AI summary (Hermes): **Core arguments**
-
-1. **[~0:00 — Paramount/WBD saga ends as a total win for Ellison]**
-   The settlement exceeded expectations — no structural concessions despite the AG lawsuit. Paramount only agreed to keep studio lots in CA, $1.5B in local production, and independent editorial boards for news properties. Ellison got the deal he wanted, unmitigated. Paramount stock was down 3% on the news (settlement took some synergy value off the table) but Discovery shot up 11%.
-
-2. **[~0:00 — The threat to leave California was the real lever]**
-   Rohan's own reporting that Paramount was serious about leaving LA forced Newsom, Becerra, and Bass to intervene and pressure AG Bonta to settle. The economic reality — Paramount and WBD are too big for California to risk losing — outweighed the political posturing. The ticking fee clock ($0.25/share/quarter from Oct 1) added urgency.
-
-3. **[~0:00 — Edito
-  - **[~0:00 — Paramount/WBD saga ends as a total win for Ellison]**
-  - The settlement exceeded expectations — no structural concessions despite the AG lawsuit. Paramount only agreed to keep studio lots in CA, $1.5B in local production, and independent editorial boards for news properties. Ellison got the deal he wanted, unmitigated. Paramount stock was down 3% on the news (settlement took some synergy value off the table) but Discovery shot up 11%.
-  - **[~0:00 — The threat to leave California was the real lever]**
-  - Rohan's own reporting that Paramount was serious about leaving LA forced Newsom, Becerra, and Bass to intervene and pressure AG Bonta to settle. The economic reality — Paramount and WBD are too big for California to risk losing — outweighed the political posturing. The ticking fee clock ($0.25/share/quarter from Oct 1) added urgency.
-
-### TWIST — Elon's New Hyperloop, Trump's AI Rename, and a Model That Won't Talk | E2340
-- Date: 2026-09-21
-- Duration: 4179
-- Tags: AI, Startups, Career, Content, Venture, Tech, Saas
-- Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/LTANT8288358917.mp3
-- Summary from show notes: Elon revives the Hyperloop, promising a 30-minute commute between Austin and San Antonio. It's the kind of project that could reshape how Texans think about getting between two major cities entirely. Then, Jason and Lon explain why this pitch is different from the other Boring Company tunnels.
-- _Transcript: none available (not_ingested)_
-
-### All-In — Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology
-- Date: 2026-09-21
-- Duration: 22:35
-- Tags: AI, Startups, Business, Finance, Career, Markets, Politics
-- Episode: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
-- Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
-- Summary from show notes: (0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference.
-- _Transcript: none available (not_ingested)_
-
-### Startup Ideas — The Right Way To Write With AI
-- Date: 2026-09-21
-- Duration: 4174
-- Tags: AI, Startups, Career, Content, Business Ideas, Saas
-- Audio: https://episode.flightcast.com/01M32M8M0JWK41EBZ6XYJTK5ZW.mp3
-- Summary from show notes: Get Your Complete Financial OS at In this episode I speak with Nicholas Cole about the real value of everything you write on the internet. Cole has 15 years of experience as a nonfiction writer and ghostwriter, and he runs the SaaS platform Typeshare. He gives me a simple model with three tiers of content: commodity, personality, and original.
-- _Transcript: none available (not_ingested)_
 
 ## AI summary prompt
 For Scout: prioritize AI consulting, data readiness, finance/accounting, entrepreneurship, health/performance/parenting, LinkedIn content ideas, personal CRM, and cricket/sports-business angles. Return concise takeaways and suggested actions.
